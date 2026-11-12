@@ -88,15 +88,16 @@ mark = od / '.cloud_assets_sha'
 tag = f'assets-{slug}'
 have = subprocess.run(['gh', 'release', 'view', tag], cwd=ROOT, capture_output=True).returncode == 0
 if not have or not mark.exists() or mark.read_text() != sha:
-    z = pathlib.Path(tempfile.gettempdir()) / f'{slug}-public.zip'
+    zd = pathlib.Path(tempfile.mkdtemp())
+    z = zd / 'public.zip'  # the asset name the workflow downloads (a #label would only change the display name)
     with zipfile.ZipFile(z, 'w', zipfile.ZIP_STORED) as zf:
         for f in files:
             zf.write(f, f.name)
     print(f'uploading audio ({z.stat().st_size / 1e6:.0f} MB)')
     if not have:
         run(['gh', 'release', 'create', tag, '--title', f'{slug} audio', '--notes', 'Audio for the cloud render.', '--latest=false'])
-    run(['gh', 'release', 'upload', tag, f'{z}#public.zip', '--clobber'])
-    z.unlink(missing_ok=True)
+    run(['gh', 'release', 'upload', tag, str(z), '--clobber'])
+    shutil.rmtree(zd, ignore_errors=True)
     mark.write_text(sha)
 else:
     print('audio unchanged, not re-uploading')
