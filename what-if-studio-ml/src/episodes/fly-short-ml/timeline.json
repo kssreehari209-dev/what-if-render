@@ -1,0 +1,375 @@
+{
+ "slug": "fly-short-ml",
+ "title": "നിനക്ക് പറക്കാൻ പറ്റിയാലോ?",
+ "fps": 30,
+ "total": 1618,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 70,
+   "t0": 0,
+   "t1": 70,
+   "line": "പത്ത് കിലോമീറ്റർ ഉയരം."
+  },
+  {
+   "shot": "A2",
+   "a": 70,
+   "b": 104,
+   "t0": 0,
+   "t1": 34,
+   "line": "ശ്വാസം കിട്ടുന്നില്ല."
+  },
+  {
+   "shot": "A3",
+   "a": 104,
+   "b": 208,
+   "t0": 0,
+   "t1": 104,
+   "line": "ഇരുട്ടിൽ നിന്ന് ഒരു വിമാനം, നേരെ നിന്റെ നേർക്ക്."
+  },
+  {
+   "shot": "B1",
+   "a": 208,
+   "b": 263,
+   "t0": 0,
+   "t1": 55,
+   "line": "മൂന്ന് ദിവസം മുമ്പ്."
+  },
+  {
+   "shot": "B1b",
+   "a": 263,
+   "b": 315,
+   "t0": 0,
+   "t1": 52,
+   "line": "നീ കണ്ണടയ്ക്കുന്നു."
+  },
+  {
+   "shot": "B2",
+   "a": 315,
+   "b": 354,
+   "t0": 0,
+   "t1": 39,
+   "line": "ഉയരൂ."
+  },
+  {
+   "shot": "B2b",
+   "a": 354,
+   "b": 435,
+   "t0": 0,
+   "t1": 81,
+   "line": "നിന്റെ കാലുകൾ നിലത്ത് നിന്ന് പൊങ്ങുന്നു."
+  },
+  {
+   "shot": "B3",
+   "a": 435,
+   "b": 498,
+   "t0": 0,
+   "t1": 63,
+   "line": "ബസിനും മുമ്പേ സ്കൂളിൽ."
+  },
+  {
+   "shot": "B4",
+   "a": 498,
+   "b": 579,
+   "t0": 0,
+   "t1": 81,
+   "line": "മുപ്പതടി തെങ്ങിൽ നിന്ന്, ഒരു നിമിഷത്തിൽ കരിക്ക്."
+  },
+  {
+   "shot": "T",
+   "a": 579,
+   "b": 665,
+   "t0": 0,
+   "t1": 86,
+   "line": "നിനക്ക് പറക്കാൻ പറ്റിയാലോ?"
+  },
+  {
+   "shot": "C1",
+   "a": 665,
+   "b": 751,
+   "t0": 0,
+   "t1": 86,
+   "line": "പക്ഷേ ഒരു പ്രശ്നമുണ്ട്: എണ്ണായിരം മീറ്ററിൽ,"
+  },
+  {
+   "shot": "C2",
+   "a": 751,
+   "b": 862,
+   "t0": 0,
+   "t1": 111,
+   "line": "ഓരോ ശ്വാസത്തിലും കിട്ടുന്ന ഓക്സിജൻ മൂന്നിലൊന്ന് മാത്രം."
+  },
+  {
+   "shot": "C2b",
+   "a": 862,
+   "b": 912,
+   "t0": 0,
+   "t1": 50,
+   "line": "ഇത് സത്യമാണ്."
+  },
+  {
+   "shot": "C3",
+   "a": 912,
+   "b": 984,
+   "t0": 0,
+   "t1": 72,
+   "line": "ആദ്യം പോകുന്നത് ബുദ്ധിയാണ്."
+  },
+  {
+   "shot": "C4",
+   "a": 984,
+   "b": 1077,
+   "t0": 0,
+   "t1": 93,
+   "line": "നിനക്ക് ഇനിയും മുകളിലേക്ക് പോകാൻ തോന്നുന്നു."
+  },
+  {
+   "shot": "D1",
+   "a": 1077,
+   "b": 1166,
+   "t0": 0,
+   "t1": 89,
+   "line": "പിന്നെ, റഡാറിൽ ഒരു ചെറിയ പൊട്ട്."
+  },
+  {
+   "shot": "D1b",
+   "a": 1166,
+   "b": 1201,
+   "t0": 0,
+   "t1": 35,
+   "line": "നീ."
+  },
+  {
+   "shot": "D2",
+   "a": 1201,
+   "b": 1274,
+   "t0": 0,
+   "t1": 73,
+   "line": "വീടിന് മുന്നിൽ ഒരു കറുത്ത കാർ."
+  },
+  {
+   "shot": "D3",
+   "a": 1274,
+   "b": 1353,
+   "t0": 0,
+   "t1": 79,
+   "line": "ഒരാൾ പറയുന്നു: ഞങ്ങളുടെ കൂടെ വരൂ."
+  },
+  {
+   "shot": "END",
+   "a": 1353,
+   "b": 1618,
+   "t0": 0,
+   "t1": 265,
+   "line": "നീ രക്ഷപ്പെട്ടോ? മുഴുവൻ കഥ ചാനലിലെ ഫുൾ വീഡിയോയിൽ. താഴെയുള്ള ലിങ്കിൽ തൊടൂ."
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "key": 30,
+   "len": 70,
+   "first": 0,
+   "line": "പത്ത് കിലോമീറ്റർ ഉയരം.",
+   "note": "tiny Pip high in a black starry sky, frost, cloud sea far below; tag 10 km"
+  },
+  {
+   "id": "A2",
+   "size": "close-up",
+   "key": 20,
+   "len": 34,
+   "first": 70,
+   "line": "ശ്വാസം കിട്ടുന്നില്ല.",
+   "note": "Pip shivers, frost breath, shock"
+  },
+  {
+   "id": "A3",
+   "size": "wide",
+   "key": 80,
+   "len": 104,
+   "first": 104,
+   "line": "ഇരുട്ടിൽ നിന്ന് ഒരു വിമാനം, നേരെ നിന്റെ നേർക്ക്.",
+   "note": "jet landing lights grow straight at camera over Pip"
+  },
+  {
+   "id": "B1",
+   "size": "medium",
+   "key": 20,
+   "len": 55,
+   "first": 208,
+   "line": "മൂന്ന് ദിവസം മുമ്പ്.",
+   "note": "3 days earlier: Pip in his bedroom; tag"
+  },
+  {
+   "id": "B1b",
+   "size": "close-up",
+   "key": 20,
+   "len": 52,
+   "first": 263,
+   "line": "നീ കണ്ണടയ്ക്കുന്നു.",
+   "note": "Pip shuts his eyes"
+  },
+  {
+   "id": "B2",
+   "size": "insert",
+   "key": 20,
+   "len": 39,
+   "first": 315,
+   "line": "ഉയരൂ.",
+   "note": "UYAROO: feet lift off the floor, gust ring"
+  },
+  {
+   "id": "B2b",
+   "size": "medium",
+   "key": 30,
+   "len": 81,
+   "first": 354,
+   "line": "നിന്റെ കാലുകൾ നിലത്ത് നിന്ന് പൊങ്ങുന്നു.",
+   "note": "low angle: Pip hangs under the ceiling, delighted"
+  },
+  {
+   "id": "B3",
+   "size": "wide",
+   "key": 20,
+   "len": 63,
+   "first": 435,
+   "line": "ബസിനും മുമ്പേ സ്കൂളിൽ.",
+   "note": "Pip flies over the school bus"
+  },
+  {
+   "id": "B4",
+   "size": "wide",
+   "key": 40,
+   "len": 81,
+   "first": 498,
+   "line": "മുപ്പതടി തെങ്ങിൽ നിന്ന്, ഒരു നിമിഷത്തിൽ കരിക്ക്.",
+   "note": "full-height palm: Pip shoots up and grabs a tender coconut"
+  },
+  {
+   "id": "T",
+   "size": "title",
+   "key": 20,
+   "len": 86,
+   "first": 579,
+   "line": "നിനക്ക് പറക്കാൻ പറ്റിയാലോ?",
+   "note": "title card, dusk sky"
+  },
+  {
+   "id": "C1",
+   "size": "insert",
+   "key": 60,
+   "len": 86,
+   "first": 665,
+   "line": "പക്ഷേ ഒരു പ്രശ്നമുണ്ട്: എണ്ണായിരം മീറ്ററിൽ,",
+   "note": "altitude gauge fills to 8000 m"
+  },
+  {
+   "id": "C2",
+   "size": "insert",
+   "key": 80,
+   "len": 111,
+   "first": 751,
+   "line": "ഓരോ ശ്വാസത്തിലും കിട്ടുന്ന ഓക്സിജൻ മൂന്നിലൊന്ന് മാത്രം.",
+   "note": "lungs: full at sea level, 1/3 at 8000 m"
+  },
+  {
+   "id": "C2b",
+   "size": "insert",
+   "key": 20,
+   "len": 50,
+   "first": 862,
+   "line": "ഇത് സത്യമാണ്.",
+   "note": "death zone band on a mountain; that's-real stamp"
+  },
+  {
+   "id": "C3",
+   "size": "medium",
+   "key": 20,
+   "len": 72,
+   "first": 912,
+   "line": "ആദ്യം പോകുന്നത് ബുദ്ധിയാണ്.",
+   "note": "hypoxia: Pip grinning and rising, tunnel vision"
+  },
+  {
+   "id": "C4",
+   "size": "close-up",
+   "key": 50,
+   "len": 93,
+   "first": 984,
+   "line": "നിനക്ക് ഇനിയും മുകളിലേക്ക് പോകാൻ തോന്നുന്നു.",
+   "note": "his fingers turning blue, still climbing"
+  },
+  {
+   "id": "D1",
+   "size": "insert",
+   "key": 20,
+   "len": 89,
+   "first": 1077,
+   "line": "പിന്നെ, റഡാറിൽ ഒരു ചെറിയ പൊട്ട്.",
+   "note": "radar sweep, one green blip"
+  },
+  {
+   "id": "D1b",
+   "size": "close-up",
+   "key": 20,
+   "len": 35,
+   "first": 1166,
+   "line": "നീ.",
+   "note": "push in on the blip: you"
+  },
+  {
+   "id": "D2",
+   "size": "wide",
+   "key": 50,
+   "len": 73,
+   "first": 1201,
+   "line": "വീടിന് മുന്നിൽ ഒരു കറുത്ത കാർ.",
+   "note": "night: black car pulls up outside the house"
+  },
+  {
+   "id": "D3",
+   "size": "medium",
+   "key": 45,
+   "len": 79,
+   "first": 1274,
+   "line": "ഒരാൾ പറയുന്നു: ഞങ്ങളുടെ കൂടെ വരൂ.",
+   "note": "the suit at the door: come with us"
+  },
+  {
+   "id": "END",
+   "size": "title",
+   "key": 90,
+   "len": 265,
+   "first": 1353,
+   "line": "നീ രക്ഷപ്പെട്ടോ? മുഴുവൻ കഥ ചാനലിലെ ഫുൾ വീഡിയോയിൽ. താഴെയുള്ള ലിങ്കിൽ തൊടൂ.",
+   "note": "CTA: did you escape? FULL VIDEO, arrow down to the link"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "f": 579
+  },
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 10,
+   "f": 174
+  },
+  {
+   "kind": "flash",
+   "o": 0.3,
+   "f": 1203
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.713,
+  "musicVol": 0.1104,
+  "voice": "fly-short-ml/voice.wav",
+  "sfx": "fly-short-ml/sfx.wav",
+  "music": "fly-short-ml/music.wav"
+ }
+}

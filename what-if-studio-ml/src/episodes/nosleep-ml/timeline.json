@@ -1,0 +1,1250 @@
+{
+ "slug": "nosleep-ml",
+ "title": "ആരും ഇനി ഉറങ്ങിയില്ലെങ്കിൽ?",
+ "fps": 30,
+ "total": 8953,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 57,
+   "t0": 0,
+   "t1": 57,
+   "line": "പന്ത്രണ്ടാം ദിവസം. പുലർച്ചെ"
+  },
+  {
+   "shot": "A2",
+   "a": 57,
+   "b": 128,
+   "t0": 0,
+   "t1": 71,
+   "line": "മൂന്ന് മണി."
+  },
+  {
+   "shot": "A3",
+   "a": 128,
+   "b": 181,
+   "t0": 0,
+   "t1": 53,
+   "line": "ചായക്കടയിൽ നല്ല തിരക്ക്."
+  },
+  {
+   "shot": "A4",
+   "a": 181,
+   "b": 310,
+   "t0": 0,
+   "t1": 129,
+   "line": "ഇവിടെ ആരും ഉറങ്ങിയിട്ട് പന്ത്രണ്ട് ദിവസമായി."
+  },
+  {
+   "shot": "A5",
+   "a": 310,
+   "b": 390,
+   "t0": 0,
+   "t1": 80,
+   "line": "നീ ഗ്ലാസ് വെച്ച് എണീറ്റു."
+  },
+  {
+   "shot": "A6",
+   "a": 390,
+   "b": 446,
+   "t0": 0,
+   "t1": 56,
+   "line": "വീട്ടിലേക്കുള്ള വഴി ഏതാണ്?"
+  },
+  {
+   "shot": "A7",
+   "a": 446,
+   "b": 509,
+   "t0": 0,
+   "t1": 63,
+   "line": ""
+  },
+  {
+   "shot": "B1",
+   "a": 509,
+   "b": 552,
+   "t0": 0,
+   "t1": 43,
+   "line": "പന്ത്രണ്ട് ദിവസം മുമ്പ്."
+  },
+  {
+   "shot": "B2",
+   "a": 552,
+   "b": 644,
+   "t0": 0,
+   "t1": 92,
+   "line": "അലാറം അടിക്കും മുമ്പേ നീ ഉണർന്നു."
+  },
+  {
+   "shot": "B3",
+   "a": 644,
+   "b": 673,
+   "t0": 0,
+   "t1": 29,
+   "line": "ക്ഷീണമില്ല."
+  },
+  {
+   "shot": "B4",
+   "a": 673,
+   "b": 754,
+   "t0": 0,
+   "t1": 81,
+   "line": "അന്ന് രാത്രി ഉറക്കവും വന്നില്ല."
+  },
+  {
+   "shot": "B5",
+   "a": 754,
+   "b": 794,
+   "t0": 0,
+   "t1": 40,
+   "line": "നിനക്ക് മാത്രമല്ല."
+  },
+  {
+   "shot": "B6",
+   "a": 794,
+   "b": 934,
+   "t0": 0,
+   "t1": 140,
+   "line": "ലോകത്ത് ഒരാൾക്കും. എല്ലാ വീട്ടിലും ലൈറ്റ് കത്തിക്കിടന്നു."
+  },
+  {
+   "shot": "B7",
+   "a": 934,
+   "b": 1065,
+   "t0": 0,
+   "t1": 131,
+   "line": "മനുഷ്യർ ഇനി ഒരിക്കലും ഉറങ്ങിയില്ലെങ്കിലോ?"
+  },
+  {
+   "shot": "C1",
+   "a": 1065,
+   "b": 1145,
+   "t0": 0,
+   "t1": 80,
+   "line": "ആദ്യത്തെ രാത്രി എട്ട് മണിക്കൂർ വെറുതെ കിട്ടി."
+  },
+  {
+   "shot": "C2",
+   "a": 1145,
+   "b": 1220,
+   "t0": 0,
+   "t1": 75,
+   "line": "കവലയിൽ രാത്രി ക്രിക്കറ്റ്."
+  },
+  {
+   "shot": "C3",
+   "a": 1220,
+   "b": 1340,
+   "t0": 0,
+   "t1": 120,
+   "line": ""
+  },
+  {
+   "shot": "C4",
+   "a": 1340,
+   "b": 1400,
+   "t0": 0,
+   "t1": 60,
+   "line": "തട്ടുകടകൾ അടച്ചതേയില്ല. പൊറോട്ട"
+  },
+  {
+   "shot": "C5",
+   "a": 1400,
+   "b": 1485,
+   "t0": 0,
+   "t1": 85,
+   "line": "അടിക്കുന്നത് അപ്പു."
+  },
+  {
+   "shot": "C6",
+   "a": 1485,
+   "b": 1571,
+   "t0": 0,
+   "t1": 86,
+   "line": ""
+  },
+  {
+   "shot": "C7",
+   "a": 1571,
+   "b": 1651,
+   "t0": 0,
+   "t1": 80,
+   "line": "രാത്രി രണ്ടിന് ദുബായിൽ നിന്ന് അച്ഛന്റെ വിളി."
+  },
+  {
+   "shot": "C8",
+   "a": 1651,
+   "b": 1746,
+   "t0": 0,
+   "t1": 95,
+   "line": "ഇത്തവണ വീട്ടിൽ എല്ലാവരും ഉണർന്നിരിപ്പുണ്ട്. അച്ഛന് ചിരി"
+  },
+  {
+   "shot": "C9",
+   "a": 1746,
+   "b": 2000,
+   "t0": 0,
+   "t1": 254,
+   "line": "നിർത്താൻ പറ്റിയില്ല."
+  },
+  {
+   "shot": "C10",
+   "a": 2000,
+   "b": 2075,
+   "t0": 0,
+   "t1": 75,
+   "line": "ഒരു മനുഷ്യായുസ്സിന്റെ മൂന്നിലൊന്ന് ഉറക്കമാണ്."
+  },
+  {
+   "shot": "C11",
+   "a": 2075,
+   "b": 2427,
+   "t0": 0,
+   "t1": 352,
+   "line": "അതാണ് തിരിച്ചു കിട്ടിയത്. ഒരു ജീവിതത്തിൽ ഇരുപത്തഞ്ച് കൊല്ലം അധികം."
+  },
+  {
+   "shot": "D1",
+   "a": 2427,
+   "b": 2522,
+   "t0": 0,
+   "t1": 95,
+   "line": "നാലാം ദിവസം. മോഡൽ പരീക്ഷ."
+  },
+  {
+   "shot": "D2",
+   "a": 2522,
+   "b": 2687,
+   "t0": 0,
+   "t1": 165,
+   "line": "രാത്രി മുഴുവൻ ഇരുന്ന് പഠിച്ചതാണ്. ഒരു തുള്ളി ഉറക്കം വന്നില്ല."
+  },
+  {
+   "shot": "D3",
+   "a": 2687,
+   "b": 2726,
+   "t0": 0,
+   "t1": 39,
+   "line": "ചോദ്യപേപ്പർ കിട്ടി."
+  },
+  {
+   "shot": "D4",
+   "a": 2726,
+   "b": 2781,
+   "t0": 0,
+   "t1": 55,
+   "line": "ഒന്നും ഓർമ്മയില്ല."
+  },
+  {
+   "shot": "D5",
+   "a": 2781,
+   "b": 2967,
+   "t0": 0,
+   "t1": 186,
+   "line": ""
+  },
+  {
+   "shot": "D6",
+   "a": 2967,
+   "b": 3020,
+   "t0": 0,
+   "t1": 53,
+   "line": "ക്ഷീണം മാത്രമേ പോയുള്ളൂ."
+  },
+  {
+   "shot": "D7",
+   "a": 3020,
+   "b": 3267,
+   "t0": 0,
+   "t1": 247,
+   "line": "ഉറക്കം ചെയ്തിരുന്ന പണി ഇപ്പോൾ ആരും ചെയ്യുന്നില്ല."
+  },
+  {
+   "shot": "D8",
+   "a": 3267,
+   "b": 3367,
+   "t0": 0,
+   "t1": 100,
+   "line": "ഉറങ്ങുമ്പോഴാണ് തലച്ചോർ അന്നത്തെ പാഠങ്ങൾ എഴുതിവെക്കുന്നത്."
+  },
+  {
+   "shot": "D9",
+   "a": 3367,
+   "b": 3559,
+   "t0": 0,
+   "t1": 192,
+   "line": "പഠിച്ചതെല്ലാം വെള്ളത്തിൽ വരച്ച വര പോലെ."
+  },
+  {
+   "shot": "E1",
+   "a": 3559,
+   "b": 3609,
+   "t0": 0,
+   "t1": 50,
+   "line": "ആറാം ദിവസം അമ്മ കറിയിൽ രണ്ടു"
+  },
+  {
+   "shot": "E2",
+   "a": 3609,
+   "b": 3684,
+   "t0": 0,
+   "t1": 75,
+   "line": "തവണ ഉപ്പിട്ടു."
+  },
+  {
+   "shot": "E3",
+   "a": 3684,
+   "b": 3845,
+   "t0": 0,
+   "t1": 161,
+   "line": ""
+  },
+  {
+   "shot": "E4",
+   "a": 3845,
+   "b": 3925,
+   "t0": 0,
+   "t1": 80,
+   "line": "ആരും ഒന്നും പറഞ്ഞില്ല. എല്ലാവർക്കും അതുതന്നെ."
+  },
+  {
+   "shot": "E5",
+   "a": 3925,
+   "b": 4005,
+   "t0": 0,
+   "t1": 80,
+   "line": "അച്ചാർ ഭരണി ഫ്രിഡ്ജിൽ. പാൽ അലമാരയിൽ."
+  },
+  {
+   "shot": "E6",
+   "a": 4005,
+   "b": 4234,
+   "t0": 0,
+   "t1": 229,
+   "line": ""
+  },
+  {
+   "shot": "E7",
+   "a": 4234,
+   "b": 4312,
+   "t0": 0,
+   "t1": 78,
+   "line": "ഉറക്കത്തിൽ തലച്ചോർ സ്വയം കഴുകി വൃത്തിയാക്കും."
+  },
+  {
+   "shot": "E8",
+   "a": 4312,
+   "b": 4616,
+   "t0": 0,
+   "t1": 304,
+   "line": "ഇപ്പോൾ ആ ചവറ് അവിടെത്തന്നെ കിടക്കുന്നു."
+  },
+  {
+   "shot": "E9",
+   "a": 4616,
+   "b": 4676,
+   "t0": 0,
+   "t1": 60,
+   "line": "ഏഴാം ദിവസം KSRTC ഡ്രൈവർ സ്റ്റോപ്പിൽ"
+  },
+  {
+   "shot": "E10",
+   "a": 4676,
+   "b": 4719,
+   "t0": 0,
+   "t1": 43,
+   "line": "നിർത്താൻ മറന്നു."
+  },
+  {
+   "shot": "E11",
+   "a": 4719,
+   "b": 4814,
+   "t0": 0,
+   "t1": 95,
+   "line": "നാട്ടുകാർ ബസ്സിന് പിന്നാലെ ഓടി."
+  },
+  {
+   "shot": "E12",
+   "a": 4814,
+   "b": 4998,
+   "t0": 0,
+   "t1": 184,
+   "line": ""
+  },
+  {
+   "shot": "M1",
+   "a": 4998,
+   "b": 5268,
+   "t0": 0,
+   "t1": 270,
+   "line": "ഒരു രാത്രി മുഴുവൻ ഉറങ്ങാതെ നീ ഇരുന്നത് എന്തിനായിരുന്നു?"
+  },
+  {
+   "shot": "F1",
+   "a": 5268,
+   "b": 5324,
+   "t0": 0,
+   "t1": 56,
+   "line": "ഒമ്പതാം ദിവസം ടിവിയിൽ ഒരു വലിയ"
+  },
+  {
+   "shot": "F2",
+   "a": 5324,
+   "b": 5354,
+   "t0": 0,
+   "t1": 30,
+   "line": "മുതലാളി. ഇനി"
+  },
+  {
+   "shot": "F3",
+   "a": 5354,
+   "b": 5575,
+   "t0": 0,
+   "t1": 221,
+   "line": "ഫാക്ടറികൾ ഒരിക്കലും അടയ്ക്കില്ല. ഉറങ്ങാത്തവർക്ക് ഓവർടൈം വേണ്ടല്ലോ എന്ന് അയാൾ ചിരിച്ചു."
+  },
+  {
+   "shot": "F4",
+   "a": 5575,
+   "b": 5659,
+   "t0": 0,
+   "t1": 84,
+   "line": "ദുബായിൽ അച്ഛന്റെ ഡ്യൂട്ടി പതിനാറ് മണിക്കൂറായി."
+  },
+  {
+   "shot": "F5",
+   "a": 5659,
+   "b": 5739,
+   "t0": 0,
+   "t1": 80,
+   "line": "വീഡിയോ കോളിൽ കണ്ണുകൾ ചുവന്നിരിക്കുന്നു. അവിടെ"
+  },
+  {
+   "shot": "F6",
+   "a": 5739,
+   "b": 6018,
+   "t0": 0,
+   "t1": 279,
+   "line": "ക്രെയിനുകൾ രാത്രിയും നിർത്തുന്നില്ല."
+  },
+  {
+   "shot": "F7",
+   "a": 6018,
+   "b": 6088,
+   "t0": 0,
+   "t1": 70,
+   "line": "ഒരേ ചോദ്യം അച്ഛൻ രണ്ടു തവണ ചോദിക്കുന്നു."
+  },
+  {
+   "shot": "F8",
+   "a": 6088,
+   "b": 6281,
+   "t0": 0,
+   "t1": 193,
+   "line": ""
+  },
+  {
+   "shot": "G1",
+   "a": 6281,
+   "b": 6423,
+   "t0": 0,
+   "t1": 142,
+   "line": "പതിനൊന്നാം ദിവസം അനിയത്തി ചുമരിലേക്ക് നോക്കി ചിരിക്കുന്നു."
+  },
+  {
+   "shot": "G2",
+   "a": 6423,
+   "b": 6632,
+   "t0": 0,
+   "t1": 209,
+   "line": "അവിടെ ആരുമില്ല. അവൾ ആരോടോ സംസാരിക്കുന്നു."
+  },
+  {
+   "shot": "G3",
+   "a": 6632,
+   "b": 6675,
+   "t0": 0,
+   "t1": 43,
+   "line": "അന്ന് രാത്രി അമ്മ വീട്ടിലെ"
+  },
+  {
+   "shot": "G4",
+   "a": 6675,
+   "b": 6718,
+   "t0": 0,
+   "t1": 43,
+   "line": "എല്ലാ ലൈറ്റും അണച്ചു."
+  },
+  {
+   "shot": "G5",
+   "a": 6718,
+   "b": 6969,
+   "t0": 0,
+   "t1": 251,
+   "line": "വരാന്തയിൽ പായ വിരിച്ചു."
+  },
+  {
+   "shot": "G6",
+   "a": 6969,
+   "b": 7186,
+   "t0": 0,
+   "t1": 217,
+   "line": "ഉറക്കം വന്നില്ലെങ്കിലും കണ്ണടച്ച് കിടക്കാം, മോനെ. അമ്മ നിന്റെ തലയിൽ തലോടി."
+  },
+  {
+   "shot": "H1",
+   "a": 7186,
+   "b": 7261,
+   "t0": 0,
+   "t1": 75,
+   "line": "പന്ത്രണ്ടാം ദിവസം. അപ്പു നിന്റെ കൈ പിടിച്ച്"
+  },
+  {
+   "shot": "H2",
+   "a": 7261,
+   "b": 7464,
+   "t0": 0,
+   "t1": 203,
+   "line": "വീട്ടിലെത്തിച്ചു. അവനും വഴി ഉറപ്പില്ലായിരുന്നു."
+  },
+  {
+   "shot": "H3",
+   "a": 7464,
+   "b": 7541,
+   "t0": 0,
+   "t1": 77,
+   "line": "വരാന്തയിൽ എല്ലാവരും കണ്ണടച്ച് കിടപ്പുണ്ട്."
+  },
+  {
+   "shot": "H4",
+   "a": 7541,
+   "b": 7750,
+   "t0": 0,
+   "t1": 209,
+   "line": "ആരും ഉറങ്ങുന്നില്ല. ദൂരെ ഇപ്പോഴും ചായക്കടയിൽ വെളിച്ചം."
+  },
+  {
+   "shot": "I1",
+   "a": 7750,
+   "b": 8083,
+   "t0": 0,
+   "t1": 333,
+   "line": "ഉറങ്ങാൻ വിടാതെ വെച്ച എലികൾ ഏതാനും ആഴ്ചകൾക്കുള്ളിൽ ചത്തുപോയി."
+  },
+  {
+   "shot": "I2",
+   "a": 8083,
+   "b": 8212,
+   "t0": 0,
+   "t1": 129,
+   "line": "ഉറക്കം തലച്ചോറിന്റെ വിശ്രമമാണെന്നാണ് നമ്മൾ കരുതിയത്."
+  },
+  {
+   "shot": "I3",
+   "a": 8212,
+   "b": 8322,
+   "t0": 0,
+   "t1": 110,
+   "line": "പക്ഷേ തലച്ചോറേ ഇല്ലാത്ത ജെല്ലിഫിഷ് പോലും എല്ലാ രാത്രിയും ഉറങ്ങുന്നുണ്ട്."
+  },
+  {
+   "shot": "I4",
+   "a": 8322,
+   "b": 8518,
+   "t0": 0,
+   "t1": 196,
+   "line": ""
+  },
+  {
+   "shot": "I5",
+   "a": 8518,
+   "b": 8740,
+   "t0": 0,
+   "t1": 222,
+   "line": "ഉറക്കം തലച്ചോറിനേക്കാൾ പഴയതാണ്. നമ്മൾ ഉണ്ടാകുന്നതിനും എത്രയോ മുമ്പേ."
+  },
+  {
+   "shot": "I6",
+   "a": 8740,
+   "b": 8953,
+   "t0": 0,
+   "t1": 213,
+   "line": "നിനക്ക് ഏറ്റവും നല്ല ഉറക്കം കിട്ടിയിട്ടുള്ളത് എവിടെ വെച്ചാണ്?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "key": 30,
+   "len": 57,
+   "first": 0,
+   "line": "പന്ത്രണ്ടാം ദിവസം. പുലർച്ചെ",
+   "note": "HOOK: day 12, 3 am. The kavala's chaya kada blazing with light, packed with people, wide awake. TimeTag day 12"
+  },
+  {
+   "id": "A2",
+   "size": "insert",
+   "key": 10,
+   "len": 71,
+   "first": 57,
+   "line": "മൂന്ന് മണി.",
+   "note": "the shop's wall clock at 3:00, a calendar beside it"
+  },
+  {
+   "id": "A3",
+   "size": "medium",
+   "key": 30,
+   "len": 53,
+   "first": 128,
+   "line": "ചായക്കടയിൽ നല്ല തിരക്ക്.",
+   "note": "the tea man pulls tea a metre high; customers three deep at the counter"
+  },
+  {
+   "id": "A4",
+   "size": "close",
+   "key": 30,
+   "len": 129,
+   "first": 181,
+   "line": "ഇവിടെ ആരും ഉറങ്ങിയിട്ട് പന്ത്രണ്ട് ദിവസമായി.",
+   "note": "an uncle in a mundu with red, wide eyes, sipping; no yawn"
+  },
+  {
+   "id": "A5",
+   "size": "medium",
+   "key": 20,
+   "len": 80,
+   "first": 310,
+   "line": "നീ ഗ്ലാസ് വെച്ച് എണീറ്റു.",
+   "note": "Ramu sets his glass down on the bench and stands"
+  },
+  {
+   "id": "A6",
+   "size": "wide high",
+   "key": 30,
+   "len": 56,
+   "first": 390,
+   "line": "വീട്ടിലേക്കുള്ള വഴി ഏതാണ്?",
+   "note": "high angle: the junction under one streetlight, three roads, Ramu small in the middle"
+  },
+  {
+   "id": "A7",
+   "size": "close",
+   "key": 20,
+   "len": 63,
+   "first": 446,
+   "line": "",
+   "note": "Ramu's face, blank, looking left then right"
+  },
+  {
+   "id": "B1",
+   "size": "wide",
+   "key": 20,
+   "len": 43,
+   "first": 509,
+   "line": "പന്ത്രണ്ട് ദിവസം മുമ്പ്.",
+   "note": "twelve days earlier: dawn, Ramu sitting up in bed, eyes bright. TimeTag 12 days ago"
+  },
+  {
+   "id": "B2",
+   "size": "insert",
+   "key": 20,
+   "len": 92,
+   "first": 552,
+   "line": "അലാറം അടിക്കും മുമ്പേ നീ ഉണർന്നു.",
+   "note": "the alarm clock at 5:59; his hand already on it before it rings"
+  },
+  {
+   "id": "B3",
+   "size": "medium",
+   "key": 20,
+   "len": 29,
+   "first": 644,
+   "line": "ക്ഷീണമില്ല.",
+   "note": "Ramu stretches, fresh, happy"
+  },
+  {
+   "id": "B4",
+   "size": "close",
+   "key": 30,
+   "len": 81,
+   "first": 673,
+   "line": "അന്ന് രാത്രി ഉറക്കവും വന്നില്ല.",
+   "note": "night: Ramu in bed, eyes wide open, the fan turning above"
+  },
+  {
+   "id": "B5",
+   "size": "wide",
+   "key": 30,
+   "len": 40,
+   "first": 754,
+   "line": "നിനക്ക് മാത്രമല്ല.",
+   "note": "the whole village at night, every window lit, people on verandas"
+  },
+  {
+   "id": "B6",
+   "size": "wide",
+   "key": 30,
+   "len": 140,
+   "first": 794,
+   "line": "ലോകത്ത് ഒരാൾക്കും. എല്ലാ വീട്ടിലും ലൈറ്റ് കത്തിക്കിടന്നു.",
+   "note": "the night side of the Earth, every city lit"
+  },
+  {
+   "id": "B7",
+   "size": "wide title",
+   "key": 30,
+   "len": 131,
+   "first": 934,
+   "line": "മനുഷ്യർ ഇനി ഒരിക്കലും ഉറങ്ങിയില്ലെങ്കിലോ?",
+   "note": "TITLE over the lit village and palms under the moon"
+  },
+  {
+   "id": "C1",
+   "size": "wide",
+   "key": 40,
+   "len": 80,
+   "first": 1065,
+   "line": "ആദ്യത്തെ രാത്രി എട്ട് മണിക്കൂർ വെറുതെ കിട്ടി.",
+   "note": "night cricket on the kavala road under the streetlight; Appu bats, Ramu bowls. TimeTag night 1"
+  },
+  {
+   "id": "C2",
+   "size": "medium",
+   "key": 20,
+   "len": 75,
+   "first": 1145,
+   "line": "കവലയിൽ രാത്രി ക്രിക്കറ്റ്.",
+   "note": "GAG: Appu's shot lands the ball in the tea man's kettle"
+  },
+  {
+   "id": "C3",
+   "size": "close",
+   "key": 20,
+   "len": 120,
+   "first": 1220,
+   "line": "",
+   "note": "Ramu cheering"
+  },
+  {
+   "id": "C4",
+   "size": "wide",
+   "key": 30,
+   "len": 60,
+   "first": 1340,
+   "line": "തട്ടുകടകൾ അടച്ചതേയില്ല. പൊറോട്ട",
+   "note": "a thattukada with string lights and a queue at 3 am"
+  },
+  {
+   "id": "C5",
+   "size": "medium",
+   "key": 30,
+   "len": 85,
+   "first": 1400,
+   "line": "അടിക്കുന്നത് അപ്പു.",
+   "note": "GAG: Appu at the tawa, slapping porotta, very serious"
+  },
+  {
+   "id": "C6",
+   "size": "insert",
+   "key": 30,
+   "len": 86,
+   "first": 1485,
+   "line": "",
+   "note": "the board: closing time 11 pm painted over with 24 hours"
+  },
+  {
+   "id": "C7",
+   "size": "wide",
+   "key": 30,
+   "len": 80,
+   "first": 1571,
+   "line": "രാത്രി രണ്ടിന് ദുബായിൽ നിന്ന് അച്ഛന്റെ വിളി.",
+   "note": "the hall at 2 am, all lights on, the phone ringing on the table, wall clock 2:00"
+  },
+  {
+   "id": "C8",
+   "size": "medium",
+   "key": 30,
+   "len": 95,
+   "first": 1651,
+   "line": "ഇത്തവണ വീട്ടിൽ എല്ലാവരും ഉണർന്നിരിപ്പുണ്ട്. അച്ഛന് ചിരി",
+   "note": "GAG: the whole family, grandma too, squeezed round the one phone"
+  },
+  {
+   "id": "C9",
+   "size": "insert",
+   "key": 30,
+   "len": 254,
+   "first": 1746,
+   "line": "നിർത്താൻ പറ്റിയില്ല.",
+   "note": "the phone: Achan in Dubai laughing at so many faces"
+  },
+  {
+   "id": "C10",
+   "size": "wide",
+   "key": 40,
+   "len": 75,
+   "first": 2000,
+   "line": "ഒരു മനുഷ്യായുസ്സിന്റെ മൂന്നിലൊന്ന് ഉറക്കമാണ്.",
+   "note": "a life bar of 75 years; a third of it (the nights) glows and comes back"
+  },
+  {
+   "id": "C11",
+   "size": "medium",
+   "key": 60,
+   "len": 352,
+   "first": 2075,
+   "line": "അതാണ് തിരിച്ചു കിട്ടിയത്. ഒരു ജീവിതത്തിൽ ഇരുപത്തഞ്ച് കൊല്ലം അധികം.",
+   "note": "Ramu on the terrace at night, arms wide, the lit town below. FactCard 25 years"
+  },
+  {
+   "id": "D1",
+   "size": "wide",
+   "key": 30,
+   "len": 95,
+   "first": 2427,
+   "line": "നാലാം ദിവസം. മോഡൽ പരീക്ഷ.",
+   "note": "exam hall, day 4, invigilator, desks. TimeTag day 4"
+  },
+  {
+   "id": "D2",
+   "size": "insert",
+   "key": 30,
+   "len": 165,
+   "first": 2522,
+   "line": "രാത്രി മുഴുവൻ ഇരുന്ന് പഠിച്ചതാണ്. ഒരു തുള്ളി ഉറക്കം വന്നില്ല.",
+   "note": "flashback: Ramu's desk at 3 am, lamp, books, steel tumbler"
+  },
+  {
+   "id": "D3",
+   "size": "insert",
+   "key": 15,
+   "len": 39,
+   "first": 2687,
+   "line": "ചോദ്യപേപ്പർ കിട്ടി.",
+   "note": "the question paper lands on the desk"
+  },
+  {
+   "id": "D4",
+   "size": "close",
+   "key": 30,
+   "len": 55,
+   "first": 2726,
+   "line": "ഒന്നും ഓർമ്മയില്ല.",
+   "note": "Ramu blank, pen in his mouth"
+  },
+  {
+   "id": "D5",
+   "size": "wide",
+   "key": 60,
+   "len": 186,
+   "first": 2781,
+   "line": "",
+   "note": "GAG: the whole class stares at blank sheets, the invigilator stares at the question paper too"
+  },
+  {
+   "id": "D6",
+   "size": "medium",
+   "key": 40,
+   "len": 53,
+   "first": 2967,
+   "line": "ക്ഷീണം മാത്രമേ പോയുള്ളൂ.",
+   "note": "Ramu walking home with his bag, puzzled"
+  },
+  {
+   "id": "D7",
+   "size": "wide",
+   "key": 40,
+   "len": 247,
+   "first": 3020,
+   "line": "ഉറക്കം ചെയ്തിരുന്ന പണി ഇപ്പോൾ ആരും ചെയ്യുന്നില്ല.",
+   "note": "a brain icon with an empty night-shift desk: the worker who isn't coming"
+  },
+  {
+   "id": "D8",
+   "size": "wide",
+   "key": 60,
+   "len": 100,
+   "first": 3267,
+   "line": "ഉറങ്ങുമ്പോഴാണ് തലച്ചോർ അന്നത്തെ പാഠങ്ങൾ എഴുതിവെക്കുന്നത്.",
+   "note": "the day's notes filed onto the brain's shelves at night; then the filing stops"
+  },
+  {
+   "id": "D9",
+   "size": "medium",
+   "key": 60,
+   "len": 192,
+   "first": 3367,
+   "line": "പഠിച്ചതെല്ലാം വെള്ളത്തിൽ വരച്ച വര പോലെ.",
+   "note": "Ramu at his desk, letters sliding off the page. FactCard 40%"
+  },
+  {
+   "id": "E1",
+   "size": "wide",
+   "key": 30,
+   "len": 50,
+   "first": 3559,
+   "line": "ആറാം ദിവസം അമ്മ കറിയിൽ രണ്ടു",
+   "note": "a Kerala kitchen, Amma at the stove. TimeTag day 6"
+  },
+  {
+   "id": "E2",
+   "size": "insert",
+   "key": 30,
+   "len": 75,
+   "first": 3609,
+   "line": "തവണ ഉപ്പിട്ടു.",
+   "note": "Amma's hand salting the curry; then again"
+  },
+  {
+   "id": "E3",
+   "size": "close",
+   "key": 30,
+   "len": 161,
+   "first": 3684,
+   "line": "",
+   "note": "GAG: the sister tastes; face scrunched"
+  },
+  {
+   "id": "E4",
+   "size": "wide",
+   "key": 30,
+   "len": 80,
+   "first": 3845,
+   "line": "ആരും ഒന്നും പറഞ്ഞില്ല. എല്ലാവർക്കും അതുതന്നെ.",
+   "note": "the family eating in silence at the table"
+  },
+  {
+   "id": "E5",
+   "size": "insert",
+   "key": 30,
+   "len": 80,
+   "first": 3925,
+   "line": "അച്ചാർ ഭരണി ഫ്രിഡ്ജിൽ. പാൽ അലമാരയിൽ.",
+   "note": "GAG: the fridge open: the pickle bharani inside, and the milk packet in the almirah"
+  },
+  {
+   "id": "E6",
+   "size": "close",
+   "key": 30,
+   "len": 229,
+   "first": 4005,
+   "line": "",
+   "note": "Amma staring at nothing"
+  },
+  {
+   "id": "E7",
+   "size": "wide",
+   "key": 50,
+   "len": 78,
+   "first": 4234,
+   "line": "ഉറക്കത്തിൽ തലച്ചോർ സ്വയം കഴുകി വൃത്തിയാക്കും.",
+   "note": "brain cells: the gaps widen at night and the waste washes out; then it stops and piles up"
+  },
+  {
+   "id": "E8",
+   "size": "wide",
+   "key": 60,
+   "len": 304,
+   "first": 4312,
+   "line": "ഇപ്പോൾ ആ ചവറ് അവിടെത്തന്നെ കിടക്കുന്നു.",
+   "note": "the corner by the bus stop: garbage bags piling day by day. FactCard 60%"
+  },
+  {
+   "id": "E9",
+   "size": "wide",
+   "key": 30,
+   "len": 60,
+   "first": 4616,
+   "line": "ഏഴാം ദിവസം KSRTC ഡ്രൈവർ സ്റ്റോപ്പിൽ",
+   "note": "the bus stop at the kavala, crowd waiting, KSRTC bus coming. TimeTag day 7"
+  },
+  {
+   "id": "E10",
+   "size": "medium",
+   "key": 30,
+   "len": 43,
+   "first": 4676,
+   "line": "നിർത്താൻ മറന്നു.",
+   "note": "the KSRTC sails past; the driver's eyes blank"
+  },
+  {
+   "id": "E11",
+   "size": "wide",
+   "key": 40,
+   "len": 95,
+   "first": 4719,
+   "line": "നാട്ടുകാർ ബസ്സിന് പിന്നാലെ ഓടി.",
+   "note": "GAG: the whole stop runs after the bus, mundus hitched, Appu in front"
+  },
+  {
+   "id": "E12",
+   "size": "close",
+   "key": 30,
+   "len": 184,
+   "first": 4814,
+   "line": "",
+   "note": "Ramu stops, out of breath; the bus is gone"
+  },
+  {
+   "id": "M1",
+   "size": "close",
+   "key": 40,
+   "len": 270,
+   "first": 4998,
+   "line": "ഒരു രാത്രി മുഴുവൻ ഉറങ്ങാതെ നീ ഇരുന്നത് എന്തിനായിരുന്നു?",
+   "note": "MID QUESTION: Ramu thinking"
+  },
+  {
+   "id": "F1",
+   "size": "wide",
+   "key": 30,
+   "len": 56,
+   "first": 5268,
+   "line": "ഒമ്പതാം ദിവസം ടിവിയിൽ ഒരു വലിയ",
+   "note": "the family round the TV. TimeTag day 9"
+  },
+  {
+   "id": "F2",
+   "size": "insert",
+   "key": 40,
+   "len": 30,
+   "first": 5324,
+   "line": "മുതലാളി. ഇനി",
+   "note": "the TV: the businessman in front of a factory, the news bar"
+  },
+  {
+   "id": "F3",
+   "size": "close",
+   "key": 40,
+   "len": 221,
+   "first": 5354,
+   "line": "ഫാക്ടറികൾ ഒരിക്കലും അടയ്ക്കില്ല. ഉറങ്ങാത്തവർക്ക് ഓവർടൈം വേണ്ടല്ലോ എന്ന് അയാൾ ചിരിച്ചു.",
+   "note": "the businessman's grin, close on the TV"
+  },
+  {
+   "id": "F4",
+   "size": "wide",
+   "key": 40,
+   "len": 84,
+   "first": 5575,
+   "line": "ദുബായിൽ അച്ഛന്റെ ഡ്യൂട്ടി പതിനാറ് മണിക്കൂറായി.",
+   "note": "a Dubai site at night under floodlights, Achan in a hard hat"
+  },
+  {
+   "id": "F5",
+   "size": "insert",
+   "key": 40,
+   "len": 80,
+   "first": 5659,
+   "line": "വീഡിയോ കോളിൽ കണ്ണുകൾ ചുവന്നിരിക്കുന്നു. അവിടെ",
+   "note": "video call: Achan's face, red eyes"
+  },
+  {
+   "id": "F6",
+   "size": "close",
+   "key": 30,
+   "len": 279,
+   "first": 5739,
+   "line": "ക്രെയിനുകൾ രാത്രിയും നിർത്തുന്നില്ല.",
+   "note": "Ramu watching the phone, worried"
+  },
+  {
+   "id": "F7",
+   "size": "medium",
+   "key": 40,
+   "len": 70,
+   "first": 6018,
+   "line": "ഒരേ ചോദ്യം അച്ഛൻ രണ്ടു തവണ ചോദിക്കുന്നു.",
+   "note": "Amma holding the phone; Achan on the screen asking again"
+  },
+  {
+   "id": "F8",
+   "size": "close",
+   "key": 40,
+   "len": 193,
+   "first": 6088,
+   "line": "",
+   "note": "Amma's face"
+  },
+  {
+   "id": "G1",
+   "size": "medium",
+   "key": 40,
+   "len": 142,
+   "first": 6281,
+   "line": "പതിനൊന്നാം ദിവസം അനിയത്തി ചുമരിലേക്ക് നോക്കി ചിരിക്കുന്നു.",
+   "note": "the sister on the floor laughing at the wall. TimeTag day 11"
+  },
+  {
+   "id": "G2",
+   "size": "wide",
+   "key": 40,
+   "len": 209,
+   "first": 6423,
+   "line": "അവിടെ ആരുമില്ല. അവൾ ആരോടോ സംസാരിക്കുന്നു.",
+   "note": "reverse: the wall is empty but for a calendar; Ramu and Amma frozen in the doorway"
+  },
+  {
+   "id": "G3",
+   "size": "insert",
+   "key": 20,
+   "len": 43,
+   "first": 6632,
+   "line": "അന്ന് രാത്രി അമ്മ വീട്ടിലെ",
+   "note": "Amma's hand switches off the switchboard"
+  },
+  {
+   "id": "G4",
+   "size": "wide",
+   "key": 60,
+   "len": 43,
+   "first": 6675,
+   "line": "എല്ലാ ലൈറ്റും അണച്ചു.",
+   "note": "the house outside: windows going dark, the only dark house on a lit street"
+  },
+  {
+   "id": "G5",
+   "size": "medium",
+   "key": 50,
+   "len": 251,
+   "first": 6718,
+   "line": "വരാന്തയിൽ പായ വിരിച്ചു.",
+   "note": "Amma unrolls the paaya on the veranda in moonlight"
+  },
+  {
+   "id": "G6",
+   "size": "close",
+   "key": 50,
+   "len": 217,
+   "first": 6969,
+   "line": "ഉറക്കം വന്നില്ലെങ്കിലും കണ്ണടച്ച് കിടക്കാം, മോനെ. അമ്മ നിന്റെ തലയിൽ തലോടി.",
+   "note": "Amma's face in the moonlight, gentle"
+  },
+  {
+   "id": "H1",
+   "size": "wide high",
+   "key": 30,
+   "len": 75,
+   "first": 7186,
+   "line": "പന്ത്രണ്ടാം ദിവസം. അപ്പു നിന്റെ കൈ പിടിച്ച്",
+   "note": "back to the junction: Appu takes Ramu's hand. TimeTag day 12"
+  },
+  {
+   "id": "H2",
+   "size": "medium",
+   "key": 60,
+   "len": 203,
+   "first": 7261,
+   "line": "വീട്ടിലെത്തിച്ചു. അവനും വഴി ഉറപ്പില്ലായിരുന്നു.",
+   "note": "the two walk home under the palms"
+  },
+  {
+   "id": "H3",
+   "size": "wide high",
+   "key": 60,
+   "len": 77,
+   "first": 7464,
+   "line": "വരാന്തയിൽ എല്ലാവരും കണ്ണടച്ച് കിടപ്പുണ്ട്.",
+   "note": "high angle: Amma and the sister on mats, eyes closed; Ramu lies down"
+  },
+  {
+   "id": "H4",
+   "size": "close",
+   "key": 40,
+   "len": 209,
+   "first": 7541,
+   "line": "ആരും ഉറങ്ങുന്നില്ല. ദൂരെ ഇപ്പോഴും ചായക്കടയിൽ വെളിച്ചം.",
+   "note": "Ramu's eyes closed... then they open"
+  },
+  {
+   "id": "I1",
+   "size": "wide",
+   "key": 60,
+   "len": 333,
+   "first": 7750,
+   "line": "ഉറങ്ങാൻ വിടാതെ വെച്ച എലികൾ ഏതാനും ആഴ്ചകൾക്കുള്ളിൽ ചത്തുപോയി.",
+   "note": "the lab rat in its cage, a day counter. FactCard 11-32 days"
+  },
+  {
+   "id": "I2",
+   "size": "close",
+   "key": 30,
+   "len": 129,
+   "first": 8083,
+   "line": "ഉറക്കം തലച്ചോറിന്റെ വിശ്രമമാണെന്നാണ് നമ്മൾ കരുതിയത്.",
+   "note": "Ramu lying awake in the dark, eyes open"
+  },
+  {
+   "id": "I3",
+   "size": "wide",
+   "key": 50,
+   "len": 110,
+   "first": 8212,
+   "line": "പക്ഷേ തലച്ചോറേ ഇല്ലാത്ത ജെല്ലിഫിഷ് പോലും എല്ലാ രാത്രിയും ഉറങ്ങുന്നുണ്ട്.",
+   "note": "a moonlit sea floor: upside-down jellyfish pulsing slowly. FactCard no brain"
+  },
+  {
+   "id": "I4",
+   "size": "close",
+   "key": 40,
+   "len": 196,
+   "first": 8322,
+   "line": "",
+   "note": "one jellyfish, its pulse slowing for the night"
+  },
+  {
+   "id": "I5",
+   "size": "wide",
+   "key": 50,
+   "len": 222,
+   "first": 8518,
+   "line": "ഉറക്കം തലച്ചോറിനേക്കാൾ പഴയതാണ്. നമ്മൾ ഉണ്ടാകുന്നതിനും എത്രയോ മുമ്പേ.",
+   "note": "the house at night from the yard, the family on the veranda under the moon"
+  },
+  {
+   "id": "I6",
+   "size": "close",
+   "key": 40,
+   "len": 213,
+   "first": 8740,
+   "line": "നിനക്ക് ഏറ്റവും നല്ല ഉറക്കം കിട്ടിയിട്ടുള്ളത് എവിടെ വെച്ചാണ്?",
+   "note": "COMMENT QUESTION over Ramu on the mat"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "o": 0.4,
+   "f": 1163
+  },
+  {
+   "kind": "shake",
+   "len": 6,
+   "amp": 6,
+   "f": 2691
+  },
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 8,
+   "f": 4696
+  },
+  {
+   "kind": "flash",
+   "color": "#000",
+   "o": 0.5,
+   "f": 6640
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.6809,
+  "musicVol": 0.1031,
+  "voice": "nosleep-ml/voice.wav",
+  "sfx": "nosleep-ml/sfx.wav",
+  "music": "nosleep-ml/music.wav"
+ }
+}

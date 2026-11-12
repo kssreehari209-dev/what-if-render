@@ -1,0 +1,110 @@
+{
+ "slug": "test-ml",
+ "title": "ജൂൺ ഒന്നിന് മഴ വന്നില്ലെങ്കിലോ?",
+ "fps": 30,
+ "total": 322,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 79,
+   "t0": 0,
+   "t1": 79,
+   "line": "ജൂൺ ഒന്നിന് മഴ വന്നില്ലെങ്കിലോ?"
+  },
+  {
+   "shot": "S2",
+   "a": 79,
+   "b": 138,
+   "t0": 0,
+   "t1": 59,
+   "line": "നീ കുടയും നിവർത്തി മുറ്റത്ത് കാത്തുനിൽക്കുന്നു."
+  },
+  {
+   "shot": "S2b",
+   "a": 138,
+   "b": 188,
+   "t0": 0,
+   "t1": 50,
+   "line": ""
+  },
+  {
+   "shot": "S3",
+   "a": 188,
+   "b": 246,
+   "t0": 0,
+   "t1": 58,
+   "line": "ആകാശം പക്ഷേ തെളിഞ്ഞു തന്നെ."
+  },
+  {
+   "shot": "S3b",
+   "a": 246,
+   "b": 322,
+   "t0": 0,
+   "t1": 76,
+   "line": "നീ ആദ്യം എന്ത് ചെയ്യും?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 30,
+   "len": 79,
+   "first": 0,
+   "line": "ജൂൺ ഒന്നിന് മഴ വന്നില്ലെങ്കിലോ?",
+   "note": "dry cracked yard, Kerala house and palms, Ramu staring up; title"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 40,
+   "len": 59,
+   "first": 79,
+   "line": "നീ കുടയും നിവർത്തി മുറ്റത്ത് കാത്തുനിൽക്കുന്നു.",
+   "note": "Ramu under an open umbrella, Appu; fact card June 1 (IMD)"
+  },
+  {
+   "id": "S2b",
+   "size": "close-up",
+   "key": 20,
+   "len": 50,
+   "first": 138,
+   "line": "",
+   "note": "GAG: Appu tips a mug of water on the umbrella, Ramu beams"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 60,
+   "len": 58,
+   "first": 188,
+   "line": "ആകാശം പക്ഷേ തെളിഞ്ഞു തന്നെ.",
+   "note": "twist: the sky stays clear, umbrella down; comment question"
+  },
+  {
+   "id": "S3b",
+   "size": "close-up",
+   "key": 40,
+   "len": 76,
+   "first": 246,
+   "line": "നീ ആദ്യം എന്ത് ചെയ്യും?",
+   "note": "Ramu's face, empty sky in his eyes; the comment question"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "o": 0.3,
+   "f": 188
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.593,
+  "musicVol": 0.1104,
+  "voice": "test-ml/voice.wav",
+  "sfx": "test-ml/sfx.wav",
+  "music": "test-ml/music.wav"
+ }
+}

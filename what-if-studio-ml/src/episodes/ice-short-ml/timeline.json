@@ -1,0 +1,330 @@
+{
+ "slug": "ice-short-ml",
+ "title": "മഞ്ഞെല്ലാം ഉരുകിയാൽ?",
+ "fps": 30,
+ "total": 1112,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 81,
+   "t0": 0,
+   "t1": 81,
+   "line": "ലോകത്തെ മഞ്ഞെല്ലാം ഉരുകിയാൽ?"
+  },
+  {
+   "shot": "A2",
+   "a": 81,
+   "b": 137,
+   "t0": 0,
+   "t1": 56,
+   "line": "നിന്റെ മുറ്റത്ത് ഒരു ഹൗസ്ബോട്ട് വന്ന്"
+  },
+  {
+   "shot": "A3",
+   "a": 137,
+   "b": 175,
+   "t0": 0,
+   "t1": 38,
+   "line": "നിൽക്കും."
+  },
+  {
+   "shot": "B1",
+   "a": 175,
+   "b": 273,
+   "t0": 0,
+   "t1": 98,
+   "line": "ഒരു മീറ്റർ കയറുമ്പോൾ തന്നെ കുട്ടനാട് പേടിക്കണം."
+  },
+  {
+   "shot": "B2",
+   "a": 273,
+   "b": 339,
+   "t0": 0,
+   "t1": 66,
+   "line": "അത് ഇപ്പോഴേ കടലിനേക്കാൾ താഴെയല്ലേ."
+  },
+  {
+   "shot": "B3",
+   "a": 339,
+   "b": 366,
+   "t0": 0,
+   "t1": 27,
+   "line": ""
+  },
+  {
+   "shot": "C1",
+   "a": 366,
+   "b": 418,
+   "t0": 0,
+   "t1": 52,
+   "line": "പിന്നെ ആലപ്പുഴ."
+  },
+  {
+   "shot": "C2",
+   "a": 418,
+   "b": 456,
+   "t0": 0,
+   "t1": 38,
+   "line": "കൊച്ചി."
+  },
+  {
+   "shot": "C3",
+   "a": 456,
+   "b": 500,
+   "t0": 0,
+   "t1": 44,
+   "line": "കോഴിക്കോട്."
+  },
+  {
+   "shot": "D0",
+   "a": 500,
+   "b": 552,
+   "t0": 0,
+   "t1": 52,
+   "line": "വെള്ളം അപ്പോഴും നിർത്തില്ല."
+  },
+  {
+   "shot": "D1",
+   "a": 552,
+   "b": 608,
+   "t0": 0,
+   "t1": 56,
+   "line": "എഴുപത് മീറ്റർ വരെ."
+  },
+  {
+   "shot": "D2",
+   "a": 608,
+   "b": 698,
+   "t0": 0,
+   "t1": 90,
+   "line": "ഇരുപത്തിമൂന്ന് നില ഫ്ലാറ്റ് മുഴുവൻ മുങ്ങും."
+  },
+  {
+   "shot": "E1",
+   "a": 698,
+   "b": 772,
+   "t0": 0,
+   "t1": 74,
+   "line": "കേരളത്തിന്റെ പകുതിയോളം പോയി."
+  },
+  {
+   "shot": "E2",
+   "a": 772,
+   "b": 837,
+   "t0": 0,
+   "t1": 65,
+   "line": "ബാക്കി മലനാട് മാത്രം."
+  },
+  {
+   "shot": "E3",
+   "a": 837,
+   "b": 885,
+   "t0": 0,
+   "t1": 48,
+   "line": "നാട് മുഴുവൻ പെട്ടിയുമെടുത്ത്"
+  },
+  {
+   "shot": "E4",
+   "a": 885,
+   "b": 935,
+   "t0": 0,
+   "t1": 50,
+   "line": "മൂന്നാറിലേക്ക്."
+  },
+  {
+   "shot": "F1",
+   "a": 935,
+   "b": 1001,
+   "t0": 0,
+   "t1": 66,
+   "line": "നിന്റെ വീട് എവിടെയാ?"
+  },
+  {
+   "shot": "F2",
+   "a": 1001,
+   "b": 1112,
+   "t0": 0,
+   "t1": 111,
+   "line": "വെള്ളത്തിന് മുകളിലോ, താഴെയോ?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "key": 30,
+   "len": 81,
+   "first": 0,
+   "line": "ലോകത്തെ മഞ്ഞെല്ലാം ഉരുകിയാൽ?",
+   "note": "HOOK + title: Pip sips tea on a chair, water at his chest; a penguin drifts past on an ice chunk"
+  },
+  {
+   "id": "A2",
+   "size": "wide",
+   "key": 44,
+   "len": 56,
+   "first": 81,
+   "line": "നിന്റെ മുറ്റത്ത് ഒരു ഹൗസ്ബോട്ട് വന്ന്",
+   "note": "a kettuvallam glides into the yard, Mo in shades waves from the bow"
+  },
+  {
+   "id": "A3",
+   "size": "medium",
+   "key": 30,
+   "len": 38,
+   "first": 137,
+   "line": "നിൽക്കും.",
+   "note": "GAG: Mo's mooring rope lands round Pip's neck; he is the bollard now"
+  },
+  {
+   "id": "B1",
+   "size": "wide section",
+   "key": 60,
+   "len": 98,
+   "first": 175,
+   "line": "ഒരു മീറ്റർ കയറുമ്പോൾ തന്നെ കുട്ടനാട് പേടിക്കണം.",
+   "note": "section: the sea high behind the bund, the farmer planting below it; sea level dashed over his head; +1 m chip"
+  },
+  {
+   "id": "B2",
+   "size": "low angle",
+   "key": 40,
+   "len": 66,
+   "first": 273,
+   "line": "അത് ഇപ്പോഴേ കടലിനേക്കാൾ താഴെയല്ലേ.",
+   "note": "from the paddy: a vallam passes above the farmer's head, the penguin peers over the bund"
+  },
+  {
+   "id": "B3",
+   "size": "close-up",
+   "key": 16,
+   "len": 27,
+   "first": 339,
+   "line": "",
+   "note": "GAG: water at his chin, a duck on his hat, he plants on"
+  },
+  {
+   "id": "C1",
+   "size": "wide",
+   "key": 30,
+   "len": 52,
+   "first": 366,
+   "line": "പിന്നെ ആലപ്പുഴ.",
+   "note": "station board going under, a chundan races past it"
+  },
+  {
+   "id": "C2",
+   "size": "low angle",
+   "key": 24,
+   "len": 38,
+   "first": 418,
+   "line": "കൊച്ചി.",
+   "note": "GAG: a Chinese net lifts a KSRTC bus out of the sea"
+  },
+  {
+   "id": "C3",
+   "size": "close-up",
+   "key": 24,
+   "len": 44,
+   "first": 456,
+   "line": "കോഴിക്കോട്.",
+   "note": "GAG: neck deep, a man holds the biriyani handi above the water"
+  },
+  {
+   "id": "D0",
+   "size": "medium",
+   "key": 30,
+   "len": 52,
+   "first": 500,
+   "line": "വെള്ളം അപ്പോഴും നിർത്തില്ല.",
+   "note": "Pip and the penguin on the ridge, water climbing the tiles"
+  },
+  {
+   "id": "D1",
+   "size": "full height",
+   "key": 30,
+   "len": 56,
+   "first": 552,
+   "line": "എഴുപത് മീറ്റർ വരെ.",
+   "note": "the sea climbs a 23-floor block to the Sea View banner; 70 m on screen"
+  },
+  {
+   "id": "D2",
+   "size": "medium",
+   "key": 84,
+   "len": 90,
+   "first": 608,
+   "line": "ഇരുപത്തിമൂന്ന് നില ഫ്ലാറ്റ് മുഴുവൻ മുങ്ങും.",
+   "note": "GAG: top floor, the uncle fishes from his balcony, the penguin waits for the fish"
+  },
+  {
+   "id": "E1",
+   "size": "high wide",
+   "key": 44,
+   "len": 74,
+   "first": 698,
+   "line": "കേരളത്തിന്റെ പകുതിയോളം പോയി.",
+   "note": "the sea to the horizon, only tips showing: palms, a cross, a mobile tower"
+  },
+  {
+   "id": "E2",
+   "size": "wide",
+   "key": 40,
+   "len": 65,
+   "first": 772,
+   "line": "ബാക്കി മലനാട് മാത്രം.",
+   "note": "the tea hills as an island in the dusk"
+  },
+  {
+   "id": "E3",
+   "size": "wide",
+   "key": 30,
+   "len": 48,
+   "first": 837,
+   "line": "നാട് മുഴുവൻ പെട്ടിയുമെടുത്ത്",
+   "note": "GAG: everyone climbs with their things: amma's grinder, Mo's TV, the penguin's tiny suitcase"
+  },
+  {
+   "id": "E4",
+   "size": "insert",
+   "key": 40,
+   "len": 50,
+   "first": 885,
+   "line": "മൂന്നാറിലേക്ക്.",
+   "note": "GAG: NO ROOMS slaps onto the lodge board over the penguin"
+  },
+  {
+   "id": "F1",
+   "size": "wide",
+   "key": 40,
+   "len": 66,
+   "first": 935,
+   "line": "നിന്റെ വീട് എവിടെയാ?",
+   "note": "GAG: the house under water, Mo in goggles reading the paper, fish through the door"
+  },
+  {
+   "id": "F2",
+   "size": "split",
+   "key": 70,
+   "len": 111,
+   "first": 1001,
+   "line": "വെള്ളത്തിന് മുകളിലോ, താഴെയോ?",
+   "note": "the question: Pip and the penguin on an ice chunk above, the house below"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "f": 552
+  }
+ ],
+ "audio": {
+  "voice": "ice-short-ml/voice.wav",
+  "sfx": "ice-short-ml/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.4447,
+  "music": "ice-short-ml/music.wav",
+  "musicVol": 0.117
+ }
+}

@@ -1,0 +1,322 @@
+{
+  "id": "SpeedMl",
+  "slug": "speed-ml",
+  "topic": "What if we have 10x speed? (Malayalam)",
+  "title": [
+    "പത്തിരട്ടി",
+    "വേഗത ലഭിച്ചാലോ?"
+  ],
+  "accent": "വേഗത ലഭിച്ചാലോ?",
+  "language": "ml",
+  "voice": {
+    "engine": "clipchamp",
+    "id": "Xiaoyu Multilingual",
+    "language": "Malayalam (India)",
+    "pitch": "Default",
+    "pace": "0.9x"
+  },
+  "power": {
+    "word": "പത്തിരട്ടി വേഗത",
+    "rule": "move and react ten times faster than normal human physiology",
+    "look": "cyan motion blur, speed streaks, afterimages, and a 10X SPEED readout"
+  },
+  "script": [
+    {
+      "beat": "1 cold open, demo 1 (domestic)",
+      "text": "മേശപ്പുറത്തുനിന്ന് വീഴുന്ന ചായക്കപ്പ് നിലത്തു തട്ടുന്നതിന് മുൻപ് പിടിക്കുന്നു. പത്തിരട്ടി വേഗത."
+    },
+    {
+      "beat": "1 cold open, demo 2 (useful)",
+      "text": "ഒരു മണിക്കൂറിലെ ഗൃഹപാഠം വെറും ആറ് മിനിറ്റിൽ തീർക്കുന്നു."
+    },
+    {
+      "beat": "1 cold open, demo 3 (world scale / uncanny)",
+      "text": "റോഡിലൂടെ ഓടുമ്പോൾ കാറുകൾ നിശ്ചലമായി തോന്നുന്നു."
+    },
+    {
+      "beat": "2 the premise (title card)",
+      "text": "മനുഷ്യർക്ക് പത്തിരട്ടി വേഗത ലഭിച്ചാലോ?"
+    },
+    {
+      "beat": "4 the turn: the cost, one real fact",
+      "text": "പക്ഷേ ഒരു പ്രശ്നമുണ്ട്: വേഗത പത്തിരട്ടിയാകുമ്പോൾ, ശരീരത്തിന്റെ ചലനോർജ്ജം നൂറിരട്ടിയാകും. ചെറിയൊരു കാൽതെറ്റൽ പോലും എഴുപത് കിലോമീറ്റർ വേഗതയിലുള്ള കാർ അപകടത്തിന് തുല്യമാണ്. ഇത് സത്യമാണ്."
+    },
+    {
+      "beat": "5-7 folded into a threat",
+      "text": "അടുത്ത ചുവട് വെക്കുന്നതിന് മുൻപ്... നിങ്ങൾക്ക് നിൽക്കാൻ കഴിയുമോ?"
+    }
+  ],
+  "science": [
+    {
+      "claim": "വേഗത പത്തിരട്ടിയാകുമ്പോൾ, ശരീരത്തിന്റെ ചലനോർജ്ജം നൂറിരട്ടിയാകും. (When velocity increases tenfold, kinetic energy increases a hundredfold.)",
+      "working": "Kinetic energy is quadratic with velocity: E_k = 0.5 * m * v^2. Scaling velocity by 10 increases kinetic energy by (10)^2 = 100.",
+      "source": "Classical Newtonian Mechanics (E_k = 1/2 m v^2)"
+    },
+    {
+      "claim": "ചെറിയൊരു കാൽതെറ്റൽ പോലും എഴുപത് കിലോമീറ്റർ വേഗതയിലുള്ള കാർ അപകടത്തിന് തുല്യമാണ്. (A stumble at 10x sprint speed impacts with the energy of a 70 km/h car crash.)",
+      "working": "A 70 kg human sprinting at 7 m/s (25 km/h) moves at 70 m/s (252 km/h) at 10x speed. E_k = 0.5 * 70 * (70)^2 = 171,500 J = 171.5 kJ. A compact car (890 kg) at 19.6 m/s (70.6 km/h) has E_k = 0.5 * 890 * 19.6^2 = 171,000 J. The impact energy upon tripping is identical to an 890 kg car crashing at 70.6 km/h.",
+      "source": "Vehicular crash impact mechanics; NHTSA vehicle collision kinetic energy standards"
+    }
+  ],
+  "gaps": {
+    "sentence": 0.24,
+    "comma": 0.14,
+    "question": 0.5,
+    "pairs": {
+      "വേഗത|ഒരു": 0.25,
+      "തീർക്കുന്നു|റോഡിലൂടെ": 0.25,
+      "തോന്നുന്നു|മനുഷ്യർക്ക്": 0.4,
+      "ലഭിച്ചാലോ|പക്ഷേ": 0.45,
+      "നൂറിരട്ടിയാകും|ചെറിയൊരു": 0.3,
+      "സത്യമാണ്|അടുത്ത": 0.45
+    }
+  },
+  "cast": [
+    "ramu"
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "study",
+      "key": 10,
+      "note": "Pip at desk in morning study as tea cup tips off edge"
+    },
+    {
+      "id": "S2",
+      "size": "insert",
+      "set": "study (tabletop)",
+      "key": 14,
+      "note": "Teacup falling mid-air; Pip's hand blurs at 10x speed to snatch it"
+    },
+    {
+      "id": "S3",
+      "size": "medium",
+      "set": "study",
+      "key": 12,
+      "note": "Pip smiling in awe, holding the tea cup without a single drop spilled"
+    },
+    {
+      "id": "S4",
+      "size": "insert",
+      "set": "study (desk)",
+      "key": 15,
+      "note": "Pencil blazing across paper; clock shows 60 min of homework solved in 6 mins"
+    },
+    {
+      "id": "S5",
+      "size": "wide",
+      "set": "street",
+      "key": 16,
+      "note": "Pip sprinting down city road; cars appear completely stationary like statues"
+    },
+    {
+      "id": "S6",
+      "size": "wide",
+      "set": "rooftop (title)",
+      "key": 14,
+      "note": "Title card: പത്തിരട്ടി വേഗത ലഭിച്ചാലോ? with 10X SPEED badge and cyan shock ring"
+    },
+    {
+      "id": "S7",
+      "size": "schematic",
+      "set": "schematic",
+      "key": 18,
+      "note": "Schematic: velocity 10x leading to Kinetic Energy 100x"
+    },
+    {
+      "id": "S8",
+      "size": "insert",
+      "set": "street (ground)",
+      "key": 12,
+      "note": "Sneaker sole smoking from extreme asphalt friction at 250 km/h"
+    },
+    {
+      "id": "S9",
+      "size": "medium",
+      "set": "street",
+      "key": 10,
+      "note": "Pip trips on a small pavement crack; shockwave sparks erupt"
+    },
+    {
+      "id": "S10",
+      "size": "schematic",
+      "set": "schematic",
+      "key": 16,
+      "note": "Schematic comparison: 171.5 kJ human impact equals 70 km/h car crash"
+    },
+    {
+      "id": "S11",
+      "size": "close-up",
+      "set": "street",
+      "key": 14,
+      "note": "Pip's terrified face as sonic compression cone wraps his head"
+    },
+    {
+      "id": "S12",
+      "size": "wide",
+      "set": "street",
+      "key": 16,
+      "note": "Pip desperately leaning back trying to brake, fire trails gouging road"
+    }
+  ],
+  "edit": [
+    { "shot": "S1", "at": "മേശപ്പുറത്തുനിന്ന്" },
+    { "shot": "S2", "at": "ചായക്കപ്പ്" },
+    { "shot": "S3", "at": "പിടിക്കുന്നു" },
+    { "shot": "S4", "at": "ഒരു" },
+    { "shot": "S5", "at": "റോഡിലൂടെ" },
+    { "shot": "S6", "at": "മനുഷ്യർക്ക്" },
+    { "shot": "S7", "at": "പക്ഷേ" },
+    { "shot": "S8", "at": "നൂറിരട്ടിയാകും" },
+    { "shot": "S9", "at": "ചെറിയൊരു" },
+    { "shot": "S10", "at": "എഴുപത്" },
+    { "shot": "S11", "at": "സത്യമാണ്" },
+    { "shot": "S12", "at": "അടുത്ത" }
+  ],
+  "fx": [
+    { "at": "S2+10", "kind": "flash" },
+    { "at": "S6+2", "kind": "flash" },
+    { "at": "S9+4", "kind": "flash" }
+  ],
+  "sound": {
+    "levels": {
+      "sfx_lu": -1.5,
+      "music_lu": -9.5
+    },
+    "music": {
+      "clip": "music",
+      "until": "S6"
+    },
+    "clips": {
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        17.0
+      ],
+      "clink": [
+        "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+        0.7
+      ],
+      "fall_whoosh": [
+        "a small object falling fast through the air, short soft whoosh",
+        0.6
+      ],
+      "catch": [
+        "a hand catching a ceramic mug mid-air, soft slap and thud",
+        0.5
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "crack": [
+        "glass cracking sharply, the crack spreading across a pane",
+        1.1
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "shatter": [
+        "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
+        1.3
+      ]
+    },
+    "events": [
+      [
+        "S1",
+        "room_tone",
+        0.14,
+        "onset",
+        "S5"
+      ],
+      [
+        "S1+8",
+        "clink",
+        0.35
+      ],
+      [
+        "S2+2",
+        "fall_whoosh",
+        0.5
+      ],
+      [
+        "S2+10",
+        "catch",
+        0.65
+      ],
+      [
+        "S3+4",
+        "sparkle",
+        0.45
+      ],
+      [
+        "S4+10",
+        "counter_tick",
+        0.4
+      ],
+      [
+        "S5",
+        "roof_wind",
+        0.25,
+        "onset",
+        "S6"
+      ],
+      [
+        "S6",
+        "title_boom",
+        0.75,
+        "peak"
+      ],
+      [
+        "S7",
+        "counter_tick",
+        0.45
+      ],
+      [
+        "S8+6",
+        "drone_hit",
+        0.5
+      ],
+      [
+        "S9+4",
+        "crack",
+        0.75,
+        "peak"
+      ],
+      [
+        "S10",
+        "counter_tick",
+        0.4
+      ],
+      [
+        "S11+4",
+        "drone_hit",
+        0.7,
+        "peak"
+      ],
+      [
+        "S12+6",
+        "shatter",
+        0.8,
+        "peak"
+      ]
+    ]
+  }
+}

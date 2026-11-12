@@ -1,0 +1,213 @@
+{
+  "id": "TestMl",
+  "slug": "test-ml",
+  "topic": "Pipeline test: what if the monsoon skipped June 1? (10 s, 9:16, not for upload)",
+  "title": [
+    "ജൂൺ ഒന്നിന്",
+    "മഴ വന്നില്ലെങ്കിലോ?"
+  ],
+  "accent": "മഴ",
+  "language": "ml",
+  "voice": {
+    "engine": "edge-tts",
+    "id": "ml-IN-SobhanaNeural",
+    "language": "Malayalam (India)",
+    "rate": "+0%"
+  },
+  "format": {
+    "width": 1080,
+    "height": 1920
+  },
+  "gaps": {
+    "word": 0.1,
+    "comma": 0.3,
+    "sentence": 0.5,
+    "question": 0.6,
+    "pairs": {
+      "കാത്തുനിൽക്കുന്നു|ആകാശം": 1.4
+    }
+  },
+  "cast": [
+    "ramu",
+    "appu"
+  ],
+  "tail": 1.2,
+  "script": [
+    {
+      "beat": "1 premise over a dry yard",
+      "text": "ജൂൺ ഒന്നിന് മഴ വന്നില്ലെങ്കിലോ?"
+    },
+    {
+      "beat": "2 GAG: Ramu waits under an open umbrella, Appu tips a mug of water on it",
+      "text": "നീ കുടയും നിവർത്തി മുറ്റത്ത് കാത്തുനിൽക്കുന്നു.",
+      "hold": 0.8
+    },
+    {
+      "beat": "3 twist + comment question",
+      "text": "ആകാശം പക്ഷേ തെളിഞ്ഞു തന്നെ. നീ ആദ്യം എന്ത് ചെയ്യും?"
+    }
+  ],
+  "science": [
+    {
+      "claim": "The normal date of the southwest monsoon's onset over Kerala is 1 June (standard deviation about 7 days).",
+      "working": "IMD's onset date for Kerala, used as-is",
+      "source": "India Meteorological Department, monsoon onset normal dates (IMD, 2020 revision)"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "yard",
+      "key": 30,
+      "note": "dry cracked yard, Kerala house and palms, Ramu staring up; title"
+    },
+    {
+      "id": "S2",
+      "size": "medium",
+      "set": "yard",
+      "key": 40,
+      "note": "Ramu under an open umbrella, Appu; fact card June 1 (IMD)"
+    },
+    {
+      "id": "S2b",
+      "size": "close-up",
+      "set": "yard",
+      "key": 20,
+      "note": "GAG: Appu tips a mug of water on the umbrella, Ramu beams"
+    },
+    {
+      "id": "S3",
+      "size": "wide",
+      "set": "yard",
+      "key": 60,
+      "note": "twist: the sky stays clear, umbrella down; comment question"
+    },
+    {
+      "id": "S3b",
+      "size": "close-up",
+      "set": "yard",
+      "key": 40,
+      "note": "Ramu's face, empty sky in his eyes; the comment question"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "നീ"
+    },
+    {
+      "shot": "S2b",
+      "at": "s:4.6"
+    },
+    {
+      "shot": "S3",
+      "at": "ആകാശം"
+    },
+    {
+      "shot": "S3b",
+      "at": "നീ"
+    }
+  ],
+  "fx": [
+    {
+      "at": "S3",
+      "kind": "flash",
+      "o": 0.3
+    }
+  ],
+  "sound": {
+    "levels": {
+      "sfx_lu": -4.5,
+      "music_lu": -13
+    },
+    "music": {
+      "clip": "music",
+      "loop": true
+    },
+    "clips": {
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        17.0
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "fall_whoosh": [
+        "a small object falling fast through the air, short soft whoosh",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "S1",
+        "roof_wind",
+        0.07,
+        "onset",
+        "S3"
+      ],
+      [
+        "S1+2",
+        "title_boom",
+        0.3,
+        "peak"
+      ],
+      [
+        "S2+2",
+        "pop",
+        0.35
+      ],
+      [
+        "S2+8",
+        "ding",
+        0.3
+      ],
+      [
+        "S2b+8",
+        "fall_whoosh",
+        0.3
+      ],
+      [
+        "S2b+20",
+        "sparkle",
+        0.25
+      ],
+      [
+        "S3",
+        "roof_wind",
+        0.07
+      ],
+      [
+        "S3+2",
+        "pop",
+        0.3
+      ],
+      [
+        "S3b+2",
+        "pop",
+        0.3
+      ]
+    ]
+  }
+}

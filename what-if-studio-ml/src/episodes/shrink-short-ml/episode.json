@@ -1,0 +1,390 @@
+{
+  "id": "ShrinkShortMl",
+  "slug": "shrink-short-ml",
+  "topic": "What if you shrank to half your size every time you slept? (Short, 9:16; our own rule: one halving per night, not per hour)",
+  "title": [
+    "ഓരോ ഉറക്കത്തിലും",
+    "പകുതിയായാൽ?"
+  ],
+  "accent": "പകുതി",
+  "language": "ml",
+  "voice": {
+    "engine": "edge-tts",
+    "id": "ml-IN-SobhanaNeural",
+    "language": "Malayalam (India)",
+    "rate": "+0%"
+  },
+  "format": {
+    "width": 1080,
+    "height": 1920
+  },
+  "gaps": {
+    "word": 0.1,
+    "comma": 0.3,
+    "sentence": 0.5,
+    "question": 0.6,
+    "pairs": {
+      "എത്തുന്നു|മൂന്നാം": 1.3,
+      "മതിൽ|ഇത്ര": 1.3,
+      "ചെയ്യും|അഞ്ചാം": 1.6,
+      "തുടങ്ങി|ഈ": 1.4,
+      "വലിപ്പം|ഇന്ന്": 1.1
+    }
+  },
+  "cast": [
+    "ramu",
+    "appu",
+    "mom"
+  ],
+  "tail": 1.0,
+  "script": [
+    {
+      "beat": "1 premise: Ramu wakes tiny on a giant pillow, the alarm clock towers over him",
+      "text": "ഓരോ തവണ ഉറങ്ങി എണീക്കുമ്പോഴും നീ പകുതിയായാലോ?"
+    },
+    {
+      "beat": "2 day 1, 80 cm, GAG: uniform shirt trails to his feet, amma at the dosa pan stares",
+      "text": "ഒന്നാം ദിവസം, എൺപത് സെന്റിമീറ്റർ. യൂണിഫോം ഷർട്ട് കാലു വരെ എത്തുന്നു.",
+      "hold": 0.7
+    },
+    {
+      "beat": "2 day 3, 20 cm, GAG: the KSRTC bus step is a wall, Appu lifts him on by the hood",
+      "text": "മൂന്നാം ദിവസം, ഇരുപത്. ബസ്സിന്റെ പടി നിനക്കിപ്പോൾ ഒരു മതിൽ.",
+      "hold": 0.7
+    },
+    {
+      "beat": "3 mid question, Ramu thinking on the table edge",
+      "text": "ഇത്ര ചെറുതായാൽ, നീ ആദ്യം എന്ത് ചെയ്യും?",
+      "hold": 1.0
+    },
+    {
+      "beat": "4 day 5, 5 cm, GAG: the house cat looks at him differently, licks its lips",
+      "text": "അഞ്ചാം ദിവസം, അഞ്ച് സെന്റിമീറ്റർ. വീട്ടിലെ പൂച്ച നിന്നെ വേറൊരു രീതിയിൽ നോക്കാൻ തുടങ്ങി.",
+      "hold": 0.8
+    },
+    {
+      "beat": "4 the real fact (fact card: 1,500 beats a minute)",
+      "text": "ഈ വലിപ്പമുള്ള ചുണ്ടെലിയുടെ ഹൃദയം, മിനിറ്റിൽ ആയിരത്തഞ്ഞൂറ് തവണ മിടിക്കും. നിന്റേത് എഴുപത്."
+    },
+    {
+      "beat": "5 the twist",
+      "text": "പക്ഷേ നീ ഒരിക്കലും പൂജ്യം ആവില്ല. ഇരുപത്തിനാലാം ദിവസം, നീ ഒരു പനി വൈറസിന്റെ വലിപ്പം.",
+      "hold": 0.5
+    },
+    {
+      "beat": "6 comment question",
+      "text": "ഇന്ന് രാത്രി, നീ ഉറങ്ങുമോ?"
+    }
+  ],
+  "science": [
+    {
+      "claim": "Starting at 160 cm and halving once a night: 80 cm on day 1, 20 cm on day 3, 5 cm on day 5, about 95 nm on day 24.",
+      "working": "160 / 2^n cm. n=1: 80; n=3: 20; n=5: 5; n=24: 160 / 16,777,216 = 9.5e-6 cm = 95 nm. Halving never reaches zero.",
+      "source": "arithmetic"
+    },
+    {
+      "claim": "The Etruscan shrew, about 4-5 cm long, has a heart rate of up to about 1,500 beats a minute; a resting human heart beats about 60-100 (70 is typical).",
+      "working": "Etruscan shrew head-body length about 3.5-5.2 cm; maximum recorded heart rate 1,511 per minute. Human resting 60-100 bpm.",
+      "source": "Jürgens et al. 1996, 'Heart and respiratory rates ... in the smallest mammal, the Etruscan shrew Suncus etruscus', J Exp Biol 199:2579-2584; American Heart Association (resting heart rate)"
+    },
+    {
+      "claim": "An influenza virus particle is about 80-120 nm across.",
+      "working": "Influenza virions are roughly spherical, 80-120 nm. 95 nm sits inside that range.",
+      "source": "CDC / standard virology texts (influenza virion 80-120 nm)"
+    }
+  ],
+  "shots": [
+    {
+      "id": "A1",
+      "size": "wide",
+      "set": "bedroom morning",
+      "key": 20,
+      "note": "HOOK + title: tiny Ramu stands on the giant pillow, the bedside alarm clock towers over him, morning light"
+    },
+    {
+      "id": "A2",
+      "size": "close-up",
+      "set": "bedroom",
+      "key": 20,
+      "note": "Ramu's shock close-up, the pillow's weave huge behind him, a hair-thin blanket thread"
+    },
+    {
+      "id": "B1",
+      "size": "medium",
+      "set": "doorway",
+      "key": 24,
+      "note": "day 1, 80 cm: Ramu at the door frame beside amma's pencil height marks, the new mark half way down"
+    },
+    {
+      "id": "B2",
+      "size": "wide",
+      "set": "veranda",
+      "key": 70,
+      "note": "GAG: Ramu walks out in his uniform shirt trailing to the floor like a gown, Appu at the gate doubles up laughing"
+    },
+    {
+      "id": "C1",
+      "size": "low",
+      "set": "bus stop",
+      "key": 30,
+      "note": "day 3, 20 cm: low angle, the red bus's first step is a wall above Ramu, schoolbag on his back"
+    },
+    {
+      "id": "C2",
+      "size": "medium",
+      "set": "bus stop",
+      "key": 40,
+      "note": "GAG: Appu lifts Ramu up the step by his hood, Ramu dangling, legs pedalling"
+    },
+    {
+      "id": "D1",
+      "size": "close-up",
+      "set": "dining table",
+      "key": 40,
+      "note": "mid question: Ramu sits on the rim of a steel plate beside a glass of chaya, thinking"
+    },
+    {
+      "id": "E1",
+      "size": "low",
+      "set": "floor",
+      "key": 40,
+      "note": "day 5, 5 cm: floor level, Ramu on the red-oxide floor, the house cat's paws and face loom in"
+    },
+    {
+      "id": "E2",
+      "size": "close-up",
+      "set": "floor",
+      "key": 36,
+      "note": "GAG: the cat's huge face, it licks its lips; Ramu tiny in front, shock"
+    },
+    {
+      "id": "F1",
+      "size": "medium",
+      "set": "leaf",
+      "key": 70,
+      "note": "fact: Ramu beside a shrew of the same size on the floor, the shrew's heart pulses fast; fact card 1,500 a minute"
+    },
+    {
+      "id": "F2",
+      "size": "close-up",
+      "set": "leaf",
+      "key": 20,
+      "note": "Ramu shivering, arms wrapped, breath; the fact card stays"
+    },
+    {
+      "id": "G1",
+      "size": "wide",
+      "set": "void",
+      "key": 30,
+      "note": "twist: a row of Ramus, each half the last, running into a point that never vanishes"
+    },
+    {
+      "id": "G2",
+      "size": "medium",
+      "set": "micro",
+      "key": 40,
+      "note": "day 24: Ramu floats beside a spiky flu virus of the same size, inside a glinting droplet"
+    },
+    {
+      "id": "H1",
+      "size": "medium",
+      "set": "bedroom night",
+      "key": 40,
+      "note": "comment question: full-size Ramu in bed at night, eyes wide open, alarm clock 11:59, looks at camera"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "A1",
+      "at": "f:0"
+    },
+    {
+      "shot": "A2",
+      "at": "നീ"
+    },
+    {
+      "shot": "B1",
+      "at": "ഒന്നാം"
+    },
+    {
+      "shot": "B2",
+      "at": "യൂണിഫോം"
+    },
+    {
+      "shot": "C1",
+      "at": "മൂന്നാം"
+    },
+    {
+      "shot": "C2",
+      "at": "മതിൽ"
+    },
+    {
+      "shot": "D1",
+      "at": "ഇത്ര"
+    },
+    {
+      "shot": "E1",
+      "at": "അഞ്ചാം"
+    },
+    {
+      "shot": "E2",
+      "at": "നോക്കാൻ"
+    },
+    {
+      "shot": "F1",
+      "at": "ഈ"
+    },
+    {
+      "shot": "F2",
+      "at": "നിന്റേത്"
+    },
+    {
+      "shot": "G1",
+      "at": "പക്ഷേ"
+    },
+    {
+      "shot": "G2",
+      "at": "ഇരുപത്തിനാലാം"
+    },
+    {
+      "shot": "H1",
+      "at": "ഇന്ന്"
+    }
+  ],
+  "fx": [
+    {
+      "at": "G1+3",
+      "kind": "flash",
+      "o": 0.4
+    }
+  ],
+  "sound": {
+    "clips": {
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        17.0
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "gasp": [
+        "two young people gasping in surprise at the same moment, cartoon, short",
+        0.8
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "big_step": [
+        "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+        0.7
+      ]
+    },
+    "events": [
+      [
+        "A1",
+        "room_tone",
+        0.06,
+        "onset",
+        "G1"
+      ],
+      [
+        "A1+1",
+        "title_boom",
+        0.16,
+        "peak"
+      ],
+      [
+        "B1+18",
+        "sparkle",
+        0.2
+      ],
+      [
+        "B2+62",
+        "pop",
+        0.3
+      ],
+      [
+        "B2+66",
+        "gasp",
+        0.2
+      ],
+      [
+        "C2+16",
+        "big_step",
+        0.3
+      ],
+      [
+        "C2+22",
+        "pop",
+        0.25
+      ],
+      [
+        "D1+84",
+        "sparkle",
+        0.3
+      ],
+      [
+        "E1+60",
+        "drone_hit",
+        0.08
+      ],
+      [
+        "E2+32",
+        "pop",
+        0.3
+      ],
+      [
+        "E2+38",
+        "gasp",
+        0.22
+      ],
+      [
+        "F1+57",
+        "ding",
+        0.25
+      ],
+      [
+        "G1+3",
+        "drone_hit",
+        0.14
+      ],
+      [
+        "G2+40",
+        "sparkle",
+        0.25
+      ],
+      [
+        "H1+57",
+        "ding",
+        0.3
+      ]
+    ],
+    "music": {
+      "clip": "music",
+      "until": "G1",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -4.5,
+      "music_lu": -13
+    }
+  }
+}

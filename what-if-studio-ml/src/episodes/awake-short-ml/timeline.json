@@ -1,0 +1,195 @@
+{
+ "slug": "awake-short-ml",
+ "title": "പതിനൊന്ന് ദിവസം ഉറങ്ങാതിരുന്നാൽ?",
+ "fps": 30,
+ "total": 1195,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 91,
+   "t0": 0,
+   "t1": 91,
+   "line": "പതിനൊന്ന് ദിവസം ഉറങ്ങാതിരുന്നാലോ?"
+  },
+  {
+   "shot": "A2",
+   "a": 91,
+   "b": 255,
+   "t0": 0,
+   "t1": 164,
+   "line": "അമേരിക്കയിൽ ഒരു പതിനേഴുകാരൻ ഇത് ശരിക്കും ചെയ്തു. സ്കൂൾ സയൻസ് ഫെയറിന് വേണ്ടി."
+  },
+  {
+   "shot": "B1",
+   "a": 255,
+   "b": 361,
+   "t0": 0,
+   "t1": 106,
+   "line": "മൂന്നാം ദിവസം ഓർമ്മ പിഴച്ചു തുടങ്ങി."
+  },
+  {
+   "shot": "B2",
+   "a": 361,
+   "b": 499,
+   "t0": 0,
+   "t1": 138,
+   "line": "നാലാം ദിവസം താനൊരു ഫുട്ബോൾ താരമാണെന്ന് അവന് തോന്നി."
+  },
+  {
+   "shot": "C1",
+   "a": 499,
+   "b": 614,
+   "t0": 0,
+   "t1": 115,
+   "line": "അഞ്ചാം ദിവസം വീടിനുള്ളിൽ ഒരു കാട്ടുവഴി കണ്ടു."
+  },
+  {
+   "shot": "D1",
+   "a": 614,
+   "b": 719,
+   "t0": 0,
+   "t1": 105,
+   "line": "പതിനൊന്നാം ദിവസം നൂറിൽ നിന്ന് ഏഴ് വീതം കുറയ്ക്കാൻ പറഞ്ഞു."
+  },
+  {
+   "shot": "D2",
+   "a": 719,
+   "b": 781,
+   "t0": 0,
+   "t1": 62,
+   "line": "അറുപത്തഞ്ചിൽ അവൻ നിന്നു."
+  },
+  {
+   "shot": "D3",
+   "a": 781,
+   "b": 930,
+   "t0": 0,
+   "t1": 149,
+   "line": "എന്തേ നിർത്തിയതെന്ന് ചോദിച്ചപ്പോൾ, എന്താ ചെയ്തുകൊണ്ടിരുന്നതെന്ന് മറന്നുപോയി."
+  },
+  {
+   "shot": "E1",
+   "a": 930,
+   "b": 1049,
+   "t0": 0,
+   "t1": 119,
+   "line": "അപകടമാണെന്ന് കണ്ട് ഗിന്നസ് പിന്നീട് ഈ റെക്കോർഡ് തന്നെ നിർത്തി."
+  },
+  {
+   "shot": "F1",
+   "a": 1049,
+   "b": 1195,
+   "t0": 0,
+   "t1": 146,
+   "line": "നീ ഏറ്റവും കൂടുതൽ എത്ര മണിക്കൂർ ഉറങ്ങാതിരുന്നിട്ടുണ്ട്?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "key": 30,
+   "len": 91,
+   "first": 0,
+   "line": "പതിനൊന്ന് ദിവസം ഉറങ്ങാതിരുന്നാലോ?",
+   "note": "HOOK + title: Pip, eyes open, pours tea past the glass; day counter"
+  },
+  {
+   "id": "A2",
+   "size": "wide",
+   "key": 60,
+   "len": 164,
+   "first": 91,
+   "line": "അമേരിക്കയിൽ ഒരു പതിനേഴുകാരൻ ഇത് ശരിക്കും ചെയ്തു. സ്കൂൾ സയൻസ് ഫെയറിന് വേണ്ടി.",
+   "note": "San Diego sky; a real boy, 17, 264 hours; science fair table"
+  },
+  {
+   "id": "B1",
+   "size": "medium",
+   "key": 50,
+   "len": 106,
+   "first": 255,
+   "line": "മൂന്നാം ദിവസം ഓർമ്മ പിഴച്ചു തുടങ്ങി.",
+   "note": "day 3: GAG: amma opens the fridge, Pip's chappal is in it"
+  },
+  {
+   "id": "B2",
+   "size": "wide",
+   "key": 60,
+   "len": 138,
+   "first": 361,
+   "line": "നാലാം ദിവസം താനൊരു ഫുട്ബോൾ താരമാണെന്ന് അവന് തോന്നി.",
+   "note": "day 4: GAG: Pip signs autographs for a goat and a crow"
+  },
+  {
+   "id": "C1",
+   "size": "wide",
+   "key": 50,
+   "len": 115,
+   "first": 499,
+   "line": "അഞ്ചാം ദിവസം വീടിനുള്ളിൽ ഒരു കാട്ടുവഴി കണ്ടു.",
+   "note": "day 5: the hall turns into a forest path, amma calls him from among trees"
+  },
+  {
+   "id": "D1",
+   "size": "medium",
+   "key": 60,
+   "len": 105,
+   "first": 614,
+   "line": "പതിനൊന്നാം ദിവസം നൂറിൽ നിന്ന് ഏഴ് വീതം കുറയ്ക്കാൻ പറഞ്ഞു.",
+   "note": "day 11: 100, 93, 86 written up, Pip grey and slack"
+  },
+  {
+   "id": "D2",
+   "size": "close-up",
+   "key": 30,
+   "len": 62,
+   "first": 719,
+   "line": "അറുപത്തഞ്ചിൽ അവൻ നിന്നു.",
+   "note": "he stops at 65"
+  },
+  {
+   "id": "D3",
+   "size": "close-up",
+   "key": 50,
+   "len": 149,
+   "first": 781,
+   "line": "എന്തേ നിർത്തിയതെന്ന് ചോദിച്ചപ്പോൾ, എന്താ ചെയ്തുകൊണ്ടിരുന്നതെന്ന് മറന്നുപോയി.",
+   "note": "the examiner asks; Pip's blank stare, a fly walks on his nose"
+  },
+  {
+   "id": "E1",
+   "size": "insert",
+   "key": 50,
+   "len": 119,
+   "first": 930,
+   "line": "അപകടമാണെന്ന് കണ്ട് ഗിന്നസ് പിന്നീട് ഈ റെക്കോർഡ് തന്നെ നിർത്തി.",
+   "note": "a record book stamped shut"
+  },
+  {
+   "id": "F1",
+   "size": "medium",
+   "key": 40,
+   "len": 146,
+   "first": 1049,
+   "line": "നീ ഏറ്റവും കൂടുതൽ എത്ര മണിക്കൂർ ഉറങ്ങാതിരുന്നിട്ടുണ്ട്?",
+   "note": "Pip finally falls asleep sitting up; the question on screen"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "o": 0.5,
+   "f": 765
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.5409,
+  "musicVol": 0.1104,
+  "voice": "awake-short-ml/voice.wav",
+  "sfx": "awake-short-ml/sfx.wav",
+  "music": "awake-short-ml/music.wav"
+ }
+}

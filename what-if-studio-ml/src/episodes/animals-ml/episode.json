@@ -1,0 +1,386 @@
+{
+ "id": "AnimalsMl",
+ "slug": "animals-ml",
+ "topic": "What if you could talk to animals? (Malayalam)",
+ "title": [
+  "മൃഗങ്ങളോട്",
+  "സംസാരിക്കാൻ പറ്റിയാലോ?"
+ ],
+ "accent": "സംസാരിക്കാൻ പറ്റിയാലോ?",
+ "language": "ml",
+ "voice": {
+  "engine": "edge-tts",
+  "id": "ml-IN-SobhanaNeural",
+  "language": "Malayalam (India)",
+  "rate": "+0%"
+ },
+ "power": {
+  "word": "കേൾക്കാം",
+  "rule": "you understand every animal and they understand you",
+  "look": "speech bubbles pop from animals with a soft chime"
+ },
+ "script": [
+  {
+   "beat": "1 cold open, demo 1 (domestic)",
+   "text": "പൂച്ച നിന്നെ നോക്കി പറയുന്നു: എനിക്ക് മീൻ വേണം. ഇപ്പോൾ."
+  },
+  {
+   "beat": "1 cold open, demo 2 (funny)",
+   "text": "മോയുടെ പട്ടി പറയുന്നു: അവൻ ഇന്നലെ നിന്റെ ബിസ്കറ്റ് തിന്നു."
+  },
+  {
+   "beat": "1 cold open, demo 3 (uncanny)",
+   "text": "ജനലിൽ ഒരു കാക്ക. അത് നിന്റെ പേര് വിളിക്കുന്നു."
+  },
+  {
+   "beat": "2 the premise (title card)",
+   "text": "മൃഗങ്ങളോട് സംസാരിക്കാൻ പറ്റിയാലോ?"
+  },
+  {
+   "beat": "4 the turn: one real fact",
+   "text": "പക്ഷേ ഒരു പ്രശ്നമുണ്ട്: കാക്കകൾ മനുഷ്യരുടെ മുഖം അഞ്ച് വർഷത്തിലധികം ഓർക്കും. ഇത് സത്യമാണ്. അവ മറ്റ് കാക്കകളോട് പറയുകയും ചെയ്യും."
+  },
+  {
+   "beat": "5-7 folded into a threat",
+   "text": "ഇപ്പോൾ നിനക്ക് അവർ പറയുന്നത് മനസ്സിലാകും... അവർ പറയുന്നത് നിന്നെക്കുറിച്ചാണ്."
+  }
+ ],
+ "science": [
+  {
+   "claim": "കാക്കകൾ മനുഷ്യരുടെ മുഖം അഞ്ച് വർഷത്തിലധികം ഓർക്കും. (Crows remember human faces for more than five years.)",
+   "working": "In the University of Washington mask experiment (begun 2006), crows trapped by people in a 'dangerous' mask kept scolding that mask on sight for 5+ years afterward, while ignoring a neutral mask.",
+   "source": "Marzluff et al. 2010, Animal Behaviour 79:699-707; Cornell, Marzluff & Pecoraro 2012, Proc. R. Soc. B 279:499-508"
+  },
+  {
+   "claim": "അവ മറ്റ് കാക്കകളോട് പറയും. (They pass it on to other crows.)",
+   "working": "Crows that were never trapped, including young born later, learned to scold the dangerous mask by watching others; the number of scolding crows grew over the years.",
+   "source": "Cornell, Marzluff & Pecoraro 2012, Proc. R. Soc. B 279:499-508"
+  }
+ ],
+ "cast": [
+  "ramu",
+  "appu"
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 14,
+   "note": "Pip in the kitchen, the cat sits by its empty bowl and looks up at him"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "set": "kitchen (floor)",
+   "key": 12,
+   "note": "cat close-up, speech bubble: fish, now"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 10,
+   "note": "Pip jolts back in shock"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 14,
+   "note": "Mo and his dog on the rooftop at dusk, Pip beside them"
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 12,
+   "note": "dog close-up, bubble with a biscuit and an arrow at Mo"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 12,
+   "note": "Mo caught: oops face, biscuit crumbs on his jacket"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 14,
+   "note": "bedroom at dusk, a crow lands on the window sill"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "set": "bedroom (window)",
+   "key": 12,
+   "note": "crow close-up, bubble: PIP!"
+  },
+  {
+   "id": "S9",
+   "size": "title",
+   "set": "title",
+   "key": 15,
+   "note": "title card"
+  },
+  {
+   "id": "S10",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 22,
+   "note": "schematic: crow scans a human face, face outline locks in"
+  },
+  {
+   "id": "S10b",
+   "size": "close-up",
+   "set": "schematic",
+   "key": 30,
+   "note": "crow eye close-up, year counter 1..5+ and the face kept in memory"
+  },
+  {
+   "id": "S11",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 22,
+   "note": "schematic: one crow tells others, the network of crows spreads"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 14,
+   "note": "power line full of crows, all heads turn to Pip"
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 12,
+   "note": "Pip close-up, whisper bubbles around him; fade to black"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "പൂച്ച"
+  },
+  {
+   "shot": "S2",
+   "at": "എനിക്ക്"
+  },
+  {
+   "shot": "S3",
+   "at": "ഇപ്പോൾ"
+  },
+  {
+   "shot": "S4",
+   "at": "മോയുടെ"
+  },
+  {
+   "shot": "S5",
+   "at": "അവൻ"
+  },
+  {
+   "shot": "S6",
+   "at": "ബിസ്കറ്റ്"
+  },
+  {
+   "shot": "S7",
+   "at": "ജനലിൽ"
+  },
+  {
+   "shot": "S8",
+   "at": "അത്"
+  },
+  {
+   "shot": "S9",
+   "at": "മൃഗങ്ങളോട്"
+  },
+  {
+   "shot": "S10",
+   "at": "പക്ഷേ"
+  },
+  {
+   "shot": "S10b",
+   "at": "അഞ്ച്"
+  },
+  {
+   "shot": "S11",
+   "at": "അവ"
+  },
+  {
+   "shot": "S12",
+   "at": "ഇപ്പോൾ"
+  },
+  {
+   "shot": "S13",
+   "at": "അവർ#2"
+  }
+ ],
+ "fx": [
+  {
+   "at": "S9",
+   "kind": "flash"
+  },
+  {
+   "at": "S3",
+   "kind": "shake",
+   "len": 6,
+   "amp": 8
+  }
+ ],
+ "sound": {
+  "levels": {
+   "sfx_lu": -3,
+   "music_lu": -9.5
+  },
+  "music": {
+   "clip": "music",
+   "until": "S9"
+  },
+  "clips": {
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "cat_chirp": [
+    "a cat making a short curious chirp meow",
+    0.6
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "S1",
+    "room_tone",
+    0.07,
+    "onset",
+    "S4"
+   ],
+   [
+    "S1+8",
+    "cat_chirp",
+    0.35
+   ],
+   [
+    "S2+2",
+    "pop",
+    0.4
+   ],
+   [
+    "S3",
+    "gasp",
+    0.4
+   ],
+   [
+    "S4",
+    "roof_wind",
+    0.08,
+    "onset",
+    "S7"
+   ],
+   [
+    "S5+1",
+    "pop",
+    0.4
+   ],
+   [
+    "S6+30",
+    "laugh",
+    0.15
+   ],
+   [
+    "S7",
+    "room_tone",
+    0.07,
+    "onset",
+    "S9"
+   ],
+   [
+    "S7+6",
+    "step",
+    0.3
+   ],
+   [
+    "S8+8",
+    "pop",
+    0.4
+   ],
+   [
+    "S9",
+    "title_boom",
+    0.75,
+    "peak"
+   ],
+   [
+    "S10+6",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S10b+4",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S11+4",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S12",
+    "roof_wind",
+    0.08,
+    "onset",
+    "S13"
+   ],
+   [
+    "S13+2",
+    "drone_hit",
+    0.28,
+    "peak"
+   ]
+  ]
+ }
+}

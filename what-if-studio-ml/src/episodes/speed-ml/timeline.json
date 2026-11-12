@@ -1,0 +1,236 @@
+{
+ "slug": "speed-ml",
+ "title": "പത്തിരട്ടി വേഗത ലഭിച്ചാലോ?",
+ "fps": 30,
+ "total": 892,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 44,
+   "t0": 0,
+   "t1": 44,
+   "line": "മേശപ്പുറത്തുനിന്ന് വീഴുന്ന"
+  },
+  {
+   "shot": "S2",
+   "a": 44,
+   "b": 99,
+   "t0": 0,
+   "t1": 55,
+   "line": "ചായക്കപ്പ് നിലത്തു തട്ടുന്നതിന് മുൻപ്"
+  },
+  {
+   "shot": "S3",
+   "a": 99,
+   "b": 158,
+   "t0": 0,
+   "t1": 59,
+   "line": "പിടിക്കുന്നു. പത്തിരട്ടി വേഗത."
+  },
+  {
+   "shot": "S4",
+   "a": 158,
+   "b": 257,
+   "t0": 0,
+   "t1": 99,
+   "line": "ഒരു മണിക്കൂറിലെ ഗൃഹപാഠം വെറും ആറ് മിനിറ്റിൽ തീർക്കുന്നു."
+  },
+  {
+   "shot": "S5",
+   "a": 257,
+   "b": 349,
+   "t0": 0,
+   "t1": 92,
+   "line": "റോഡിലൂടെ ഓടുമ്പോൾ കാറുകൾ നിശ്ചലമായി തോന്നുന്നു."
+  },
+  {
+   "shot": "S6",
+   "a": 349,
+   "b": 425,
+   "t0": 0,
+   "t1": 76,
+   "line": "മനുഷ്യർക്ക് പത്തിരട്ടി വേഗത ലഭിച്ചാലോ?"
+  },
+  {
+   "shot": "S7",
+   "a": 425,
+   "b": 549,
+   "t0": 0,
+   "t1": 124,
+   "line": "പക്ഷേ ഒരു പ്രശ്നമുണ്ട്: വേഗത പത്തിരട്ടിയാകുമ്പോൾ, ശരീരത്തിന്റെ ചലനോർജ്ജം"
+  },
+  {
+   "shot": "S8",
+   "a": 549,
+   "b": 582,
+   "t0": 0,
+   "t1": 33,
+   "line": "നൂറിരട്ടിയാകും."
+  },
+  {
+   "shot": "S9",
+   "a": 582,
+   "b": 625,
+   "t0": 0,
+   "t1": 43,
+   "line": "ചെറിയൊരു കാൽതെറ്റൽ പോലും"
+  },
+  {
+   "shot": "S10",
+   "a": 625,
+   "b": 732,
+   "t0": 0,
+   "t1": 107,
+   "line": "എഴുപത് കിലോമീറ്റർ വേഗതയിലുള്ള കാർ അപകടത്തിന് തുല്യമാണ്. ഇത്"
+  },
+  {
+   "shot": "S11",
+   "a": 732,
+   "b": 763,
+   "t0": 0,
+   "t1": 31,
+   "line": "സത്യമാണ്."
+  },
+  {
+   "shot": "S12",
+   "a": 763,
+   "b": 892,
+   "t0": 0,
+   "t1": 129,
+   "line": "അടുത്ത ചുവട് വെക്കുന്നതിന് മുൻപ്... നിങ്ങൾക്ക് നിൽക്കാൻ കഴിയുമോ?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 10,
+   "len": 44,
+   "first": 0,
+   "line": "മേശപ്പുറത്തുനിന്ന് വീഴുന്ന",
+   "note": "Pip at desk in morning study as tea cup tips off edge"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 14,
+   "len": 55,
+   "first": 44,
+   "line": "ചായക്കപ്പ് നിലത്തു തട്ടുന്നതിന് മുൻപ്",
+   "note": "Teacup falling mid-air; Pip's hand blurs at 10x speed to snatch it"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 12,
+   "len": 59,
+   "first": 99,
+   "line": "പിടിക്കുന്നു. പത്തിരട്ടി വേഗത.",
+   "note": "Pip smiling in awe, holding the tea cup without a single drop spilled"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 15,
+   "len": 99,
+   "first": 158,
+   "line": "ഒരു മണിക്കൂറിലെ ഗൃഹപാഠം വെറും ആറ് മിനിറ്റിൽ തീർക്കുന്നു.",
+   "note": "Pencil blazing across paper; clock shows 60 min of homework solved in 6 mins"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 16,
+   "len": 92,
+   "first": 257,
+   "line": "റോഡിലൂടെ ഓടുമ്പോൾ കാറുകൾ നിശ്ചലമായി തോന്നുന്നു.",
+   "note": "Pip sprinting down city road; cars appear completely stationary like statues"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 14,
+   "len": 76,
+   "first": 349,
+   "line": "മനുഷ്യർക്ക് പത്തിരട്ടി വേഗത ലഭിച്ചാലോ?",
+   "note": "Title card: പത്തിരട്ടി വേഗത ലഭിച്ചാലോ? with 10X SPEED badge and cyan shock ring"
+  },
+  {
+   "id": "S7",
+   "size": "schematic",
+   "key": 18,
+   "len": 124,
+   "first": 425,
+   "line": "പക്ഷേ ഒരു പ്രശ്നമുണ്ട്: വേഗത പത്തിരട്ടിയാകുമ്പോൾ, ശരീരത്തിന്റെ ചലനോർജ്ജം",
+   "note": "Schematic: velocity 10x leading to Kinetic Energy 100x"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 12,
+   "len": 33,
+   "first": 549,
+   "line": "നൂറിരട്ടിയാകും.",
+   "note": "Sneaker sole smoking from extreme asphalt friction at 250 km/h"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 10,
+   "len": 43,
+   "first": 582,
+   "line": "ചെറിയൊരു കാൽതെറ്റൽ പോലും",
+   "note": "Pip trips on a small pavement crack; shockwave sparks erupt"
+  },
+  {
+   "id": "S10",
+   "size": "schematic",
+   "key": 16,
+   "len": 107,
+   "first": 625,
+   "line": "എഴുപത് കിലോമീറ്റർ വേഗതയിലുള്ള കാർ അപകടത്തിന് തുല്യമാണ്. ഇത്",
+   "note": "Schematic comparison: 171.5 kJ human impact equals 70 km/h car crash"
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "key": 14,
+   "len": 31,
+   "first": 732,
+   "line": "സത്യമാണ്.",
+   "note": "Pip's terrified face as sonic compression cone wraps his head"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 16,
+   "len": 129,
+   "first": 763,
+   "line": "അടുത്ത ചുവട് വെക്കുന്നതിന് മുൻപ്... നിങ്ങൾക്ക് നിൽക്കാൻ കഴിയുമോ?",
+   "note": "Pip desperately leaning back trying to brake, fire trails gouging road"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "f": 54
+  },
+  {
+   "kind": "flash",
+   "f": 351
+  },
+  {
+   "kind": "flash",
+   "f": 586
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.5048,
+  "musicVol": 0.1268,
+  "voice": "speed-ml/voice.wav",
+  "sfx": "speed-ml/sfx.wav",
+  "music": "speed-ml/music.wav"
+ }
+}

@@ -1,0 +1,1430 @@
+{
+ "slug": "sea-ml",
+ "title": "കടൽ ഒരു മീറ്റർ പൊങ്ങിയാൽ?",
+ "fps": 30,
+ "total": 8960,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 52,
+   "t0": 0,
+   "t1": 52,
+   "line": "നാൽപ്പതാം ദിവസം. നീ"
+  },
+  {
+   "shot": "A2",
+   "a": 52,
+   "b": 118,
+   "t0": 0,
+   "t1": 66,
+   "line": "തുഴയുന്നത് സ്വന്തം വയലിന് മുകളിലൂടെ."
+  },
+  {
+   "shot": "A3",
+   "a": 118,
+   "b": 146,
+   "t0": 0,
+   "t1": 28,
+   "line": ""
+  },
+  {
+   "shot": "A4",
+   "a": 146,
+   "b": 174,
+   "t0": 0,
+   "t1": 28,
+   "line": ""
+  },
+  {
+   "shot": "A5",
+   "a": 174,
+   "b": 199,
+   "t0": 0,
+   "t1": 25,
+   "line": ""
+  },
+  {
+   "shot": "A6",
+   "a": 199,
+   "b": 243,
+   "t0": 0,
+   "t1": 44,
+   "line": "അമ്മ ഒന്നേ പറഞ്ഞുള്ളൂ."
+  },
+  {
+   "shot": "A7",
+   "a": 243,
+   "b": 298,
+   "t0": 0,
+   "t1": 55,
+   "line": "തട്ടിൻപുറത്തെ വിത്ത് ചാക്ക് എടുക്കണം."
+  },
+  {
+   "shot": "A8",
+   "a": 298,
+   "b": 324,
+   "t0": 0,
+   "t1": 26,
+   "line": ""
+  },
+  {
+   "shot": "A9",
+   "a": 324,
+   "b": 369,
+   "t0": 0,
+   "t1": 45,
+   "line": ""
+  },
+  {
+   "shot": "A10",
+   "a": 369,
+   "b": 389,
+   "t0": 0,
+   "t1": 20,
+   "line": "ചാക്ക് അവിടെയുണ്ട്."
+  },
+  {
+   "shot": "A11",
+   "a": 389,
+   "b": 438,
+   "t0": 0,
+   "t1": 49,
+   "line": ""
+  },
+  {
+   "shot": "A12",
+   "a": 438,
+   "b": 524,
+   "t0": 0,
+   "t1": 86,
+   "line": "അടിഭാഗം നനഞ്ഞിരിക്കുന്നു."
+  },
+  {
+   "shot": "B1",
+   "a": 524,
+   "b": 614,
+   "t0": 0,
+   "t1": 90,
+   "line": "നാൽപ്പത് ദിവസം മുമ്പ്. കുട്ടനാട്."
+  },
+  {
+   "shot": "B2",
+   "a": 614,
+   "b": 660,
+   "t0": 0,
+   "t1": 46,
+   "line": "കൊയ്ത്തിന് ഇനി പതിനാല് ദിവസം."
+  },
+  {
+   "shot": "B3",
+   "a": 660,
+   "b": 718,
+   "t0": 0,
+   "t1": 58,
+   "line": ""
+  },
+  {
+   "shot": "B4",
+   "a": 718,
+   "b": 751,
+   "t0": 0,
+   "t1": 33,
+   "line": "തോട്ടിലെ വെള്ളം നിന്റെ"
+  },
+  {
+   "shot": "B5",
+   "a": 751,
+   "b": 814,
+   "t0": 0,
+   "t1": 63,
+   "line": "കാലിൽ വന്നു തൊട്ടു."
+  },
+  {
+   "shot": "B6",
+   "a": 814,
+   "b": 895,
+   "t0": 0,
+   "t1": 81,
+   "line": "തിരയില്ല. ശബ്ദമില്ല."
+  },
+  {
+   "shot": "B7",
+   "a": 895,
+   "b": 1015,
+   "t0": 0,
+   "t1": 120,
+   "line": "നേരം വെളുത്തപ്പോൾ ലോകത്തെ എല്ലാ കടലും ഒരു മീറ്റർ മുകളിൽ."
+  },
+  {
+   "shot": "B8",
+   "a": 1015,
+   "b": 1127,
+   "t0": 0,
+   "t1": 112,
+   "line": "കടൽ ഒരു മീറ്റർ പൊങ്ങിയാലോ?"
+  },
+  {
+   "shot": "C1",
+   "a": 1127,
+   "b": 1185,
+   "t0": 0,
+   "t1": 58,
+   "line": "ആദ്യത്തെ ദിവസം നാടിന് ഉത്സവമായിരുന്നു."
+  },
+  {
+   "shot": "C2",
+   "a": 1185,
+   "b": 1241,
+   "t0": 0,
+   "t1": 56,
+   "line": ""
+  },
+  {
+   "shot": "C3",
+   "a": 1241,
+   "b": 1297,
+   "t0": 0,
+   "t1": 56,
+   "line": ""
+  },
+  {
+   "shot": "C4",
+   "a": 1297,
+   "b": 1404,
+   "t0": 0,
+   "t1": 107,
+   "line": ""
+  },
+  {
+   "shot": "C5",
+   "a": 1404,
+   "b": 1447,
+   "t0": 0,
+   "t1": 43,
+   "line": "ചെല്ലാനത്ത് നിന്ന് അപ്പു വിളിച്ചു."
+  },
+  {
+   "shot": "C6",
+   "a": 1447,
+   "b": 1513,
+   "t0": 0,
+   "t1": 66,
+   "line": ""
+  },
+  {
+   "shot": "C7",
+   "a": 1513,
+   "b": 1668,
+   "t0": 0,
+   "t1": 155,
+   "line": ""
+  },
+  {
+   "shot": "C8",
+   "a": 1668,
+   "b": 1836,
+   "t0": 0,
+   "t1": 168,
+   "line": "അത്രയല്ലേ ഉള്ളൂ എന്ന് നാട്ടുകാർ ചിരിച്ചു."
+  },
+  {
+   "shot": "C9",
+   "a": 1836,
+   "b": 2073,
+   "t0": 0,
+   "t1": 237,
+   "line": "കേരളത്തിലെ പതിനാലിൽ ഒമ്പത് ജില്ലകളും കടലിനോട് ചേർന്നാണ്."
+  },
+  {
+   "shot": "D1",
+   "a": 2073,
+   "b": 2156,
+   "t0": 0,
+   "t1": 83,
+   "line": "മൂന്നാം ദിവസം അമ്മ കിണറ്റിലെ വെള്ളം ഒരു കവിൾ കുടിച്ചു."
+  },
+  {
+   "shot": "D2",
+   "a": 2156,
+   "b": 2297,
+   "t0": 0,
+   "t1": 141,
+   "line": ""
+  },
+  {
+   "shot": "D3",
+   "a": 2297,
+   "b": 2406,
+   "t0": 0,
+   "t1": 109,
+   "line": "ഉപ്പ്."
+  },
+  {
+   "shot": "D4",
+   "a": 2406,
+   "b": 2616,
+   "t0": 0,
+   "t1": 210,
+   "line": "കുട്ടനാട്ടിലെ വയലുകൾ കടലിനേക്കാൾ താഴെയാണ്."
+  },
+  {
+   "shot": "D5",
+   "a": 2616,
+   "b": 2696,
+   "t0": 0,
+   "t1": 80,
+   "line": "ഉപ്പുവെള്ളം തടയാനാണ് തണ്ണീർമുക്കം ബണ്ട്."
+  },
+  {
+   "shot": "D6",
+   "a": 2696,
+   "b": 2883,
+   "t0": 0,
+   "t1": 187,
+   "line": "ഇപ്പോൾ അതിന് അപ്പുറവും ഇപ്പുറവും ഒരേ വെള്ളം."
+  },
+  {
+   "shot": "D7",
+   "a": 2883,
+   "b": 2911,
+   "t0": 0,
+   "t1": 28,
+   "line": "അഞ്ചാം ദിവസം അമ്മ"
+  },
+  {
+   "shot": "D8",
+   "a": 2911,
+   "b": 2957,
+   "t0": 0,
+   "t1": 46,
+   "line": "കലണ്ടറിൽ വെട്ടുന്നത് നിർത്തി."
+  },
+  {
+   "shot": "D9",
+   "a": 2957,
+   "b": 3102,
+   "t0": 0,
+   "t1": 145,
+   "line": ""
+  },
+  {
+   "shot": "E1",
+   "a": 3102,
+   "b": 3145,
+   "t0": 0,
+   "t1": 43,
+   "line": "ഏഴാം ദിവസം. ചെല്ലാനം."
+  },
+  {
+   "shot": "E2",
+   "a": 3145,
+   "b": 3281,
+   "t0": 0,
+   "t1": 136,
+   "line": ""
+  },
+  {
+   "shot": "E3",
+   "a": 3281,
+   "b": 3359,
+   "t0": 0,
+   "t1": 78,
+   "line": "കടലിനെ തടയാൻ കെട്ടിയ മതിൽ."
+  },
+  {
+   "shot": "E4",
+   "a": 3359,
+   "b": 3497,
+   "t0": 0,
+   "t1": 138,
+   "line": "മതിൽ"
+  },
+  {
+   "shot": "E5",
+   "a": 3497,
+   "b": 3591,
+   "t0": 0,
+   "t1": 94,
+   "line": "ഇപ്പോഴും നിൽപ്പുണ്ട്. വെള്ളം വന്നത് പിന്നിൽ നിന്നാണ്."
+  },
+  {
+   "shot": "E6",
+   "a": 3591,
+   "b": 3749,
+   "t0": 0,
+   "t1": 158,
+   "line": ""
+  },
+  {
+   "shot": "E7",
+   "a": 3749,
+   "b": 3822,
+   "t0": 0,
+   "t1": 73,
+   "line": "കൊച്ചിയിൽ മാത്രം ഇത്രയും സ്ഥലം വെള്ളത്തിനടിയിലാകും."
+  },
+  {
+   "shot": "E8",
+   "a": 3822,
+   "b": 3986,
+   "t0": 0,
+   "t1": 164,
+   "line": ""
+  },
+  {
+   "shot": "Q1",
+   "a": 3986,
+   "b": 4152,
+   "t0": 0,
+   "t1": 166,
+   "line": "നീ അവസാനമായി കടലിൽ കാല് നനച്ചത് ഏത് ബീച്ചിലാണ്?"
+  },
+  {
+   "shot": "F1",
+   "a": 4152,
+   "b": 4316,
+   "t0": 0,
+   "t1": 164,
+   "line": "പത്താം ദിവസം രാത്രി വെള്ളം നെഞ്ചോളം."
+  },
+  {
+   "shot": "F2",
+   "a": 4316,
+   "b": 4362,
+   "t0": 0,
+   "t1": 46,
+   "line": "വെളുപ്പിന് ഒരു എഞ്ചിന്റെ ശബ്ദം."
+  },
+  {
+   "shot": "F3",
+   "a": 4362,
+   "b": 4495,
+   "t0": 0,
+   "t1": 133,
+   "line": ""
+  },
+  {
+   "shot": "F4",
+   "a": 4495,
+   "b": 4752,
+   "t0": 0,
+   "t1": 257,
+   "line": "രണ്ടായിരത്തി പതിനെട്ടിൽ ചെയ്ത പോലെ മത്സ്യത്തൊഴിലാളികൾ വീണ്ടും വന്നു."
+  },
+  {
+   "shot": "F5",
+   "a": 4752,
+   "b": 4812,
+   "t0": 0,
+   "t1": 60,
+   "line": "ഇത്തവണ അവർക്ക് തിരിച്ചുപോകാൻ വീടില്ല."
+  },
+  {
+   "shot": "F6",
+   "a": 4812,
+   "b": 4836,
+   "t0": 0,
+   "t1": 24,
+   "line": ""
+  },
+  {
+   "shot": "F7",
+   "a": 4836,
+   "b": 4946,
+   "t0": 0,
+   "t1": 110,
+   "line": ""
+  },
+  {
+   "shot": "F8",
+   "a": 4946,
+   "b": 5102,
+   "t0": 0,
+   "t1": 156,
+   "line": "വിത്ത് ചാക്കിന് വള്ളത്തിൽ സ്ഥലമില്ല."
+  },
+  {
+   "shot": "F9",
+   "a": 5102,
+   "b": 5163,
+   "t0": 0,
+   "t1": 61,
+   "line": "ക്യാമ്പ് നിന്റെ പഴയ സ്കൂളിൽ."
+  },
+  {
+   "shot": "F10",
+   "a": 5163,
+   "b": 5298,
+   "t0": 0,
+   "t1": 135,
+   "line": ""
+  },
+  {
+   "shot": "F11",
+   "a": 5298,
+   "b": 5490,
+   "t0": 0,
+   "t1": 192,
+   "line": "റേഡിയോയിൽ എല്ലായിടത്തും ഇതേ വാർത്ത."
+  },
+  {
+   "shot": "G1",
+   "a": 5490,
+   "b": 5670,
+   "t0": 0,
+   "t1": 180,
+   "line": "ഇരുപതാം ദിവസം ക്യാമ്പിന് മുന്നിൽ ഒരു വെള്ള വണ്ടി."
+  },
+  {
+   "shot": "G2",
+   "a": 5670,
+   "b": 5733,
+   "t0": 0,
+   "t1": 63,
+   "line": "അയാൾക്ക് വെള്ളം കയറിയ നിലം വേണം."
+  },
+  {
+   "shot": "G3",
+   "a": 5733,
+   "b": 5885,
+   "t0": 0,
+   "t1": 152,
+   "line": "പഴയ വിലയുടെ പത്തിലൊന്നിന്."
+  },
+  {
+   "shot": "G4",
+   "a": 5885,
+   "b": 5915,
+   "t0": 0,
+   "t1": 30,
+   "line": "പലരും ഒപ്പിട്ടു."
+  },
+  {
+   "shot": "G5",
+   "a": 5915,
+   "b": 6068,
+   "t0": 0,
+   "t1": 153,
+   "line": ""
+  },
+  {
+   "shot": "G6",
+   "a": 6068,
+   "b": 6314,
+   "t0": 0,
+   "t1": 246,
+   "line": "അപ്പുവിന്റെ വീട്ടുകാർക്ക് ഇത് പുതിയ പേടിയല്ല."
+  },
+  {
+   "shot": "G7",
+   "a": 6314,
+   "b": 6388,
+   "t0": 0,
+   "t1": 74,
+   "line": "അമ്മ കടലാസ് തിരിച്ചുകൊടുത്തു. ഈ നിലം എന്റെ"
+  },
+  {
+   "shot": "G8",
+   "a": 6388,
+   "b": 6556,
+   "t0": 0,
+   "t1": 168,
+   "line": "അപ്പൂപ്പൻ കായലിൽ നിന്ന് കുത്തിയെടുത്തതാണ്."
+  },
+  {
+   "shot": "G9",
+   "a": 6556,
+   "b": 6719,
+   "t0": 0,
+   "t1": 163,
+   "line": "വെള്ളം എന്ന് ഇറങ്ങും, അമ്മേ?"
+  },
+  {
+   "shot": "G10",
+   "a": 6719,
+   "b": 6759,
+   "t0": 0,
+   "t1": 40,
+   "line": "അമ്മ ഒന്നും മിണ്ടിയില്ല."
+  },
+  {
+   "shot": "G11",
+   "a": 6759,
+   "b": 6940,
+   "t0": 0,
+   "t1": 181,
+   "line": "പിറ്റേന്ന് പറഞ്ഞു, ആ വിത്ത് ചാക്ക് എടുത്തിട്ട് വാ."
+  },
+  {
+   "shot": "G12",
+   "a": 6940,
+   "b": 7113,
+   "t0": 0,
+   "t1": 173,
+   "line": "അങ്ങനെയാണ് നീ അവിടെ എത്തിയത്."
+  },
+  {
+   "shot": "H1",
+   "a": 7113,
+   "b": 7154,
+   "t0": 0,
+   "t1": 41,
+   "line": "മുകളിലെ പാതി ഉണങ്ങിയിരുന്നു."
+  },
+  {
+   "shot": "H2",
+   "a": 7154,
+   "b": 7316,
+   "t0": 0,
+   "t1": 162,
+   "line": ""
+  },
+  {
+   "shot": "H3",
+   "a": 7316,
+   "b": 7377,
+   "t0": 0,
+   "t1": 61,
+   "line": "അപ്പുവിന്റെ അച്ഛൻ ഒരു പിടി മണത്തു."
+  },
+  {
+   "shot": "H4",
+   "a": 7377,
+   "b": 7570,
+   "t0": 0,
+   "t1": 193,
+   "line": "ഉപ്പുള്ള മണ്ണിൽ ഇത് മുളയ്ക്കില്ല. പിന്നെ ഒരു പേര് പറഞ്ഞു."
+  },
+  {
+   "shot": "H5",
+   "a": 7570,
+   "b": 7792,
+   "t0": 0,
+   "t1": 222,
+   "line": "പൊക്കാളി. ഉപ്പുവെള്ളത്തിൽ വളരുന്ന നമ്മുടെ സ്വന്തം നെല്ല്."
+  },
+  {
+   "shot": "H6",
+   "a": 7792,
+   "b": 7956,
+   "t0": 0,
+   "t1": 164,
+   "line": "അമ്മ ആദ്യമായി ചിരിച്ചു."
+  },
+  {
+   "shot": "I1",
+   "a": 7956,
+   "b": 8040,
+   "t0": 0,
+   "t1": 84,
+   "line": "ഈ കഥയിൽ ഒന്ന് മാത്രമേ ഞാൻ ഉണ്ടാക്കിയുള്ളൂ."
+  },
+  {
+   "shot": "I2",
+   "a": 8040,
+   "b": 8184,
+   "t0": 0,
+   "t1": 144,
+   "line": "ഒറ്റ രാത്രി എന്നത്."
+  },
+  {
+   "shot": "I3",
+   "a": 8184,
+   "b": 8271,
+   "t0": 0,
+   "t1": 87,
+   "line": "കടൽ ഇതിനകം ഇരുപത് സെന്റിമീറ്റർ പൊങ്ങിക്കഴിഞ്ഞു."
+  },
+  {
+   "shot": "I4",
+   "a": 8271,
+   "b": 8526,
+   "t0": 0,
+   "t1": 255,
+   "line": "ലോകം ഇങ്ങനെ തന്നെ പുക തുപ്പിയാൽ, ഈ നൂറ്റാണ്ട് തീരുമ്പോൾ ഒരു മീറ്ററോളം."
+  },
+  {
+   "shot": "I5",
+   "a": 8526,
+   "b": 8742,
+   "t0": 0,
+   "t1": 216,
+   "line": "പതുക്കെ. ശബ്ദമില്ലാതെ. ആ തോട്ടിലെ വെള്ളം പോലെ."
+  },
+  {
+   "shot": "I6",
+   "a": 8742,
+   "b": 8960,
+   "t0": 0,
+   "t1": 218,
+   "line": "നിന്റെ വീട്ടിൽ നിന്ന് കടലിലേക്കോ കായലിലേക്കോ എത്ര ദൂരമുണ്ട്?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "key": 31,
+   "len": 52,
+   "first": 0,
+   "line": "നാൽപ്പതാം ദിവസം. നീ",
+   "note": "HOOK: day 40, dusk. Ramu rows a vallam over a drowned paddy field; only the red-tile roof pokes out; palms half under water"
+  },
+  {
+   "id": "A2",
+   "size": "close",
+   "key": 40,
+   "len": 66,
+   "first": 52,
+   "line": "തുഴയുന്നത് സ്വന്തം വയലിന് മുകളിലൂടെ.",
+   "note": "Ramu rowing, jaw set, oar dripping, rim light from the low sun"
+  },
+  {
+   "id": "A3",
+   "size": "insert top",
+   "key": 17,
+   "len": 28,
+   "first": 118,
+   "line": "",
+   "note": "top-down through the water: the oar, a sunken varamba and drowned paddy tips"
+  },
+  {
+   "id": "A4",
+   "size": "low wide",
+   "key": 17,
+   "len": 28,
+   "first": 146,
+   "line": "",
+   "note": "low on the water: coconut palms standing half in the flood"
+  },
+  {
+   "id": "A5",
+   "size": "medium",
+   "key": 15,
+   "len": 25,
+   "first": 174,
+   "line": "",
+   "note": "the boat bumps the roof tiles; only the roof out of the water"
+  },
+  {
+   "id": "A6",
+   "size": "close",
+   "key": 26,
+   "len": 44,
+   "first": 199,
+   "line": "അമ്മ ഒന്നേ പറഞ്ഞുള്ളൂ.",
+   "note": "Amma in the camp by a lantern: the seed sack"
+  },
+  {
+   "id": "A7",
+   "size": "insert",
+   "key": 33,
+   "len": 55,
+   "first": 243,
+   "line": "തട്ടിൻപുറത്തെ വിത്ത് ചാക്ക് എടുക്കണം.",
+   "note": "the seed sack in the dark loft, a shaft of light through a gap in the tiles"
+  },
+  {
+   "id": "A8",
+   "size": "medium",
+   "key": 16,
+   "len": 26,
+   "first": 298,
+   "line": "",
+   "note": "Ramu squeezes through the upper window, water to the sill"
+  },
+  {
+   "id": "A9",
+   "size": "low",
+   "key": 27,
+   "len": 45,
+   "first": 324,
+   "line": "",
+   "note": "low angle: Ramu climbs the wooden ladder into the loft"
+  },
+  {
+   "id": "A10",
+   "size": "medium",
+   "key": 12,
+   "len": 20,
+   "first": 369,
+   "line": "ചാക്ക് അവിടെയുണ്ട്.",
+   "note": "Ramu in the loft, the sack in the light shaft"
+  },
+  {
+   "id": "A11",
+   "size": "insert",
+   "key": 29,
+   "len": 49,
+   "first": 389,
+   "line": "",
+   "note": "macro: the hand lands on the sack"
+  },
+  {
+   "id": "A12",
+   "size": "close",
+   "key": 52,
+   "len": 86,
+   "first": 438,
+   "line": "അടിഭാഗം നനഞ്ഞിരിക്കുന്നു.",
+   "note": "the bottom of the sack dark and wet; shock (flash)"
+  },
+  {
+   "id": "B1",
+   "size": "wide",
+   "key": 54,
+   "len": 90,
+   "first": 524,
+   "line": "നാൽപ്പത് ദിവസം മുമ്പ്. കുട്ടനാട്.",
+   "note": "40 days earlier: Kuttanad at night, gold paddy, canal, lit house, moon"
+  },
+  {
+   "id": "B2",
+   "size": "medium",
+   "key": 28,
+   "len": 46,
+   "first": 614,
+   "line": "കൊയ്ത്തിന് ഇനി പതിനാല് ദിവസം.",
+   "note": "Amma crossing a day on the wall calendar by the lamp"
+  },
+  {
+   "id": "B3",
+   "size": "insert",
+   "key": 35,
+   "len": 58,
+   "first": 660,
+   "line": "",
+   "note": "the calendar: crossed days, harvest day circled"
+  },
+  {
+   "id": "B4",
+   "size": "medium",
+   "key": 20,
+   "len": 33,
+   "first": 718,
+   "line": "തോട്ടിലെ വെള്ളം നിന്റെ",
+   "note": "Ramu on the varamba with his phone, feet over the canal"
+  },
+  {
+   "id": "B5",
+   "size": "insert",
+   "key": 38,
+   "len": 63,
+   "first": 751,
+   "line": "കാലിൽ വന്നു തൊട്ടു.",
+   "note": "macro: the canal water touches his toe"
+  },
+  {
+   "id": "B6",
+   "size": "wide",
+   "key": 49,
+   "len": 81,
+   "first": 814,
+   "line": "തിരയില്ല. ശബ്ദമില്ല.",
+   "note": "water rising silently over the varamba, moon on it"
+  },
+  {
+   "id": "B7",
+   "size": "wide",
+   "key": 72,
+   "len": 120,
+   "first": 895,
+   "line": "നേരം വെളുത്തപ്പോൾ ലോകത്തെ എല്ലാ കടലും ഒരു മീറ്റർ മുകളിൽ.",
+   "note": "dawn: everything a metre higher, the house in water up the steps"
+  },
+  {
+   "id": "B8",
+   "size": "wide",
+   "key": 67,
+   "len": 112,
+   "first": 1015,
+   "line": "കടൽ ഒരു മീറ്റർ പൊങ്ങിയാലോ?",
+   "note": "TITLE over the flooded dawn"
+  },
+  {
+   "id": "C1",
+   "size": "wide",
+   "key": 35,
+   "len": 58,
+   "first": 1127,
+   "line": "ആദ്യത്തെ ദിവസം നാടിന് ഉത്സവമായിരുന്നു.",
+   "note": "day 1: kids swimming in the flooded lane, school gate with a holiday board"
+  },
+  {
+   "id": "C2",
+   "size": "medium",
+   "key": 34,
+   "len": 56,
+   "first": 1185,
+   "line": "",
+   "note": "Ramu rowing to tuition with his bag past a half-drowned bus stop"
+  },
+  {
+   "id": "C3",
+   "size": "wide",
+   "key": 34,
+   "len": 56,
+   "first": 1241,
+   "line": "",
+   "note": "the tea shop flooded; chettan hands chaya down from the upstairs window"
+  },
+  {
+   "id": "C4",
+   "size": "insert",
+   "key": 64,
+   "len": 107,
+   "first": 1297,
+   "line": "",
+   "note": "the steel glass of chaya passing from hand to hand"
+  },
+  {
+   "id": "C5",
+   "size": "medium",
+   "key": 26,
+   "len": 43,
+   "first": 1404,
+   "line": "ചെല്ലാനത്ത് നിന്ന് അപ്പു വിളിച്ചു.",
+   "note": "split: Ramu on the phone, Appu on the phone at Chellanam"
+  },
+  {
+   "id": "C6",
+   "size": "wide",
+   "key": 40,
+   "len": 66,
+   "first": 1447,
+   "line": "",
+   "note": "GAG: a fishing vallam parked inside the bus shelter, Appu's dad sitting in it"
+  },
+  {
+   "id": "C7",
+   "size": "high",
+   "key": 93,
+   "len": 155,
+   "first": 1513,
+   "line": "",
+   "note": "GAG: the sister spinning round the yard in an aluminium charuvam"
+  },
+  {
+   "id": "C8",
+   "size": "medium",
+   "key": 101,
+   "len": 168,
+   "first": 1668,
+   "line": "അത്രയല്ലേ ഉള്ളൂ എന്ന് നാട്ടുകാർ ചിരിച്ചു.",
+   "note": "neighbours waist deep, laughing"
+  },
+  {
+   "id": "C9",
+   "size": "map",
+   "key": 142,
+   "len": 237,
+   "first": 1836,
+   "line": "കേരളത്തിലെ പതിനാലിൽ ഒമ്പത് ജില്ലകളും കടലിനോട് ചേർന്നാണ്.",
+   "note": "FACT: Kerala's coast, nine districts lighting up"
+  },
+  {
+   "id": "D1",
+   "size": "medium",
+   "key": 50,
+   "len": 83,
+   "first": 2073,
+   "line": "മൂന്നാം ദിവസം അമ്മ കിണറ്റിലെ വെള്ളം ഒരു കവിൾ കുടിച്ചു.",
+   "note": "day 3: Amma at the well, a sip from the steel tumbler"
+  },
+  {
+   "id": "D2",
+   "size": "close",
+   "key": 85,
+   "len": 141,
+   "first": 2156,
+   "line": "",
+   "note": "Amma spits"
+  },
+  {
+   "id": "D3",
+   "size": "insert",
+   "key": 65,
+   "len": 109,
+   "first": 2297,
+   "line": "ഉപ്പ്.",
+   "note": "the tumbler, a white rim of salt"
+  },
+  {
+   "id": "D4",
+   "size": "schematic",
+   "key": 126,
+   "len": 210,
+   "first": 2406,
+   "line": "കുട്ടനാട്ടിലെ വയലുകൾ കടലിനേക്കാൾ താഴെയാണ്.",
+   "note": "FACT: cross-section, Kuttanad fields below sea level"
+  },
+  {
+   "id": "D5",
+   "size": "wide",
+   "key": 48,
+   "len": 80,
+   "first": 2616,
+   "line": "ഉപ്പുവെള്ളം തടയാനാണ് തണ്ണീർമുക്കം ബണ്ട്.",
+   "note": "FACT: the Thanneermukkom bund across Vembanad"
+  },
+  {
+   "id": "D6",
+   "size": "medium",
+   "key": 112,
+   "len": 187,
+   "first": 2696,
+   "line": "ഇപ്പോൾ അതിന് അപ്പുറവും ഇപ്പുറവും ഒരേ വെള്ളം.",
+   "note": "the bund's shutters, the same water on both sides"
+  },
+  {
+   "id": "D7",
+   "size": "insert",
+   "key": 17,
+   "len": 28,
+   "first": 2883,
+   "line": "അഞ്ചാം ദിവസം അമ്മ",
+   "note": "day 5: paddy leaves turning yellow"
+  },
+  {
+   "id": "D8",
+   "size": "close",
+   "key": 28,
+   "len": 46,
+   "first": 2911,
+   "line": "കലണ്ടറിൽ വെട്ടുന്നത് നിർത്തി.",
+   "note": "Amma's hand stops, pen lowered from the calendar"
+  },
+  {
+   "id": "D9",
+   "size": "wide",
+   "key": 87,
+   "len": 145,
+   "first": 2957,
+   "line": "",
+   "note": "Ramu and Amma at the edge of the dead field"
+  },
+  {
+   "id": "E1",
+   "size": "wide",
+   "key": 26,
+   "len": 43,
+   "first": 3102,
+   "line": "ഏഴാം ദിവസം. ചെല്ലാനം.",
+   "note": "day 7: Chellanam, Chinese nets, Ramu arrives by boat"
+  },
+  {
+   "id": "E2",
+   "size": "wide",
+   "key": 82,
+   "len": 136,
+   "first": 3145,
+   "line": "",
+   "note": "the long tetrapod wall against the sea"
+  },
+  {
+   "id": "E3",
+   "size": "low",
+   "key": 47,
+   "len": 78,
+   "first": 3281,
+   "line": "കടലിനെ തടയാൻ കെട്ടിയ മതിൽ.",
+   "note": "FACT: the wall, low angle"
+  },
+  {
+   "id": "E4",
+   "size": "medium",
+   "key": 83,
+   "len": 138,
+   "first": 3359,
+   "line": "മതിൽ",
+   "note": "Appu's house just behind the wall; his mother stacking pots on the cot"
+  },
+  {
+   "id": "E5",
+   "size": "wide",
+   "key": 56,
+   "len": 94,
+   "first": 3497,
+   "line": "ഇപ്പോഴും നിൽപ്പുണ്ട്. വെള്ളം വന്നത് പിന്നിൽ നിന്നാണ്.",
+   "note": "reveal: the wall dry in front, water coming in from the backwater behind"
+  },
+  {
+   "id": "E6",
+   "size": "medium",
+   "key": 95,
+   "len": 158,
+   "first": 3591,
+   "line": "",
+   "note": "GAG: fish swimming through Appu's kitchen, Appu deadpan"
+  },
+  {
+   "id": "E7",
+   "size": "map",
+   "key": 44,
+   "len": 73,
+   "first": 3749,
+   "line": "കൊച്ചിയിൽ മാത്രം ഇത്രയും സ്ഥലം വെള്ളത്തിനടിയിലാകും.",
+   "note": "FACT: Kochi map flooding blue, 169 sq km"
+  },
+  {
+   "id": "E8",
+   "size": "wide",
+   "key": 98,
+   "len": 164,
+   "first": 3822,
+   "line": "",
+   "note": "Kochi skyline with water at the base of the towers"
+  },
+  {
+   "id": "Q1",
+   "size": "medium",
+   "key": 100,
+   "len": 166,
+   "first": 3986,
+   "line": "നീ അവസാനമായി കടലിൽ കാല് നനച്ചത് ഏത് ബീച്ചിലാണ്?",
+   "note": "MID QUESTION: Ramu on the tetrapods at sunset, thinking"
+  },
+  {
+   "id": "F1",
+   "size": "wide",
+   "key": 98,
+   "len": 164,
+   "first": 4152,
+   "line": "പത്താം ദിവസം രാത്രി വെള്ളം നെഞ്ചോളം.",
+   "note": "day 10 night: water chest-high in your yard"
+  },
+  {
+   "id": "F2",
+   "size": "medium",
+   "key": 28,
+   "len": 46,
+   "first": 4316,
+   "line": "വെളുപ്പിന് ഒരു എഞ്ചിന്റെ ശബ്ദം.",
+   "note": "family on the roof, a headlamp beam; engine sound"
+  },
+  {
+   "id": "F3",
+   "size": "wide",
+   "key": 80,
+   "len": 133,
+   "first": 4362,
+   "line": "",
+   "note": "Appu's dad's boat arrives, lights on"
+  },
+  {
+   "id": "F4",
+   "size": "wide",
+   "key": 154,
+   "len": 257,
+   "first": 4495,
+   "line": "രണ്ടായിരത്തി പതിനെട്ടിൽ ചെയ്ത പോലെ മത്സ്യത്തൊഴിലാളികൾ വീണ്ടും വന്നു.",
+   "note": "FACT: 2018, a line of fishing boats in a flooded street"
+  },
+  {
+   "id": "F5",
+   "size": "close",
+   "key": 36,
+   "len": 60,
+   "first": 4752,
+   "line": "ഇത്തവണ അവർക്ക് തിരിച്ചുപോകാൻ വീടില്ല.",
+   "note": "Appu's dad, moustache, tired"
+  },
+  {
+   "id": "F6",
+   "size": "insert",
+   "key": 14,
+   "len": 24,
+   "first": 4812,
+   "line": "",
+   "note": "Amma takes the deed from the almirah"
+  },
+  {
+   "id": "F7",
+   "size": "insert",
+   "key": 66,
+   "len": 110,
+   "first": 4836,
+   "line": "",
+   "note": "the sister hugs her school bag"
+  },
+  {
+   "id": "F8",
+   "size": "wide",
+   "key": 94,
+   "len": 156,
+   "first": 4946,
+   "line": "വിത്ത് ചാക്കിന് വള്ളത്തിൽ സ്ഥലമില്ല.",
+   "note": "the full boat pulls away; the house behind"
+  },
+  {
+   "id": "F9",
+   "size": "wide",
+   "key": 37,
+   "len": 61,
+   "first": 5102,
+   "line": "ക്യാമ്പ് നിന്റെ പഴയ സ്കൂളിൽ.",
+   "note": "the camp in your old school; you asleep on a bench"
+  },
+  {
+   "id": "F10",
+   "size": "medium",
+   "key": 81,
+   "len": 135,
+   "first": 5163,
+   "line": "",
+   "note": "a radio on a desk, faces round it"
+  },
+  {
+   "id": "F11",
+   "size": "insert",
+   "key": 115,
+   "len": 192,
+   "first": 5298,
+   "line": "റേഡിയോയിൽ എല്ലായിടത്തും ഇതേ വാർത്ത.",
+   "note": "the radio dial; city names"
+  },
+  {
+   "id": "G1",
+   "size": "wide",
+   "key": 108,
+   "len": 180,
+   "first": 5490,
+   "line": "ഇരുപതാം ദിവസം ക്യാമ്പിന് മുന്നിൽ ഒരു വെള്ള വണ്ടി.",
+   "note": "day 20: a big white car at the camp gate, a man in a tie"
+  },
+  {
+   "id": "G2",
+   "size": "close",
+   "key": 38,
+   "len": 63,
+   "first": 5670,
+   "line": "അയാൾക്ക് വെള്ളം കയറിയ നിലം വേണം.",
+   "note": "the suit, smug, holding out a paper"
+  },
+  {
+   "id": "G3",
+   "size": "insert",
+   "key": 91,
+   "len": 152,
+   "first": 5733,
+   "line": "പഴയ വിലയുടെ പത്തിലൊന്നിന്.",
+   "note": "the offer paper: price per cent, crossed old price"
+  },
+  {
+   "id": "G4",
+   "size": "medium",
+   "key": 18,
+   "len": 30,
+   "first": 5885,
+   "line": "പലരും ഒപ്പിട്ടു.",
+   "note": "a queue of neighbours signing"
+  },
+  {
+   "id": "G5",
+   "size": "close",
+   "key": 92,
+   "len": 153,
+   "first": 5915,
+   "line": "",
+   "note": "the suit leaning on the car, checking his watch, no hurry"
+  },
+  {
+   "id": "G6",
+   "size": "medium",
+   "key": 148,
+   "len": 246,
+   "first": 6068,
+   "line": "അപ്പുവിന്റെ വീട്ടുകാർക്ക് ഇത് പുതിയ പേടിയല്ല.",
+   "note": "FACT: Appu's family at their house by the wall"
+  },
+  {
+   "id": "G7",
+   "size": "medium",
+   "key": 44,
+   "len": 74,
+   "first": 6314,
+   "line": "അമ്മ കടലാസ് തിരിച്ചുകൊടുത്തു. ഈ നിലം എന്റെ",
+   "note": "Amma folds the paper and hands it back"
+  },
+  {
+   "id": "G8",
+   "size": "insert",
+   "key": 101,
+   "len": 168,
+   "first": 6388,
+   "line": "അപ്പൂപ്പൻ കായലിൽ നിന്ന് കുത്തിയെടുത്തതാണ്.",
+   "note": "an old photo: grandfather building a bund in the lake"
+  },
+  {
+   "id": "G9",
+   "size": "close",
+   "key": 98,
+   "len": 163,
+   "first": 6556,
+   "line": "വെള്ളം എന്ന് ഇറങ്ങും, അമ്മേ?",
+   "note": "the sister asks"
+  },
+  {
+   "id": "G10",
+   "size": "close",
+   "key": 24,
+   "len": 40,
+   "first": 6719,
+   "line": "അമ്മ ഒന്നും മിണ്ടിയില്ല.",
+   "note": "Amma silent by the lantern"
+  },
+  {
+   "id": "G11",
+   "size": "medium",
+   "key": 109,
+   "len": 181,
+   "first": 6759,
+   "line": "പിറ്റേന്ന് പറഞ്ഞു, ആ വിത്ത് ചാക്ക് എടുത്തിട്ട് വാ.",
+   "note": "morning: Amma tells Ramu"
+  },
+  {
+   "id": "G12",
+   "size": "wide",
+   "key": 104,
+   "len": 173,
+   "first": 6940,
+   "line": "അങ്ങനെയാണ് നീ അവിടെ എത്തിയത്.",
+   "note": "Ramu rowing away into the dusk, matching A1"
+  },
+  {
+   "id": "H1",
+   "size": "insert",
+   "key": 25,
+   "len": 41,
+   "first": 7113,
+   "line": "മുകളിലെ പാതി ഉണങ്ങിയിരുന്നു.",
+   "note": "the sack opened: bottom grains dark and wet, top half dry"
+  },
+  {
+   "id": "H2",
+   "size": "medium",
+   "key": 97,
+   "len": 162,
+   "first": 7154,
+   "line": "",
+   "note": "Ramu in the boat hugging the sack"
+  },
+  {
+   "id": "H3",
+   "size": "medium",
+   "key": 37,
+   "len": 61,
+   "first": 7316,
+   "line": "അപ്പുവിന്റെ അച്ഛൻ ഒരു പിടി മണത്തു.",
+   "note": "Appu's dad smells a handful"
+  },
+  {
+   "id": "H4",
+   "size": "close",
+   "key": 116,
+   "len": 193,
+   "first": 7377,
+   "line": "ഉപ്പുള്ള മണ്ണിൽ ഇത് മുളയ്ക്കില്ല. പിന്നെ ഒരു പേര് പറഞ്ഞു.",
+   "note": "Appu's dad shakes his head"
+  },
+  {
+   "id": "H5",
+   "size": "wide",
+   "key": 133,
+   "len": 222,
+   "first": 7570,
+   "line": "പൊക്കാളി. ഉപ്പുവെള്ളത്തിൽ വളരുന്ന നമ്മുടെ സ്വന്തം നെല്ല്.",
+   "note": "FACT: tall pokkali rice in a tidal field with a sluice"
+  },
+  {
+   "id": "H6",
+   "size": "close",
+   "key": 98,
+   "len": 164,
+   "first": 7792,
+   "line": "അമ്മ ആദ്യമായി ചിരിച്ചു.",
+   "note": "Amma smiles for the first time"
+  },
+  {
+   "id": "I1",
+   "size": "wide",
+   "key": 50,
+   "len": 84,
+   "first": 7956,
+   "line": "ഈ കഥയിൽ ഒന്ന് മാത്രമേ ഞാൻ ഉണ്ടാക്കിയുള്ളൂ.",
+   "note": "TWIST: Kuttanad as it is today, calm, dusk"
+  },
+  {
+   "id": "I2",
+   "size": "close",
+   "key": 86,
+   "len": 144,
+   "first": 8040,
+   "line": "ഒറ്റ രാത്രി എന്നത്.",
+   "note": "Ramu on the varamba, looking at us"
+  },
+  {
+   "id": "I3",
+   "size": "schematic",
+   "key": 52,
+   "len": 87,
+   "first": 8184,
+   "line": "കടൽ ഇതിനകം ഇരുപത് സെന്റിമീറ്റർ പൊങ്ങിക്കഴിഞ്ഞു.",
+   "note": "FACT: sea level since 1901, +20 cm"
+  },
+  {
+   "id": "I4",
+   "size": "schematic",
+   "key": 153,
+   "len": 255,
+   "first": 8271,
+   "line": "ലോകം ഇങ്ങനെ തന്നെ പുക തുപ്പിയാൽ, ഈ നൂറ്റാണ്ട് തീരുമ്പോൾ ഒരു മീറ്ററോളം.",
+   "note": "FACT: the line climbing to about 1 m by 2100"
+  },
+  {
+   "id": "I5",
+   "size": "insert",
+   "key": 130,
+   "len": 216,
+   "first": 8526,
+   "line": "പതുക്കെ. ശബ്ദമില്ലാതെ. ആ തോട്ടിലെ വെള്ളം പോലെ.",
+   "note": "callback: the canal water touching a toe"
+  },
+  {
+   "id": "I6",
+   "size": "wide",
+   "key": 131,
+   "len": 218,
+   "first": 8742,
+   "line": "നിന്റെ വീട്ടിൽ നിന്ന് കടലിലേക്കോ കായലിലേക്കോ എത്ര ദൂരമുണ്ട്?",
+   "note": "END: Ramu on the varamba at dusk, the comment question"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "o": 0.5,
+   "f": 484
+  },
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 8,
+   "f": 2162
+  },
+  {
+   "kind": "flash",
+   "o": 0.35,
+   "f": 3527
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.7728,
+  "sfxVol": 0.8,
+  "musicVol": 0.1007,
+  "voice": "sea-ml/voice.wav",
+  "sfx": "sea-ml/sfx.wav",
+  "music": "sea-ml/music.wav"
+ }
+}

@@ -1,0 +1,520 @@
+{
+  "id": "RainShortMl",
+  "slug": "rain-short-ml",
+  "topic": "What if it rained 40 days non-stop in Kerala? (Short, 9:16; day 3 of daily-plan.md, idea S9; teases L5, the 1924 flood)",
+  "title": [
+    "40 ദിവസം",
+    "തോരാതെ പെയ്താൽ?"
+  ],
+  "accent": "40",
+  "language": "ml",
+  "voice": {
+    "engine": "edge-tts",
+    "id": "ml-IN-SobhanaNeural",
+    "language": "Malayalam (India)",
+    "rate": "+0%"
+  },
+  "format": {
+    "width": 1080,
+    "height": 1920
+  },
+  "gaps": {
+    "word": 0.1,
+    "comma": 0.3,
+    "sentence": 0.5,
+    "question": 0.6,
+    "pairs": {
+      "പ്രഖ്യാപിക്കുന്നു|പത്താം": 1.5,
+      "തന്നെ|വെള്ളം": 1.5,
+      "എടുക്കുക|ഇരുപതാം": 1.6,
+      "ഒഴുകുന്നു|നാൽപ്പതാം": 1.4,
+      "മഴയിലാണ്|ആ": 1.1
+    }
+  },
+  "cast": [
+    "ramu",
+    "appu",
+    "mom"
+  ],
+  "tail": 1.4,
+  "script": [
+    {
+      "beat": "1 premise over a drowned yard, rain hammering, Ramu on the veranda step with water at his toes",
+      "text": "കേരളത്തിൽ നാൽപ്പത് ദിവസം തോരാതെ മഴ പെയ്താലോ?"
+    },
+    {
+      "beat": "2 day 1, GAG: Ramu and Appu dance in the yard, paper boats",
+      "text": "ഒന്നാം ദിവസം. കളക്ടർ സ്കൂളിന് അവധി പ്രഖ്യാപിക്കുന്നു.",
+      "hold": 0.9
+    },
+    {
+      "beat": "2 day 10, GAG: Ramu sniffs his wet uniform on the line, a frog jumps out of the pocket",
+      "text": "പത്താം ദിവസം. അയയിലെ യൂണിഫോം ഇപ്പോഴും നനഞ്ഞു തന്നെ.",
+      "hold": 0.9
+    },
+    {
+      "beat": "3 mid question, Ramu thinking in the doorway",
+      "text": "വെള്ളം കയറിയാൽ, വീട്ടിൽ നിന്ന് നീ ആദ്യം എന്താ എടുക്കുക?",
+      "hold": 1.0
+    },
+    {
+      "beat": "4 day 20, GAG: the well overflows into the yard, Appu fishing from the well wall",
+      "text": "ഇരുപതാം ദിവസം. കിണർ നിറഞ്ഞ് മുറ്റത്തേക്ക് ഒഴുകുന്നു.",
+      "hold": 0.8
+    },
+    {
+      "beat": "4 day 40, water over the front step, amma lifting the rice sack onto the cot",
+      "text": "നാൽപ്പതാം ദിവസം, വെള്ളം ഉമ്മറപ്പടി കടക്കുന്നു."
+    },
+    {
+      "beat": "5 the twist",
+      "text": "പക്ഷേ, നാൽപ്പത് ദിവസമൊന്നും വേണ്ട."
+    },
+    {
+      "beat": "5 the real fact (fact card: 414 mm in 3 days)",
+      "text": "രണ്ടായിരത്തി പതിനെട്ടിലെ ഏറ്റവും വലിയ വെള്ളം വന്നത്, വെറും മൂന്ന് ദിവസത്തെ മഴയിലാണ്.",
+      "hold": 0.5
+    },
+    {
+      "beat": "6 comment question",
+      "text": "ആ ആഗസ്റ്റിൽ നീ എവിടെയായിരുന്നു?"
+    }
+  ],
+  "science": [
+    {
+      "claim": "The worst of Kerala's August 2018 flood came from three days of rain: about 414 mm over 15-17 August 2018.",
+      "working": "CWC's depth-duration analysis gives 414 mm of basin-average rain for the 3 days 15-17 Aug 2018 (the 1924 flood's 3-day storm, 16-18 July 1924, was 443 mm). The ground was already soaked: Kerala's rain from 1 June to 19 Aug 2018 was about 42% above normal (2346.6 mm), so the script says the biggest water came from three days, not that three dry days flooded Kerala.",
+      "source": "Central Water Commission, Study Report: Kerala Floods of August 2018 (Sept 2018); IMD"
+    },
+    {
+      "claim": "District collectors declare school holidays in Kerala on heavy-rain alerts.",
+      "working": "A routine practice every monsoon (collectors' rain holiday orders); used as a story beat, no number.",
+      "source": "Kerala district administrations' rain-holiday orders, every monsoon"
+    }
+  ],
+  "shots": [
+    {
+      "id": "A1",
+      "size": "wide",
+      "set": "flood yard",
+      "key": 30,
+      "note": "HOOK + title: Ramu on the veranda step under an umbrella, rain hammering, flood water at the step, chappal floating"
+    },
+    {
+      "id": "A2",
+      "size": "insert",
+      "set": "flood yard",
+      "key": 20,
+      "note": "high insert: water lapping the laterite step, a blue chappal and a paper boat float past, rain rings"
+    },
+    {
+      "id": "B1",
+      "size": "wide",
+      "set": "yard",
+      "key": 40,
+      "note": "day 1: GAG Ramu and Appu dance in the rain, paper boats in the puddles, amma at the lit door"
+    },
+    {
+      "id": "B2",
+      "size": "medium",
+      "set": "yard low",
+      "key": 70,
+      "note": "low angle GAG: Ramu leaps, his schoolbag flies up into the rain"
+    },
+    {
+      "id": "C1",
+      "size": "medium",
+      "set": "veranda",
+      "key": 40,
+      "note": "day 10: uniform dripping on the line, Ramu sniffs the shirt, Appu leans away"
+    },
+    {
+      "id": "C2",
+      "size": "close-up",
+      "set": "veranda",
+      "key": 40,
+      "note": "GAG: a frog pops out of the shirt pocket, Ramu's shock"
+    },
+    {
+      "id": "D1",
+      "size": "close-up",
+      "set": "doorway",
+      "key": 40,
+      "note": "mid question: Ramu thinking in the lit doorway, rain behind"
+    },
+    {
+      "id": "D2",
+      "size": "high",
+      "set": "inside",
+      "key": 40,
+      "note": "top-down on the room: the cat, ammooma's photo, the certificate file, the phone, the TV; the question stays on screen"
+    },
+    {
+      "id": "E1",
+      "size": "wide",
+      "set": "flood yard",
+      "key": 50,
+      "note": "day 20: the well overflows into the yard, Appu fishing from the well wall"
+    },
+    {
+      "id": "E2",
+      "size": "medium",
+      "set": "flood yard",
+      "key": 50,
+      "note": "GAG: a fish leaps on Appu's line, he beams"
+    },
+    {
+      "id": "F1",
+      "size": "wide",
+      "set": "inside",
+      "key": 40,
+      "note": "day 40: water over the threshold into the room, amma lifts the rice sack onto the cot, Ramu on the cot with his bag"
+    },
+    {
+      "id": "G1",
+      "size": "close-up",
+      "set": "inside",
+      "key": 20,
+      "note": "the twist: Ramu's face in red rim light, rain behind"
+    },
+    {
+      "id": "G2",
+      "size": "wide",
+      "set": "2018 flood",
+      "key": 40,
+      "note": "2018: roofs and palms in muddy water, a country boat; fact card 414 mm / 3 days"
+    },
+    {
+      "id": "G3",
+      "size": "insert",
+      "set": "wall",
+      "key": 30,
+      "note": "calendar August 2018, 15-17 circled, a mud line on the wall; fact card stays"
+    },
+    {
+      "id": "H1",
+      "size": "medium",
+      "set": "terrace",
+      "key": 50,
+      "note": "comment question: Ramu and Appu on the terrace under one umbrella, flood below, Ramu looks at camera"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "A1",
+      "at": "f:0"
+    },
+    {
+      "shot": "A2",
+      "at": "മഴ"
+    },
+    {
+      "shot": "B1",
+      "at": "ഒന്നാം"
+    },
+    {
+      "shot": "B2",
+      "at": "അവധി"
+    },
+    {
+      "shot": "C1",
+      "at": "പത്താം"
+    },
+    {
+      "shot": "C2",
+      "at": "തന്നെ"
+    },
+    {
+      "shot": "D1",
+      "at": "വെള്ളം"
+    },
+    {
+      "shot": "D2",
+      "at": "നീ"
+    },
+    {
+      "shot": "E1",
+      "at": "ഇരുപതാം"
+    },
+    {
+      "shot": "E2",
+      "at": "ഒഴുകുന്നു"
+    },
+    {
+      "shot": "F1",
+      "at": "നാൽപ്പതാം"
+    },
+    {
+      "shot": "G1",
+      "at": "പക്ഷേ"
+    },
+    {
+      "shot": "G2",
+      "at": "രണ്ടായിരത്തി"
+    },
+    {
+      "shot": "G3",
+      "at": "മൂന്ന്"
+    },
+    {
+      "shot": "H1",
+      "at": "ആ"
+    }
+  ],
+  "fx": [
+    {
+      "at": "G1+15",
+      "kind": "flash",
+      "o": 0.45
+    },
+    {
+      "at": "A1",
+      "kind": "flash",
+      "o": 0.35
+    }
+  ],
+  "sound": {
+    "clips": {
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        17.0
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "gasp": [
+        "two young people gasping in surprise at the same moment, cartoon, short",
+        0.8
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "big_step": [
+        "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+        0.7
+      ],
+      "fall_whoosh": [
+        "a small object falling fast through the air, short soft whoosh",
+        0.6
+      ],
+      "rain": [
+        "synth: steady monsoon rain on leaves and ground, drop ticks, slow gusts, loopable",
+        10.0
+      ],
+      "thunder": [
+        "synth: close thunder crack then a long rolling rumble",
+        3.5
+      ],
+      "splash": [
+        "synth: a fish leaping out of water, wet burst and bubbles",
+        0.6
+      ],
+      "frog": [
+        "synth: a two-part frog croak, buzzy",
+        0.5
+      ],
+      "plip": [
+        "synth: a single bright water drop plip",
+        0.35
+      ]
+    },
+    "events": [
+      [
+        "f:0",
+        "rain",
+        0.1,
+        "onset",
+        "f:286"
+      ],
+      [
+        "f:286",
+        "rain",
+        0.1,
+        "onset",
+        "f:572"
+      ],
+      [
+        "f:572",
+        "rain",
+        0.1,
+        "onset",
+        "f:858"
+      ],
+      [
+        "f:858",
+        "rain",
+        0.1,
+        "onset",
+        "f:1118"
+      ],
+      [
+        "D1",
+        "room_tone",
+        0.06,
+        "onset",
+        "E1"
+      ],
+      [
+        "F1",
+        "room_tone",
+        0.06,
+        "onset",
+        "G1"
+      ],
+      [
+        "A1+1",
+        "title_boom",
+        0.16,
+        "peak"
+      ],
+      [
+        "A2+34",
+        "plip",
+        0.3
+      ],
+      [
+        "B1+3",
+        "pop",
+        0.25
+      ],
+      [
+        "B2+44",
+        "big_step",
+        0.3
+      ],
+      [
+        "B2+54",
+        "fall_whoosh",
+        0.25,
+        "peak"
+      ],
+      [
+        "C1+3",
+        "pop",
+        0.25
+      ],
+      [
+        "C2+20",
+        "frog",
+        0.4
+      ],
+      [
+        "C2+26",
+        "gasp",
+        0.25
+      ],
+      [
+        "D1+3",
+        "pop",
+        0.25
+      ],
+      [
+        "D2+48",
+        "sparkle",
+        0.3
+      ],
+      [
+        "E1+3",
+        "pop",
+        0.25
+      ],
+      [
+        "E2+33",
+        "splash",
+        0.35
+      ],
+      [
+        "E2+40",
+        "sparkle",
+        0.25
+      ],
+      [
+        "F1+3",
+        "pop",
+        0.25
+      ],
+      [
+        "G1+15",
+        "thunder",
+        0.3,
+        "onset",
+        "s:26.35"
+      ],
+      [
+        "G1+15",
+        "drone_hit",
+        0.12
+      ],
+      [
+        "G2+8",
+        "ding",
+        0.25
+      ],
+      [
+        "G3+4",
+        "plip",
+        0.2
+      ],
+      [
+        "G3+14",
+        "plip",
+        0.12
+      ],
+      [
+        "G3+24",
+        "plip",
+        0.12
+      ],
+      [
+        "H1+86",
+        "title_boom",
+        0.28,
+        "peak"
+      ],
+      [
+        "C2+37",
+        "frog",
+        0.25
+      ]
+    ],
+    "music": {
+      "clip": "music",
+      "until": "G1",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -4.5,
+      "music_lu": -13
+    }
+  },
+  "seo": {
+    "keywords": [
+      "kerala rain",
+      "kerala flood 2018",
+      "40 days rain",
+      "mazha",
+      "monsoon kerala",
+      "pralayam",
+      "august 2018 flood"
+    ],
+    "hook": "ഒന്നാം ദിവസം സ്കൂൾ അവധി. പത്താം ദിവസം യൂണിഫോം ഉണങ്ങില്ല. ഇരുപതാം ദിവസം കിണർ മുറ്റത്തേക്ക്. പക്ഷേ 2018-ലെ ഏറ്റവും വലിയ വെള്ളം വന്നത് വെറും മൂന്ന് ദിവസത്തെ മഴയിലാണ്.\n\n💬 ആ ആഗസ്റ്റിൽ നീ എവിടെയായിരുന്നു? കമന്റ് ചെയ്യൂ!"
+  }
+}

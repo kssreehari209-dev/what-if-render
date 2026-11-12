@@ -1,0 +1,21 @@
+# Cloud-render repo: only what a GitHub Actions render needs is tracked (whitelist).
+# Audio (public/<slug>) goes up per render as a release asset, never into git. .env is never tracked.
+/*
+!/.gitignore
+!/.github/
+!/.claude/
+/.claude/*
+!/.claude/skills/
+/.claude/skills/*
+!/.claude/skills/what-if-animation/
+/.claude/skills/what-if-animation/*
+!/.claude/skills/what-if-animation/scripts/
+!/what-if-studio-ml/
+/what-if-studio-ml/node_modules/
+/what-if-studio-ml/out/
+/what-if-studio-ml/public/
+/what-if-studio-ml/*.mp3
+/what-if-studio-ml/*.wav
+__pycache__/
+.env
+*.env

@@ -1,0 +1,1537 @@
+{
+ "id": "Animals2Ml",
+ "slug": "animals2-ml",
+ "topic": "What if you could talk to animals? Part 2: what the crows are saying (Malayalam, long-form)",
+ "title": [
+  "മൃഗങ്ങളോട് സംസാരിക്കാൻ പറ്റിയാലോ?",
+  "ഭാഗം 2: കാക്കകളുടെ രഹസ്യം"
+ ],
+ "accent": "കാക്കകളുടെ രഹസ്യം",
+ "language": "ml",
+ "voice": {
+  "engine": "edge-tts",
+  "id": "ml-IN-SobhanaNeural",
+  "language": "Malayalam (India)",
+  "rate": "+0%"
+ },
+ "continues": "animals-ml",
+ "power": {
+  "word": "കേൾക്കാം",
+  "rule": "you understand every animal and they understand you",
+  "look": "speech bubbles pop from animals with a soft chime"
+ },
+ "script": [
+  {
+   "beat": "1 cold open: the crows on the line",
+   "text": "കമ്പിയിൽ നൂറ് കാക്കകൾ. എല്ലാം നിന്നെ നോക്കുന്നു. ഇപ്പോൾ അവർ പറയുന്നത് നിനക്ക് മനസ്സിലാകും. ഒരു കാക്ക പറയുന്നു: അവൻ തന്നെ. മറ്റൊന്ന് ചോദിക്കുന്നു: ഉറപ്പാണോ? മൂന്നാമത്തെ കാക്ക പറയുന്നു: ആ മുഖം ഞാൻ ഒരിക്കലും മറക്കില്ല."
+  },
+  {
+   "beat": "2 title card",
+   "text": "മൃഗങ്ങളോട് സംസാരിക്കാൻ പറ്റിയാലോ? ഭാഗം രണ്ട്. കാക്കകളുടെ രഹസ്യം."
+  },
+  {
+   "beat": "3 home: ask the cat",
+   "text": "നീ ഓടി വീട്ടിലെത്തുന്നു. പൂച്ച ഒഴിഞ്ഞ പാത്രത്തിനടുത്ത് ഇരിക്കുന്നു. നീ ചോദിക്കുന്നു: കാക്കകൾക്ക് എന്നോട് എന്താ ദേഷ്യം? പൂച്ച കണ്ണടച്ച് പറയുന്നു: മീൻ തന്നാൽ പറയാം."
+  },
+  {
+   "beat": "4 fact: the meow is for humans",
+   "text": "ഒരു രസമുണ്ട്. വലിയ പൂച്ചകൾ പരസ്പരം അധികം മ്യാവൂ എന്ന് കരയാറില്ല. ആ മ്യാവൂ ഏതാണ്ട് മുഴുവനും മനുഷ്യർക്ക് വേണ്ടിയാണ്. അതായത്, നമ്മളെ ഭരിക്കാൻ വേണ്ടി അവർ ഉണ്ടാക്കിയ ഒരു ഭാഷ."
+  },
+  {
+   "beat": "5 the cat's story",
+   "text": "മീൻ കിട്ടിയപ്പോൾ പൂച്ച പറയുന്നു: രണ്ട് വർഷം മുമ്പ്, നീ കാക്കയുടെ കൂടിനടുത്ത് പട്ടം പറത്തി. ഒരു കുഞ്ഞു കാക്ക താഴെ വീണു. അന്ന് മുതൽ അവർക്ക് നിന്റെ മുഖം അറിയാം."
+  },
+  {
+   "beat": "6 the dog sniffs",
+   "text": "നീ മോയുടെ വീട്ടിലേക്ക് ഓടുന്നു. പട്ടി നിന്നെ മണത്തു നോക്കുന്നു. അത് പറയുന്നു: നീ പേടിച്ചിരിക്കുന്നു. നീ രാവിലെ മുട്ട കഴിച്ചു. പിന്നെ, ഇന്നലെ ഒരു കാക്ക നിന്റെ ചെരുപ്പിൽ തൊട്ടു."
+  },
+  {
+   "beat": "7 fact: the dog's nose",
+   "text": "ഇതും സത്യമാണ്. പട്ടിയുടെ മൂക്കിൽ ഏകദേശം മുപ്പത് കോടി മണം പിടിക്കുന്ന കോശങ്ങളുണ്ട്. നമുക്ക് അറുപത് ലക്ഷം മാത്രം. മനുഷ്യൻ പേടിക്കുമ്പോൾ വിയർപ്പിന്റെ മണം മാറും. പട്ടിക്ക് അത് മനസ്സിലാകും."
+  },
+  {
+   "beat": "8 Mo laughs",
+   "text": "നീ പട്ടിയോട് ചോദിക്കുന്നു: ബിസ്കറ്റിന്റെ കാര്യം ശരിക്കും സത്യമാണോ? പട്ടി പറയുന്നു: അവന്റെ പോക്കറ്റിൽ ഇപ്പോഴും രണ്ടെണ്ണം ഉണ്ട്. മോ പതുക്കെ പോക്കറ്റ് പൊത്തുന്നു. മോ ചോദിക്കുന്നു: എന്താ പ്രശ്നം? നീ പറയുന്നു: കാക്കകൾ. മോ ഉറക്കെ ചിരിക്കുന്നു. പട്ടി പതുക്കെ പറയുന്നു: അവൻ ചിരിക്കുന്നു. പക്ഷേ അവനും പേടിയുണ്ട്."
+  },
+  {
+   "beat": "9 the plan",
+   "text": "നിനക്ക് ഒരു ആശയം തോന്നുന്നു. കാക്കകളോട് മാപ്പ് പറയാം. പക്ഷേ എങ്ങനെ? മൃഗങ്ങൾ എങ്ങനെയാണ് സംസാരിക്കുന്നത് എന്ന് നീ പഠിക്കാൻ തുടങ്ങുന്നു."
+  },
+  {
+   "beat": "10 fact: the bee dance",
+   "text": "തേനീച്ചകൾ നൃത്തം ചെയ്താണ് സംസാരിക്കുന്നത്. ഒരു തേനീച്ച എട്ടിന്റെ ആകൃതിയിൽ ആടുന്നു. ആട്ടത്തിന്റെ ദിശയാണ് പൂക്കളിലേക്കുള്ള വഴി. ആട്ടത്തിന്റെ നീളമാണ് ദൂരം. ഈ കണ്ടുപിടിത്തത്തിന് നോബൽ സമ്മാനം കിട്ടി."
+  },
+  {
+   "beat": "11 fact: elephant names",
+   "text": "ആനകൾ നമുക്ക് കേൾക്കാൻ പറ്റാത്തത്ര താഴ്ന്ന ശബ്ദത്തിൽ മുരളുന്നു. ആ ശബ്ദം കിലോമീറ്ററുകൾ ദൂരെയുള്ള ആനകൾ കേൾക്കും. ആഫ്രിക്കൻ ആനകൾ ഓരോ ആനയെയും സ്വന്തം പേര് ചൊല്ലി വിളിക്കുന്നു എന്ന് ശാസ്ത്രജ്ഞർ കണ്ടെത്തി."
+  },
+  {
+   "beat": "12 fact: dolphin whistles",
+   "text": "ഡോൾഫിനുകൾക്ക് ഓരോന്നിനും സ്വന്തം വിസിൽ ഉണ്ട്. അതാണ് അവരുടെ പേര്. ഇരുപത് വർഷം കഴിഞ്ഞാലും, ഒരു പഴയ കൂട്ടുകാരന്റെ വിസിൽ അവ തിരിച്ചറിയും."
+  },
+  {
+   "beat": "13 the realisation",
+   "text": "അപ്പോൾ നിനക്ക് മനസ്സിലാകുന്നു. മൃഗങ്ങൾക്ക് പേരുകളുണ്ട്. ഓർമ്മയുണ്ട്. കൂട്ടുകാരുണ്ട്. കാക്കകൾക്കും."
+  },
+  {
+   "beat": "14 fact: crow funerals and gifts",
+   "text": "ഒരു കാക്ക ചത്തു കിടക്കുന്നത് കണ്ടാൽ, മറ്റ് കാക്കകൾ ചുറ്റും കൂടി ഉറക്കെ കരയും. ആ സ്ഥലം അപകടമാണെന്ന് അവ പഠിക്കും. പക്ഷേ ചില കാക്കകൾ, ഭക്ഷണം കൊടുക്കുന്നവർക്ക് സമ്മാനങ്ങൾ കൊണ്ടുവരാറുണ്ട്. തിളങ്ങുന്ന കല്ല്. കുപ്പിയുടെ അടപ്പ്. ചെറിയ മുത്ത്."
+  },
+  {
+   "beat": "14b fact: crow tools",
+   "text": "കാക്കകൾ വളരെ ബുദ്ധിയുള്ളവരാണ്. ന്യൂ കാലിഡോണിയയിലെ കാക്കകൾ കമ്പി വളച്ച് കൊളുത്ത് ഉണ്ടാക്കി, കുഴലിനുള്ളിലെ ഭക്ഷണം എടുക്കും. ചില പരീക്ഷണങ്ങളിൽ, കാക്കകൾ ഏഴ് വയസ്സുള്ള കുട്ടിയുടെ അത്ര ബുദ്ധി കാണിച്ചു."
+  },
+  {
+   "beat": "14c sleepless night",
+   "text": "അന്ന് രാത്രി നിനക്ക് ഉറക്കം വരുന്നില്ല. ജനലിന് പുറത്ത് കാക്കകൾ ഇരിക്കുന്നു. അവർ പതുക്കെ സംസാരിക്കുന്നു. നാളെ അവൻ വരുമോ? വന്നാൽ നമ്മൾ എന്ത് ചെയ്യും?"
+  },
+  {
+   "beat": "15 the apology",
+   "text": "അടുത്ത ദിവസം രാവിലെ, നീ ടെറസിൽ ഒരു പാത്രം നിറയെ കപ്പലണ്ടി വെക്കുന്നു. നീ കമ്പിയിലേക്ക് നോക്കി പറയുന്നു: ക്ഷമിക്കണം. ആ കുഞ്ഞു കാക്കയുടെ കാര്യത്തിൽ, എനിക്ക് ശരിക്കും വിഷമമുണ്ട്."
+  },
+  {
+   "beat": "16 the silence",
+   "text": "കാക്കകൾ ഒന്നും മിണ്ടുന്നില്ല. ഒരു മിനിറ്റ്. രണ്ട് മിനിറ്റ്. പിന്നെ ഒരു വലിയ കാക്ക താഴെ ഇറങ്ങുന്നു. അതിന്റെ ചിറകിൽ ഒരു പഴയ പാട്. അത് പറയുന്നു: അന്ന് വീണത് ഞാനാണ്."
+  },
+  {
+   "beat": "17 forgiven",
+   "text": "അത് ഒരു കപ്പലണ്ടി എടുക്കുന്നു. പിന്നെ മറ്റുള്ളവരെ നോക്കി ഒരു ശബ്ദം ഉണ്ടാക്കുന്നു. എല്ലാ കാക്കകളും താഴെ ഇറങ്ങി വരുന്നു. ആ ശബ്ദത്തിന്റെ അർത്ഥം നിനക്ക് മനസ്സിലായി: ഇവൻ നല്ലവനാണ്."
+  },
+  {
+   "beat": "18 the gift",
+   "text": "പിറ്റേന്ന് രാവിലെ, നിന്റെ ജനലിൽ ഒരു ചെറിയ തിളങ്ങുന്ന കല്ല്. ഒരു സമ്മാനം. പൂച്ച അത് നോക്കി പറയുന്നു: അവർക്ക് സമ്മാനം. എനിക്ക് ഇന്നും മീൻ ഇല്ലേ?"
+  },
+  {
+   "beat": "19 hook: the walls",
+   "text": "പക്ഷേ അന്ന് രാത്രി, നീ ഒരു പുതിയ ശബ്ദം കേൾക്കുന്നു. ചുമരിനുള്ളിൽ നിന്ന്. ചെറിയ കാലുകൾ. നൂറു കണക്കിന്. അവർ പറയുന്നു: അവന് ഇപ്പോൾ നമ്മളെ കേൾക്കാം."
+  },
+  {
+   "beat": "20 hook fact: rats laugh",
+   "text": "ഒരു കാര്യം ഓർക്കണം. എലികളെ ഇക്കിളിയാക്കിയാൽ അവ ചിരിക്കും. നമുക്ക് കേൾക്കാൻ പറ്റാത്ത ഉയർന്ന ശബ്ദത്തിൽ. ഇത് സത്യമാണ്. ഇപ്പോൾ ചുമരിനുള്ളിൽ അവർ ചിരിക്കുന്നുണ്ട്. ആരെ നോക്കി? അടുത്ത ഭാഗം: എലികളുടെ നഗരം."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Adult cats rarely meow at each other; the meow is mostly aimed at people.",
+   "working": "Feral and colony cats use the meow mainly kitten-to-mother and very little adult-to-adult; house cats use it far more, toward humans.",
+   "source": "Bradshaw, Cat Sense (2013); Nicastro 2004, J. Comp. Psychol. 118:287-296"
+  },
+  {
+   "claim": "A dog's nose has about 300 million scent receptors, ours about 6 million.",
+   "working": "Commonly cited figures (up to ~300 million in dogs vs ~5-6 million in humans).",
+   "source": "PBS NOVA, Dogs Decoded (2012); Horowitz, Inside of a Dog (2009)"
+  },
+  {
+   "claim": "Dogs react to the smell of human fear.",
+   "working": "Dogs exposed to sweat from frightened people showed more stress behaviour and higher heart rates.",
+   "source": "D'Aniello et al. 2018, Animal Cognition 21:67-78"
+  },
+  {
+   "claim": "The honeybee waggle dance codes direction and distance; it won a Nobel Prize.",
+   "working": "Angle of the waggle run from vertical = angle from the sun; length of the run = distance. Karl von Frisch shared the 1973 Nobel Prize in Physiology or Medicine.",
+   "source": "von Frisch, The Dance Language and Orientation of Bees (1967); nobelprize.org, 1973"
+  },
+  {
+   "claim": "Elephant rumbles are partly infrasonic and carry kilometres.",
+   "working": "Fundamentals ~14-35 Hz; calls estimated audible to elephants several km away (up to ~10 km in good conditions).",
+   "source": "Larom et al. 1997, J. Exp. Biol. 200:421-431; Garstang 2004, J. Comp. Physiol. A 190:791-805"
+  },
+  {
+   "claim": "African elephants address each other with individual name-like calls.",
+   "working": "Machine learning matched rumbles to their intended receiver; elephants responded more to playbacks of calls addressed to them.",
+   "source": "Pardo et al. 2024, Nature Ecology & Evolution 8:1353-1364"
+  },
+  {
+   "claim": "Dolphins have signature whistles that work like names and recognise old companions' whistles after 20 years.",
+   "working": "Dolphins answer copies of their own signature whistle; dolphins responded to whistles of animals they had lived with 20 years earlier.",
+   "source": "King & Janik 2013, PNAS 110:13216-13221; Bruck 2013, Proc. R. Soc. B 280:20131726"
+  },
+  {
+   "claim": "Crows gather and scold around a dead crow and learn to avoid the place.",
+   "working": "Wild American crows mobbed dead crows, then avoided feeding at that spot and were wary of the person seen with it.",
+   "source": "Swift & Marzluff 2015, Animal Behaviour 109:187-197"
+  },
+  {
+   "claim": "Some crows bring small objects to people who feed them.",
+   "working": "Documented anecdotally (Seattle, 2015: a girl who fed crows received beads, buttons, bits of glass), so phrased as 'some crows'.",
+   "source": "BBC News, 25 Feb 2015; Marzluff & Angell, Gifts of the Crow (2012)"
+  },
+  {
+   "claim": "New Caledonian crows bend wire into hooks to pull food from a tube.",
+   "working": "Betty the crow bent straight wire into a hook to lift a food bucket from a vertical tube.",
+   "source": "Weir, Chappell & Kacelnik 2002, Science 297:981"
+  },
+  {
+   "claim": "In some tests crows match about a 7-year-old child.",
+   "working": "In Aesop's-fable water-displacement tasks, New Caledonian crows performed comparably to children aged 5-7.",
+   "source": "Jelbert et al. 2014, PLoS ONE 9:e92895; Cheke et al. 2012, PLoS ONE 7:e40574"
+  },
+  {
+   "claim": "Rats 'laugh' with ultrasonic chirps when tickled.",
+   "working": "Tickled rats emit ~50 kHz calls, above human hearing (~20 kHz), and seek out more tickling.",
+   "source": "Panksepp & Burgdorf 2003, Physiology & Behavior 79:533-547"
+  }
+ ],
+ "gaps": {
+  "word": 0.15,
+  "comma": 0.45,
+  "sentence": 0.85,
+  "question": 1.0
+ },
+ "cast": [
+  "ramu",
+  "appu"
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 14,
+   "note": "wire of crows above Pip"
+  },
+  {
+   "id": "A2",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 14,
+   "note": "pan along the wire, every head turned"
+  },
+  {
+   "id": "A3",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 14,
+   "note": "Pip looks up, shocked"
+  },
+  {
+   "id": "A4",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 14,
+   "note": "crow 1: it is him"
+  },
+  {
+   "id": "A5",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 14,
+   "note": "crow 2: are you sure?"
+  },
+  {
+   "id": "A6",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 14,
+   "note": "crow 3: I never forget"
+  },
+  {
+   "id": "A7",
+   "size": "insert",
+   "set": "eye",
+   "key": 14,
+   "note": "crow eye, Pip face reflected"
+  },
+  {
+   "id": "T",
+   "size": "title",
+   "set": "title",
+   "key": 40,
+   "note": "title card part 2"
+  },
+  {
+   "id": "B1",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 14,
+   "note": "Pip runs into the kitchen"
+  },
+  {
+   "id": "B2",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 14,
+   "note": "cat by the empty bowl"
+  },
+  {
+   "id": "B3",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 14,
+   "note": "Pip asks why the crows are angry"
+  },
+  {
+   "id": "B4",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 14,
+   "note": "cat shuts eyes: fish first"
+  },
+  {
+   "id": "D1",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "cats do not meow at each other"
+  },
+  {
+   "id": "D2",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "meows fly to a person"
+  },
+  {
+   "id": "B5",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 14,
+   "note": "a crown drops on the cat"
+  },
+  {
+   "id": "B6",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 14,
+   "note": "Pip drops a fish in the bowl"
+  },
+  {
+   "id": "B7",
+   "size": "wide",
+   "set": "rooftop (flashback)",
+   "key": 14,
+   "note": "Pip flies a kite near the nest"
+  },
+  {
+   "id": "B8",
+   "size": "close-up",
+   "set": "rooftop (flashback)",
+   "key": 20,
+   "note": "baby crow tumbles from the nest"
+  },
+  {
+   "id": "B9",
+   "size": "close-up",
+   "set": "rooftop (flashback)",
+   "key": 14,
+   "note": "frame locks on Pip face"
+  },
+  {
+   "id": "C1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 14,
+   "note": "Pip runs up to Mo and the dog"
+  },
+  {
+   "id": "C2",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 14,
+   "note": "dog sniffs Pip shoes"
+  },
+  {
+   "id": "C3a",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 14,
+   "note": "dog: you are scared"
+  },
+  {
+   "id": "C3b",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 14,
+   "note": "dog: egg"
+  },
+  {
+   "id": "C3c",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 14,
+   "note": "dog: a crow touched your shoe"
+  },
+  {
+   "id": "D3",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "300 million vs 6 million bars"
+  },
+  {
+   "id": "D4",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "fear scent drifts to the dog"
+  },
+  {
+   "id": "C4",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 14,
+   "note": "dog: biscuit?"
+  },
+  {
+   "id": "C4b",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 14,
+   "note": "dog: two in his pocket"
+  },
+  {
+   "id": "C5",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 14,
+   "note": "Mo covers his pocket, oops"
+  },
+  {
+   "id": "C6",
+   "size": "two-shot",
+   "set": "rooftop",
+   "key": 14,
+   "note": "Mo asks what is wrong"
+  },
+  {
+   "id": "C6b",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 14,
+   "note": "Pip: crows"
+  },
+  {
+   "id": "C7",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 14,
+   "note": "Mo laughs"
+  },
+  {
+   "id": "C8",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 14,
+   "note": "dog: he is scared too"
+  },
+  {
+   "id": "E1",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 14,
+   "note": "light-bulb idea"
+  },
+  {
+   "id": "E2",
+   "size": "close-up",
+   "set": "bedroom",
+   "key": 14,
+   "note": "thought bubble: sorry to the crow"
+  },
+  {
+   "id": "E3",
+   "size": "wide",
+   "set": "study",
+   "key": 14,
+   "note": "Pip studies, books pile up"
+  },
+  {
+   "id": "D5",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "waggle dance figure eight"
+  },
+  {
+   "id": "D6",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "angle to the sun = way to flowers"
+  },
+  {
+   "id": "D6b",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "run length = distance"
+  },
+  {
+   "id": "D7",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 20,
+   "note": "Nobel medal 1973"
+  },
+  {
+   "id": "D8",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "elephant rumble rings"
+  },
+  {
+   "id": "D8b",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "heard km away"
+  },
+  {
+   "id": "D9",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 34,
+   "note": "name tag to one elephant"
+  },
+  {
+   "id": "D10",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "signature whistles"
+  },
+  {
+   "id": "D11",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 46,
+   "note": "20 years, still recognised"
+  },
+  {
+   "id": "E4",
+   "size": "close-up",
+   "set": "study",
+   "key": 14,
+   "note": "Pip realises"
+  },
+  {
+   "id": "D12",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 50,
+   "note": "name tags on every animal"
+  },
+  {
+   "id": "D13",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 30,
+   "note": "crows ring a dead crow"
+  },
+  {
+   "id": "D14",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "the place marked dangerous"
+  },
+  {
+   "id": "D15",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "person feeds a crow"
+  },
+  {
+   "id": "D15b",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 56,
+   "note": "gifts: pebble, cap, bead"
+  },
+  {
+   "id": "D16",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 50,
+   "note": "crow bends a hook"
+  },
+  {
+   "id": "D17",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "crow = 7-year-old"
+  },
+  {
+   "id": "E5",
+   "size": "wide",
+   "set": "bedroom (night)",
+   "key": 14,
+   "note": "Pip awake, crows on the sill"
+  },
+  {
+   "id": "E6",
+   "size": "close-up",
+   "set": "bedroom (night)",
+   "key": 14,
+   "note": "crows whisper: tomorrow?"
+  },
+  {
+   "id": "E7",
+   "size": "close-up",
+   "set": "bedroom (night)",
+   "key": 14,
+   "note": "crows: what will we do?"
+  },
+  {
+   "id": "F1",
+   "size": "wide",
+   "set": "rooftop (morning)",
+   "key": 14,
+   "note": "Pip sets out peanuts"
+  },
+  {
+   "id": "F2",
+   "size": "insert",
+   "set": "rooftop (morning)",
+   "key": 14,
+   "note": "bowl of peanuts"
+  },
+  {
+   "id": "F3",
+   "size": "medium",
+   "set": "rooftop (morning)",
+   "key": 14,
+   "note": "Pip says sorry"
+  },
+  {
+   "id": "F3b",
+   "size": "close-up",
+   "set": "rooftop (morning)",
+   "key": 14,
+   "note": "Pip eyes down"
+  },
+  {
+   "id": "F4",
+   "size": "wide",
+   "set": "rooftop (morning)",
+   "key": 14,
+   "note": "crows silent"
+  },
+  {
+   "id": "F5",
+   "size": "medium",
+   "set": "rooftop (morning)",
+   "key": 14,
+   "note": "clock spins, Pip waits"
+  },
+  {
+   "id": "F6",
+   "size": "medium",
+   "set": "rooftop (morning)",
+   "key": 14,
+   "note": "big crow lands"
+  },
+  {
+   "id": "F6b",
+   "size": "insert",
+   "set": "rooftop (morning)",
+   "key": 14,
+   "note": "scar on the wing"
+  },
+  {
+   "id": "F7",
+   "size": "close-up",
+   "set": "rooftop (morning)",
+   "key": 14,
+   "note": "crow: I am the one who fell"
+  },
+  {
+   "id": "F8",
+   "size": "medium",
+   "set": "rooftop (morning)",
+   "key": 14,
+   "note": "crow takes a peanut"
+  },
+  {
+   "id": "F9",
+   "size": "wide",
+   "set": "rooftop (morning)",
+   "key": 50,
+   "note": "all crows come down"
+  },
+  {
+   "id": "F10",
+   "size": "close-up",
+   "set": "rooftop (morning)",
+   "key": 14,
+   "note": "chorus: he is good"
+  },
+  {
+   "id": "G1",
+   "size": "insert",
+   "set": "bedroom (morning)",
+   "key": 14,
+   "note": "shiny pebble on the sill"
+  },
+  {
+   "id": "G2",
+   "size": "medium",
+   "set": "bedroom (morning)",
+   "key": 14,
+   "note": "cat eyes the pebble"
+  },
+  {
+   "id": "G2b",
+   "size": "close-up",
+   "set": "bedroom (morning)",
+   "key": 14,
+   "note": "cat: no fish for me?"
+  },
+  {
+   "id": "H1",
+   "size": "wide",
+   "set": "bedroom (night)",
+   "key": 14,
+   "note": "Pip listening in the dark"
+  },
+  {
+   "id": "H2",
+   "size": "close-up",
+   "set": "wall",
+   "key": 14,
+   "note": "feet scurry, eyes"
+  },
+  {
+   "id": "H3",
+   "size": "wide",
+   "set": "wall",
+   "key": 30,
+   "note": "hundreds of eyes"
+  },
+  {
+   "id": "H4",
+   "size": "close-up",
+   "set": "wall",
+   "key": 14,
+   "note": "wall: he can hear us"
+  },
+  {
+   "id": "D18",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "rat laughs"
+  },
+  {
+   "id": "D18b",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "20 kHz vs 50 kHz"
+  },
+  {
+   "id": "H5",
+   "size": "close-up",
+   "set": "wall",
+   "key": 14,
+   "note": "giggles in the dark"
+  },
+  {
+   "id": "H6",
+   "size": "close-up",
+   "set": "bedroom (night)",
+   "key": 14,
+   "note": "Pip wide-eyed"
+  },
+  {
+   "id": "END",
+   "size": "title",
+   "set": "end card",
+   "key": 30,
+   "note": "next: city of rats"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "കമ്പിയിൽ"
+  },
+  {
+   "shot": "A2",
+   "at": "എല്ലാം"
+  },
+  {
+   "shot": "A3",
+   "at": "ഇപ്പോൾ"
+  },
+  {
+   "shot": "A4",
+   "at": "ഒരു"
+  },
+  {
+   "shot": "A5",
+   "at": "മറ്റൊന്ന്"
+  },
+  {
+   "shot": "A6",
+   "at": "മൂന്നാമത്തെ"
+  },
+  {
+   "shot": "A7",
+   "at": "ആ"
+  },
+  {
+   "shot": "T",
+   "at": "മൃഗങ്ങളോട്"
+  },
+  {
+   "shot": "B1",
+   "at": "നീ"
+  },
+  {
+   "shot": "B2",
+   "at": "പൂച്ച"
+  },
+  {
+   "shot": "B3",
+   "at": "ചോദിക്കുന്നു"
+  },
+  {
+   "shot": "B4",
+   "at": "കണ്ണടച്ച്"
+  },
+  {
+   "shot": "D1",
+   "at": "രസമുണ്ട്"
+  },
+  {
+   "shot": "D2",
+   "at": "മുഴുവനും"
+  },
+  {
+   "shot": "B5",
+   "at": "ഭരിക്കാൻ"
+  },
+  {
+   "shot": "B6",
+   "at": "മീൻ"
+  },
+  {
+   "shot": "B7",
+   "at": "രണ്ട്"
+  },
+  {
+   "shot": "B8",
+   "at": "കുഞ്ഞു"
+  },
+  {
+   "shot": "B9",
+   "at": "അന്ന്"
+  },
+  {
+   "shot": "C1",
+   "at": "മോയുടെ"
+  },
+  {
+   "shot": "C2",
+   "at": "പട്ടി"
+  },
+  {
+   "shot": "C3a",
+   "at": "പേടിച്ചിരിക്കുന്നു"
+  },
+  {
+   "shot": "C3b",
+   "at": "മുട്ട"
+  },
+  {
+   "shot": "C3c",
+   "at": "ഇന്നലെ"
+  },
+  {
+   "shot": "D3",
+   "at": "പട്ടിയുടെ"
+  },
+  {
+   "shot": "D4",
+   "at": "മനുഷ്യൻ"
+  },
+  {
+   "shot": "C4",
+   "at": "ബിസ്കറ്റിന്റെ"
+  },
+  {
+   "shot": "C4b",
+   "at": "പോക്കറ്റിൽ"
+  },
+  {
+   "shot": "C5",
+   "at": "പൊത്തുന്നു"
+  },
+  {
+   "shot": "C6",
+   "at": "എന്താ"
+  },
+  {
+   "shot": "C6b",
+   "at": "കാക്കകൾ"
+  },
+  {
+   "shot": "C7",
+   "at": "ഉറക്കെ"
+  },
+  {
+   "shot": "C8",
+   "at": "പട്ടി"
+  },
+  {
+   "shot": "E1",
+   "at": "ആശയം"
+  },
+  {
+   "shot": "E2",
+   "at": "മാപ്പ്"
+  },
+  {
+   "shot": "E3",
+   "at": "മൃഗങ്ങൾ"
+  },
+  {
+   "shot": "D5",
+   "at": "തേനീച്ചകൾ"
+  },
+  {
+   "shot": "D6",
+   "at": "ദിശയാണ്"
+  },
+  {
+   "shot": "D6b",
+   "at": "നീളമാണ്"
+  },
+  {
+   "shot": "D7",
+   "at": "നോബൽ"
+  },
+  {
+   "shot": "D8",
+   "at": "ആനകൾ"
+  },
+  {
+   "shot": "D8b",
+   "at": "കിലോമീറ്ററുകൾ"
+  },
+  {
+   "shot": "D9",
+   "at": "ആഫ്രിക്കൻ"
+  },
+  {
+   "shot": "D10",
+   "at": "ഡോൾഫിനുകൾക്ക്"
+  },
+  {
+   "shot": "D11",
+   "at": "ഇരുപത്"
+  },
+  {
+   "shot": "E4",
+   "at": "അപ്പോൾ"
+  },
+  {
+   "shot": "D12",
+   "at": "മൃഗങ്ങൾക്ക്"
+  },
+  {
+   "shot": "D13",
+   "at": "ചത്തു"
+  },
+  {
+   "shot": "D14",
+   "at": "സ്ഥലം"
+  },
+  {
+   "shot": "D15",
+   "at": "കൊടുക്കുന്നവർക്ക്"
+  },
+  {
+   "shot": "D15b",
+   "at": "തിളങ്ങുന്ന"
+  },
+  {
+   "shot": "D16",
+   "at": "ന്യൂ"
+  },
+  {
+   "shot": "D17",
+   "at": "ഏഴ്"
+  },
+  {
+   "shot": "E5",
+   "at": "രാത്രി"
+  },
+  {
+   "shot": "E6",
+   "at": "ജനലിന്"
+  },
+  {
+   "shot": "E7",
+   "at": "വന്നാൽ"
+  },
+  {
+   "shot": "F1",
+   "at": "അടുത്ത"
+  },
+  {
+   "shot": "F2",
+   "at": "കപ്പലണ്ടി"
+  },
+  {
+   "shot": "F3",
+   "at": "ക്ഷമിക്കണം"
+  },
+  {
+   "shot": "F3b",
+   "at": "എനിക്ക്"
+  },
+  {
+   "shot": "F4",
+   "at": "മിണ്ടുന്നില്ല"
+  },
+  {
+   "shot": "F5",
+   "at": "മിനിറ്റ്"
+  },
+  {
+   "shot": "F6",
+   "at": "ഇറങ്ങുന്നു"
+  },
+  {
+   "shot": "F6b",
+   "at": "ചിറകിൽ"
+  },
+  {
+   "shot": "F7",
+   "at": "അത്"
+  },
+  {
+   "shot": "F8",
+   "at": "എടുക്കുന്നു"
+  },
+  {
+   "shot": "F9",
+   "at": "എല്ലാ"
+  },
+  {
+   "shot": "F10",
+   "at": "ഇവൻ"
+  },
+  {
+   "shot": "G1",
+   "at": "പിറ്റേന്ന്"
+  },
+  {
+   "shot": "G2",
+   "at": "പൂച്ച"
+  },
+  {
+   "shot": "G2b",
+   "at": "എനിക്ക്"
+  },
+  {
+   "shot": "H1",
+   "at": "രാത്രി"
+  },
+  {
+   "shot": "H2",
+   "at": "ചുമരിനുള്ളിൽ"
+  },
+  {
+   "shot": "H3",
+   "at": "നൂറു"
+  },
+  {
+   "shot": "H4",
+   "at": "അവന്"
+  },
+  {
+   "shot": "D18",
+   "at": "എലികളെ"
+  },
+  {
+   "shot": "D18b",
+   "at": "ശബ്ദത്തിൽ"
+  },
+  {
+   "shot": "H5",
+   "at": "ഇപ്പോൾ"
+  },
+  {
+   "shot": "H6",
+   "at": "ആരെ"
+  },
+  {
+   "shot": "END",
+   "at": "അടുത്ത"
+  }
+ ],
+ "fx": [
+  {
+   "at": "T",
+   "kind": "flash"
+  },
+  {
+   "at": "A3",
+   "kind": "shake",
+   "len": 6,
+   "amp": 8
+  },
+  {
+   "at": "F9",
+   "kind": "flash"
+  }
+ ],
+ "sound": {
+  "levels": {
+   "sfx_lu": -4.5,
+   "music_lu": -13
+  },
+  "music": {
+   "clip": "music",
+   "until": "END",
+   "loop": true
+  },
+  "clips": {
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "cat_chirp": [
+    "a cat making a short curious chirp meow",
+    0.6
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "bulb_pop": [
+    "a small light bulb popping out, a tiny glass tink and fizz",
+    0.5
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "clock_back": [
+    "a clock ticking very fast then spinning backwards, mechanical ratchet whirr",
+    1.6
+   ],
+   "big_step": [
+    "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+    0.7
+   ]
+  },
+  "events": [
+   [
+    "A1",
+    "roof_wind",
+    0.08,
+    "onset",
+    "A7"
+   ],
+   [
+    "A3",
+    "gasp",
+    0.3
+   ],
+   [
+    "A7",
+    "drone_hit",
+    0.113,
+    "peak"
+   ],
+   [
+    "T",
+    "title_boom",
+    0.5,
+    "peak"
+   ],
+   [
+    "B1",
+    "room_tone",
+    0.07,
+    "onset",
+    "B7"
+   ],
+   [
+    "B1+4",
+    "step",
+    0.25
+   ],
+   [
+    "B1+12",
+    "step",
+    0.25
+   ],
+   [
+    "B1+20",
+    "step",
+    0.25
+   ],
+   [
+    "B2+4",
+    "cat_chirp",
+    0.21
+   ],
+   [
+    "B5+6",
+    "ding",
+    0.25
+   ],
+   [
+    "B6+12",
+    "land",
+    0.15
+   ],
+   [
+    "B7",
+    "roof_wind",
+    0.07,
+    "onset",
+    "C1"
+   ],
+   [
+    "B8+8",
+    "fall_whoosh",
+    0.35
+   ],
+   [
+    "B9+14",
+    "drone_hit",
+    0.09
+   ],
+   [
+    "C1",
+    "roof_wind",
+    0.08,
+    "onset",
+    "E1"
+   ],
+   [
+    "C1+4",
+    "step",
+    0.25
+   ],
+   [
+    "C1+12",
+    "step",
+    0.25
+   ],
+   [
+    "C5+5",
+    "gasp",
+    0.25
+   ],
+   [
+    "C7",
+    "laugh",
+    0.15
+   ],
+   [
+    "D1+14",
+    "pop",
+    0.3
+   ],
+   [
+    "D3+10",
+    "counter_tick",
+    0.3
+   ],
+   [
+    "E1",
+    "room_tone",
+    0.07,
+    "onset",
+    "F1"
+   ],
+   [
+    "E1+8",
+    "bulb_pop",
+    0.4
+   ],
+   [
+    "D5+2",
+    "sparkle",
+    0.18
+   ],
+   [
+    "D7+2",
+    "ding",
+    0.35
+   ],
+   [
+    "D9+20",
+    "sparkle",
+    0.18
+   ],
+   [
+    "D11+40",
+    "ding",
+    0.3
+   ],
+   [
+    "D12+30",
+    "sparkle",
+    0.18
+   ],
+   [
+    "D14+6",
+    "drone_hit",
+    0.09
+   ],
+   [
+    "D15b+2",
+    "sparkle",
+    0.18
+   ],
+   [
+    "D15b+26",
+    "sparkle",
+    0.18
+   ],
+   [
+    "D15b+42",
+    "sparkle",
+    0.18
+   ],
+   [
+    "D16+8",
+    "counter_tick",
+    0.3
+   ],
+   [
+    "D17+8",
+    "ding",
+    0.3
+   ],
+   [
+    "E5+4",
+    "drone_hit",
+    0.09
+   ],
+   [
+    "F1",
+    "roof_wind",
+    0.08,
+    "onset",
+    "G1"
+   ],
+   [
+    "F5",
+    "clock_back",
+    0.3
+   ],
+   [
+    "F6+12",
+    "land",
+    0.2
+   ],
+   [
+    "F9+10",
+    "big_step",
+    0.18
+   ],
+   [
+    "F9+30",
+    "big_step",
+    0.18
+   ],
+   [
+    "G1",
+    "room_tone",
+    0.07,
+    "onset",
+    "END"
+   ],
+   [
+    "G1+2",
+    "sparkle",
+    0.24
+   ],
+   [
+    "G2+4",
+    "cat_chirp",
+    0.21
+   ],
+   [
+    "H1+4",
+    "drone_hit",
+    0.158
+   ],
+   [
+    "H3+4",
+    "drone_hit",
+    0.135,
+    "peak"
+   ],
+   [
+    "D18+10",
+    "laugh",
+    0.072
+   ],
+   [
+    "H6+10",
+    "drone_hit",
+    0.18,
+    "peak"
+   ],
+   [
+    "END+8",
+    "title_boom",
+    0.45,
+    "peak"
+   ],
+   [
+    "A4+2",
+    "pop",
+    0.35
+   ],
+   [
+    "A5+2",
+    "pop",
+    0.35
+   ],
+   [
+    "A6+2",
+    "pop",
+    0.35
+   ],
+   [
+    "B3+2",
+    "pop",
+    0.35
+   ],
+   [
+    "B4+2",
+    "pop",
+    0.35
+   ],
+   [
+    "C3a+2",
+    "pop",
+    0.35
+   ],
+   [
+    "C3b+2",
+    "pop",
+    0.35
+   ],
+   [
+    "C3c+2",
+    "pop",
+    0.35
+   ],
+   [
+    "C4+2",
+    "pop",
+    0.35
+   ],
+   [
+    "C4b+2",
+    "pop",
+    0.35
+   ],
+   [
+    "C6+2",
+    "pop",
+    0.35
+   ],
+   [
+    "C6b+2",
+    "pop",
+    0.35
+   ],
+   [
+    "C8+2",
+    "pop",
+    0.35
+   ],
+   [
+    "E2+2",
+    "pop",
+    0.35
+   ],
+   [
+    "E6+2",
+    "pop",
+    0.35
+   ],
+   [
+    "E7+2",
+    "pop",
+    0.35
+   ],
+   [
+    "F3+2",
+    "pop",
+    0.35
+   ],
+   [
+    "F7+2",
+    "pop",
+    0.35
+   ],
+   [
+    "F10+2",
+    "pop",
+    0.35
+   ],
+   [
+    "G2b+2",
+    "pop",
+    0.35
+   ],
+   [
+    "H4+2",
+    "pop",
+    0.35
+   ]
+  ]
+ },
+ "tail": 2.5
+}

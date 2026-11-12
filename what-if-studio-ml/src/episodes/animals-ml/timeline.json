@@ -1,0 +1,268 @@
+{
+ "slug": "animals-ml",
+ "title": "മൃഗങ്ങളോട് സംസാരിക്കാൻ പറ്റിയാലോ?",
+ "fps": 30,
+ "total": 778,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 58,
+   "t0": 0,
+   "t1": 58,
+   "line": "പൂച്ച നിന്നെ നോക്കി പറയുന്നു:"
+  },
+  {
+   "shot": "S2",
+   "a": 58,
+   "b": 94,
+   "t0": 0,
+   "t1": 36,
+   "line": "എനിക്ക് മീൻ വേണം."
+  },
+  {
+   "shot": "S3",
+   "a": 94,
+   "b": 116,
+   "t0": 0,
+   "t1": 22,
+   "line": "ഇപ്പോൾ."
+  },
+  {
+   "shot": "S4",
+   "a": 116,
+   "b": 161,
+   "t0": 0,
+   "t1": 45,
+   "line": "മോയുടെ പട്ടി പറയുന്നു:"
+  },
+  {
+   "shot": "S5",
+   "a": 161,
+   "b": 187,
+   "t0": 0,
+   "t1": 26,
+   "line": "അവൻ ഇന്നലെ നിന്റെ"
+  },
+  {
+   "shot": "S6",
+   "a": 187,
+   "b": 221,
+   "t0": 0,
+   "t1": 34,
+   "line": "ബിസ്കറ്റ് തിന്നു."
+  },
+  {
+   "shot": "S7",
+   "a": 221,
+   "b": 264,
+   "t0": 0,
+   "t1": 43,
+   "line": "ജനലിൽ ഒരു കാക്ക."
+  },
+  {
+   "shot": "S8",
+   "a": 264,
+   "b": 307,
+   "t0": 0,
+   "t1": 43,
+   "line": "അത് നിന്റെ പേര് വിളിക്കുന്നു."
+  },
+  {
+   "shot": "S9",
+   "a": 307,
+   "b": 376,
+   "t0": 0,
+   "t1": 69,
+   "line": "മൃഗങ്ങളോട് സംസാരിക്കാൻ പറ്റിയാലോ?"
+  },
+  {
+   "shot": "S10",
+   "a": 376,
+   "b": 463,
+   "t0": 0,
+   "t1": 87,
+   "line": "പക്ഷേ ഒരു പ്രശ്നമുണ്ട്: കാക്കകൾ മനുഷ്യരുടെ മുഖം"
+  },
+  {
+   "shot": "S10b",
+   "a": 463,
+   "b": 551,
+   "t0": 0,
+   "t1": 88,
+   "line": "അഞ്ച് വർഷത്തിലധികം ഓർക്കും. ഇത് സത്യമാണ്."
+  },
+  {
+   "shot": "S11",
+   "a": 551,
+   "b": 619,
+   "t0": 0,
+   "t1": 68,
+   "line": "അവ മറ്റ് കാക്കകളോട് പറയുകയും ചെയ്യും."
+  },
+  {
+   "shot": "S12",
+   "a": 619,
+   "b": 697,
+   "t0": 0,
+   "t1": 78,
+   "line": "ഇപ്പോൾ നിനക്ക് അവർ പറയുന്നത് മനസ്സിലാകും..."
+  },
+  {
+   "shot": "S13",
+   "a": 697,
+   "b": 778,
+   "t0": 0,
+   "t1": 81,
+   "line": "അവർ പറയുന്നത് നിന്നെക്കുറിച്ചാണ്."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 14,
+   "len": 58,
+   "first": 0,
+   "line": "പൂച്ച നിന്നെ നോക്കി പറയുന്നു:",
+   "note": "Pip in the kitchen, the cat sits by its empty bowl and looks up at him"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "key": 12,
+   "len": 36,
+   "first": 58,
+   "line": "എനിക്ക് മീൻ വേണം.",
+   "note": "cat close-up, speech bubble: fish, now"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 10,
+   "len": 22,
+   "first": 94,
+   "line": "ഇപ്പോൾ.",
+   "note": "Pip jolts back in shock"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 14,
+   "len": 45,
+   "first": 116,
+   "line": "മോയുടെ പട്ടി പറയുന്നു:",
+   "note": "Mo and his dog on the rooftop at dusk, Pip beside them"
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "key": 12,
+   "len": 26,
+   "first": 161,
+   "line": "അവൻ ഇന്നലെ നിന്റെ",
+   "note": "dog close-up, bubble with a biscuit and an arrow at Mo"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 12,
+   "len": 34,
+   "first": 187,
+   "line": "ബിസ്കറ്റ് തിന്നു.",
+   "note": "Mo caught: oops face, biscuit crumbs on his jacket"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 14,
+   "len": 43,
+   "first": 221,
+   "line": "ജനലിൽ ഒരു കാക്ക.",
+   "note": "bedroom at dusk, a crow lands on the window sill"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 12,
+   "len": 43,
+   "first": 264,
+   "line": "അത് നിന്റെ പേര് വിളിക്കുന്നു.",
+   "note": "crow close-up, bubble: PIP!"
+  },
+  {
+   "id": "S9",
+   "size": "title",
+   "key": 15,
+   "len": 69,
+   "first": 307,
+   "line": "മൃഗങ്ങളോട് സംസാരിക്കാൻ പറ്റിയാലോ?",
+   "note": "title card"
+  },
+  {
+   "id": "S10",
+   "size": "diagram",
+   "key": 22,
+   "len": 87,
+   "first": 376,
+   "line": "പക്ഷേ ഒരു പ്രശ്നമുണ്ട്: കാക്കകൾ മനുഷ്യരുടെ മുഖം",
+   "note": "schematic: crow scans a human face, face outline locks in"
+  },
+  {
+   "id": "S10b",
+   "size": "close-up",
+   "key": 30,
+   "len": 88,
+   "first": 463,
+   "line": "അഞ്ച് വർഷത്തിലധികം ഓർക്കും. ഇത് സത്യമാണ്.",
+   "note": "crow eye close-up, year counter 1..5+ and the face kept in memory"
+  },
+  {
+   "id": "S11",
+   "size": "diagram",
+   "key": 22,
+   "len": 68,
+   "first": 551,
+   "line": "അവ മറ്റ് കാക്കകളോട് പറയുകയും ചെയ്യും.",
+   "note": "schematic: one crow tells others, the network of crows spreads"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 14,
+   "len": 78,
+   "first": 619,
+   "line": "ഇപ്പോൾ നിനക്ക് അവർ പറയുന്നത് മനസ്സിലാകും...",
+   "note": "power line full of crows, all heads turn to Pip"
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "key": 12,
+   "len": 81,
+   "first": 697,
+   "line": "അവർ പറയുന്നത് നിന്നെക്കുറിച്ചാണ്.",
+   "note": "Pip close-up, whisper bubbles around him; fade to black"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "f": 307
+  },
+  {
+   "kind": "shake",
+   "len": 6,
+   "amp": 8,
+   "f": 94
+  }
+ ],
+ "audio": {
+  "voice": "animals-ml/voice.wav",
+  "sfx": "animals-ml/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.6888,
+  "music": "animals-ml/music.wav",
+  "musicVol": 0.1542
+ }
+}

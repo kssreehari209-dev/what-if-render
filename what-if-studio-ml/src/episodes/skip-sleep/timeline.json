@@ -1,0 +1,381 @@
+{
+ "slug": "skip-sleep",
+ "title": "WHAT IF YOU COULD SKIP SLEEP FOREVER?",
+ "fps": 30,
+ "total": 881,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 24,
+   "t0": 0,
+   "t1": 24,
+   "line": "Midnight."
+  },
+  {
+   "shot": "S2",
+   "a": 24,
+   "b": 55,
+   "t0": 0,
+   "t1": 31,
+   "line": "One more level."
+  },
+  {
+   "shot": "S3",
+   "a": 55,
+   "b": 82,
+   "t0": 0,
+   "t1": 27,
+   "line": "Skip sleep.",
+   "look": "skip"
+  },
+  {
+   "shot": "S4",
+   "a": 82,
+   "b": 113,
+   "t0": 0,
+   "t1": 31,
+   "line": "You win."
+  },
+  {
+   "shot": "S5",
+   "a": 113,
+   "b": 130,
+   "t0": 0,
+   "t1": 17,
+   "line": "Three am"
+  },
+  {
+   "shot": "S6",
+   "a": 130,
+   "b": 166,
+   "t0": 0,
+   "t1": 36,
+   "line": "Big test tomorrow."
+  },
+  {
+   "shot": "S7",
+   "a": 166,
+   "b": 193,
+   "t0": 0,
+   "t1": 27,
+   "line": "Skip sleep.",
+   "look": "skip"
+  },
+  {
+   "shot": "S8",
+   "a": 193,
+   "b": 239,
+   "t0": 0,
+   "t1": 46,
+   "line": "You read the whole book."
+  },
+  {
+   "shot": "S9",
+   "a": 239,
+   "b": 282,
+   "t0": 0,
+   "t1": 43,
+   "line": "Your friend sleeps over."
+  },
+  {
+   "shot": "S10",
+   "a": 282,
+   "b": 313,
+   "t0": 0,
+   "t1": 31,
+   "line": "He's out cold."
+  },
+  {
+   "shot": "S11",
+   "a": 313,
+   "b": 366,
+   "t0": 0,
+   "t1": 53,
+   "line": "Skip sleep. You just...",
+   "look": "skip"
+  },
+  {
+   "shot": "S12",
+   "a": 366,
+   "b": 426,
+   "t0": 0,
+   "t1": 60,
+   "line": "watch him. All night."
+  },
+  {
+   "shot": "S13",
+   "a": 426,
+   "b": 494,
+   "t0": 0,
+   "t1": 68,
+   "line": "What if you could skip sleep forever?"
+  },
+  {
+   "shot": "S14",
+   "a": 494,
+   "b": 555,
+   "t0": 0,
+   "t1": 61,
+   "line": "Eight free hours, every day."
+  },
+  {
+   "shot": "S15",
+   "a": 555,
+   "b": 607,
+   "t0": 0,
+   "t1": 52,
+   "line": "One catch: when you sleep,"
+  },
+  {
+   "shot": "S16",
+   "a": 607,
+   "b": 701,
+   "t0": 0,
+   "t1": 94,
+   "line": "the gaps between your brain cells open up by sixty percent,"
+  },
+  {
+   "shot": "S17",
+   "a": 701,
+   "b": 737,
+   "t0": 0,
+   "t1": 36,
+   "line": "to wash out waste."
+  },
+  {
+   "shot": "S18",
+   "a": 737,
+   "b": 776,
+   "t0": 0,
+   "t1": 39,
+   "line": "That's real."
+  },
+  {
+   "shot": "S19",
+   "a": 776,
+   "b": 881,
+   "t0": 0,
+   "t1": 105,
+   "line": "So if you never sleep... where's it all going?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "macro insert",
+   "key": 14,
+   "len": 24,
+   "first": 0,
+   "line": "Midnight.",
+   "note": "the bedside clock flips 23:59 to 00:00, lamp glow behind"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 14,
+   "len": 31,
+   "first": 24,
+   "line": "One more level.",
+   "note": "Pip sits up in bed, laptop on his knees, screen light on his face; heavy, tired lids"
+  },
+  {
+   "id": "S3",
+   "size": "extreme close-up",
+   "key": 10,
+   "len": 27,
+   "first": 55,
+   "line": "Skip sleep.",
+   "note": "SKIP: Pip's tired eyes snap wide open, cyan glint, flash"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 14,
+   "len": 31,
+   "first": 82,
+   "line": "You win.",
+   "note": "Pip throws both arms up in bed, the laptop glowing; the whole room lit by the lamp"
+  },
+  {
+   "id": "S5",
+   "size": "macro insert, low",
+   "key": 10,
+   "len": 17,
+   "first": 113,
+   "line": "Three am",
+   "note": "the clock reads 03:00, the calendar soft behind"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 12,
+   "len": 36,
+   "first": 130,
+   "line": "Big test tomorrow.",
+   "note": "Pip at the desk under the lamp, a tower of books, slumping, tired"
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "key": 8,
+   "len": 27,
+   "first": 166,
+   "line": "Skip sleep.",
+   "note": "SKIP: eyes snap open, glint; he sits bolt upright"
+  },
+  {
+   "id": "S8",
+   "size": "top-down insert",
+   "key": 14,
+   "len": 46,
+   "first": 193,
+   "line": "You read the whole book.",
+   "note": "the open book's pages flip by in a blur, finished books stacking beside it"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 14,
+   "len": 43,
+   "first": 239,
+   "line": "Your friend sleeps over.",
+   "note": "Mo has the bed, sitting up asleep against the pillows; Pip on the beanbag with the laptop"
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "key": 12,
+   "len": 31,
+   "first": 282,
+   "line": "He's out cold.",
+   "note": "Mo out cold, head lolling, eyes shut, the lamp warm on him"
+  },
+  {
+   "id": "S11",
+   "size": "extreme close-up",
+   "key": 10,
+   "len": 53,
+   "first": 313,
+   "line": "Skip sleep. You just...",
+   "note": "SKIP: Pip's eyes wide in the dark, glinting, unblinking"
+  },
+  {
+   "id": "S12",
+   "size": "over the shoulder",
+   "key": 30,
+   "len": 60,
+   "first": 366,
+   "line": "watch him. All night.",
+   "note": "Pip's dark head in the foreground, Mo asleep beyond; the clock races 01:00 to 06:00"
+  },
+  {
+   "id": "S13",
+   "size": "title, wide",
+   "key": 40,
+   "len": 68,
+   "first": 426,
+   "line": "What if you could skip sleep forever?",
+   "note": "the premise over the city at sunrise; Pip on the roof, wide awake"
+  },
+  {
+   "id": "S14",
+   "size": "medium, low angle",
+   "key": 16,
+   "len": 61,
+   "first": 494,
+   "line": "Eight free hours, every day.",
+   "note": "Pip stretches, happy; a +8 HOURS label floats up"
+  },
+  {
+   "id": "S15",
+   "size": "medium close-up",
+   "key": 20,
+   "len": 52,
+   "first": 555,
+   "line": "One catch: when you sleep,",
+   "note": "Pip tries to shut his eyes; the lids drop and snap back open, he can't"
+  },
+  {
+   "id": "S16",
+   "size": "schematic",
+   "key": 40,
+   "len": 94,
+   "first": 607,
+   "line": "the gaps between your brain cells open up by sixty percent,",
+   "note": "two brain cells, the gap between them widens: AWAKE 14% to ASLEEP 23%, +60% counting up"
+  },
+  {
+   "id": "S17",
+   "size": "schematic",
+   "key": 20,
+   "len": 36,
+   "first": 701,
+   "line": "to wash out waste.",
+   "note": "waste specks wash out through the widened gap"
+  },
+  {
+   "id": "S18",
+   "size": "extreme close-up",
+   "key": 14,
+   "len": 39,
+   "first": 737,
+   "line": "That's real.",
+   "note": "Pip, worried; the light turning red"
+  },
+  {
+   "id": "S19",
+   "size": "wide, push in",
+   "key": 40,
+   "len": 105,
+   "first": 776,
+   "line": "So if you never sleep... where's it all going?",
+   "note": "night again: the lamp flickers and dies, the clock reads 04:12, only Pip's glinting eyes in the dark"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.5,
+   "f": 74
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.45,
+   "f": 185
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.4,
+   "f": 333
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "f": 426
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3344",
+   "o": 0.4,
+   "f": 737
+  },
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 6,
+   "f": 848
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.764,
+  "sfxVol": 0.8,
+  "musicVol": 0.1268,
+  "voice": "skip-sleep/voice.wav",
+  "sfx": "skip-sleep/sfx.wav",
+  "music": "skip-sleep/music.wav"
+ }
+}

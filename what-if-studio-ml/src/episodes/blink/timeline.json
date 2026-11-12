@@ -1,0 +1,394 @@
+{
+ "slug": "blink",
+ "title": "WHAT IF YOU COULD TELEPORT BY BLINKING?",
+ "fps": 30,
+ "total": 674,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 29,
+   "t0": 0,
+   "t1": 29,
+   "line": "Snack time."
+  },
+  {
+   "shot": "S2",
+   "a": 29,
+   "b": 47,
+   "t0": 0,
+   "t1": 18,
+   "line": "Blink.",
+   "look": "blink"
+  },
+  {
+   "shot": "S3",
+   "a": 47,
+   "b": 86,
+   "t0": 0,
+   "t1": 39,
+   "line": "You're at the fridge."
+  },
+  {
+   "shot": "S4",
+   "a": 86,
+   "b": 117,
+   "t0": 0,
+   "t1": 31,
+   "line": "Late for class."
+  },
+  {
+   "shot": "S5",
+   "a": 117,
+   "b": 135,
+   "t0": 0,
+   "t1": 18,
+   "line": "Blink.",
+   "look": "blink"
+  },
+  {
+   "shot": "S6",
+   "a": 135,
+   "b": 171,
+   "t0": 0,
+   "t1": 36,
+   "line": "First one there."
+  },
+  {
+   "shot": "S7",
+   "a": 171,
+   "b": 204,
+   "t0": 0,
+   "t1": 33,
+   "line": "Mo looks back."
+  },
+  {
+   "shot": "S8",
+   "a": 204,
+   "b": 222,
+   "t0": 0,
+   "t1": 18,
+   "line": "Blink.",
+   "look": "blink"
+  },
+  {
+   "shot": "S9",
+   "a": 222,
+   "b": 271,
+   "t0": 0,
+   "t1": 49,
+   "line": "You're right behind him."
+  },
+  {
+   "shot": "S10",
+   "a": 271,
+   "b": 334,
+   "t0": 0,
+   "t1": 63,
+   "line": "What if you could teleport by blinking?"
+  },
+  {
+   "shot": "S11",
+   "a": 334,
+   "b": 372,
+   "t0": 0,
+   "t1": 38,
+   "line": "Anywhere on Earth."
+  },
+  {
+   "shot": "S12",
+   "a": 372,
+   "b": 398,
+   "t0": 0,
+   "t1": 26,
+   "line": "One catch:"
+  },
+  {
+   "shot": "S13",
+   "a": 398,
+   "b": 428,
+   "t0": 0,
+   "t1": 30,
+   "line": "Earth spins."
+  },
+  {
+   "shot": "S14",
+   "a": 428,
+   "b": 462,
+   "t0": 0,
+   "t1": 34,
+   "line": "The equator moves at over"
+  },
+  {
+   "shot": "S15",
+   "a": 462,
+   "b": 524,
+   "t0": 0,
+   "t1": 62,
+   "line": "sixteen hundred kilometres an hour."
+  },
+  {
+   "shot": "S16",
+   "a": 524,
+   "b": 559,
+   "t0": 0,
+   "t1": 35,
+   "line": "That's real."
+  },
+  {
+   "shot": "S17",
+   "a": 559,
+   "b": 600,
+   "t0": 0,
+   "t1": 41,
+   "line": "Blink to the North Pole..."
+  },
+  {
+   "shot": "S18",
+   "a": 600,
+   "b": 674,
+   "t0": 0,
+   "t1": 74,
+   "line": "and you keep that speed."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "medium",
+   "key": 16,
+   "len": 29,
+   "first": 0,
+   "line": "Snack time.",
+   "note": "Pip at his desk, an empty plate with crumbs, looks off toward the door; hungry"
+  },
+  {
+   "id": "S2",
+   "size": "extreme close-up",
+   "key": 5,
+   "len": 18,
+   "first": 29,
+   "line": "Blink.",
+   "note": "BLINK: his eyes squeeze shut, then he shrinks into a cyan ring and a pinch of sparks"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 14,
+   "len": 39,
+   "first": 47,
+   "line": "You're at the fridge.",
+   "note": "Pip pops in by the fridge with a cyan ring, grinning; the cat jolts awake on the counter"
+  },
+  {
+   "id": "S4",
+   "size": "macro insert, high",
+   "key": 18,
+   "len": 31,
+   "first": 86,
+   "line": "Late for class.",
+   "note": "the alarm clock flips 08:59 to 09:00, red digits"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 6,
+   "len": 18,
+   "first": 117,
+   "line": "Blink.",
+   "note": "BLINK: Pip in shock, bag strap on, eyes shut, gone in a ring"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 16,
+   "len": 36,
+   "first": 135,
+   "line": "First one there.",
+   "note": "empty classroom; Pip pops in at his desk, first one there, smug"
+  },
+  {
+   "id": "S7",
+   "size": "wide, side-on",
+   "key": 20,
+   "len": 33,
+   "first": 171,
+   "line": "Mo looks back.",
+   "note": "Mo halfway down the stairs looks back up over his shoulder: nobody there"
+  },
+  {
+   "id": "S8",
+   "size": "extreme close-up, profile",
+   "key": 5,
+   "len": 18,
+   "first": 204,
+   "line": "Blink.",
+   "note": "BLINK: Pip's eyes shut at the top of the stairs, glint, gone"
+  },
+  {
+   "id": "S9",
+   "size": "medium two-shot",
+   "key": 24,
+   "len": 49,
+   "first": 222,
+   "line": "You're right behind him.",
+   "note": "Mo turns forward and Pip is right behind him, inches away, grinning; Mo jolts"
+  },
+  {
+   "id": "S10",
+   "size": "title, wide",
+   "key": 40,
+   "len": 63,
+   "first": 271,
+   "line": "What if you could teleport by blinking?",
+   "note": "the premise over the dusk city; Pip pops onto the roof"
+  },
+  {
+   "id": "S11",
+   "size": "schematic",
+   "key": 24,
+   "len": 38,
+   "first": 334,
+   "line": "Anywhere on Earth.",
+   "note": "a globe; cyan pins pop in all over it: anywhere"
+  },
+  {
+   "id": "S12",
+   "size": "medium, low angle",
+   "key": 14,
+   "len": 26,
+   "first": 372,
+   "line": "One catch:",
+   "note": "Pip's grin fades; he looks down"
+  },
+  {
+   "id": "S13",
+   "size": "schematic",
+   "key": 20,
+   "len": 30,
+   "first": 398,
+   "line": "Earth spins.",
+   "note": "the globe turns, a curved arrow round it: EARTH SPINS"
+  },
+  {
+   "id": "S14",
+   "size": "schematic",
+   "key": 28,
+   "len": 34,
+   "first": 428,
+   "line": "The equator moves at over",
+   "note": "the equator draws on, a dot rides it with speed streaks"
+  },
+  {
+   "id": "S15",
+   "size": "schematic",
+   "key": 50,
+   "len": 62,
+   "first": 462,
+   "line": "sixteen hundred kilometres an hour.",
+   "note": "1,674 KM/H counts up big, OVER 1,600 under it"
+  },
+  {
+   "id": "S16",
+   "size": "extreme close-up",
+   "key": 20,
+   "len": 35,
+   "first": 524,
+   "line": "That's real.",
+   "note": "Pip, worried; the light turning red"
+  },
+  {
+   "id": "S17",
+   "size": "schematic",
+   "key": 30,
+   "len": 41,
+   "first": 559,
+   "line": "Blink to the North Pole...",
+   "note": "Pip's dot hops from the equator to the North Pole; the pole reads 0 KM/H, Pip still 1,674"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 12,
+   "len": 74,
+   "first": 600,
+   "line": "and you keep that speed.",
+   "note": "Pip pops onto the ice and is flung sideways out of frame at speed; snow spray, shake"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.5,
+   "f": 38
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.35,
+   "f": 50
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.5,
+   "f": 126
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.35,
+   "f": 138
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.45,
+   "f": 213
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.35,
+   "f": 225
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "f": 271
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3344",
+   "o": 0.4,
+   "f": 524
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.4,
+   "f": 603
+  },
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 12,
+   "f": 628
+  },
+  {
+   "kind": "flash",
+   "color": "#FF6A5A",
+   "o": 0.3,
+   "f": 627
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.3829,
+  "musicVol": 0.1253,
+  "voice": "blink/voice.wav",
+  "sfx": "blink/sfx.wav",
+  "music": "blink/music.wav"
+ }
+}

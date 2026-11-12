@@ -1,0 +1,2329 @@
+{
+ "id": "FlyMl",
+ "slug": "fly-ml",
+ "topic": "What if you could fly? Part 1 (Malayalam, long-form)",
+ "title": [
+  "നിനക്ക് പറക്കാൻ പറ്റിയാലോ?",
+  "ഭാഗം 1"
+ ],
+ "accent": "പറക്കാൻ",
+ "language": "ml",
+ "voice": {
+  "engine": "edge-tts",
+  "id": "ml-IN-SobhanaNeural",
+  "language": "Malayalam (India)",
+  "rate": "+0%"
+ },
+ "power": {
+  "word": "ഉയരൂ",
+  "rule": "say it in your head and you rise; you go where you look; your body stays human",
+  "look": "a gust ring and wind streaks as you lift off"
+ },
+ "script": [
+  {
+   "beat": "p1",
+   "text": "രാത്രി. നീ മേഘങ്ങൾക്ക് മുകളിലാണ്. താഴെ നഗരത്തിന്റെ വെളിച്ചങ്ങൾ. നിന്റെ വിരലുകൾ മരവിക്കുന്നു. ശ്വാസം കിട്ടുന്നില്ല. പെട്ടെന്ന്, ഒരു വലിയ ഇരമ്പൽ. ഇരുട്ടിൽ നിന്ന് ഒരു വിമാനം, നേരെ നിന്റെ നേർക്ക് വരുന്നു."
+  },
+  {
+   "beat": "p2",
+   "text": "മൂന്ന് ദിവസം മുമ്പ്. ബസ് പോയി. നീ കണ്ണടയ്ക്കുന്നു. ഉയരൂ. നിന്റെ കാലുകൾ നിലത്ത് നിന്ന് പൊങ്ങുന്നു. ബസിനും മുമ്പേ നീ സ്കൂളിലെത്തുന്നു."
+  },
+  {
+   "beat": "p3",
+   "text": "അനിയത്തിയുടെ പട്ടം മാവിൽ കുടുങ്ങി. ഉയരൂ. നീ പട്ടവുമായി താഴെ ഇറങ്ങുന്നു. അവൾ വാ പൊളിച്ച് നോക്കി നിൽക്കുന്നു."
+  },
+  {
+   "beat": "p4",
+   "text": "അമ്മ പറയുന്നു: ഒരു കരിക്ക് ഇട്ടു താ. ഉയരൂ. മുപ്പതടി ഉയരമുള്ള തെങ്ങ്. ഒരു നിമിഷം. അമ്മയുടെ കയ്യിലെ കത്തി താഴെ വീഴുന്നു."
+  },
+  {
+   "beat": "p5",
+   "text": "പിന്നെ ഒരു രാത്രി, നീ ജനലിലൂടെ പുറത്തേക്ക് നോക്കി പറയുന്നു: ഉയരൂ. മേൽക്കൂര. മരങ്ങൾ. മേഘങ്ങൾ. നിനക്ക് നിർത്താൻ തോന്നുന്നില്ല."
+  },
+  {
+   "beat": "p6",
+   "text": "നിനക്ക് പറക്കാൻ പറ്റിയാലോ? ഭാഗം ഒന്ന്."
+  },
+  {
+   "beat": "p7",
+   "text": "ഒരു ഞായറാഴ്ച രാവിലെ നീ ഉണരുന്നു. നിന്റെ മൂക്ക് സീലിംഗിൽ തൊട്ടിരിക്കുന്നു. കട്ടിൽ താഴെയാണ്. നീ മുകളിലും."
+  },
+  {
+   "beat": "p8",
+   "text": "നിയമങ്ങൾ ലളിതമാണ്. മനസ്സിൽ ഉയരൂ എന്ന് പറഞ്ഞാൽ നീ പൊങ്ങും. എവിടേക്ക് നോക്കുന്നോ, അങ്ങോട്ട് പോകും. ചിറകില്ല. എഞ്ചിനില്ല. പക്ഷേ നിന്റെ ശരീരം പഴയത് തന്നെയാണ്. തണുപ്പും, കാറ്റും, വേദനയും, എല്ലാം നിനക്ക് അറിയാം."
+  },
+  {
+   "beat": "p9",
+   "text": "നീ ഇത് മോയെ മാത്രം കാണിക്കുന്നു. മോ ചോദിക്കുന്നു: എന്നെയും കൊണ്ടുപോകാമോ? നീ അവന്റെ കൈ പിടിക്കുന്നു. ഉയരൂ. മോ നിലവിളിക്കുന്നു. പിന്നെ ചിരിക്കുന്നു. പിന്നെ വീണ്ടും നിലവിളിക്കുന്നു."
+  },
+  {
+   "beat": "p10",
+   "text": "നിങ്ങൾ കായലിന് മുകളിലൂടെ പറക്കുന്നു. തോണിയിലുള്ളവർ മുകളിലേക്ക് നോക്കുന്നു. ഒരു മണിക്കൂറിൽ മൂന്നാർ. ട്രാഫിക് ഇല്ല. ടിക്കറ്റ് ഇല്ല."
+  },
+  {
+   "beat": "p11",
+   "text": "നീ ഒരു മേഘത്തിനുള്ളിൽ കയറുന്നു. പഞ്ഞി പോലെ ആയിരിക്കും എന്ന് കരുതി. പക്ഷേ അത് വെറും നനഞ്ഞ മൂടൽമഞ്ഞാണ്. ഒരു സാധാരണ വെള്ള മേഘത്തിന് ഏകദേശം അഞ്ഞൂറ് ടൺ ഭാരമുണ്ട്. നൂറോളം ആനകളുടെ ഭാരം. പക്ഷേ ആ വെള്ളം കോടിക്കണക്കിന് കുഞ്ഞു തുള്ളികളായി പരന്നു കിടക്കുന്നു. അതുകൊണ്ട് അത് വീഴുന്നില്ല. ഇത് സത്യമാണ്."
+  },
+  {
+   "beat": "p12",
+   "text": "അനിയത്തി എല്ലാ ദിവസവും ചോദിക്കുന്നു: എന്നെ എപ്പോഴാ കൊണ്ടുപോകുന്നത്? നീ പറയുന്നു: പിന്നെ. അവൾ മുഖം വീർപ്പിക്കുന്നു. പക്ഷേ അവൾ ആരോടും പറയുന്നില്ല."
+  },
+  {
+   "beat": "p13",
+   "text": "പക്ഷേ മൂന്നാം ദിവസം, കാര്യങ്ങൾ മാറുന്നു."
+  },
+  {
+   "beat": "p14",
+   "text": "നീ മണിക്കൂറിൽ നൂറ് കിലോമീറ്റർ വേഗത്തിൽ പറക്കുന്നു. കാറ്റ് കണ്ണിൽ ആഞ്ഞടിക്കുന്നു. കണ്ണീര് ഒഴുകുന്നു. ഒരു വണ്ട് നിന്റെ നെറ്റിയിൽ ഇടിക്കുന്നു. കല്ലെറിഞ്ഞത് പോലെ."
+  },
+  {
+   "beat": "p15",
+   "text": "പക്ഷികൾക്ക് മൂന്നാമതൊരു കൺപോളയുണ്ട്. ചില്ലു പോലെ സുതാര്യമായ ഒന്ന്. പറക്കുമ്പോൾ അത് കണ്ണിനെ കാക്കും. ഇത് സത്യമാണ്. നിനക്കുള്ളത് മോയുടെ പഴയ നീന്തൽ കണ്ണട മാത്രം."
+  },
+  {
+   "beat": "p16",
+   "text": "അന്ന് വൈകുന്നേരം, നീ എത്ര ഉയരം വരെ പോകാം എന്ന് നോക്കുന്നു. ഓരോ ആയിരം മീറ്റർ മുകളിലേക്ക് പോകുമ്പോഴും, വായു ഏകദേശം ആറര ഡിഗ്രി തണുക്കും. താഴെ മുപ്പത് ഡിഗ്രി. മൂവായിരം മീറ്ററിൽ പത്ത്. അയ്യായിരത്തിൽ പൂജ്യത്തിനും താഴെ. നിന്റെ ടീ ഷർട്ടിൽ ഐസ് പറ്റിപ്പിടിക്കുന്നു."
+  },
+  {
+   "beat": "p17",
+   "text": "പക്ഷേ തണുപ്പല്ല വലിയ പ്രശ്നം. എണ്ണായിരം മീറ്ററിൽ, ഓരോ ശ്വാസത്തിലും കിട്ടുന്ന ഓക്സിജൻ, താഴെ കിട്ടുന്നതിന്റെ മൂന്നിലൊന്ന് മാത്രം. എവറസ്റ്റ് കയറുന്നവർ ഇതിനെ മരണ മേഖല എന്ന് വിളിക്കുന്നു. ഇത് സത്യമാണ്."
+  },
+  {
+   "beat": "p18",
+   "text": "ഓക്സിജൻ കുറയുമ്പോൾ, ആദ്യം പോകുന്നത് ബുദ്ധിയാണ്. നിനക്ക് സന്തോഷം തോന്നുന്നു. ഇനിയും മുകളിലേക്ക് പോകാൻ തോന്നുന്നു. പക്ഷേ നിന്റെ വിരലുകൾ നീലയാകുന്നു. പത്തര കിലോമീറ്റർ ഉയരത്തിൽ, ഒരാൾക്ക് ശരിയായി ചിന്തിക്കാൻ കിട്ടുന്നത് അര മിനിറ്റ് മുതൽ ഒരു മിനിറ്റ് വരെ മാത്രം."
+  },
+  {
+   "beat": "p19",
+   "text": "നിന്റെ കണ്ണിന് മുന്നിൽ ഇരുട്ട്. നീ താഴേക്ക് വീഴുന്നു. അപ്പോഴാണ് ആ ഇരമ്പൽ. ഒരു വിമാനം. നീ അവസാന നിമിഷം ഒഴിഞ്ഞു മാറുന്നു. അതിന്റെ കാറ്റ് നിന്നെ ഒരു കടലാസ് പോലെ ചുഴറ്റി എറിയുന്നു."
+  },
+  {
+   "beat": "p20",
+   "text": "രണ്ടായിരത്തി ഒമ്പതിൽ, ന്യൂയോർക്കിൽ, ഒരു കൂട്ടം വാത്തകൾ ഒരു വിമാനത്തിന്റെ രണ്ട് എഞ്ചിനുകളിലും ഇടിച്ചു. രണ്ട് എഞ്ചിനും നിന്നു. പൈലറ്റ് ആ വിമാനം ഹഡ്സൺ നദിയിൽ ഇറക്കി. നൂറ്റി അമ്പത്തഞ്ച് പേരും രക്ഷപ്പെട്ടു. ഇത് സത്യമാണ്. ഒരു വാത്തയ്ക്ക് നാലഞ്ച് കിലോ. നിനക്ക് നാൽപ്പത്."
+  },
+  {
+   "beat": "p21",
+   "text": "താഴെ, നിനക്ക് വീണ്ടും ശ്വാസം കിട്ടുന്നു. നീ വിറച്ചുകൊണ്ട് വീട്ടിലെത്തുന്നു. പിന്നെ ഭയങ്കര വിശപ്പ്. നീ പന്ത്രണ്ട് ദോശ തിന്നുന്നു. അമ്മ ചോദിക്കുന്നു: നിനക്ക് എന്ത് പറ്റി?"
+  },
+  {
+   "beat": "p22",
+   "text": "പറക്കാൻ ഒരുപാട് ഊർജം വേണം. ഹമ്മിങ് ബേർഡിന്റെ ഹൃദയം മിനിറ്റിൽ ആയിരത്തി ഇരുനൂറ് തവണ വരെ മിടിക്കും. ദിവസവും അത് സ്വന്തം ഭാരത്തിന്റെ പകുതിയോളം പഞ്ചസാര കഴിക്കണം."
+  },
+  {
+   "beat": "p23",
+   "text": "പിറ്റേന്ന് ടിവിയിൽ ഒരു വാർത്ത. കൊച്ചി വിമാനത്താവളത്തിന്റെ റഡാറിൽ ഒരു അജ്ഞാത വസ്തു. ഒരു യാത്രക്കാരന്റെ വീഡിയോ. മേഘങ്ങൾക്കിടയിൽ ഒരു ചെറിയ രൂപം. കണ്ണിൽ ഒരു നീന്തൽ കണ്ണട. മോ പതുക്കെ പറയുന്നു: ആ കണ്ണട എന്റേതാണ്."
+  },
+  {
+   "beat": "p24",
+   "text": "അന്ന് ഉച്ചയ്ക്ക്, വീടിന് മുന്നിൽ ഒരു കറുത്ത കാർ. കോട്ടിട്ട ഒരാൾ പറയുന്നു: റഡാർ നിന്നെ കണ്ടു. ഇനി എല്ലാവരും കാണും. ഞങ്ങളുടെ കൂടെ വരൂ."
+  },
+  {
+   "beat": "p25",
+   "text": "നീ ചോദിക്കുന്നു: വന്നില്ലെങ്കിലോ? അയാൾ നിന്റെ അനിയത്തിയെ ഒന്ന് നോക്കുന്നു. എന്നിട്ട് പറയുന്നു: നാളെ വരെ സമയമുണ്ട്."
+  },
+  {
+   "beat": "p26",
+   "text": "അന്ന് രാത്രി, കാലവർഷം. പുഴ കര കവിയുന്നു. അനിയത്തി ട്യൂഷൻ കഴിഞ്ഞ് വന്നിട്ടില്ല. അവൾ പുഴക്കരയിലെ ഒരു കെട്ടിടത്തിന്റെ മുകളിൽ കുടുങ്ങി. വെള്ളം ഉയരുന്നു. ഈ കാറ്റിൽ ഒരു ബോട്ടിനും അങ്ങോട്ട് പോകാൻ പറ്റില്ല."
+  },
+  {
+   "beat": "p27",
+   "text": "നിനക്ക് പോകാം. പക്ഷേ പോയാൽ, എല്ലാവരും കാണും. പിന്നെ ഒരിക്കലും നിനക്ക് സാധാരണ ജീവിതം ഉണ്ടാകില്ല."
+  },
+  {
+   "beat": "p28",
+   "text": "ഒരു മിന്നലിന്, സൂര്യന്റെ പുറംഭാഗത്തെക്കാൾ ഏകദേശം അഞ്ചിരട്ടി ചൂടുണ്ട്. ഇത് സത്യമാണ്. ഇന്ന് രാത്രി ആകാശത്ത് ഏറ്റവും ഉയരത്തിൽ ഉള്ളത് നീയായിരിക്കും."
+  },
+  {
+   "beat": "p29",
+   "text": "അമ്മ നിന്നെ നോക്കുന്നു. ഒന്നും പറയുന്നില്ല. നീ മോയുടെ കണ്ണട എടുക്കുന്നു. ഉയരൂ."
+  },
+  {
+   "beat": "p30",
+   "text": "മരങ്ങളുടെ തൊട്ടു മുകളിലൂടെ നീ പറക്കുന്നു. മഴത്തുള്ളികൾ സൂചി പോലെ കുത്തുന്നു. ഒരു മിന്നൽ. എല്ലാം വെള്ള. പിന്നെ, ദൂരെ, ഒരു ചെറിയ ടോർച്ചിന്റെ വെളിച്ചം."
+  },
+  {
+   "beat": "p31",
+   "text": "അനിയത്തി മേൽക്കൂരയിൽ. വെള്ളം അവളുടെ കാൽ വരെ. നിന്നെ കണ്ടപ്പോൾ അവൾ കരഞ്ഞു കൊണ്ട് ചിരിക്കുന്നു. അവൾ പറയുന്നു: ഞാൻ പറഞ്ഞില്ലേ, നീ ഒരു ദിവസം എന്നെ കൊണ്ടുപോകുമെന്ന്."
+  },
+  {
+   "beat": "p32",
+   "text": "നീ അവളെ എടുക്കുന്നു. നിന്റെ കൈകൾ വിറയ്ക്കുന്നു. നിങ്ങൾ പതുക്കെ ഉയരുന്നു. താഴെ, ആ കെട്ടിടം വെള്ളത്തിനടിയിലാകുന്നു."
+  },
+  {
+   "beat": "p33",
+   "text": "വീടിന് മുന്നിൽ, അമ്മ ഓടി വന്ന് രണ്ട് പേരെയും കെട്ടിപ്പിടിക്കുന്നു. പിന്നെ നീ ചുറ്റും നോക്കുന്നു. ഫോണുകൾ. ഡസൻ കണക്കിന് ഫോണുകൾ. ഫ്ലാഷുകൾ മിന്നുന്നു."
+  },
+  {
+   "beat": "p34",
+   "text": "റോഡിന്റെ അറ്റത്ത്, ആ കറുത്ത കാർ. കോട്ടിട്ട ആൾ പതുക്കെ കൈയടിക്കുന്നു. അയാൾ പറയുന്നു: ഇപ്പോൾ, ലോകം മുഴുവൻ അറിഞ്ഞു."
+  },
+  {
+   "beat": "p35",
+   "text": "അർദ്ധരാത്രി, ഒരു റഡാർ സ്ക്രീൻ. നിന്റെ വീടിനടുത്ത് ഒരു പച്ച പൊട്ട്. പക്ഷേ ദൂരെ, കടലിന് മുകളിൽ, മറ്റൊരു പൊട്ട്. അത് നിന്നെക്കാൾ വേഗത്തിൽ നീങ്ങുന്നു. നിന്റെ നേർക്ക്. കോട്ടിട്ട ആൾ പതുക്കെ പറയുന്നു: അപ്പോൾ, ആകാശത്ത് അവൻ ഒറ്റയ്ക്കല്ല."
+  },
+  {
+   "beat": "p36",
+   "text": "നിനക്ക് പറക്കാൻ പറ്റിയാൽ, ആദ്യം എവിടേക്ക് പോകും? കമന്റിൽ പറയൂ. അടുത്ത ഭാഗം: ആകാശത്തിലെ രണ്ടാമൻ."
+  }
+ ],
+ "science": [
+  {
+   "claim": "A typical cumulus cloud weighs about 500 tonnes (~1.1 million lb)",
+   "working": "checked against the source; numbers rounded as in the script",
+   "source": "USGS Water Science School. 500 t / ~5 t per Asian elephant = ~100 elephants."
+  },
+  {
+   "claim": "Birds have a transparent third eyelid (nictitating membrane) that protects the eye in flight",
+   "working": "checked against the source; numbers rounded as in the script",
+   "source": "Cornell Lab of Ornithology."
+  },
+  {
+   "claim": "Air cools on average about 6.5 C per 1000 m of height (standard atmosphere lapse rate). 30 C at sea level -> ~10.5 C at 3000 m, ~-2.5 C at 5000 m.",
+   "working": "checked against the source; numbers rounded as in the script",
+   "source": "standard reference"
+  },
+  {
+   "claim": "At 8000 m air pressure is about 1/3 of sea level, so each breath carries about 1/3 the oxygen; climbers call above 8000 m the \"death zone\".",
+   "working": "checked against the source; numbers rounded as in the script",
+   "source": "standard reference"
+  },
+  {
+   "claim": "Hypoxia impairs judgement first and often brings euphoria. Time of useful consciousness at 35,000 ft (~10.7 km) is 30-60 seconds",
+   "working": "checked against the source; numbers rounded as in the script",
+   "source": "FAA AC 61-107B."
+  },
+  {
+   "claim": "US Airways Flight 1549, 15 Jan 2009, New York: Canada geese struck both engines; landed on the Hudson River; all 155 aboard survived",
+   "working": "checked against the source; numbers rounded as in the script",
+   "source": "NTSB AAR-10/03. Canada goose ~3-6.5 kg."
+  },
+  {
+   "claim": "Hummingbird heart rate up to ~1200 beats per minute; they eat roughly half their body weight in sugar daily",
+   "working": "checked against the source; numbers rounded as in the script",
+   "source": "Smithsonian's National Zoo."
+  },
+  {
+   "claim": "A lightning bolt (~30,000 K / 50,000 F) is about five times hotter than the Sun's surface (~5800 K)",
+   "working": "checked against the source; numbers rounded as in the script",
+   "source": "NOAA National Weather Service."
+  }
+ ],
+ "gaps": {
+  "word": 0.15,
+  "comma": 0.45,
+  "sentence": 0.85,
+  "question": 1.0
+ },
+ "cast": [
+  "ramu",
+  "appu",
+  "sis",
+  "mom",
+  "suit"
+ ],
+ "tail": 3.0,
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "set": "night sky",
+   "key": 110,
+   "note": "Pip floats above moonlit clouds, city lights far below"
+  },
+  {
+   "id": "A2",
+   "size": "close-up",
+   "set": "night sky",
+   "key": 59,
+   "note": "Pip shivers, frost breath, fingers stiff"
+  },
+  {
+   "id": "A3",
+   "size": "wide",
+   "set": "night sky",
+   "key": 150,
+   "note": "plane landing lights burst out of the dark toward camera"
+  },
+  {
+   "id": "B1",
+   "size": "wide",
+   "set": "street",
+   "key": 59,
+   "note": "3 days earlier: bus pulls away, Pip runs in and stops"
+  },
+  {
+   "id": "B2",
+   "size": "medium",
+   "set": "street",
+   "key": 80,
+   "note": "Pip shuts eyes; UYAROO: gust ring, lifts off"
+  },
+  {
+   "id": "B3",
+   "size": "wide",
+   "set": "street aerial",
+   "key": 48,
+   "note": "Pip flies over the bus to school"
+  },
+  {
+   "id": "B4",
+   "size": "wide",
+   "set": "yard",
+   "key": 140,
+   "note": "kite stuck in mango tree, sis points; Pip rises and grabs it"
+  },
+  {
+   "id": "B5",
+   "size": "close-up",
+   "set": "yard",
+   "key": 47,
+   "note": "sis open-mouthed"
+  },
+  {
+   "id": "B6",
+   "size": "wide",
+   "set": "yard",
+   "key": 110,
+   "note": "Amma with knife at coconut palm; UYAROO, Pip shoots up the palm"
+  },
+  {
+   "id": "B7",
+   "size": "medium",
+   "set": "palm top",
+   "key": 28,
+   "note": "Pip at the palm crown holding a tender coconut"
+  },
+  {
+   "id": "B8",
+   "size": "close-up",
+   "set": "yard",
+   "key": 53,
+   "note": "Amma shocked, knife drops"
+  },
+  {
+   "id": "B9",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 125,
+   "note": "night, Pip at the window; UYAROO"
+  },
+  {
+   "id": "B10",
+   "size": "wide",
+   "set": "night sky",
+   "key": 120,
+   "note": "camera rises with Pip: roof, trees, clouds"
+  },
+  {
+   "id": "T",
+   "size": "title",
+   "set": "title",
+   "key": 71,
+   "note": "title card over dusk sky"
+  },
+  {
+   "id": "C1",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 100,
+   "note": "Sunday morning: Pip asleep against the ceiling, bed below"
+  },
+  {
+   "id": "C2",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 270,
+   "note": "rules: UYAROO = rise; look = go; no wings, no engine"
+  },
+  {
+   "id": "C3",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 180,
+   "note": "body is still human: cold, wind, pain labels"
+  },
+  {
+   "id": "D1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 107,
+   "note": "dusk rooftop: Pip floats for Mo; Mo asks"
+  },
+  {
+   "id": "D2",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 150,
+   "note": "Pip takes Mo's hand; UYAROO; Mo screams, laughs, screams"
+  },
+  {
+   "id": "D3",
+   "size": "wide",
+   "set": "backwaters",
+   "key": 98,
+   "note": "flying over backwaters and palms, boat people look up"
+  },
+  {
+   "id": "D4",
+   "size": "wide",
+   "set": "munnar",
+   "key": 74,
+   "note": "tea hills; tags no traffic, no ticket"
+  },
+  {
+   "id": "D5",
+   "size": "medium",
+   "set": "cloud",
+   "key": 200,
+   "note": "into a cloud: fog, Pip drenched"
+  },
+  {
+   "id": "D6",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 120,
+   "note": "cloud = 500 tonnes"
+  },
+  {
+   "id": "D7",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 44,
+   "note": "100 elephants"
+  },
+  {
+   "id": "D8",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 230,
+   "note": "spread into tiny droplets; real"
+  },
+  {
+   "id": "D9",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 180,
+   "note": "sis asks when; Pip: later"
+  },
+  {
+   "id": "D10",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 90,
+   "note": "sis pouts, finger to lips: secret"
+  },
+  {
+   "id": "E1",
+   "size": "wide",
+   "set": "night sky",
+   "key": 56,
+   "note": "turn: sky darkens, drone"
+  },
+  {
+   "id": "E2",
+   "size": "medium",
+   "set": "day sky",
+   "key": 135,
+   "note": "100 km/h, speed lines, tears"
+  },
+  {
+   "id": "E3",
+   "size": "close-up",
+   "set": "day sky",
+   "key": 24,
+   "note": "beetle smacks forehead"
+  },
+  {
+   "id": "E4",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 260,
+   "note": "bird eye, third eyelid slides across"
+  },
+  {
+   "id": "E5",
+   "size": "close-up",
+   "set": "day sky",
+   "key": 63,
+   "note": "Pip in Mo's old swimming goggles"
+  },
+  {
+   "id": "E6",
+   "size": "wide",
+   "set": "dusk sky",
+   "key": 79,
+   "note": "Pip climbs high, altimeter"
+  },
+  {
+   "id": "E7",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 330,
+   "note": "altitude ladder, temperatures fall"
+  },
+  {
+   "id": "E8",
+   "size": "close-up",
+   "set": "high sky",
+   "key": 50,
+   "note": "ice on Pip's t-shirt, shivering"
+  },
+  {
+   "id": "E9",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 230,
+   "note": "oxygen per breath: 1/3 at 8000 m"
+  },
+  {
+   "id": "E10",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 130,
+   "note": "Everest death zone"
+  },
+  {
+   "id": "E11",
+   "size": "medium",
+   "set": "high sky",
+   "key": 300,
+   "note": "hypoxia: Pip giddy, keeps rising, blue fingers"
+  },
+  {
+   "id": "E12",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 160,
+   "note": "10.5 km: 30-60 s timer"
+  },
+  {
+   "id": "E13",
+   "size": "medium",
+   "set": "night sky",
+   "key": 76,
+   "note": "vision closes, Pip falls"
+  },
+  {
+   "id": "E14",
+   "size": "wide",
+   "set": "night sky",
+   "key": 120,
+   "note": "the plane again; Pip dodges"
+  },
+  {
+   "id": "E15",
+   "size": "wide",
+   "set": "night sky",
+   "key": 67,
+   "note": "wake spins Pip like paper"
+  },
+  {
+   "id": "F1",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 240,
+   "note": "2009: geese hit both engines"
+  },
+  {
+   "id": "F2",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 200,
+   "note": "plane on the Hudson, 155 saved"
+  },
+  {
+   "id": "F3",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 100,
+   "note": "goose 4-5 kg vs Pip 40 kg"
+  },
+  {
+   "id": "F4",
+   "size": "wide",
+   "set": "dusk sky",
+   "key": 98,
+   "note": "breath returns; Pip shivers home"
+  },
+  {
+   "id": "F5",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 150,
+   "note": "Pip eats 12 dosas, Amma stares and asks"
+  },
+  {
+   "id": "F6",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 170,
+   "note": "hummingbird heart 1200/min"
+  },
+  {
+   "id": "F7",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 79,
+   "note": "half its weight in sugar a day"
+  },
+  {
+   "id": "G1",
+   "size": "medium",
+   "set": "living room",
+   "key": 97,
+   "note": "TV news: radar, Kochi airport"
+  },
+  {
+   "id": "G2",
+   "size": "close-up",
+   "set": "tv",
+   "key": 131,
+   "note": "passenger video: tiny figure with goggles"
+  },
+  {
+   "id": "G3",
+   "size": "medium",
+   "set": "living room",
+   "key": 60,
+   "note": "Mo turns: those goggles are mine"
+  },
+  {
+   "id": "G4",
+   "size": "wide",
+   "set": "house front",
+   "key": 90,
+   "note": "black car outside; suit at the door"
+  },
+  {
+   "id": "G5",
+   "size": "medium",
+   "set": "house front",
+   "key": 134,
+   "note": "suit: radar saw you, come with us"
+  },
+  {
+   "id": "G6",
+   "size": "medium",
+   "set": "house front",
+   "key": 100,
+   "note": "Pip asks; suit glances at sis"
+  },
+  {
+   "id": "G7",
+   "size": "close-up",
+   "set": "house front",
+   "key": 59,
+   "note": "suit: you have till tomorrow"
+  },
+  {
+   "id": "H1",
+   "size": "wide",
+   "set": "flood",
+   "key": 76,
+   "note": "night monsoon, river floods, lightning"
+  },
+  {
+   "id": "H2",
+   "size": "wide",
+   "set": "flood",
+   "key": 128,
+   "note": "sis on a rooftop, water rising"
+  },
+  {
+   "id": "H3",
+   "size": "medium",
+   "set": "flood",
+   "key": 53,
+   "note": "rescue boat tossed at the bank"
+  },
+  {
+   "id": "H4",
+   "size": "close-up",
+   "set": "house",
+   "key": 135,
+   "note": "Pip torn, rain on window"
+  },
+  {
+   "id": "H5",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 160,
+   "note": "lightning 5x the sun's surface"
+  },
+  {
+   "id": "H6",
+   "size": "wide",
+   "set": "storm sky",
+   "key": 76,
+   "note": "storm sky; tiny Pip the highest point"
+  },
+  {
+   "id": "H7",
+   "size": "medium",
+   "set": "house",
+   "key": 215,
+   "note": "Amma looks; Pip takes goggles; UYAROO"
+  },
+  {
+   "id": "H8",
+   "size": "wide",
+   "set": "flood",
+   "key": 102,
+   "note": "Pip skims the trees in rain"
+  },
+  {
+   "id": "H9",
+   "size": "wide",
+   "set": "flood",
+   "key": 60,
+   "note": "lightning whiteout, then a far torch"
+  },
+  {
+   "id": "H10",
+   "size": "wide",
+   "set": "flood",
+   "key": 140,
+   "note": "sis on roof, water at her feet, sees Pip"
+  },
+  {
+   "id": "H11",
+   "size": "close-up",
+   "set": "flood",
+   "key": 130,
+   "note": "sis cry-laughs: I told you"
+  },
+  {
+   "id": "H12",
+   "size": "medium",
+   "set": "flood",
+   "key": 230,
+   "note": "Pip lifts her, arms shake; building goes under"
+  },
+  {
+   "id": "J1",
+   "size": "wide",
+   "set": "house front",
+   "key": 79,
+   "note": "Amma hugs them both in the rain"
+  },
+  {
+   "id": "J2",
+   "size": "wide",
+   "set": "house front",
+   "key": 120,
+   "note": "phones everywhere, flashes"
+  },
+  {
+   "id": "J3",
+   "size": "medium",
+   "set": "house front",
+   "key": 166,
+   "note": "black car; suit claps: now the world knows"
+  },
+  {
+   "id": "K1",
+   "size": "close-up",
+   "set": "radar room",
+   "key": 100,
+   "note": "radar sweep: one green blip"
+  },
+  {
+   "id": "K2",
+   "size": "close-up",
+   "set": "radar room",
+   "key": 200,
+   "note": "second blip over the sea, faster, heading in"
+  },
+  {
+   "id": "K3",
+   "size": "medium",
+   "set": "radar room",
+   "key": 80,
+   "note": "suit lit green: he is not alone"
+  },
+  {
+   "id": "END",
+   "size": "title",
+   "set": "end card",
+   "key": 250,
+   "note": "question + next part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "രാത്രി"
+  },
+  {
+   "shot": "A2",
+   "at": "നിന്റെ"
+  },
+  {
+   "shot": "A3",
+   "at": "പെട്ടെന്ന്"
+  },
+  {
+   "shot": "B1",
+   "at": "മൂന്ന്"
+  },
+  {
+   "shot": "B2",
+   "at": "നീ"
+  },
+  {
+   "shot": "B3",
+   "at": "ബസിനും"
+  },
+  {
+   "shot": "B4",
+   "at": "അനിയത്തിയുടെ"
+  },
+  {
+   "shot": "B5",
+   "at": "അവൾ"
+  },
+  {
+   "shot": "B6",
+   "at": "അമ്മ"
+  },
+  {
+   "shot": "B7",
+   "at": "ഒരു#2"
+  },
+  {
+   "shot": "B8",
+   "at": "അമ്മയുടെ"
+  },
+  {
+   "shot": "B9",
+   "at": "പിന്നെ"
+  },
+  {
+   "shot": "B10",
+   "at": "മേൽക്കൂര"
+  },
+  {
+   "shot": "T",
+   "at": "നിനക്ക്#2"
+  },
+  {
+   "shot": "C1",
+   "at": "ഒരു"
+  },
+  {
+   "shot": "C2",
+   "at": "നിയമങ്ങൾ"
+  },
+  {
+   "shot": "C3",
+   "at": "പക്ഷേ"
+  },
+  {
+   "shot": "D1",
+   "at": "നീ"
+  },
+  {
+   "shot": "D2",
+   "at": "നീ"
+  },
+  {
+   "shot": "D3",
+   "at": "നിങ്ങൾ"
+  },
+  {
+   "shot": "D4",
+   "at": "ഒരു"
+  },
+  {
+   "shot": "D5",
+   "at": "നീ"
+  },
+  {
+   "shot": "D6",
+   "at": "ഒരു#2"
+  },
+  {
+   "shot": "D7",
+   "at": "നൂറോളം"
+  },
+  {
+   "shot": "D8",
+   "at": "പക്ഷേ"
+  },
+  {
+   "shot": "D9",
+   "at": "അനിയത്തി"
+  },
+  {
+   "shot": "D10",
+   "at": "അവൾ"
+  },
+  {
+   "shot": "E1",
+   "at": "പക്ഷേ#2"
+  },
+  {
+   "shot": "E2",
+   "at": "നീ"
+  },
+  {
+   "shot": "E3",
+   "at": "ഒരു"
+  },
+  {
+   "shot": "E4",
+   "at": "പക്ഷികൾക്ക്"
+  },
+  {
+   "shot": "E5",
+   "at": "നിനക്കുള്ളത്"
+  },
+  {
+   "shot": "E6",
+   "at": "അന്ന്"
+  },
+  {
+   "shot": "E7",
+   "at": "ഓരോ"
+  },
+  {
+   "shot": "E8",
+   "at": "നിന്റെ"
+  },
+  {
+   "shot": "E9",
+   "at": "പക്ഷേ"
+  },
+  {
+   "shot": "E10",
+   "at": "എവറസ്റ്റ്"
+  },
+  {
+   "shot": "E11",
+   "at": "ഓക്സിജൻ"
+  },
+  {
+   "shot": "E12",
+   "at": "പത്തര"
+  },
+  {
+   "shot": "E13",
+   "at": "നിന്റെ"
+  },
+  {
+   "shot": "E14",
+   "at": "അപ്പോഴാണ്"
+  },
+  {
+   "shot": "E15",
+   "at": "അതിന്റെ"
+  },
+  {
+   "shot": "F1",
+   "at": "രണ്ടായിരത്തി"
+  },
+  {
+   "shot": "F2",
+   "at": "പൈലറ്റ്"
+  },
+  {
+   "shot": "F3",
+   "at": "ഒരു"
+  },
+  {
+   "shot": "F4",
+   "at": "താഴെ"
+  },
+  {
+   "shot": "F5",
+   "at": "പിന്നെ"
+  },
+  {
+   "shot": "F6",
+   "at": "പറക്കാൻ"
+  },
+  {
+   "shot": "F7",
+   "at": "ദിവസവും"
+  },
+  {
+   "shot": "G1",
+   "at": "പിറ്റേന്ന്"
+  },
+  {
+   "shot": "G2",
+   "at": "ഒരു#3"
+  },
+  {
+   "shot": "G3",
+   "at": "മോ"
+  },
+  {
+   "shot": "G4",
+   "at": "അന്ന്"
+  },
+  {
+   "shot": "G5",
+   "at": "കോട്ടിട്ട"
+  },
+  {
+   "shot": "G6",
+   "at": "നീ"
+  },
+  {
+   "shot": "G7",
+   "at": "എന്നിട്ട്"
+  },
+  {
+   "shot": "H1",
+   "at": "അന്ന്"
+  },
+  {
+   "shot": "H2",
+   "at": "അനിയത്തി"
+  },
+  {
+   "shot": "H3",
+   "at": "ഈ"
+  },
+  {
+   "shot": "H4",
+   "at": "നിനക്ക്"
+  },
+  {
+   "shot": "H5",
+   "at": "ഒരു"
+  },
+  {
+   "shot": "H6",
+   "at": "ഇന്ന്"
+  },
+  {
+   "shot": "H7",
+   "at": "അമ്മ"
+  },
+  {
+   "shot": "H8",
+   "at": "മരങ്ങളുടെ"
+  },
+  {
+   "shot": "H9",
+   "at": "ഒരു"
+  },
+  {
+   "shot": "H10",
+   "at": "അനിയത്തി"
+  },
+  {
+   "shot": "H11",
+   "at": "അവൾ"
+  },
+  {
+   "shot": "H12",
+   "at": "നീ#2"
+  },
+  {
+   "shot": "J1",
+   "at": "വീടിന്"
+  },
+  {
+   "shot": "J2",
+   "at": "പിന്നെ"
+  },
+  {
+   "shot": "J3",
+   "at": "റോഡിന്റെ"
+  },
+  {
+   "shot": "K1",
+   "at": "അർദ്ധരാത്രി"
+  },
+  {
+   "shot": "K2",
+   "at": "പക്ഷേ"
+  },
+  {
+   "shot": "K3",
+   "at": "കോട്ടിട്ട"
+  },
+  {
+   "shot": "END",
+   "at": "നിനക്ക്"
+  }
+ ],
+ "fx": [
+  {
+   "at": "A3+40",
+   "kind": "shake",
+   "len": 10,
+   "amp": 8
+  },
+  {
+   "at": "T+2",
+   "kind": "flash"
+  },
+  {
+   "at": "E3+14",
+   "kind": "flash",
+   "o": 0.5
+  },
+  {
+   "at": "E3+14",
+   "kind": "shake"
+  },
+  {
+   "at": "E14+30",
+   "kind": "shake",
+   "len": 14,
+   "amp": 14
+  },
+  {
+   "at": "H1+30",
+   "kind": "flash",
+   "o": 0.7
+  },
+  {
+   "at": "H6+20",
+   "kind": "flash",
+   "o": 0.8
+  },
+  {
+   "at": "H9+3",
+   "kind": "flash",
+   "o": 1.0
+  },
+  {
+   "at": "H9+4",
+   "kind": "shake"
+  },
+  {
+   "at": "END+2",
+   "kind": "flash"
+  }
+ ],
+ "sound": {
+  "levels": {
+   "sfx_lu": -4.5,
+   "music_lu": -13.0
+  },
+  "music": {
+   "clip": "music",
+   "until": "END",
+   "loop": true
+  },
+  "clips": {
+   "big_step": [
+    "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+    0.7
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "catch": [
+    "a hand catching a ceramic mug mid-air, soft slap and thud",
+    0.5
+   ],
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
+   ],
+   "cookie_crunch": [
+    "one crunchy bite into a chocolate chip cookie, close up",
+    0.6
+   ],
+   "copy_click": [
+    "a crisp satisfying computer copy click with a tiny soft digital chime, short",
+    0.5
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "dizzy": [
+    "cartoon dizzy birds tweeting in a circle after a bonk",
+    1.4
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "paper_land": [
+    "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+    0.7
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_hum": [
+    "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+    3.0
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "shades": [
+    "cool sunglasses sliding on with a swoosh and a bright metallic glint",
+    0.9
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "tumble": [
+    "a cartoon character tumbling down wooden stairs, a quick series of bumps and thuds",
+    1.3
+   ]
+  },
+  "events": [
+   [
+    "A1",
+    "roof_wind",
+    0.08,
+    "onset",
+    "B1"
+   ],
+   [
+    "B1",
+    "roof_wind",
+    0.05,
+    "onset",
+    "B9"
+   ],
+   [
+    "B9",
+    "room_tone",
+    0.07,
+    "onset",
+    "B10"
+   ],
+   [
+    "B10",
+    "roof_wind",
+    0.07,
+    "onset",
+    "T"
+   ],
+   [
+    "C1",
+    "room_tone",
+    0.07,
+    "onset",
+    "C2"
+   ],
+   [
+    "D1",
+    "roof_wind",
+    0.07,
+    "onset",
+    "D6"
+   ],
+   [
+    "D9",
+    "room_tone",
+    0.07,
+    "onset",
+    "E1"
+   ],
+   [
+    "E1",
+    "roof_wind",
+    0.08,
+    "onset",
+    "E4"
+   ],
+   [
+    "E5",
+    "roof_wind",
+    0.08,
+    "onset",
+    "E7"
+   ],
+   [
+    "E8",
+    "roof_wind",
+    0.09,
+    "onset",
+    "E9"
+   ],
+   [
+    "E11",
+    "roof_wind",
+    0.08,
+    "onset",
+    "E12"
+   ],
+   [
+    "E13",
+    "roof_wind",
+    0.09,
+    "onset",
+    "F1"
+   ],
+   [
+    "F4",
+    "roof_wind",
+    0.07,
+    "onset",
+    "F5"
+   ],
+   [
+    "F5",
+    "room_tone",
+    0.07,
+    "onset",
+    "F6"
+   ],
+   [
+    "G1",
+    "room_tone",
+    0.07,
+    "onset",
+    "G4"
+   ],
+   [
+    "G4",
+    "roof_wind",
+    0.05,
+    "onset",
+    "H1"
+   ],
+   [
+    "H1",
+    "roof_wind",
+    0.12,
+    "onset",
+    "H4"
+   ],
+   [
+    "H4",
+    "room_tone",
+    0.07,
+    "onset",
+    "H5"
+   ],
+   [
+    "H6",
+    "roof_wind",
+    0.11,
+    "onset",
+    "H7"
+   ],
+   [
+    "H7",
+    "room_tone",
+    0.07,
+    "onset",
+    "H8"
+   ],
+   [
+    "H8",
+    "roof_wind",
+    0.12,
+    "onset",
+    "J1"
+   ],
+   [
+    "J1",
+    "roof_wind",
+    0.09,
+    "onset",
+    "K1"
+   ],
+   [
+    "K1",
+    "room_tone",
+    0.08,
+    "onset",
+    "END"
+   ],
+   [
+    "B2+69",
+    "fall_whoosh",
+    0.4,
+    "onset"
+   ],
+   [
+    "B2+72",
+    "sparkle",
+    0.15
+   ],
+   [
+    "B4+96",
+    "fall_whoosh",
+    0.4,
+    "onset"
+   ],
+   [
+    "B4+96",
+    "sparkle",
+    0.15
+   ],
+   [
+    "B6+104",
+    "fall_whoosh",
+    0.4,
+    "onset"
+   ],
+   [
+    "B6+108",
+    "sparkle",
+    0.15
+   ],
+   [
+    "B9+124",
+    "fall_whoosh",
+    0.4,
+    "onset"
+   ],
+   [
+    "B9+128",
+    "sparkle",
+    0.15
+   ],
+   [
+    "D1+57",
+    "fall_whoosh",
+    0.4,
+    "onset"
+   ],
+   [
+    "D1+57",
+    "sparkle",
+    0.15
+   ],
+   [
+    "D2+84",
+    "fall_whoosh",
+    0.4,
+    "onset"
+   ],
+   [
+    "D2+88",
+    "sparkle",
+    0.15
+   ],
+   [
+    "H7+210",
+    "fall_whoosh",
+    0.4,
+    "onset"
+   ],
+   [
+    "H7+214",
+    "sparkle",
+    0.15
+   ],
+   [
+    "B10+23",
+    "fall_whoosh",
+    0.3,
+    "onset"
+   ],
+   [
+    "A2+64",
+    "gasp",
+    0.1
+   ],
+   [
+    "A3+64",
+    "drone_hit",
+    0.14,
+    "peak"
+   ],
+   [
+    "A3+120",
+    "power_hum",
+    0.07,
+    "onset",
+    "B1"
+   ],
+   [
+    "B1+32",
+    "step",
+    0.25
+   ],
+   [
+    "B1+32",
+    "step",
+    0.25
+   ],
+   [
+    "B1+32",
+    "step",
+    0.25
+   ],
+   [
+    "B1+32",
+    "step",
+    0.25
+   ],
+   [
+    "B1+34",
+    "step",
+    0.25
+   ],
+   [
+    "B1+42",
+    "step",
+    0.25
+   ],
+   [
+    "B3+57",
+    "fall_whoosh",
+    0.25,
+    "onset"
+   ],
+   [
+    "B4+178",
+    "catch",
+    0.3
+   ],
+   [
+    "B5+56",
+    "gasp",
+    0.2
+   ],
+   [
+    "B6+64",
+    "pop",
+    0.35
+   ],
+   [
+    "B7+30",
+    "catch",
+    0.3
+   ],
+   [
+    "B8+65",
+    "clink",
+    0.35
+   ],
+   [
+    "T+51",
+    "title_boom",
+    0.5,
+    "peak"
+   ],
+   [
+    "C1+64",
+    "gasp",
+    0.2
+   ],
+   [
+    "C2+36",
+    "sparkle",
+    0.18
+   ],
+   [
+    "C2+126",
+    "pop",
+    0.3
+   ],
+   [
+    "C2+215",
+    "pop",
+    0.3
+   ],
+   [
+    "C2+237",
+    "pop",
+    0.15
+   ],
+   [
+    "C2+260",
+    "pop",
+    0.15
+   ],
+   [
+    "C2+246",
+    "buzzer",
+    0.075,
+    "onset",
+    "C2+262"
+   ],
+   [
+    "C2+343",
+    "buzzer",
+    0.15,
+    "onset",
+    "C3"
+   ],
+   [
+    "C3+60",
+    "sparkle",
+    0.18
+   ],
+   [
+    "C3+84",
+    "select_draw",
+    0.1
+   ],
+   [
+    "C3+104",
+    "select_draw",
+    0.1
+   ],
+   [
+    "C3+180",
+    "select_draw",
+    0.2
+   ],
+   [
+    "D1+57",
+    "pop",
+    0.35
+   ],
+   [
+    "D2+43",
+    "pop",
+    0.35
+   ],
+   [
+    "D2+82",
+    "gasp",
+    0.25
+   ],
+   [
+    "D2+183",
+    "laugh",
+    0.15
+   ],
+   [
+    "D3+63",
+    "gasp",
+    0.15
+   ],
+   [
+    "D4+68",
+    "buzzer",
+    0.075,
+    "onset",
+    "D4+84"
+   ],
+   [
+    "D4+173",
+    "buzzer",
+    0.15,
+    "onset",
+    "D5"
+   ],
+   [
+    "D5+50",
+    "fall_whoosh",
+    0.25,
+    "onset"
+   ],
+   [
+    "D6+2",
+    "sparkle",
+    0.09
+   ],
+   [
+    "D6+116",
+    "counter_tick",
+    0.3,
+    "onset",
+    "D6+94"
+   ],
+   [
+    "D6+116",
+    "ding",
+    0.3
+   ],
+   [
+    "D7+51",
+    "counter_tick",
+    0.25,
+    "onset",
+    "D7+50"
+   ],
+   [
+    "D8+2",
+    "sparkle",
+    0.09
+   ],
+   [
+    "D8+233",
+    "ding",
+    0.35
+   ],
+   [
+    "D9+2",
+    "pop",
+    0.175
+   ],
+   [
+    "D10+40",
+    "pop",
+    0.3
+   ],
+   [
+    "E1+4",
+    "drone_hit",
+    0.075,
+    "peak"
+   ],
+   [
+    "E2+6",
+    "counter_tick",
+    0.15,
+    "onset",
+    "E2+36"
+   ],
+   [
+    "E2+84",
+    "ding",
+    0.25
+   ],
+   [
+    "E3+52",
+    "land",
+    0.4
+   ],
+   [
+    "E3+52",
+    "dizzy",
+    0.3
+   ],
+   [
+    "E4+65",
+    "sparkle",
+    0.18
+   ],
+   [
+    "E4+65",
+    "select_draw",
+    0.2
+   ],
+   [
+    "E4+268",
+    "ding",
+    0.35
+   ],
+   [
+    "E5+4",
+    "shades",
+    0.15
+   ],
+   [
+    "E6+2",
+    "counter_tick",
+    0.1,
+    "onset",
+    "E6+60"
+   ],
+   [
+    "E7+2",
+    "sparkle",
+    0.075
+   ],
+   [
+    "E7+212",
+    "ding",
+    0.25
+   ],
+   [
+    "E7+278",
+    "ding",
+    0.25
+   ],
+   [
+    "E7+354",
+    "ding",
+    0.25
+   ],
+   [
+    "E9+51",
+    "sparkle",
+    0.15
+   ],
+   [
+    "E9+240",
+    "ding",
+    0.3
+   ],
+   [
+    "E10+2",
+    "select_draw",
+    0.1
+   ],
+   [
+    "E10+138",
+    "ding",
+    0.35
+   ],
+   [
+    "E11+319",
+    "drone_hit",
+    0.1,
+    "peak"
+   ],
+   [
+    "E11+309",
+    "dizzy",
+    0.2
+   ],
+   [
+    "E12+2",
+    "counter_tick",
+    0.125,
+    "onset",
+    "E12+150"
+   ],
+   [
+    "E13+105",
+    "fall_whoosh",
+    0.35,
+    "onset"
+   ],
+   [
+    "E14+20",
+    "power_hum",
+    0.05,
+    "onset",
+    "E15"
+   ],
+   [
+    "E14+176",
+    "fall_whoosh",
+    0.45,
+    "onset"
+   ],
+   [
+    "E15+4",
+    "tumble",
+    0.175
+   ],
+   [
+    "F1+39",
+    "sparkle",
+    0.15
+   ],
+   [
+    "F1+240",
+    "buzzer",
+    0.2,
+    "onset",
+    "F1+237"
+   ],
+   [
+    "F2+76",
+    "paper_land",
+    0.3
+   ],
+   [
+    "F2+158",
+    "counter_tick",
+    0.3,
+    "onset",
+    "F2+124"
+   ],
+   [
+    "F2+208",
+    "ding",
+    0.35
+   ],
+   [
+    "F3+49",
+    "pop",
+    0.25
+   ],
+   [
+    "F3+102",
+    "big_step",
+    0.3
+   ],
+   [
+    "F5+38",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+38",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+38",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+48",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+108",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+108",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+108",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+108",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+118",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+201",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+201",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+201",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+201",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+201",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+202",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+216",
+    "cookie_crunch",
+    0.18
+   ],
+   [
+    "F5+38",
+    "pop",
+    0.3
+   ],
+   [
+    "F5+120",
+    "gulp",
+    0.15
+   ],
+   [
+    "F6+55",
+    "sparkle",
+    0.15
+   ],
+   [
+    "F6+189",
+    "counter_tick",
+    0.3,
+    "onset",
+    "F6+146"
+   ],
+   [
+    "F6+189",
+    "ding",
+    0.3
+   ],
+   [
+    "F7+22",
+    "pop",
+    0.06
+   ],
+   [
+    "F7+26",
+    "pop",
+    0.06
+   ],
+   [
+    "F7+30",
+    "pop",
+    0.06
+   ],
+   [
+    "F7+108",
+    "pop",
+    0.12
+   ],
+   [
+    "F7+108",
+    "pop",
+    0.12
+   ],
+   [
+    "F7+108",
+    "pop",
+    0.12
+   ],
+   [
+    "F7+108",
+    "pop",
+    0.12
+   ],
+   [
+    "F7+108",
+    "pop",
+    0.12
+   ],
+   [
+    "F7+108",
+    "pop",
+    0.12
+   ],
+   [
+    "F7+108",
+    "pop",
+    0.12
+   ],
+   [
+    "G1+2",
+    "glitch",
+    0.1
+   ],
+   [
+    "G2+47",
+    "glitch",
+    0.2
+   ],
+   [
+    "G3+2",
+    "pop",
+    0.175
+   ],
+   [
+    "G4+78",
+    "step",
+    0.2
+   ],
+   [
+    "G4+78",
+    "step",
+    0.2
+   ],
+   [
+    "G4+78",
+    "step",
+    0.2
+   ],
+   [
+    "G4+80",
+    "step",
+    0.2
+   ],
+   [
+    "G4+88",
+    "step",
+    0.2
+   ],
+   [
+    "G4+96",
+    "step",
+    0.1
+   ],
+   [
+    "G5+2",
+    "pop",
+    0.175
+   ],
+   [
+    "G6+59",
+    "pop",
+    0.35
+   ],
+   [
+    "G6+157",
+    "drone_hit",
+    0.1,
+    "peak"
+   ],
+   [
+    "G7+75",
+    "pop",
+    0.3
+   ],
+   [
+    "G7+84",
+    "drone_hit",
+    0.14,
+    "peak"
+   ],
+   [
+    "H1+60",
+    "title_boom",
+    0.25,
+    "peak"
+   ],
+   [
+    "H1+60",
+    "drone_hit",
+    0.12,
+    "peak"
+   ],
+   [
+    "H2+2",
+    "gasp",
+    0.075
+   ],
+   [
+    "H3+10",
+    "buzzer",
+    0.075,
+    "onset",
+    "H3+26"
+   ],
+   [
+    "H5+2",
+    "sparkle",
+    0.075
+   ],
+   [
+    "H5+171",
+    "ding",
+    0.35
+   ],
+   [
+    "H6+20",
+    "title_boom",
+    0.11,
+    "peak"
+   ],
+   [
+    "H6+112",
+    "title_boom",
+    0.2,
+    "peak"
+   ],
+   [
+    "H7+34",
+    "pop",
+    0.3
+   ],
+   [
+    "H7+168",
+    "shades",
+    0.3
+   ],
+   [
+    "H8+68",
+    "fall_whoosh",
+    0.3,
+    "onset"
+   ],
+   [
+    "H9+30",
+    "title_boom",
+    0.3,
+    "peak"
+   ],
+   [
+    "H10+120",
+    "gasp",
+    0.1
+   ],
+   [
+    "H11+47",
+    "pop",
+    0.35
+   ],
+   [
+    "H12+30",
+    "power_hum",
+    0.06,
+    "onset",
+    "J1"
+   ],
+   [
+    "H12+186",
+    "drone_hit",
+    0.05,
+    "peak"
+   ],
+   [
+    "J1+24",
+    "catch",
+    0.15
+   ],
+   [
+    "J2+42",
+    "copy_click",
+    0.2
+   ],
+   [
+    "J2+47",
+    "copy_click",
+    0.2
+   ],
+   [
+    "J2+84",
+    "copy_click",
+    0.2
+   ],
+   [
+    "J2+84",
+    "copy_click",
+    0.2
+   ],
+   [
+    "J2+150",
+    "copy_click",
+    0.2
+   ],
+   [
+    "J2+150",
+    "copy_click",
+    0.2
+   ],
+   [
+    "J2+150",
+    "copy_click",
+    0.2
+   ],
+   [
+    "J2+149",
+    "copy_click",
+    0.2
+   ],
+   [
+    "J2+203",
+    "copy_click",
+    0.2
+   ],
+   [
+    "J2+203",
+    "copy_click",
+    0.2
+   ],
+   [
+    "J2+203",
+    "copy_click",
+    0.2
+   ],
+   [
+    "J2+292",
+    "copy_click",
+    0.2
+   ],
+   [
+    "J3+66",
+    "pop",
+    0.3
+   ],
+   [
+    "J3+262",
+    "drone_hit",
+    0.12,
+    "peak"
+   ],
+   [
+    "K1+2",
+    "power_hum",
+    0.04,
+    "onset",
+    "END"
+   ],
+   [
+    "K1+63",
+    "ding",
+    0.12
+   ],
+   [
+    "K1+144",
+    "ding",
+    0.12
+   ],
+   [
+    "K2+87",
+    "glitch",
+    0.14
+   ],
+   [
+    "K2+96",
+    "drone_hit",
+    0.05,
+    "peak"
+   ],
+   [
+    "K3+2",
+    "pop",
+    0.15
+   ],
+   [
+    "END",
+    "title_boom",
+    0.15,
+    "peak"
+   ],
+   [
+    "END+240",
+    "title_boom",
+    0.45,
+    "peak"
+   ]
+  ]
+ }
+}

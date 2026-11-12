@@ -1,0 +1,75 @@
+# Renders one episode on a GitHub runner instead of the laptop, then masters it to -14 LUFS with master.py.
+# Started by cloud_render.py (skill scripts), which pushes the code and uploads public/<slug> as the
+# release asset assets-<slug>/public.zip first. The MP4 comes back as a workflow artifact.
+name: render
+run-name: render ${{ inputs.slug }} ${{ inputs.mode }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: Episode slug (folder in src/episodes)
+        required: true
+      mode:
+        description: preview = 240p review cut, final = full render
+        type: choice
+        options: [final, preview]
+        default: final
+
+concurrency:
+  group: render-${{ inputs.slug }}
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    defaults:
+      run:
+        working-directory: what-if-studio-ml
+    env:
+      SLUG: ${{ inputs.slug }}
+      GH_TOKEN: ${{ github.token }}
+      PYTHONIOENCODING: utf-8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: what-if-studio-ml/package-lock.json
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install ffmpeg, numpy, node packages
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q numpy
+          npm ci --no-audit --no-fund
+
+      - name: Fetch the episode audio
+        run: |
+          gh release download "assets-$SLUG" -p public.zip -D /tmp/assets --clobber
+          mkdir -p "public/$SLUG"
+          unzip -o -q /tmp/assets/public.zip -d "public/$SLUG"
+          ls -la "public/$SLUG"
+
+      - name: Render and master
+        run: |
+          FLAG=""
+          if [ "${{ inputs.mode }}" = "preview" ]; then FLAG="--preview"; fi
+          python ../.claude/skills/what-if-animation/scripts/master.py "$SLUG" $FLAG --concurrency "$(nproc)"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.slug }}-${{ inputs.mode }}
+          path: |
+            what-if-studio-ml/out/${{ inputs.slug }}/*-final.mp4
+            what-if-studio-ml/out/${{ inputs.slug }}/*-240p.mp4
+            what-if-studio-ml/out/${{ inputs.slug }}/report.json
+          if-no-files-found: error
+          compression-level: 0
+          retention-days: 7

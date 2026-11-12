@@ -1,0 +1,394 @@
+{
+ "slug": "blink-ml",
+ "title": "കണ്ണ് ചിമ്മിയാൽ ടെലിപോർട്ട് ചെയ്താലോ?",
+ "fps": 30,
+ "total": 775,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 27,
+   "t0": 0,
+   "t1": 27,
+   "line": "വിശക്കുന്നു."
+  },
+  {
+   "shot": "S2",
+   "a": 27,
+   "b": 49,
+   "t0": 0,
+   "t1": 22,
+   "line": "ബ്ലിങ്ക്.",
+   "look": "blink"
+  },
+  {
+   "shot": "S3",
+   "a": 49,
+   "b": 89,
+   "t0": 0,
+   "t1": 40,
+   "line": "നേരെ ഫ്രിഡ്ജിന് മുന്നിൽ."
+  },
+  {
+   "shot": "S4",
+   "a": 89,
+   "b": 125,
+   "t0": 0,
+   "t1": 36,
+   "line": "ക്ലാസിന് ലേറ്റായി."
+  },
+  {
+   "shot": "S5",
+   "a": 125,
+   "b": 147,
+   "t0": 0,
+   "t1": 22,
+   "line": "ബ്ലിങ്ക്.",
+   "look": "blink"
+  },
+  {
+   "shot": "S6",
+   "a": 147,
+   "b": 187,
+   "t0": 0,
+   "t1": 40,
+   "line": "ആദ്യം എത്തിയത് നീ."
+  },
+  {
+   "shot": "S7",
+   "a": 187,
+   "b": 226,
+   "t0": 0,
+   "t1": 39,
+   "line": "മോ തിരിഞ്ഞുനോക്കുന്നു."
+  },
+  {
+   "shot": "S8",
+   "a": 226,
+   "b": 248,
+   "t0": 0,
+   "t1": 22,
+   "line": "ബ്ലിങ്ക്.",
+   "look": "blink"
+  },
+  {
+   "shot": "S9",
+   "a": 248,
+   "b": 283,
+   "t0": 0,
+   "t1": 35,
+   "line": "നീ തൊട്ടുപിന്നിൽ."
+  },
+  {
+   "shot": "S10",
+   "a": 283,
+   "b": 361,
+   "t0": 0,
+   "t1": 78,
+   "line": "കണ്ണ് ചിമ്മിയാൽ ടെലിപോർട്ട് ചെയ്യാൻ പറ്റിയാലോ?"
+  },
+  {
+   "shot": "S11",
+   "a": 361,
+   "b": 402,
+   "t0": 0,
+   "t1": 41,
+   "line": "ഭൂമിയിൽ എവിടേക്കും."
+  },
+  {
+   "shot": "S12",
+   "a": 402,
+   "b": 425,
+   "t0": 0,
+   "t1": 23,
+   "line": "ഒരു പ്രശ്നം:"
+  },
+  {
+   "shot": "S13",
+   "a": 425,
+   "b": 462,
+   "t0": 0,
+   "t1": 37,
+   "line": "ഭൂമി കറങ്ങുന്നുണ്ട്."
+  },
+  {
+   "shot": "S14",
+   "a": 462,
+   "b": 501,
+   "t0": 0,
+   "t1": 39,
+   "line": "ഭൂമധ്യരേഖ മണിക്കൂറിൽ"
+  },
+  {
+   "shot": "S15",
+   "a": 501,
+   "b": 596,
+   "t0": 0,
+   "t1": 95,
+   "line": "ആയിരത്തി അറുനൂറ് കിലോമീറ്ററിലധികം വേഗത്തിലാണ് നീങ്ങുന്നത്."
+  },
+  {
+   "shot": "S16",
+   "a": 596,
+   "b": 630,
+   "t0": 0,
+   "t1": 34,
+   "line": "ഇത് സത്യമാണ്."
+  },
+  {
+   "shot": "S17",
+   "a": 630,
+   "b": 691,
+   "t0": 0,
+   "t1": 61,
+   "line": "ഉത്തരധ്രുവത്തിലേക്ക് ബ്ലിങ്ക് ചെയ്താൽ..."
+  },
+  {
+   "shot": "S18",
+   "a": 691,
+   "b": 775,
+   "t0": 0,
+   "t1": 84,
+   "line": "ആ വേഗം നിന്റെ കൂടെ വരും."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "medium",
+   "key": 16,
+   "len": 27,
+   "first": 0,
+   "line": "വിശക്കുന്നു.",
+   "note": "Pip at his desk, an empty plate with crumbs, looks off toward the door; hungry"
+  },
+  {
+   "id": "S2",
+   "size": "extreme close-up",
+   "key": 5,
+   "len": 22,
+   "first": 27,
+   "line": "ബ്ലിങ്ക്.",
+   "note": "BLINK: his eyes squeeze shut, then he shrinks into a cyan ring and a pinch of sparks"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 14,
+   "len": 40,
+   "first": 49,
+   "line": "നേരെ ഫ്രിഡ്ജിന് മുന്നിൽ.",
+   "note": "Pip pops in by the fridge with a cyan ring, grinning; the cat jolts awake on the counter"
+  },
+  {
+   "id": "S4",
+   "size": "macro insert, high",
+   "key": 18,
+   "len": 36,
+   "first": 89,
+   "line": "ക്ലാസിന് ലേറ്റായി.",
+   "note": "the alarm clock flips 08:59 to 09:00, red digits"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 6,
+   "len": 22,
+   "first": 125,
+   "line": "ബ്ലിങ്ക്.",
+   "note": "BLINK: Pip in shock, bag strap on, eyes shut, gone in a ring"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 16,
+   "len": 40,
+   "first": 147,
+   "line": "ആദ്യം എത്തിയത് നീ.",
+   "note": "empty classroom; Pip pops in at his desk, first one there, smug"
+  },
+  {
+   "id": "S7",
+   "size": "wide, side-on",
+   "key": 20,
+   "len": 39,
+   "first": 187,
+   "line": "മോ തിരിഞ്ഞുനോക്കുന്നു.",
+   "note": "Mo halfway down the stairs looks back up over his shoulder: nobody there"
+  },
+  {
+   "id": "S8",
+   "size": "extreme close-up, profile",
+   "key": 5,
+   "len": 22,
+   "first": 226,
+   "line": "ബ്ലിങ്ക്.",
+   "note": "BLINK: Pip's eyes shut at the top of the stairs, glint, gone"
+  },
+  {
+   "id": "S9",
+   "size": "medium two-shot",
+   "key": 24,
+   "len": 35,
+   "first": 248,
+   "line": "നീ തൊട്ടുപിന്നിൽ.",
+   "note": "Mo turns forward and Pip is right behind him, inches away, grinning; Mo jolts"
+  },
+  {
+   "id": "S10",
+   "size": "title, wide",
+   "key": 40,
+   "len": 78,
+   "first": 283,
+   "line": "കണ്ണ് ചിമ്മിയാൽ ടെലിപോർട്ട് ചെയ്യാൻ പറ്റിയാലോ?",
+   "note": "the premise over the dusk city; Pip pops onto the roof"
+  },
+  {
+   "id": "S11",
+   "size": "schematic",
+   "key": 24,
+   "len": 41,
+   "first": 361,
+   "line": "ഭൂമിയിൽ എവിടേക്കും.",
+   "note": "a globe; cyan pins pop in all over it: anywhere"
+  },
+  {
+   "id": "S12",
+   "size": "medium, low angle",
+   "key": 14,
+   "len": 23,
+   "first": 402,
+   "line": "ഒരു പ്രശ്നം:",
+   "note": "Pip's grin fades; he looks down"
+  },
+  {
+   "id": "S13",
+   "size": "schematic",
+   "key": 20,
+   "len": 37,
+   "first": 425,
+   "line": "ഭൂമി കറങ്ങുന്നുണ്ട്.",
+   "note": "the globe turns, a curved arrow round it: EARTH SPINS"
+  },
+  {
+   "id": "S14",
+   "size": "schematic",
+   "key": 28,
+   "len": 39,
+   "first": 462,
+   "line": "ഭൂമധ്യരേഖ മണിക്കൂറിൽ",
+   "note": "the equator draws on, a dot rides it with speed streaks"
+  },
+  {
+   "id": "S15",
+   "size": "schematic",
+   "key": 50,
+   "len": 95,
+   "first": 501,
+   "line": "ആയിരത്തി അറുനൂറ് കിലോമീറ്ററിലധികം വേഗത്തിലാണ് നീങ്ങുന്നത്.",
+   "note": "1,674 KM/H counts up big, OVER 1,600 under it"
+  },
+  {
+   "id": "S16",
+   "size": "extreme close-up",
+   "key": 20,
+   "len": 34,
+   "first": 596,
+   "line": "ഇത് സത്യമാണ്.",
+   "note": "Pip, worried; the light turning red"
+  },
+  {
+   "id": "S17",
+   "size": "schematic",
+   "key": 30,
+   "len": 61,
+   "first": 630,
+   "line": "ഉത്തരധ്രുവത്തിലേക്ക് ബ്ലിങ്ക് ചെയ്താൽ...",
+   "note": "Pip's dot hops from the equator to the North Pole; the pole reads 0 KM/H, Pip still 1,674"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 30,
+   "len": 84,
+   "first": 691,
+   "line": "ആ വേഗം നിന്റെ കൂടെ വരും.",
+   "note": "Pip pops onto the ice and is flung sideways out of frame at speed; snow spray, shake"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.5,
+   "f": 36
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.35,
+   "f": 52
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.5,
+   "f": 134
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.35,
+   "f": 150
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.45,
+   "f": 235
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.35,
+   "f": 251
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "f": 283
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3344",
+   "o": 0.4,
+   "f": 596
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.4,
+   "f": 694
+  },
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 12,
+   "f": 736
+  },
+  {
+   "kind": "flash",
+   "color": "#FF6A5A",
+   "o": 0.3,
+   "f": 735
+  }
+ ],
+ "audio": {
+  "voice": "blink-ml/voice.wav",
+  "sfx": "blink-ml/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3964,
+  "music": "blink-ml/music.wav",
+  "musicVol": 0.1183
+ }
+}

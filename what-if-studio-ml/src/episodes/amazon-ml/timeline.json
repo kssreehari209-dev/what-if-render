@@ -1,0 +1,435 @@
+{
+ "slug": "amazon-ml",
+ "title": "ഓട്ടോയിൽ ആമസോൺ?",
+ "fps": 30,
+ "total": 1802,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 66,
+   "t0": 0,
+   "t1": 66,
+   "line": "ഒരു ഓട്ടോയിൽ ആമസോൺ കാട് കടക്കാൻ"
+  },
+  {
+   "shot": "A2",
+   "a": 66,
+   "b": 115,
+   "t0": 0,
+   "t1": 49,
+   "line": "നോക്കിയാലോ?"
+  },
+  {
+   "shot": "B1",
+   "a": 115,
+   "b": 210,
+   "t0": 0,
+   "t1": 95,
+   "line": "പച്ച നരകം എന്നാണ് ഈ കാടിന്റെ വിളിപ്പേര്."
+  },
+  {
+   "shot": "B2",
+   "a": 210,
+   "b": 302,
+   "t0": 0,
+   "t1": 92,
+   "line": "നൂറ്റിനാൽപ്പത് കേരളം ഇതിനകത്ത് കയറും."
+  },
+  {
+   "shot": "C1",
+   "a": 302,
+   "b": 388,
+   "t0": 0,
+   "t1": 86,
+   "line": "മനാസിൽ നിന്ന് തെക്കോട്ട് ഒരൊറ്റ റോഡ്."
+  },
+  {
+   "shot": "C2",
+   "a": 388,
+   "b": 467,
+   "t0": 0,
+   "t1": 79,
+   "line": "എണ്ണൂറ്റി എൺപത്തഞ്ച് കിലോമീറ്റർ."
+  },
+  {
+   "shot": "C3",
+   "a": 467,
+   "b": 596,
+   "t0": 0,
+   "t1": 129,
+   "line": "കാസർഗോഡ് നിന്ന് തിരുവനന്തപുരം പോയിട്ട്, പകുതി തിരിച്ചും വരാം."
+  },
+  {
+   "shot": "D1",
+   "a": 596,
+   "b": 681,
+   "t0": 0,
+   "t1": 85,
+   "line": "അതിൽ നാനൂറ് കിലോമീറ്റർ വെറും ചെളി."
+  },
+  {
+   "shot": "D2",
+   "a": 681,
+   "b": 753,
+   "t0": 0,
+   "t1": 72,
+   "line": "മഴ തുടങ്ങിയാൽ ആറു മാസം വഴിയേ ഇല്ല."
+  },
+  {
+   "shot": "E1",
+   "a": 753,
+   "b": 811,
+   "t0": 0,
+   "t1": 58,
+   "line": "പുഴയിൽ കാൽ ഇടല്ലേ."
+  },
+  {
+   "shot": "E2",
+   "a": 811,
+   "b": 903,
+   "t0": 0,
+   "t1": 92,
+   "line": "എണ്ണൂറ്റി അറുപത് വോൾട്ട് അടിക്കുന്ന മീനുണ്ട്."
+  },
+  {
+   "shot": "E3",
+   "a": 903,
+   "b": 1002,
+   "t0": 0,
+   "t1": 99,
+   "line": "നമ്മുടെ വീട്ടിലെ കറന്റ് ഇരുന്നൂറ്റി മുപ്പതേ ഉള്ളൂ."
+  },
+  {
+   "shot": "F1",
+   "a": 1002,
+   "b": 1076,
+   "t0": 0,
+   "t1": 74,
+   "line": "തലയ്ക്ക് മുകളിലുമുണ്ട് ഒരു പുഴ."
+  },
+  {
+   "shot": "F2",
+   "a": 1076,
+   "b": 1151,
+   "t0": 0,
+   "t1": 75,
+   "line": "മരങ്ങൾ ഒരു ദിവസം രണ്ടായിരം കോടി ടൺ വരെ"
+  },
+  {
+   "shot": "F2b",
+   "a": 1151,
+   "b": 1224,
+   "t0": 0,
+   "t1": 73,
+   "line": "വെള്ളം ആകാശത്തേക്ക് വിടും."
+  },
+  {
+   "shot": "F3",
+   "a": 1224,
+   "b": 1322,
+   "t0": 0,
+   "t1": 98,
+   "line": "ആമസോൺ നദി കടലിൽ ഒഴുക്കുന്നതിലും കൂടുതൽ."
+  },
+  {
+   "shot": "G1",
+   "a": 1322,
+   "b": 1421,
+   "t0": 0,
+   "t1": 99,
+   "line": "ഈ കാടിന് വളം കൊണ്ടുവരുന്നത് ആരാണെന്നോ?"
+  },
+  {
+   "shot": "G2",
+   "a": 1421,
+   "b": 1478,
+   "t0": 0,
+   "t1": 57,
+   "line": "സഹാറ മരുഭൂമി."
+  },
+  {
+   "shot": "G3",
+   "a": 1478,
+   "b": 1563,
+   "t0": 0,
+   "t1": 85,
+   "line": "കടൽ കടന്ന്, കൊല്ലം തോറും രണ്ടേമുക്കാൽ കോടി ടൺ"
+  },
+  {
+   "shot": "G4",
+   "a": 1563,
+   "b": 1597,
+   "t0": 0,
+   "t1": 34,
+   "line": "പൊടി."
+  },
+  {
+   "shot": "H1",
+   "a": 1597,
+   "b": 1675,
+   "t0": 0,
+   "t1": 78,
+   "line": "ഇനിയും നാനൂറ് കിലോമീറ്റർ ബാക്കി."
+  },
+  {
+   "shot": "H2",
+   "a": 1675,
+   "b": 1725,
+   "t0": 0,
+   "t1": 50,
+   "line": "ഓട്ടോ ചെളിയിൽ."
+  },
+  {
+   "shot": "H3",
+   "a": 1725,
+   "b": 1802,
+   "t0": 0,
+   "t1": 77,
+   "line": "നിങ്ങളാണെങ്കിൽ ഇറങ്ങി തള്ളുമോ?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "key": 36,
+   "len": 66,
+   "first": 0,
+   "line": "ഒരു ഓട്ടോയിൽ ആമസോൺ കാട് കടക്കാൻ",
+   "note": "HOOK + title: auto sunk in red mud at dusk, Pip pushing, Mo inside with tea, eyes in the dark"
+  },
+  {
+   "id": "A2",
+   "size": "close-up",
+   "key": 34,
+   "len": 49,
+   "first": 66,
+   "line": "നോക്കിയാലോ?",
+   "note": "wheel spins, a wall of mud hits Pip in the face (gag, in the pause)"
+  },
+  {
+   "id": "B1",
+   "size": "high aerial",
+   "key": 60,
+   "len": 95,
+   "first": 115,
+   "line": "പച്ച നരകം എന്നാണ് ഈ കാടിന്റെ വിളിപ്പേര്.",
+   "note": "straight down: endless forest, a thin red road, one tiny auto. പച്ച നരകം"
+  },
+  {
+   "id": "B2",
+   "size": "schematic",
+   "key": 60,
+   "len": 92,
+   "first": 210,
+   "line": "നൂറ്റിനാൽപ്പത് കേരളം ഇതിനകത്ത് കയറും.",
+   "note": "South America, Keralas stamp into the forest, counter to 140"
+  },
+  {
+   "id": "C1",
+   "size": "wide",
+   "key": 60,
+   "len": 86,
+   "first": 302,
+   "line": "മനാസിൽ നിന്ന് തെക്കോട്ട് ഒരൊറ്റ റോഡ്.",
+   "note": "the auto passes the Manaus km 0 board, the city behind, the road south ahead"
+  },
+  {
+   "id": "C2",
+   "size": "low wide",
+   "key": 50,
+   "len": 79,
+   "first": 388,
+   "line": "എണ്ണൂറ്റി എൺപത്തഞ്ച് കിലോമീറ്റർ.",
+   "note": "one straight road into the sun, walls of forest, the auto shrinking. 885 km"
+  },
+  {
+   "id": "C3",
+   "size": "schematic",
+   "key": 96,
+   "len": 129,
+   "first": 467,
+   "line": "കാസർഗോഡ് നിന്ന് തിരുവനന്തപുരം പോയിട്ട്, പകുതി തിരിച്ചും വരാം.",
+   "note": "Kerala down the frame: the auto runs Kasaragod to Thiruvananthapuram, then half way back"
+  },
+  {
+   "id": "D1",
+   "size": "medium",
+   "key": 50,
+   "len": 85,
+   "first": 596,
+   "line": "അതിൽ നാനൂറ് കിലോമീറ്റർ വെറും ചെളി.",
+   "note": "tarmac ends: auto bucking through mud, tea flying, 400 km"
+  },
+  {
+   "id": "D2",
+   "size": "high wide",
+   "key": 50,
+   "len": 72,
+   "first": 681,
+   "line": "മഴ തുടങ്ങിയാൽ ആറു മാസം വഴിയേ ഇല്ല.",
+   "note": "rain, the road is a river; Mo paddles the auto with a road sign. 6 months"
+  },
+  {
+   "id": "E1",
+   "size": "medium",
+   "key": 40,
+   "len": 58,
+   "first": 753,
+   "line": "പുഴയിൽ കാൽ ഇടല്ലേ.",
+   "note": "the auto on a log raft; Mo dangles a foot, Pip lunges to stop him"
+  },
+  {
+   "id": "E2",
+   "size": "underwater",
+   "key": 50,
+   "len": 92,
+   "first": 811,
+   "line": "എണ്ണൂറ്റി അറുപത് വോൾട്ട് അടിക്കുന്ന മീനുണ്ട്.",
+   "note": "under the surface: the foot above, the eel rising, arcs. 860 V"
+  },
+  {
+   "id": "E3",
+   "size": "medium",
+   "key": 90,
+   "len": 99,
+   "first": 903,
+   "line": "നമ്മുടെ വീട്ടിലെ കറന്റ് ഇരുന്നൂറ്റി മുപ്പതേ ഉള്ളൂ.",
+   "note": "230 V vs 860 V bars; Mo plugs his phone into the eel: 100 percent, then he is smoking (gag)"
+  },
+  {
+   "id": "F1",
+   "size": "low angle",
+   "key": 50,
+   "len": 74,
+   "first": 1002,
+   "line": "തലയ്ക്ക് മുകളിലുമുണ്ട് ഒരു പുഴ.",
+   "note": "from the auto roof up the trunks: a blue river in the sky"
+  },
+  {
+   "id": "F2",
+   "size": "wide",
+   "key": 60,
+   "len": 75,
+   "first": 1076,
+   "line": "മരങ്ങൾ ഒരു ദിവസം രണ്ടായിരം കോടി ടൺ വരെ",
+   "note": "water streaming up from the treetops into the sky river. 2,000 crore tons"
+  },
+  {
+   "id": "F2b",
+   "size": "close-up",
+   "key": 40,
+   "len": 73,
+   "first": 1151,
+   "line": "വെള്ളം ആകാശത്തേക്ക് വിടും.",
+   "note": "Mo stares: his tea drifts up out of the glass (gag)"
+  },
+  {
+   "id": "F3",
+   "size": "wide",
+   "key": 70,
+   "len": 98,
+   "first": 1224,
+   "line": "ആമസോൺ നദി കടലിൽ ഒഴുക്കുന്നതിലും കൂടുതൽ.",
+   "note": "river below 1,700, sky river above 2,000; Mo holds his umbrella under himself (gag)"
+  },
+  {
+   "id": "G1",
+   "size": "close-up",
+   "key": 30,
+   "len": 99,
+   "first": 1322,
+   "line": "ഈ കാടിന് വളം കൊണ്ടുവരുന്നത് ആരാണെന്നോ?",
+   "note": "gold dust on the glass, the wiper clears it, Pip and Mo look out"
+  },
+  {
+   "id": "G2",
+   "size": "wide",
+   "key": 30,
+   "len": 57,
+   "first": 1421,
+   "line": "സഹാറ മരുഭൂമി.",
+   "note": "dunes at dusk, a camel, dust lifting off the crest"
+  },
+  {
+   "id": "G3",
+   "size": "schematic",
+   "key": 70,
+   "len": 85,
+   "first": 1478,
+   "line": "കടൽ കടന്ന്, കൊല്ലം തോറും രണ്ടേമുക്കാൽ കോടി ടൺ",
+   "note": "a gold river of dust from Africa to the Amazon. 2.75 crore tons a year"
+  },
+  {
+   "id": "G4",
+   "size": "medium",
+   "key": 26,
+   "len": 34,
+   "first": 1563,
+   "line": "പൊടി.",
+   "note": "Mo buried in dust sneezes it off; a small camel strolls past behind him (gag)"
+  },
+  {
+   "id": "H1",
+   "size": "wide",
+   "key": 40,
+   "len": 78,
+   "first": 1597,
+   "line": "ഇനിയും നാനൂറ് കിലോമീറ്റർ ബാക്കി.",
+   "note": "the opening shot, now night, more eyes. 400 km left"
+  },
+  {
+   "id": "H2",
+   "size": "insert",
+   "key": 30,
+   "len": 50,
+   "first": 1675,
+   "line": "ഓട്ടോ ചെളിയിൽ.",
+   "note": "the fare meter still running (gag)"
+  },
+  {
+   "id": "H3",
+   "size": "close-up",
+   "key": 40,
+   "len": 77,
+   "first": 1725,
+   "line": "നിങ്ങളാണെങ്കിൽ ഇറങ്ങി തള്ളുമോ?",
+   "note": "mud on his face, Pip looks at us; the eyes come closer. Question on screen"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "amp": 14,
+   "len": 10,
+   "f": 90
+  },
+  {
+   "kind": "flash",
+   "color": "#BFF4FF",
+   "o": 0.5,
+   "f": 851
+  },
+  {
+   "kind": "flash",
+   "color": "#BFF4FF",
+   "o": 0.7,
+   "f": 981
+  },
+  {
+   "kind": "shake",
+   "amp": 8,
+   "len": 8,
+   "f": 1781
+  }
+ ],
+ "audio": {
+  "voice": "amazon-ml/voice.wav",
+  "sfx": "amazon-ml/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.6731,
+  "music": "amazon-ml/music.wav",
+  "musicVol": 0.1007
+ }
+}

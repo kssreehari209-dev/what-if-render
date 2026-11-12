@@ -1,0 +1,33 @@
+{
+ "id": "OneMinute",
+ "slug": "one-minute",
+ "topic": "What if you could see one minute ahead?",
+ "title": ["WHAT IF YOU COULD", "SEE ONE MINUTE AHEAD?"],
+ "accent": "ONE",
+ "power": {
+  "word": "Peek.",
+  "rule": "you see the next sixty seconds, every time you want",
+  "look": "the picture goes cool and ghostly, a +60s chip and a stopwatch running forward; the future plays as a cyan ghost"
+ },
+ "script": [
+  {"beat": "1 cold open, demo 1 (small and selfish)", "text": "Last cookie. Peek. Your friend takes it. So you grab it first."},
+  {"beat": "1 cold open, demo 2 (useful)", "text": "A paper ball. Peek. You duck."},
+  {"beat": "1 cold open, demo 3 (a little uncanny)", "text": "Your best friend opens his mouth. Peek. You answer before he asks."},
+  {"beat": "2 the premise (title card)", "text": "What if you could see one minute ahead?"},
+  {"beat": "4 the turn: the cost, one real fact", "text": "One catch: your brain already burns a fifth of your body's energy. That's real. Now it's running two minutes at once."},
+  {"beat": "5-7 folded into a threat", "text": "Something has to give."}
+ ],
+ "science": [
+  {
+   "claim": "Your brain already burns a fifth of your body's energy.",
+   "working": "The adult brain is about 2% of body mass but accounts for about 20% of the body's resting energy use (oxygen and glucose consumption), roughly 20 W of a resting ~100 W. 20% = one fifth.",
+   "source": "Raichle & Gusnard, 'Appraising the brain's energy budget', PNAS 99 (2002) 10237-10239"
+  },
+  {
+   "claim": "Now it's running two minutes at once.",
+   "working": "Story premise, not a claim of fact: the hero's brain processes the present and the minute ahead together. Stated as fiction after 'That's real.'",
+   "source": "premise"
+  }
+ ],
+ "cast": ["ramu", "appu"]
+}

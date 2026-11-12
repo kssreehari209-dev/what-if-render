@@ -1,0 +1,1883 @@
+{
+ "id": "NoSleepMl",
+ "slug": "nosleep-ml",
+ "topic": "What if humans never slept again? (long video, 16:9; day 4 of daily-plan.md, idea L8)",
+ "title": [
+  "ആരും ഇനി",
+  "ഉറങ്ങിയില്ലെങ്കിൽ?"
+ ],
+ "accent": "ഉറങ്ങിയില്ലെങ്കിൽ",
+ "language": "ml",
+ "voice": {
+  "engine": "edge-tts",
+  "id": "ml-IN-SobhanaNeural",
+  "language": "Malayalam (India)",
+  "rate": "+0%"
+ },
+ "gaps": {
+  "word": 0.15,
+  "comma": 0.45,
+  "sentence": 0.85,
+  "question": 1.0,
+  "pairs": {
+   "മണി|ചായക്കടയിൽ": 1.8,
+   "ദിവസമായി|നീ": 2.0,
+   "എണീറ്റു|വീട്ടിലേക്കുള്ള": 1.2,
+   "ഏതാണ്|പന്ത്രണ്ട്": 2.4,
+   "ഉണർന്നു|ക്ഷീണമില്ല": 1.2,
+   "വന്നില്ല|നിനക്ക്": 1.2,
+   "കത്തിക്കിടന്നു|മനുഷ്യർ": 1.6,
+   "ഉറങ്ങിയില്ലെങ്കിലോ|ആദ്യത്തെ": 2.2,
+   "ക്രിക്കറ്റ്|തട്ടുകടകൾ": 5.4,
+   "അപ്പു|രാത്രി": 4.7,
+   "പറ്റിയില്ല|ഒരു": 7.5,
+   "അധികം|നാലാം": 8.0,
+   "പരീക്ഷ|രാത്രി": 1.1,
+   "വന്നില്ല|ചോദ്യപേപ്പർ": 2.1,
+   "ഓർമ്മയില്ല|ക്ഷീണം": 7.0,
+   "ചെയ്യുന്നില്ല|ഉറങ്ങുമ്പോഴാണ്": 5.7,
+   "പോലെ|ആറാം": 4.2,
+   "ഉപ്പിട്ടു|ആരും": 7.0,
+   "അലമാരയിൽ|ഉറക്കത്തിൽ": 7.5,
+   "കിടക്കുന്നു|ഏഴാം": 8.0,
+   "ഓടി|ഒരു": 7.5,
+   "എന്തിനായിരുന്നു|ഒമ്പതാം": 5.9,
+   "ചിരിച്ചു|ദുബായിൽ": 2.6,
+   "നിർത്തുന്നില്ല|ഒരേ": 7.5,
+   "ചോദിക്കുന്നു|പതിനൊന്നാം": 6.5,
+   "ചിരിക്കുന്നു|അവിടെ": 1.8,
+   "സംസാരിക്കുന്നു|അന്ന്": 4.1,
+   "വിരിച്ചു|ഉറക്കം": 7.0,
+   "തലോടി|പന്ത്രണ്ടാം": 2.9,
+   "ഉറപ്പില്ലായിരുന്നു|വരാന്തയിൽ": 4.4,
+   "വെളിച്ചം|ഉറങ്ങാൻ": 3.8,
+   "ചത്തുപോയി|ഉറക്കം": 7.5,
+   "കരുതിയത്|പക്ഷേ": 1.4,
+   "ഉറങ്ങുന്നുണ്ട്|ഉറക്കം": 6.5,
+   "മുമ്പേ|നിനക്ക്": 3.3
+  }
+ },
+ "cast": [
+  "ramu",
+  "appu",
+  "sis",
+  "mom",
+  "suit"
+ ],
+ "tail": 4.0,
+ "script": [
+  {
+   "beat": "A cold open: day 12, 3 am, the chaya kada packed",
+   "text": "പന്ത്രണ്ടാം ദിവസം. പുലർച്ചെ മൂന്ന് മണി.",
+   "hold": 1.2
+  },
+  {
+   "beat": "A the crowd: nobody has slept",
+   "text": "ചായക്കടയിൽ നല്ല തിരക്ക്. ഇവിടെ ആരും ഉറങ്ങിയിട്ട് പന്ത്രണ്ട് ദിവസമായി.",
+   "hold": 1.4
+  },
+  {
+   "beat": "A",
+   "text": "നീ ഗ്ലാസ് വെച്ച് എണീറ്റു.",
+   "hold": 0.6
+  },
+  {
+   "beat": "A cliffhanger: the junction, three roads",
+   "text": "വീട്ടിലേക്കുള്ള വഴി ഏതാണ്?",
+   "hold": 1.8
+  },
+  {
+   "beat": "B premise: twelve days ago, the alarm",
+   "text": "പന്ത്രണ്ട് ദിവസം മുമ്പ്. അലാറം അടിക്കും മുമ്പേ നീ ഉണർന്നു.",
+   "hold": 0.6
+  },
+  {
+   "beat": "B",
+   "text": "ക്ഷീണമില്ല. അന്ന് രാത്രി ഉറക്കവും വന്നില്ല.",
+   "hold": 0.6
+  },
+  {
+   "beat": "B the world map lights up",
+   "text": "നിനക്ക് മാത്രമല്ല. ലോകത്ത് ഒരാൾക്കും. എല്ലാ വീട്ടിലും ലൈറ്റ് കത്തിക്കിടന്നു.",
+   "hold": 1.0
+  },
+  {
+   "beat": "B title",
+   "text": "മനുഷ്യർ ഇനി ഒരിക്കലും ഉറങ്ങിയില്ലെങ്കിലോ?",
+   "hold": 1.6
+  },
+  {
+   "beat": "C fun: night cricket under the streetlight",
+   "text": "ആദ്യത്തെ രാത്രി എട്ട് മണിക്കൂർ വെറുതെ കിട്ടി. കവലയിൽ രാത്രി ക്രിക്കറ്റ്.",
+   "hold": 4.8
+  },
+  {
+   "beat": "C gag: the thattukada never closes, Appu flipping porotta at 3 am",
+   "text": "തട്ടുകടകൾ അടച്ചതേയില്ല. പൊറോട്ട അടിക്കുന്നത് അപ്പു.",
+   "hold": 4.1
+  },
+  {
+   "beat": "C gag: the Dubai call at 2 am, the whole house crowds the phone",
+   "text": "രാത്രി രണ്ടിന് ദുബായിൽ നിന്ന് അച്ഛന്റെ വിളി. ഇത്തവണ വീട്ടിൽ എല്ലാവരും ഉണർന്നിരിപ്പുണ്ട്. അച്ഛന് ചിരി നിർത്താൻ പറ്റിയില്ല.",
+   "hold": 6.9
+  },
+  {
+   "beat": "C fact: a third of life",
+   "text": "ഒരു മനുഷ്യായുസ്സിന്റെ മൂന്നിലൊന്ന് ഉറക്കമാണ്. അതാണ് തിരിച്ചു കിട്ടിയത്. ഒരു ജീവിതത്തിൽ ഇരുപത്തഞ്ച് കൊല്ലം അധികം.",
+   "hold": 7.4
+  },
+  {
+   "beat": "D the exam",
+   "text": "നാലാം ദിവസം. മോഡൽ പരീക്ഷ.",
+   "hold": 0.5
+  },
+  {
+   "beat": "D",
+   "text": "രാത്രി മുഴുവൻ ഇരുന്ന് പഠിച്ചതാണ്. ഒരു തുള്ളി ഉറക്കം വന്നില്ല.",
+   "hold": 1.5
+  },
+  {
+   "beat": "D gag: the whole class stares at blank sheets",
+   "text": "ചോദ്യപേപ്പർ കിട്ടി. ഒന്നും ഓർമ്മയില്ല.",
+   "hold": 6.4
+  },
+  {
+   "beat": "D the turn",
+   "text": "ക്ഷീണം മാത്രമേ പോയുള്ളൂ. ഉറക്കം ചെയ്തിരുന്ന പണി ഇപ്പോൾ ആരും ചെയ്യുന്നില്ല.",
+   "hold": 5.1
+  },
+  {
+   "beat": "D fact memory",
+   "text": "ഉറങ്ങുമ്പോഴാണ് തലച്ചോർ അന്നത്തെ പാഠങ്ങൾ എഴുതിവെക്കുന്നത്. പഠിച്ചതെല്ലാം വെള്ളത്തിൽ വരച്ച വര പോലെ.",
+   "hold": 3.6
+  },
+  {
+   "beat": "E home: Amma salts the curry twice",
+   "text": "ആറാം ദിവസം അമ്മ കറിയിൽ രണ്ടു തവണ ഉപ്പിട്ടു.",
+   "hold": 6.4
+  },
+  {
+   "beat": "E gag: pickle jar in the fridge, milk in the almirah",
+   "text": "ആരും ഒന്നും പറഞ്ഞില്ല. എല്ലാവർക്കും അതുതന്നെ. അച്ചാർ ഭരണി ഫ്രിഡ്ജിൽ. പാൽ അലമാരയിൽ.",
+   "hold": 6.9
+  },
+  {
+   "beat": "E fact cleaning: garbage piling on the street",
+   "text": "ഉറക്കത്തിൽ തലച്ചോർ സ്വയം കഴുകി വൃത്തിയാക്കും. ഇപ്പോൾ ആ ചവറ് അവിടെത്തന്നെ കിടക്കുന്നു.",
+   "hold": 7.4
+  },
+  {
+   "beat": "E gag: the KSRTC bus sails past the stop, the whole stop runs after it",
+   "text": "ഏഴാം ദിവസം KSRTC ഡ്രൈവർ സ്റ്റോപ്പിൽ നിർത്താൻ മറന്നു. നാട്ടുകാർ ബസ്സിന് പിന്നാലെ ഓടി.",
+   "hold": 6.9
+  },
+  {
+   "beat": "mid question",
+   "text": "ഒരു രാത്രി മുഴുവൻ ഉറങ്ങാതെ നീ ഇരുന്നത് എന്തിനായിരുന്നു?",
+   "hold": 5.3
+  },
+  {
+   "beat": "F suit on TV: the factories never close",
+   "text": "ഒമ്പതാം ദിവസം ടിവിയിൽ ഒരു വലിയ മുതലാളി. ഇനി ഫാക്ടറികൾ ഒരിക്കലും അടയ്ക്കില്ല. ഉറങ്ങാത്തവർക്ക് ഓവർടൈം വേണ്ടല്ലോ എന്ന് അയാൾ ചിരിച്ചു.",
+   "hold": 2.0
+  },
+  {
+   "beat": "F loss: Achan's duty in Dubai",
+   "text": "ദുബായിൽ അച്ഛന്റെ ഡ്യൂട്ടി പതിനാറ് മണിക്കൂറായി. വീഡിയോ കോളിൽ കണ്ണുകൾ ചുവന്നിരിക്കുന്നു. അവിടെ ക്രെയിനുകൾ രാത്രിയും നിർത്തുന്നില്ല.",
+   "hold": 6.9
+  },
+  {
+   "beat": "F Achan repeats himself on the call",
+   "text": "ഒരേ ചോദ്യം അച്ഛൻ രണ്ടു തവണ ചോദിക്കുന്നു.",
+   "hold": 5.9
+  },
+  {
+   "beat": "G family: the sister laughs at the wall",
+   "text": "പതിനൊന്നാം ദിവസം അനിയത്തി ചുമരിലേക്ക് നോക്കി ചിരിക്കുന്നു.",
+   "hold": 1.2
+  },
+  {
+   "beat": "G",
+   "text": "അവിടെ ആരുമില്ല. അവൾ ആരോടോ സംസാരിക്കുന്നു.",
+   "hold": 3.5
+  },
+  {
+   "beat": "G choice: Amma switches every light off",
+   "text": "അന്ന് രാത്രി അമ്മ വീട്ടിലെ എല്ലാ ലൈറ്റും അണച്ചു. വരാന്തയിൽ പായ വിരിച്ചു.",
+   "hold": 6.4
+  },
+  {
+   "beat": "G Amma's words",
+   "text": "ഉറക്കം വന്നില്ലെങ്കിലും കണ്ണടച്ച് കിടക്കാം, മോനെ. അമ്മ നിന്റെ തലയിൽ തലോടി.",
+   "hold": 2.3
+  },
+  {
+   "beat": "H back to the hook: Appu walks you home",
+   "text": "പന്ത്രണ്ടാം ദിവസം. അപ്പു നിന്റെ കൈ പിടിച്ച് വീട്ടിലെത്തിച്ചു. അവനും വഴി ഉറപ്പില്ലായിരുന്നു.",
+   "hold": 3.8
+  },
+  {
+   "beat": "H the veranda: everyone lying with eyes closed",
+   "text": "വരാന്തയിൽ എല്ലാവരും കണ്ണടച്ച് കിടപ്പുണ്ട്. ആരും ഉറങ്ങുന്നില്ല. ദൂരെ ഇപ്പോഴും ചായക്കടയിൽ വെളിച്ചം.",
+   "hold": 3.2
+  },
+  {
+   "beat": "I fact rats",
+   "text": "ഉറങ്ങാൻ വിടാതെ വെച്ച എലികൾ ഏതാനും ആഴ്ചകൾക്കുള്ളിൽ ചത്തുപോയി.",
+   "hold": 6.9
+  },
+  {
+   "beat": "I twist: we thought sleep is rest for the brain",
+   "text": "ഉറക്കം തലച്ചോറിന്റെ വിശ്രമമാണെന്നാണ് നമ്മൾ കരുതിയത്.",
+   "hold": 0.8
+  },
+  {
+   "beat": "I twist: the jellyfish",
+   "text": "പക്ഷേ തലച്ചോറേ ഇല്ലാത്ത ജെല്ലിഫിഷ് പോലും എല്ലാ രാത്രിയും ഉറങ്ങുന്നുണ്ട്.",
+   "hold": 5.9
+  },
+  {
+   "beat": "I",
+   "text": "ഉറക്കം തലച്ചോറിനേക്കാൾ പഴയതാണ്. നമ്മൾ ഉണ്ടാകുന്നതിനും എത്രയോ മുമ്പേ.",
+   "hold": 2.7
+  },
+  {
+   "beat": "I comment question",
+   "text": "നിനക്ക് ഏറ്റവും നല്ല ഉറക്കം കിട്ടിയിട്ടുള്ളത് എവിടെ വെച്ചാണ്?",
+   "hold": 5.3
+  }
+ ],
+ "science": [
+  {
+   "claim": "People spend about a third of their life asleep; at Kerala's life expectancy of about 75 years that is about 25 years.",
+   "working": "Adults need 7+ hours a night; 8 h of 24 h = 1/3. Kerala life expectancy at birth about 75 (SRS abridged life tables 2016-20: 75.3). 75 / 3 = 25 years.",
+   "source": "CDC, How Much Sleep Do I Need? (2022); Office of the Registrar General, SRS Abridged Life Tables 2016-2020"
+  },
+  {
+   "claim": "After one night without sleep, the brain's ability to form new memories drops by about 40%.",
+   "working": "Yoo, Hu, Gujar, Jolesz & Walker: sleep-deprived subjects showed a 40% deficit in encoding new episodic memories versus rested subjects.",
+   "source": "Yoo et al., A deficit in the ability to form new human memories without sleep, Nature Neuroscience 10, 385-392 (2007)"
+  },
+  {
+   "claim": "During sleep, memories of the day are consolidated into long-term memory.",
+   "working": "Review of the evidence for active systems consolidation during slow-wave and REM sleep.",
+   "source": "Diekelmann & Born, The memory function of sleep, Nature Reviews Neuroscience 11, 114-126 (2010)"
+  },
+  {
+   "claim": "In sleeping mice, the space between brain cells grows by about 60% and waste such as beta-amyloid is cleared faster.",
+   "working": "Xie et al. measured interstitial space volume: 14% awake vs 23% asleep, a 60% increase; beta-amyloid clearance about twice as fast in sleep.",
+   "source": "Xie et al., Sleep drives metabolite clearance from the adult brain, Science 342, 373-377 (2013)"
+  },
+  {
+   "claim": "Long sleep loss brings perceptual distortions and, after about three days, hallucinations.",
+   "working": "Systematic review of 21 studies: distortions within 24-48 h, hallucinations from 72 h. Used only as a picture (the sister), no number on screen.",
+   "source": "Waters et al., Severe Sleep Deprivation Causes Hallucinations and a Gradual Progression Toward Psychosis With Increasing Time Awake, Frontiers in Psychiatry (2018)"
+  },
+  {
+   "claim": "Rats kept totally sleep deprived died within 11 to 32 days.",
+   "working": "Rechtschaffen and colleagues' disk-over-water method: total sleep deprivation was fatal in 11-32 days. Voice says the safe 'within a few weeks'; the card gives 11-32 days.",
+   "source": "Rechtschaffen et al., Sleep deprivation in the rat: X. Integration and discussion of the findings, Sleep 12(1), 68-87 (1989)"
+  },
+  {
+   "claim": "The jellyfish Cassiopea, which has no brain (only a diffuse nerve net), shows a sleep-like state every night.",
+   "working": "Nath et al.: reduced pulsing at night, slower response to stimuli, and a rebound after being kept active; the first sleep-like state found in an animal without a centralised nervous system.",
+   "source": "Nath et al., The Jellyfish Cassiopea Exhibits a Sleep-like State, Current Biology 27(19), 2984-2990 (2017)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "set": "street night",
+   "key": 30,
+   "note": "HOOK: day 12, 3 am. The kavala's chaya kada blazing with light, packed with people, wide awake. TimeTag day 12"
+  },
+  {
+   "id": "A2",
+   "size": "insert",
+   "set": "chaya kada",
+   "key": 10,
+   "note": "the shop's wall clock at 3:00, a calendar beside it"
+  },
+  {
+   "id": "A3",
+   "size": "medium",
+   "set": "chaya kada",
+   "key": 30,
+   "note": "the tea man pulls tea a metre high; customers three deep at the counter"
+  },
+  {
+   "id": "A4",
+   "size": "close",
+   "set": "chaya kada",
+   "key": 30,
+   "note": "an uncle in a mundu with red, wide eyes, sipping; no yawn"
+  },
+  {
+   "id": "A5",
+   "size": "medium",
+   "set": "chaya kada",
+   "key": 20,
+   "note": "Ramu sets his glass down on the bench and stands"
+  },
+  {
+   "id": "A6",
+   "size": "wide high",
+   "set": "junction",
+   "key": 30,
+   "note": "high angle: the junction under one streetlight, three roads, Ramu small in the middle"
+  },
+  {
+   "id": "A7",
+   "size": "close",
+   "set": "junction",
+   "key": 20,
+   "note": "Ramu's face, blank, looking left then right"
+  },
+  {
+   "id": "B1",
+   "size": "wide",
+   "set": "bedroom dawn",
+   "key": 20,
+   "note": "twelve days earlier: dawn, Ramu sitting up in bed, eyes bright. TimeTag 12 days ago"
+  },
+  {
+   "id": "B2",
+   "size": "insert",
+   "set": "bedside",
+   "key": 20,
+   "note": "the alarm clock at 5:59; his hand already on it before it rings"
+  },
+  {
+   "id": "B3",
+   "size": "medium",
+   "set": "bedroom dawn",
+   "key": 20,
+   "note": "Ramu stretches, fresh, happy"
+  },
+  {
+   "id": "B4",
+   "size": "close",
+   "set": "bedroom night",
+   "key": 30,
+   "note": "night: Ramu in bed, eyes wide open, the fan turning above"
+  },
+  {
+   "id": "B5",
+   "size": "wide",
+   "set": "village night",
+   "key": 30,
+   "note": "the whole village at night, every window lit, people on verandas"
+  },
+  {
+   "id": "B6",
+   "size": "wide",
+   "set": "globe",
+   "key": 30,
+   "note": "the night side of the Earth, every city lit"
+  },
+  {
+   "id": "B7",
+   "size": "wide title",
+   "set": "village night",
+   "key": 30,
+   "note": "TITLE over the lit village and palms under the moon"
+  },
+  {
+   "id": "C1",
+   "size": "wide",
+   "set": "street night",
+   "key": 40,
+   "note": "night cricket on the kavala road under the streetlight; Appu bats, Ramu bowls. TimeTag night 1"
+  },
+  {
+   "id": "C2",
+   "size": "medium",
+   "set": "street night",
+   "key": 20,
+   "note": "GAG: Appu's shot lands the ball in the tea man's kettle"
+  },
+  {
+   "id": "C3",
+   "size": "close",
+   "set": "street night",
+   "key": 20,
+   "note": "Ramu cheering"
+  },
+  {
+   "id": "C4",
+   "size": "wide",
+   "set": "thattukada",
+   "key": 30,
+   "note": "a thattukada with string lights and a queue at 3 am"
+  },
+  {
+   "id": "C5",
+   "size": "medium",
+   "set": "thattukada",
+   "key": 30,
+   "note": "GAG: Appu at the tawa, slapping porotta, very serious"
+  },
+  {
+   "id": "C6",
+   "size": "insert",
+   "set": "thattukada",
+   "key": 30,
+   "note": "the board: closing time 11 pm painted over with 24 hours"
+  },
+  {
+   "id": "C7",
+   "size": "wide",
+   "set": "hall night",
+   "key": 30,
+   "note": "the hall at 2 am, all lights on, the phone ringing on the table, wall clock 2:00"
+  },
+  {
+   "id": "C8",
+   "size": "medium",
+   "set": "hall night",
+   "key": 30,
+   "note": "GAG: the whole family, grandma too, squeezed round the one phone"
+  },
+  {
+   "id": "C9",
+   "size": "insert",
+   "set": "phone",
+   "key": 30,
+   "note": "the phone: Achan in Dubai laughing at so many faces"
+  },
+  {
+   "id": "C10",
+   "size": "wide",
+   "set": "schematic",
+   "key": 40,
+   "note": "a life bar of 75 years; a third of it (the nights) glows and comes back"
+  },
+  {
+   "id": "C11",
+   "size": "medium",
+   "set": "terrace night",
+   "key": 60,
+   "note": "Ramu on the terrace at night, arms wide, the lit town below. FactCard 25 years"
+  },
+  {
+   "id": "D1",
+   "size": "wide",
+   "set": "classroom",
+   "key": 30,
+   "note": "exam hall, day 4, invigilator, desks. TimeTag day 4"
+  },
+  {
+   "id": "D2",
+   "size": "insert",
+   "set": "desk night",
+   "key": 30,
+   "note": "flashback: Ramu's desk at 3 am, lamp, books, steel tumbler"
+  },
+  {
+   "id": "D3",
+   "size": "insert",
+   "set": "classroom",
+   "key": 15,
+   "note": "the question paper lands on the desk"
+  },
+  {
+   "id": "D4",
+   "size": "close",
+   "set": "classroom",
+   "key": 30,
+   "note": "Ramu blank, pen in his mouth"
+  },
+  {
+   "id": "D5",
+   "size": "wide",
+   "set": "classroom",
+   "key": 60,
+   "note": "GAG: the whole class stares at blank sheets, the invigilator stares at the question paper too"
+  },
+  {
+   "id": "D6",
+   "size": "medium",
+   "set": "road day",
+   "key": 40,
+   "note": "Ramu walking home with his bag, puzzled"
+  },
+  {
+   "id": "D7",
+   "size": "wide",
+   "set": "schematic",
+   "key": 40,
+   "note": "a brain icon with an empty night-shift desk: the worker who isn't coming"
+  },
+  {
+   "id": "D8",
+   "size": "wide",
+   "set": "schematic",
+   "key": 60,
+   "note": "the day's notes filed onto the brain's shelves at night; then the filing stops"
+  },
+  {
+   "id": "D9",
+   "size": "medium",
+   "set": "desk night",
+   "key": 60,
+   "note": "Ramu at his desk, letters sliding off the page. FactCard 40%"
+  },
+  {
+   "id": "E1",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 30,
+   "note": "a Kerala kitchen, Amma at the stove. TimeTag day 6"
+  },
+  {
+   "id": "E2",
+   "size": "insert",
+   "set": "stove",
+   "key": 30,
+   "note": "Amma's hand salting the curry; then again"
+  },
+  {
+   "id": "E3",
+   "size": "close",
+   "set": "kitchen",
+   "key": 30,
+   "note": "GAG: the sister tastes; face scrunched"
+  },
+  {
+   "id": "E4",
+   "size": "wide",
+   "set": "hall dinner",
+   "key": 30,
+   "note": "the family eating in silence at the table"
+  },
+  {
+   "id": "E5",
+   "size": "insert",
+   "set": "fridge",
+   "key": 30,
+   "note": "GAG: the fridge open: the pickle bharani inside, and the milk packet in the almirah"
+  },
+  {
+   "id": "E6",
+   "size": "close",
+   "set": "hall dinner",
+   "key": 30,
+   "note": "Amma staring at nothing"
+  },
+  {
+   "id": "E7",
+   "size": "wide",
+   "set": "schematic",
+   "key": 50,
+   "note": "brain cells: the gaps widen at night and the waste washes out; then it stops and piles up"
+  },
+  {
+   "id": "E8",
+   "size": "wide",
+   "set": "street dusk",
+   "key": 60,
+   "note": "the corner by the bus stop: garbage bags piling day by day. FactCard 60%"
+  },
+  {
+   "id": "E9",
+   "size": "wide",
+   "set": "bus stop",
+   "key": 30,
+   "note": "the bus stop at the kavala, crowd waiting, KSRTC bus coming. TimeTag day 7"
+  },
+  {
+   "id": "E10",
+   "size": "medium",
+   "set": "bus",
+   "key": 30,
+   "note": "the KSRTC sails past; the driver's eyes blank"
+  },
+  {
+   "id": "E11",
+   "size": "wide",
+   "set": "bus stop",
+   "key": 40,
+   "note": "GAG: the whole stop runs after the bus, mundus hitched, Appu in front"
+  },
+  {
+   "id": "E12",
+   "size": "close",
+   "set": "road",
+   "key": 30,
+   "note": "Ramu stops, out of breath; the bus is gone"
+  },
+  {
+   "id": "M1",
+   "size": "close",
+   "set": "grey",
+   "key": 40,
+   "note": "MID QUESTION: Ramu thinking"
+  },
+  {
+   "id": "F1",
+   "size": "wide",
+   "set": "hall night",
+   "key": 30,
+   "note": "the family round the TV. TimeTag day 9"
+  },
+  {
+   "id": "F2",
+   "size": "insert",
+   "set": "tv",
+   "key": 40,
+   "note": "the TV: the businessman in front of a factory, the news bar"
+  },
+  {
+   "id": "F3",
+   "size": "close",
+   "set": "tv",
+   "key": 40,
+   "note": "the businessman's grin, close on the TV"
+  },
+  {
+   "id": "F4",
+   "size": "wide",
+   "set": "dubai",
+   "key": 40,
+   "note": "a Dubai site at night under floodlights, Achan in a hard hat"
+  },
+  {
+   "id": "F5",
+   "size": "insert",
+   "set": "phone",
+   "key": 40,
+   "note": "video call: Achan's face, red eyes"
+  },
+  {
+   "id": "F6",
+   "size": "close",
+   "set": "hall night",
+   "key": 30,
+   "note": "Ramu watching the phone, worried"
+  },
+  {
+   "id": "F7",
+   "size": "medium",
+   "set": "hall night",
+   "key": 40,
+   "note": "Amma holding the phone; Achan on the screen asking again"
+  },
+  {
+   "id": "F8",
+   "size": "close",
+   "set": "hall night",
+   "key": 40,
+   "note": "Amma's face"
+  },
+  {
+   "id": "G1",
+   "size": "medium",
+   "set": "hall night",
+   "key": 40,
+   "note": "the sister on the floor laughing at the wall. TimeTag day 11"
+  },
+  {
+   "id": "G2",
+   "size": "wide",
+   "set": "hall night",
+   "key": 40,
+   "note": "reverse: the wall is empty but for a calendar; Ramu and Amma frozen in the doorway"
+  },
+  {
+   "id": "G3",
+   "size": "insert",
+   "set": "switchboard",
+   "key": 20,
+   "note": "Amma's hand switches off the switchboard"
+  },
+  {
+   "id": "G4",
+   "size": "wide",
+   "set": "village night",
+   "key": 60,
+   "note": "the house outside: windows going dark, the only dark house on a lit street"
+  },
+  {
+   "id": "G5",
+   "size": "medium",
+   "set": "veranda",
+   "key": 50,
+   "note": "Amma unrolls the paaya on the veranda in moonlight"
+  },
+  {
+   "id": "G6",
+   "size": "close",
+   "set": "veranda",
+   "key": 50,
+   "note": "Amma's face in the moonlight, gentle"
+  },
+  {
+   "id": "H1",
+   "size": "wide high",
+   "set": "junction",
+   "key": 30,
+   "note": "back to the junction: Appu takes Ramu's hand. TimeTag day 12"
+  },
+  {
+   "id": "H2",
+   "size": "medium",
+   "set": "road night",
+   "key": 60,
+   "note": "the two walk home under the palms"
+  },
+  {
+   "id": "H3",
+   "size": "wide high",
+   "set": "veranda",
+   "key": 60,
+   "note": "high angle: Amma and the sister on mats, eyes closed; Ramu lies down"
+  },
+  {
+   "id": "H4",
+   "size": "close",
+   "set": "veranda",
+   "key": 40,
+   "note": "Ramu's eyes closed... then they open"
+  },
+  {
+   "id": "I1",
+   "size": "wide",
+   "set": "schematic",
+   "key": 60,
+   "note": "the lab rat in its cage, a day counter. FactCard 11-32 days"
+  },
+  {
+   "id": "I2",
+   "size": "close",
+   "set": "veranda",
+   "key": 30,
+   "note": "Ramu lying awake in the dark, eyes open"
+  },
+  {
+   "id": "I3",
+   "size": "wide",
+   "set": "sea floor",
+   "key": 50,
+   "note": "a moonlit sea floor: upside-down jellyfish pulsing slowly. FactCard no brain"
+  },
+  {
+   "id": "I4",
+   "size": "close",
+   "set": "sea floor",
+   "key": 40,
+   "note": "one jellyfish, its pulse slowing for the night"
+  },
+  {
+   "id": "I5",
+   "size": "wide",
+   "set": "veranda",
+   "key": 50,
+   "note": "the house at night from the yard, the family on the veranda under the moon"
+  },
+  {
+   "id": "I6",
+   "size": "close",
+   "set": "veranda",
+   "key": 40,
+   "note": "COMMENT QUESTION over Ramu on the mat"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "f:0"
+  },
+  {
+   "shot": "A2",
+   "at": "മൂന്ന്"
+  },
+  {
+   "shot": "A3",
+   "at": "ചായക്കടയിൽ"
+  },
+  {
+   "shot": "A4",
+   "at": "ഇവിടെ"
+  },
+  {
+   "shot": "A5",
+   "at": "നീ"
+  },
+  {
+   "shot": "A6",
+   "at": "വീട്ടിലേക്കുള്ള"
+  },
+  {
+   "shot": "A7",
+   "at": "ഏതാണ്+20"
+  },
+  {
+   "shot": "B1",
+   "at": "പന്ത്രണ്ട്"
+  },
+  {
+   "shot": "B2",
+   "at": "അലാറം"
+  },
+  {
+   "shot": "B3",
+   "at": "ക്ഷീണമില്ല"
+  },
+  {
+   "shot": "B4",
+   "at": "അന്ന്"
+  },
+  {
+   "shot": "B5",
+   "at": "നിനക്ക്"
+  },
+  {
+   "shot": "B6",
+   "at": "ലോകത്ത്"
+  },
+  {
+   "shot": "B7",
+   "at": "മനുഷ്യർ"
+  },
+  {
+   "shot": "C1",
+   "at": "ആദ്യത്തെ"
+  },
+  {
+   "shot": "C2",
+   "at": "+80"
+  },
+  {
+   "shot": "C3",
+   "at": "+75"
+  },
+  {
+   "shot": "C4",
+   "at": "തട്ടുകടകൾ"
+  },
+  {
+   "shot": "C5",
+   "at": "+60"
+  },
+  {
+   "shot": "C6",
+   "at": "+85"
+  },
+  {
+   "shot": "C7",
+   "at": "രാത്രി"
+  },
+  {
+   "shot": "C8",
+   "at": "ഇത്തവണ"
+  },
+  {
+   "shot": "C9",
+   "at": "+95"
+  },
+  {
+   "shot": "C10",
+   "at": "ഒരു"
+  },
+  {
+   "shot": "C11",
+   "at": "അതാണ്"
+  },
+  {
+   "shot": "D1",
+   "at": "നാലാം"
+  },
+  {
+   "shot": "D2",
+   "at": "രാത്രി"
+  },
+  {
+   "shot": "D3",
+   "at": "ചോദ്യപേപ്പർ"
+  },
+  {
+   "shot": "D4",
+   "at": "ഒന്നും"
+  },
+  {
+   "shot": "D5",
+   "at": "+55"
+  },
+  {
+   "shot": "D6",
+   "at": "ക്ഷീണം"
+  },
+  {
+   "shot": "D7",
+   "at": "ഉറക്കം"
+  },
+  {
+   "shot": "D8",
+   "at": "ഉറങ്ങുമ്പോഴാണ്"
+  },
+  {
+   "shot": "D9",
+   "at": "+100"
+  },
+  {
+   "shot": "E1",
+   "at": "ആറാം"
+  },
+  {
+   "shot": "E2",
+   "at": "+50"
+  },
+  {
+   "shot": "E3",
+   "at": "+75"
+  },
+  {
+   "shot": "E4",
+   "at": "ആരും"
+  },
+  {
+   "shot": "E5",
+   "at": "+80"
+  },
+  {
+   "shot": "E6",
+   "at": "+80"
+  },
+  {
+   "shot": "E7",
+   "at": "ഉറക്കത്തിൽ"
+  },
+  {
+   "shot": "E8",
+   "at": "ഇപ്പോൾ"
+  },
+  {
+   "shot": "E9",
+   "at": "ഏഴാം"
+  },
+  {
+   "shot": "E10",
+   "at": "+60"
+  },
+  {
+   "shot": "E11",
+   "at": "നാട്ടുകാർ"
+  },
+  {
+   "shot": "E12",
+   "at": "+95"
+  },
+  {
+   "shot": "M1",
+   "at": "ഒരു"
+  },
+  {
+   "shot": "F1",
+   "at": "ഒമ്പതാം"
+  },
+  {
+   "shot": "F2",
+   "at": "മുതലാളി"
+  },
+  {
+   "shot": "F3",
+   "at": "ഫാക്ടറികൾ"
+  },
+  {
+   "shot": "F4",
+   "at": "ദുബായിൽ"
+  },
+  {
+   "shot": "F5",
+   "at": "വീഡിയോ"
+  },
+  {
+   "shot": "F6",
+   "at": "+80"
+  },
+  {
+   "shot": "F7",
+   "at": "ഒരേ"
+  },
+  {
+   "shot": "F8",
+   "at": "+70"
+  },
+  {
+   "shot": "G1",
+   "at": "പതിനൊന്നാം"
+  },
+  {
+   "shot": "G2",
+   "at": "അവിടെ"
+  },
+  {
+   "shot": "G3",
+   "at": "അന്ന്"
+  },
+  {
+   "shot": "G4",
+   "at": "എല്ലാ"
+  },
+  {
+   "shot": "G5",
+   "at": "വരാന്തയിൽ"
+  },
+  {
+   "shot": "G6",
+   "at": "ഉറക്കം"
+  },
+  {
+   "shot": "H1",
+   "at": "പന്ത്രണ്ടാം"
+  },
+  {
+   "shot": "H2",
+   "at": "+75"
+  },
+  {
+   "shot": "H3",
+   "at": "വരാന്തയിൽ"
+  },
+  {
+   "shot": "H4",
+   "at": "ആരും"
+  },
+  {
+   "shot": "I1",
+   "at": "ഉറങ്ങാൻ"
+  },
+  {
+   "shot": "I2",
+   "at": "ഉറക്കം"
+  },
+  {
+   "shot": "I3",
+   "at": "പക്ഷേ"
+  },
+  {
+   "shot": "I4",
+   "at": "+110"
+  },
+  {
+   "shot": "I5",
+   "at": "ഉറക്കം"
+  },
+  {
+   "shot": "I6",
+   "at": "നിനക്ക്"
+  }
+ ],
+ "fx": [
+  {
+   "at": "C2+18",
+   "kind": "flash",
+   "o": 0.4
+  },
+  {
+   "at": "D3+4",
+   "kind": "shake",
+   "len": 6,
+   "amp": 6
+  },
+  {
+   "at": "E10+20",
+   "kind": "shake",
+   "len": 10,
+   "amp": 8
+  },
+  {
+   "at": "G3+8",
+   "kind": "flash",
+   "color": "#000",
+   "o": 0.5
+  }
+ ],
+ "sound": {
+  "clips": {
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "paper_land": [
+    "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+    0.7
+   ],
+   "lap": [
+    "synth: calm water lapping at a boat hull, slow swells and soft slaps, loopable",
+    8.0
+   ],
+   "splash": [
+    "synth: a fish leaping out of water, wet burst and bubbles",
+    0.6
+   ],
+   "plip": [
+    "synth: a single bright water drop plip",
+    0.35
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "class_murmur": [
+    "a quiet classroom murmur, kids whispering, chairs shuffling",
+    2.0
+   ]
+  },
+  "events": [
+   [
+    "A1",
+    "roof_wind",
+    0.056,
+    "onset",
+    "A2"
+   ],
+   [
+    "A2",
+    "room_tone",
+    0.056,
+    "onset",
+    "A3"
+   ],
+   [
+    "A3",
+    "room_tone",
+    0.056,
+    "onset",
+    "A4"
+   ],
+   [
+    "A4",
+    "room_tone",
+    0.056,
+    "onset",
+    "A5"
+   ],
+   [
+    "A5",
+    "room_tone",
+    0.056,
+    "onset",
+    "A6"
+   ],
+   [
+    "A6",
+    "roof_wind",
+    0.056,
+    "onset",
+    "A7"
+   ],
+   [
+    "A7",
+    "roof_wind",
+    0.056,
+    "onset",
+    "B1"
+   ],
+   [
+    "B1",
+    "room_tone",
+    0.056,
+    "onset",
+    "B2"
+   ],
+   [
+    "B2",
+    "room_tone",
+    0.056,
+    "onset",
+    "B3"
+   ],
+   [
+    "B3",
+    "room_tone",
+    0.056,
+    "onset",
+    "B4"
+   ],
+   [
+    "B4",
+    "room_tone",
+    0.056,
+    "onset",
+    "B5"
+   ],
+   [
+    "B5",
+    "roof_wind",
+    0.056,
+    "onset",
+    "B6"
+   ],
+   [
+    "B7",
+    "roof_wind",
+    0.056,
+    "onset",
+    "C1"
+   ],
+   [
+    "C1",
+    "roof_wind",
+    0.056,
+    "onset",
+    "C2"
+   ],
+   [
+    "C2",
+    "room_tone",
+    0.056,
+    "onset",
+    "C3"
+   ],
+   [
+    "C3",
+    "roof_wind",
+    0.056,
+    "onset",
+    "C4"
+   ],
+   [
+    "C4",
+    "roof_wind",
+    0.056,
+    "onset",
+    "C5"
+   ],
+   [
+    "C5",
+    "roof_wind",
+    0.056,
+    "onset",
+    "C6"
+   ],
+   [
+    "C6",
+    "roof_wind",
+    0.056,
+    "onset",
+    "C7"
+   ],
+   [
+    "C7",
+    "room_tone",
+    0.056,
+    "onset",
+    "C8"
+   ],
+   [
+    "C8",
+    "room_tone",
+    0.056,
+    "onset",
+    "C9"
+   ],
+   [
+    "C9",
+    "room_tone",
+    0.056,
+    "onset",
+    "C10"
+   ],
+   [
+    "C11",
+    "roof_wind",
+    0.056,
+    "onset",
+    "D1"
+   ],
+   [
+    "D1",
+    "room_tone",
+    0.056,
+    "onset",
+    "D2"
+   ],
+   [
+    "D2",
+    "room_tone",
+    0.056,
+    "onset",
+    "D3"
+   ],
+   [
+    "D3",
+    "room_tone",
+    0.056,
+    "onset",
+    "D4"
+   ],
+   [
+    "D4",
+    "room_tone",
+    0.056,
+    "onset",
+    "D5"
+   ],
+   [
+    "D5",
+    "room_tone",
+    0.056,
+    "onset",
+    "D6"
+   ],
+   [
+    "D6",
+    "roof_wind",
+    0.056,
+    "onset",
+    "D7"
+   ],
+   [
+    "D9",
+    "room_tone",
+    0.056,
+    "onset",
+    "E1"
+   ],
+   [
+    "E1",
+    "room_tone",
+    0.056,
+    "onset",
+    "E2"
+   ],
+   [
+    "E2",
+    "room_tone",
+    0.056,
+    "onset",
+    "E3"
+   ],
+   [
+    "E3",
+    "room_tone",
+    0.056,
+    "onset",
+    "E4"
+   ],
+   [
+    "E4",
+    "room_tone",
+    0.056,
+    "onset",
+    "E5"
+   ],
+   [
+    "E5",
+    "room_tone",
+    0.056,
+    "onset",
+    "E6"
+   ],
+   [
+    "E6",
+    "room_tone",
+    0.056,
+    "onset",
+    "E7"
+   ],
+   [
+    "E8",
+    "roof_wind",
+    0.056,
+    "onset",
+    "E9"
+   ],
+   [
+    "E9",
+    "roof_wind",
+    0.056,
+    "onset",
+    "E10"
+   ],
+   [
+    "E10",
+    "roof_wind",
+    0.056,
+    "onset",
+    "E11"
+   ],
+   [
+    "E11",
+    "roof_wind",
+    0.056,
+    "onset",
+    "E12"
+   ],
+   [
+    "E12",
+    "roof_wind",
+    0.056,
+    "onset",
+    "M1"
+   ],
+   [
+    "F1",
+    "room_tone",
+    0.056,
+    "onset",
+    "F2"
+   ],
+   [
+    "F2",
+    "room_tone",
+    0.056,
+    "onset",
+    "F3"
+   ],
+   [
+    "F3",
+    "room_tone",
+    0.056,
+    "onset",
+    "F4"
+   ],
+   [
+    "F4",
+    "roof_wind",
+    0.056,
+    "onset",
+    "F5"
+   ],
+   [
+    "F5",
+    "room_tone",
+    0.056,
+    "onset",
+    "F6"
+   ],
+   [
+    "F6",
+    "room_tone",
+    0.056,
+    "onset",
+    "F7"
+   ],
+   [
+    "F7",
+    "room_tone",
+    0.056,
+    "onset",
+    "F8"
+   ],
+   [
+    "F8",
+    "room_tone",
+    0.056,
+    "onset",
+    "G1"
+   ],
+   [
+    "G1",
+    "room_tone",
+    0.056,
+    "onset",
+    "G2"
+   ],
+   [
+    "G2",
+    "room_tone",
+    0.056,
+    "onset",
+    "G3"
+   ],
+   [
+    "G3",
+    "room_tone",
+    0.056,
+    "onset",
+    "G4"
+   ],
+   [
+    "G4",
+    "roof_wind",
+    0.056,
+    "onset",
+    "G5"
+   ],
+   [
+    "G5",
+    "roof_wind",
+    0.056,
+    "onset",
+    "G6"
+   ],
+   [
+    "G6",
+    "roof_wind",
+    0.056,
+    "onset",
+    "H1"
+   ],
+   [
+    "H1",
+    "roof_wind",
+    0.056,
+    "onset",
+    "H2"
+   ],
+   [
+    "H2",
+    "roof_wind",
+    0.056,
+    "onset",
+    "H3"
+   ],
+   [
+    "H3",
+    "roof_wind",
+    0.056,
+    "onset",
+    "H4"
+   ],
+   [
+    "H4",
+    "roof_wind",
+    0.056,
+    "onset",
+    "I1"
+   ],
+   [
+    "I2",
+    "roof_wind",
+    0.056,
+    "onset",
+    "I3"
+   ],
+   [
+    "I3",
+    "lap",
+    0.08,
+    "onset",
+    "I4"
+   ],
+   [
+    "I4",
+    "lap",
+    0.08,
+    "onset",
+    "I5"
+   ],
+   [
+    "I5",
+    "roof_wind",
+    0.056,
+    "onset",
+    "I6"
+   ],
+   [
+    "I6",
+    "roof_wind",
+    0.056,
+    "onset"
+   ],
+   [
+    "s:1.27",
+    "pop",
+    0.3
+   ],
+   [
+    "s:14.71",
+    "drone_hit",
+    0.3
+   ],
+   [
+    "s:20.41",
+    "ding",
+    0.26
+   ],
+   [
+    "s:29.69",
+    "sparkle",
+    0.3
+   ],
+   [
+    "s:33.44",
+    "title_boom",
+    0.45
+   ],
+   [
+    "s:39.43",
+    "pop",
+    0.3
+   ],
+   [
+    "s:39.43",
+    "splash",
+    0.4
+   ],
+   [
+    "s:50.50",
+    "sparkle",
+    0.3
+   ],
+   [
+    "s:59.30",
+    "gasp",
+    0.3
+   ],
+   [
+    "s:59.53",
+    "pop",
+    0.3
+   ],
+   [
+    "s:73.06",
+    "ding",
+    0.3
+   ],
+   [
+    "s:83.10",
+    "pop",
+    0.3
+   ],
+   [
+    "s:83.11",
+    "class_murmur",
+    0.05
+   ],
+   [
+    "s:92.06",
+    "paper_land",
+    0.4
+   ],
+   [
+    "s:92.06",
+    "drone_hit",
+    0.28
+   ],
+   [
+    "s:93.70",
+    "pop",
+    0.3
+   ],
+   [
+    "s:114.59",
+    "ding",
+    0.3
+   ],
+   [
+    "s:121.32",
+    "pop",
+    0.3
+   ],
+   [
+    "s:121.63",
+    "ding",
+    0.26
+   ],
+   [
+    "s:123.40",
+    "pop",
+    0.3
+   ],
+   [
+    "s:133.78",
+    "ding",
+    0.26
+   ],
+   [
+    "s:146.01",
+    "ding",
+    0.3
+   ],
+   [
+    "s:157.14",
+    "pop",
+    0.3
+   ],
+   [
+    "s:159.24",
+    "gasp",
+    0.25
+   ],
+   [
+    "s:178.08",
+    "pop",
+    0.3
+   ],
+   [
+    "s:193.25",
+    "drone_hit",
+    0.25
+   ],
+   [
+    "s:212.44",
+    "pop",
+    0.3
+   ],
+   [
+    "s:217.11",
+    "drone_hit",
+    0.3
+   ],
+   [
+    "s:223.78",
+    "switch_off",
+    0.45
+   ],
+   [
+    "s:225.46",
+    "power_down",
+    0.25
+   ],
+   [
+    "s:240.64",
+    "pop",
+    0.3
+   ],
+   [
+    "s:255.43",
+    "plip",
+    0.3
+   ],
+   [
+    "s:263.00",
+    "ding",
+    0.3
+   ],
+   [
+    "s:277.59",
+    "ding",
+    0.3
+   ],
+   [
+    "s:288.18",
+    "drone_hit",
+    0.25
+   ],
+   [
+    "s:294.52",
+    "title_boom",
+    0.35
+   ]
+  ],
+  "repeats": [
+   {
+    "at": "D6",
+    "clip": "step",
+    "n": 8,
+    "every": 15,
+    "gain": [
+     0.1,
+     0.14
+    ],
+    "pitch": [
+     0.95,
+     1.05
+    ]
+   },
+   {
+    "at": "H2",
+    "clip": "step",
+    "n": 14,
+    "every": 15,
+    "gain": [
+     0.08,
+     0.12
+    ],
+    "pitch": [
+     0.95,
+     1.05
+    ]
+   },
+   {
+    "at": "E11",
+    "clip": "step",
+    "n": 14,
+    "every": 6,
+    "gain": [
+     0.08,
+     0.14
+    ],
+    "pitch": [
+     0.9,
+     1.15
+    ]
+   },
+   {
+    "at": "I1+20",
+    "clip": "counter_tick",
+    "n": 12,
+    "every": 8,
+    "gain": [
+     0.08,
+     0.12
+    ],
+    "pitch": [
+     0.95,
+     1.1
+    ]
+   }
+  ],
+  "music": {
+   "clip": "music",
+   "from": "C1",
+   "until": "D1",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -6.5,
+   "music_lu": -13
+  }
+ },
+ "seo": {
+  "keywords": [
+   "what if malayalam",
+   "urakkam illenkil",
+   "sleep science malayalam",
+   "ഉറക്കം",
+   "no sleep what if",
+   "brain sleep facts malayalam",
+   "jellyfish sleep",
+   "what if humans never slept"
+  ],
+  "hook": "പന്ത്രണ്ട് ദിവസമായി ആരും ഉറങ്ങിയിട്ടില്ല. ആദ്യം എട്ട് മണിക്കൂർ ബോണസ് പോലെ തോന്നി. പിന്നെ പരീക്ഷ, അമ്മയുടെ കറി, KSRTC ബസ്... നിനക്ക് ഏറ്റവും നല്ല ഉറക്കം കിട്ടിയിട്ടുള്ളത് എവിടെ വെച്ചാണ്?"
+ }
+}

@@ -1,0 +1,263 @@
+{
+ "slug": "shrink-short-ml",
+ "title": "ഓരോ ഉറക്കത്തിലും പകുതിയായാൽ?",
+ "fps": 30,
+ "total": 1198,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 64,
+   "t0": 0,
+   "t1": 64,
+   "line": "ഓരോ തവണ ഉറങ്ങി എണീക്കുമ്പോഴും"
+  },
+  {
+   "shot": "A2",
+   "a": 64,
+   "b": 112,
+   "t0": 0,
+   "t1": 48,
+   "line": "നീ പകുതിയായാലോ?"
+  },
+  {
+   "shot": "B1",
+   "a": 112,
+   "b": 184,
+   "t0": 0,
+   "t1": 72,
+   "line": "ഒന്നാം ദിവസം, എൺപത് സെന്റിമീറ്റർ."
+  },
+  {
+   "shot": "B2",
+   "a": 184,
+   "b": 282,
+   "t0": 0,
+   "t1": 98,
+   "line": "യൂണിഫോം ഷർട്ട് കാലു വരെ എത്തുന്നു."
+  },
+  {
+   "shot": "C1",
+   "a": 282,
+   "b": 385,
+   "t0": 0,
+   "t1": 103,
+   "line": "മൂന്നാം ദിവസം, ഇരുപത്. ബസ്സിന്റെ പടി നിനക്കിപ്പോൾ ഒരു"
+  },
+  {
+   "shot": "C2",
+   "a": 385,
+   "b": 433,
+   "t0": 0,
+   "t1": 48,
+   "line": "മതിൽ."
+  },
+  {
+   "shot": "D1",
+   "a": 433,
+   "b": 555,
+   "t0": 0,
+   "t1": 122,
+   "line": "ഇത്ര ചെറുതായാൽ, നീ ആദ്യം എന്ത് ചെയ്യും?"
+  },
+  {
+   "shot": "E1",
+   "a": 555,
+   "b": 684,
+   "t0": 0,
+   "t1": 129,
+   "line": "അഞ്ചാം ദിവസം, അഞ്ച് സെന്റിമീറ്റർ. വീട്ടിലെ പൂച്ച നിന്നെ വേറൊരു രീതിയിൽ"
+  },
+  {
+   "shot": "E2",
+   "a": 684,
+   "b": 751,
+   "t0": 0,
+   "t1": 67,
+   "line": "നോക്കാൻ തുടങ്ങി."
+  },
+  {
+   "shot": "F1",
+   "a": 751,
+   "b": 878,
+   "t0": 0,
+   "t1": 127,
+   "line": "ഈ വലിപ്പമുള്ള ചുണ്ടെലിയുടെ ഹൃദയം, മിനിറ്റിൽ ആയിരത്തഞ്ഞൂറ് തവണ മിടിക്കും."
+  },
+  {
+   "shot": "F2",
+   "a": 878,
+   "b": 922,
+   "t0": 0,
+   "t1": 44,
+   "line": "നിന്റേത് എഴുപത്."
+  },
+  {
+   "shot": "G1",
+   "a": 922,
+   "b": 987,
+   "t0": 0,
+   "t1": 65,
+   "line": "പക്ഷേ നീ ഒരിക്കലും പൂജ്യം ആവില്ല."
+  },
+  {
+   "shot": "G2",
+   "a": 987,
+   "b": 1114,
+   "t0": 0,
+   "t1": 127,
+   "line": "ഇരുപത്തിനാലാം ദിവസം, നീ ഒരു പനി വൈറസിന്റെ വലിപ്പം."
+  },
+  {
+   "shot": "H1",
+   "a": 1114,
+   "b": 1198,
+   "t0": 0,
+   "t1": 84,
+   "line": "ഇന്ന് രാത്രി, നീ ഉറങ്ങുമോ?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "key": 20,
+   "len": 64,
+   "first": 0,
+   "line": "ഓരോ തവണ ഉറങ്ങി എണീക്കുമ്പോഴും",
+   "note": "HOOK + title: tiny Ramu stands on the giant pillow, the bedside alarm clock towers over him, morning light"
+  },
+  {
+   "id": "A2",
+   "size": "close-up",
+   "key": 20,
+   "len": 48,
+   "first": 64,
+   "line": "നീ പകുതിയായാലോ?",
+   "note": "Ramu's shock close-up, the pillow's weave huge behind him, a hair-thin blanket thread"
+  },
+  {
+   "id": "B1",
+   "size": "medium",
+   "key": 24,
+   "len": 72,
+   "first": 112,
+   "line": "ഒന്നാം ദിവസം, എൺപത് സെന്റിമീറ്റർ.",
+   "note": "day 1, 80 cm: Ramu at the door frame beside amma's pencil height marks, the new mark half way down"
+  },
+  {
+   "id": "B2",
+   "size": "wide",
+   "key": 70,
+   "len": 98,
+   "first": 184,
+   "line": "യൂണിഫോം ഷർട്ട് കാലു വരെ എത്തുന്നു.",
+   "note": "GAG: Ramu walks out in his uniform shirt trailing to the floor like a gown, Appu at the gate doubles up laughing"
+  },
+  {
+   "id": "C1",
+   "size": "low",
+   "key": 30,
+   "len": 103,
+   "first": 282,
+   "line": "മൂന്നാം ദിവസം, ഇരുപത്. ബസ്സിന്റെ പടി നിനക്കിപ്പോൾ ഒരു",
+   "note": "day 3, 20 cm: low angle, the red bus's first step is a wall above Ramu, schoolbag on his back"
+  },
+  {
+   "id": "C2",
+   "size": "medium",
+   "key": 40,
+   "len": 48,
+   "first": 385,
+   "line": "മതിൽ.",
+   "note": "GAG: Appu lifts Ramu up the step by his hood, Ramu dangling, legs pedalling"
+  },
+  {
+   "id": "D1",
+   "size": "close-up",
+   "key": 40,
+   "len": 122,
+   "first": 433,
+   "line": "ഇത്ര ചെറുതായാൽ, നീ ആദ്യം എന്ത് ചെയ്യും?",
+   "note": "mid question: Ramu sits on the rim of a steel plate beside a glass of chaya, thinking"
+  },
+  {
+   "id": "E1",
+   "size": "low",
+   "key": 40,
+   "len": 129,
+   "first": 555,
+   "line": "അഞ്ചാം ദിവസം, അഞ്ച് സെന്റിമീറ്റർ. വീട്ടിലെ പൂച്ച നിന്നെ വേറൊരു രീതിയിൽ",
+   "note": "day 5, 5 cm: floor level, Ramu on the red-oxide floor, the house cat's paws and face loom in"
+  },
+  {
+   "id": "E2",
+   "size": "close-up",
+   "key": 36,
+   "len": 67,
+   "first": 684,
+   "line": "നോക്കാൻ തുടങ്ങി.",
+   "note": "GAG: the cat's huge face, it licks its lips; Ramu tiny in front, shock"
+  },
+  {
+   "id": "F1",
+   "size": "medium",
+   "key": 70,
+   "len": 127,
+   "first": 751,
+   "line": "ഈ വലിപ്പമുള്ള ചുണ്ടെലിയുടെ ഹൃദയം, മിനിറ്റിൽ ആയിരത്തഞ്ഞൂറ് തവണ മിടിക്കും.",
+   "note": "fact: Ramu beside a shrew of the same size on the floor, the shrew's heart pulses fast; fact card 1,500 a minute"
+  },
+  {
+   "id": "F2",
+   "size": "close-up",
+   "key": 20,
+   "len": 44,
+   "first": 878,
+   "line": "നിന്റേത് എഴുപത്.",
+   "note": "Ramu shivering, arms wrapped, breath; the fact card stays"
+  },
+  {
+   "id": "G1",
+   "size": "wide",
+   "key": 30,
+   "len": 65,
+   "first": 922,
+   "line": "പക്ഷേ നീ ഒരിക്കലും പൂജ്യം ആവില്ല.",
+   "note": "twist: a row of Ramus, each half the last, running into a point that never vanishes"
+  },
+  {
+   "id": "G2",
+   "size": "medium",
+   "key": 40,
+   "len": 127,
+   "first": 987,
+   "line": "ഇരുപത്തിനാലാം ദിവസം, നീ ഒരു പനി വൈറസിന്റെ വലിപ്പം.",
+   "note": "day 24: Ramu floats beside a spiky flu virus of the same size, inside a glinting droplet"
+  },
+  {
+   "id": "H1",
+   "size": "medium",
+   "key": 40,
+   "len": 84,
+   "first": 1114,
+   "line": "ഇന്ന് രാത്രി, നീ ഉറങ്ങുമോ?",
+   "note": "comment question: full-size Ramu in bed at night, eyes wide open, alarm clock 11:59, looks at camera"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "o": 0.4,
+   "f": 925
+  }
+ ],
+ "audio": {
+  "voice": "shrink-short-ml/voice.wav",
+  "sfx": "shrink-short-ml/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3742,
+  "music": "shrink-short-ml/music.wav",
+  "musicVol": 0.1079
+ }
+}

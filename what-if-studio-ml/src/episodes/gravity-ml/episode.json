@@ -1,0 +1,377 @@
+{
+  "id": "GravityMl",
+  "slug": "gravity-ml",
+  "topic": "What if gravity reversed for 30 seconds? (Malayalam)",
+  "title": [
+    "ഗുരുത്വാകർഷണം",
+    "വിപരീതമായാലോ?"
+  ],
+  "accent": "വിപരീതമായാലോ?",
+  "language": "ml",
+  "voice": {
+    "engine": "clipchamp",
+    "id": "Xiaoyu Multilingual",
+    "language": "Malayalam (India)",
+    "pitch": "Default",
+    "pace": "0.9x"
+  },
+  "power": {
+    "word": "മുകളിലേക്ക്",
+    "rule": "gravity reverses to negative 1g for 30 seconds",
+    "look": "floating particles, zero-g drift, and a REVERSED badge"
+  },
+  "script": [
+    {
+      "beat": "1 cold open, demo 1 (domestic)",
+      "text": "മേശപ്പുറത്തെ ചായ മുകളിലേക്ക് പൊങ്ങുന്നു. മുകളിലേക്ക്."
+    },
+    {
+      "beat": "1 cold open, demo 2 (uncanny)",
+      "text": "കസേര ഒഴുകി നടക്കുന്നു. നീ സീലിംഗിലൂടെ നടക്കുന്നു."
+    },
+    {
+      "beat": "1 cold open, demo 3 (world scale)",
+      "text": "പുറത്ത് കാറുകളും മരങ്ങളും ആകാശത്തേക്ക് ഉയരുന്നു."
+    },
+    {
+      "beat": "2 the premise (title card)",
+      "text": "ഗുരുത്വാകർഷണം മുപ്പത് സെക്കൻഡ് വിപരീതമായാലോ?"
+    },
+    {
+      "beat": "4 the turn: the cost, one real fact",
+      "text": "പക്ഷേ ഒരു പ്രശ്നമുണ്ട്: മുപ്പത് സെക്കൻഡ് മുകളിലേക്ക് വീണാൽ, എല്ലാം നാല് കിലോമീറ്റർ ഉയരത്തിലെത്തും. ഇത് സത്യമാണ്."
+    },
+    {
+      "beat": "5-7 folded into a threat",
+      "text": "മുപ്പത്തിയൊന്നാം സെക്കൻഡിൽ... ഭൂമി വീണ്ടും താഴേക്ക് വലിക്കും."
+    }
+  ],
+  "science": [
+    {
+      "claim": "മുപ്പത് സെക്കൻഡ് മുകളിലേക്ക് വീണാൽ, എല്ലാം നാല് കിലോമീറ്റർ ഉയരത്തിലെത്തും. (Thirty seconds of upward fall carries everything four kilometers into the sky.)",
+      "working": "d = 1/2 * g * t^2 = 0.5 * 9.8 * 900 = 4,410 meters = 4.4 km.",
+      "source": "Newtonian kinematics of uniform acceleration (d = 1/2 g t^2)"
+    },
+    {
+      "claim": "മുപ്പത്തിയൊന്നാം സെക്കൻഡിൽ ഭൂമി താഴേക്ക് വലിക്കും. (At second 31, everything falls from four kilometers.)",
+      "working": "When gravity restores downward, falling from 4.4 km takes ~30 seconds, impacting Earth at high terminal velocity.",
+      "source": "Free fall kinematics with atmospheric drag"
+    }
+  ],
+  "gaps": {
+    "sentence": 0.24,
+    "comma": 0.14,
+    "question": 0.5,
+    "pairs": {
+      "മുകളിലേക്ക്|കസേര": 0.25,
+      "നടക്കുന്നു|പുറത്ത്": 0.25,
+      "ഉയരുന്നു|ഗുരുത്വാകർഷണം": 0.4,
+      "വിപരീതമായാലോ|പക്ഷേ": 0.45,
+      "സത്യമാണ്|മുപ്പത്തിയൊന്നാം": 0.45
+    }
+  },
+  "cast": [
+    "ramu"
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "study",
+      "key": 12,
+      "note": "Pip sitting at desk with hot tea in morning study"
+    },
+    {
+      "id": "S2",
+      "size": "insert",
+      "set": "study (tabletop)",
+      "key": 14,
+      "note": "tea cup lifts up; tea droplets form weightless spheres"
+    },
+    {
+      "id": "S3",
+      "size": "medium",
+      "set": "study",
+      "key": 10,
+      "note": "Pip stares in amazement as tea floats before him"
+    },
+    {
+      "id": "S4",
+      "size": "wide",
+      "set": "study",
+      "key": 15,
+      "note": "chair floats off rug; Pip rises upwards toward ceiling"
+    },
+    {
+      "id": "S5",
+      "size": "medium",
+      "set": "study (ceiling)",
+      "key": 16,
+      "note": "Pip walks upside-down on ceiling looking down at desk"
+    },
+    {
+      "id": "S6",
+      "size": "wide",
+      "set": "window",
+      "key": 20,
+      "note": "outside window: trees, mailboxes, and cars gently lift into morning sky"
+    },
+    {
+      "id": "S7",
+      "size": "title",
+      "set": "title",
+      "key": 15,
+      "note": "title card: ഗുരുത്വാകർഷണം വിപരീതമായാലോ?"
+    },
+    {
+      "id": "S8",
+      "size": "diagram",
+      "set": "schematic",
+      "key": 22,
+      "note": "schematic: trajectory h = 1/2 gt^2 climbing from Earth surface"
+    },
+    {
+      "id": "S9",
+      "size": "diagram",
+      "set": "schematic",
+      "key": 20,
+      "note": "schematic zoom: altitude bar surges past 4.4 KM at t=30s"
+    },
+    {
+      "id": "S10",
+      "size": "wide",
+      "set": "sky",
+      "key": 18,
+      "note": "4 km high: Pip floating amidst clouds and city debris with digital countdown"
+    },
+    {
+      "id": "S11",
+      "size": "close-up",
+      "set": "sky",
+      "key": 12,
+      "note": "Pip eye close-up as timer hits second 31"
+    },
+    {
+      "id": "S12",
+      "size": "wide",
+      "set": "sky (plummet)",
+      "key": 10,
+      "note": "gravity returns: sudden drop into free-fall, cliffhanger cut"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "മേശപ്പുറത്തെ"
+    },
+    {
+      "shot": "S2",
+      "at": "മുകളിലേക്ക്"
+    },
+    {
+      "shot": "S3",
+      "at": "മുകളിലേക്ക്",
+      "look": "reversed"
+    },
+    {
+      "shot": "S4",
+      "at": "കസേര",
+      "look": "reversed"
+    },
+    {
+      "shot": "S5",
+      "at": "സീലിംഗിലൂടെ",
+      "look": "reversed"
+    },
+    {
+      "shot": "S6",
+      "at": "പുറത്ത്",
+      "look": "reversed"
+    },
+    {
+      "shot": "S7",
+      "at": "ഗുരുത്വാകർഷണം"
+    },
+    {
+      "shot": "S8",
+      "at": "പക്ഷേ"
+    },
+    {
+      "shot": "S9",
+      "at": "നാല്"
+    },
+    {
+      "shot": "S10",
+      "at": "സത്യമാണ്",
+      "look": "reversed"
+    },
+    {
+      "shot": "S11",
+      "at": "മുപ്പത്തിയൊന്നാം",
+      "look": "reversed"
+    },
+    {
+      "shot": "S12",
+      "at": "താഴേക്ക്"
+    }
+  ],
+  "fx": [
+    {
+      "at": "S7",
+      "kind": "flash"
+    },
+    {
+      "at": "S12",
+      "kind": "shake",
+      "len": 12,
+      "amp": 18
+    }
+  ],
+  "sound": {
+    "levels": {
+      "sfx_lu": -1.5,
+      "music_lu": -9.5
+    },
+    "music": {
+      "clip": "music",
+      "until": "S7"
+    },
+    "clips": {
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        17.0
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "fall_whoosh": [
+        "a small object falling fast through the air, short soft whoosh",
+        0.6
+      ],
+      "power_hum": [
+        "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+        3.0
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "switch_off": [
+        "a heavy electrical breaker switching off with a dull clunk",
+        0.5
+      ],
+      "gasp": [
+        "two young people gasping in surprise at the same moment, cartoon, short",
+        0.8
+      ],
+      "clink": [
+        "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+        0.7
+      ],
+      "step": [
+        "a single sneaker footstep on a wooden stair, close",
+        0.5
+      ]
+    },
+    "events": [
+      [
+        "S1",
+        "room_tone",
+        0.14,
+        "onset",
+        "S6"
+      ],
+      [
+        "S2+2",
+        "clink",
+        0.35
+      ],
+      [
+        "S2+8",
+        "sparkle",
+        0.4
+      ],
+      [
+        "S3+3",
+        "gasp",
+        0.4
+      ],
+      [
+        "S4+2",
+        "power_hum",
+        0.35
+      ],
+      [
+        "S5+4",
+        "step",
+        0.4
+      ],
+      [
+        "S6",
+        "roof_wind",
+        0.25,
+        "onset",
+        "S7"
+      ],
+      [
+        "S6+10",
+        "pop",
+        0.35
+      ],
+      [
+        "S7",
+        "title_boom",
+        0.75,
+        "peak"
+      ],
+      [
+        "S8",
+        "counter_tick",
+        0.45
+      ],
+      [
+        "S9+4",
+        "drone_hit",
+        0.65,
+        "peak"
+      ],
+      [
+        "S10",
+        "roof_wind",
+        0.35
+      ],
+      [
+        "S11+18",
+        "switch_off",
+        0.6
+      ],
+      [
+        "S12",
+        "fall_whoosh",
+        0.85,
+        "peak"
+      ]
+    ]
+  }
+}

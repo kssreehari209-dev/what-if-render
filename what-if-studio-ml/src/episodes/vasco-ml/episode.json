@@ -1,0 +1,849 @@
+{
+  "id": "VascoMl",
+  "slug": "vasco-ml",
+  "topic": "What if Vasco da Gama never reached Kerala? (Malayalam)",
+  "title": [
+    "വാസ്കോ ഡ ഗാമ",
+    "വന്നില്ലായിരുന്നെങ്കിൽ?"
+  ],
+  "accent": "വന്നില്ലായിരുന്നെങ്കിൽ?",
+  "language": "ml",
+  "voice": {
+    "engine": "edge-tts",
+    "id": "ml-IN-SobhanaNeural",
+    "language": "Malayalam (India)",
+    "rate": "+0%"
+  },
+  "power": {
+    "word": "ഇല്ല",
+    "rule": "history loses one ship, and things drop out of Pip's day one by one",
+    "look": "a sepia ripple as a thing pops out of the world"
+  },
+  "script": [
+    {
+      "beat": "1 cold open: the plate empties (selfish, closest to home)",
+      "text": "കപ്പയും മീൻകറിയും. നീ കൈ നീട്ടുന്നു. കപ്പയില്ല."
+    },
+    {
+      "beat": "1 cold open: the curry",
+      "text": "കറിയൊന്ന് നോക്ക്. ചുവപ്പ് പോയി. മുളകില്ല."
+    },
+    {
+      "beat": "1 cold open: the table gag",
+      "text": "മേശയിൽ കൈ വെച്ചു. ആ വാക്കുപോലും ഇല്ല."
+    },
+    {
+      "beat": "2 premise",
+      "text": "എല്ലാം ഒറ്റ കാര്യം കൊണ്ടാണ്. ആയിരത്തി നാനൂറ്റി തൊണ്ണൂറ്റിയെട്ടിൽ ഒരു കപ്പൽ കോഴിക്കോട് എത്തിയില്ല."
+    },
+    {
+      "beat": "2 title card",
+      "text": "വാസ്കോ ഡ ഗാമ വന്നില്ലായിരുന്നെങ്കിൽ?"
+    },
+    {
+      "beat": "3 how thin it was: the real numbers",
+      "text": "എത്താതിരിക്കാൻ എളുപ്പമായിരുന്നു. നൂറ്റെഴുപത് പേർ ലിസ്ബണിൽ നിന്ന് കയറി. തിരിച്ചെത്തിയത് അമ്പത്തഞ്ചോളം പേർ മാത്രം."
+    },
+    {
+      "beat": "3 the pilot",
+      "text": "ആഫ്രിക്കൻ തീരത്ത് എത്തിയപ്പോൾ ഗാമയ്ക്ക് വഴി അറിയില്ല. മലിന്ദിയിൽ നിന്ന് ഒരു നാവികനെ കിട്ടി. അയാളാണ് ഇരുപത്തിമൂന്ന് ദിവസം കൊണ്ട് കടൽ കടത്തിയത്."
+    },
+    {
+      "beat": "3 the what-if",
+      "text": "അയാൾ വേണ്ടെന്ന് പറഞ്ഞെന്ന് വിചാരിക്ക്."
+    },
+    {
+      "beat": "3 the losses, useful",
+      "text": "പറങ്കിമാങ്ങ ഇല്ല. പേരിലെ പറങ്കി, പോർച്ചുഗീസുകാർ തന്നെയാണ്."
+    },
+    {
+      "beat": "3 the losses, uncanny: the words",
+      "text": "ജനാല. ചാവി. അലമാര. ഈ വാക്കുകളും അവരുടേതാണ്."
+    },
+    {
+      "beat": "4 the turn: the other side",
+      "text": "ഇനി മറ്റേ വശം. ആയിരത്തി അഞ്ഞൂറ്റിരണ്ടിൽ ഗാമ വീണ്ടും വന്നു. മക്കയിൽ നിന്ന് മടങ്ങുന്ന ഒരു കപ്പൽ പിടിച്ചു. നൂറുകണക്കിന് മനുഷ്യർ അകത്ത്. അയാൾ അതിന് തീയിട്ടു."
+    },
+    {
+      "beat": "4 the consequence",
+      "text": "അതും നടക്കില്ല."
+    },
+    {
+      "beat": "5-7 the threat",
+      "text": "അപ്പോൾ നമ്മൾ രക്ഷപ്പെട്ടോ? കുരുമുളക് ഇവിടെത്തന്നെയുണ്ട്. ഡച്ചുകാരും ഇംഗ്ലീഷുകാരും പിന്നാലെ വന്നത് അതിനാണ്."
+    },
+    {
+      "beat": "7 cliffhanger",
+      "text": "ഗാമ ഇല്ലെങ്കിലും ആരെങ്കിലും വരും. അവർ എന്ത് കൊണ്ടുവരും? എന്ത് കൊണ്ടുപോകും?"
+    }
+  ],
+  "science": [
+    {
+      "claim": "170 men left Lisbon; about 55 came back.",
+      "working": "Da Gama left Lisbon 8 July 1497 with four ships and about 170 men. Accounts give about 54-55 survivors; two ships returned (Sao Rafael scuttled for lack of crew). One source says about 150 at the start, so the script says 'about 55' and uses the commonly cited 170.",
+      "source": "Wikipedia, Portuguese discovery of the sea route to India; Fordham Internet History Sourcebook (1497 da Gama); Encyclopedia.com"
+    },
+    {
+      "claim": "At the African coast he did not know the way; a Malindi pilot took the fleet across in 23 days.",
+      "working": "The Sultan of Malindi supplied a pilot, April 1498. About 23-day crossing to the Malabar coast, reaching the Calicut area around 20 May 1498 (sources range 17-22 May, so the script gives only the year). The pilot's identity (Gujarati 'Kanji Malam' tradition) is disputed, so the script just says 'a sailor'.",
+      "source": "Britannica, Vasco da Gama; Wikipedia, Vasco da Gama Pillar, Malindi"
+    },
+    {
+      "claim": "Cashew and chilli and tapioca came with the Portuguese; parangi means Portuguese.",
+      "working": "Chilli, cashew and tapioca are New World crops the Portuguese brought (routes and dates differ: cashew via Goa or Kannur, tapioca reaching India by the 17th century). Parangi (from Frank) is the Malayalam word for the Portuguese; parangimanga is the cashew apple.",
+      "source": "Kerala Tourism; thesouthfirst.com, Kappa Day; Outlook Traveller, How tapioca became Kerala's comfort food; ckbk, The Food of the South"
+    },
+    {
+      "claim": "മേശ, ജനാല, ചാവി, അലമാര are Portuguese words.",
+      "working": "mesa, janela, chave, armario. The script drops കസേര (cadeira) because no source was found for it.",
+      "source": "Onmanorama, How interactions with foreign cultures enriched Malayalam (2019); Kerala Insider, Portuguese Loan Words in Malayalam; Kerala Tourism"
+    },
+    {
+      "claim": "1502: da Gama seized a ship returning from Mecca with hundreds aboard and set it on fire.",
+      "working": "The Miri, off the Malabar coast, around 3 Oct 1502. The burning is well attested. The toll is not: about 300 is the common figure, one blog says 800. So the script says 'hundreds' and gives no number.",
+      "source": "Britannica, The second voyage of Vasco da Gama; historicalleys.blogspot.com, The Plunder and Massacre of the Meri"
+    },
+    {
+      "claim": "The Dutch and the English came for the same pepper.",
+      "working": "The English East India Company (1600) and the Dutch VOC (1602) were both founded for the Asian spice trade, and both traded on the Malabar coast.",
+      "source": "General history; Britannica"
+    }
+  ],
+  "gaps": {
+    "word": 0.15,
+    "comma": 0.45,
+    "sentence": 0.85,
+    "question": 1.0
+  },
+  "cast": [
+    "ramu",
+    "appu",
+    "suit"
+  ],
+  "tail": 2.5,
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "home",
+      "key": 30,
+      "note": "Dusk dining room: Pip at the table with kappa and fish curry, Mo in the doorway with a tea glass"
+    },
+    {
+      "id": "S2",
+      "size": "insert top-down",
+      "set": "plate",
+      "key": 56,
+      "note": "Steel plate from above: the hand reaches, the kappa pops out, the hand closes on air"
+    },
+    {
+      "id": "S3",
+      "size": "macro",
+      "set": "curry",
+      "key": 100,
+      "note": "Red curry goes pale; a tiny chilli in a captain's hat walks out of the bowl with a suitcase (gag)"
+    },
+    {
+      "id": "S4",
+      "size": "medium",
+      "set": "home",
+      "key": 56,
+      "note": "Pip's hand on the table; the table blinks out, the plate drops, Pip tips forward"
+    },
+    {
+      "id": "S5",
+      "size": "close-up",
+      "set": "home",
+      "key": 30,
+      "note": "Mo mid-sip stares; behind Mo, Pip's feet in the air (gag)"
+    },
+    {
+      "id": "S6",
+      "size": "wide",
+      "set": "sea 1498",
+      "key": 60,
+      "note": "Dusk sea, one caravel, 1498 tag; it fades out before it reaches the far coast"
+    },
+    {
+      "id": "S7",
+      "size": "wide title",
+      "set": "Kerala shore",
+      "key": 40,
+      "note": "Empty Kerala shore at dusk, no ship, title card"
+    },
+    {
+      "id": "S8",
+      "size": "schematic",
+      "set": "map",
+      "key": 60,
+      "note": "The route draws on: Lisbon, round Africa, Malindi, Kerala"
+    },
+    {
+      "id": "S9",
+      "size": "low wide",
+      "set": "ship",
+      "key": 50,
+      "note": "The caravel big in frame, crowded rail, 170 counts up"
+    },
+    {
+      "id": "S10",
+      "size": "wide",
+      "set": "ship",
+      "key": 50,
+      "note": "The same ship heading home, torn sails, a few heads, about 55"
+    },
+    {
+      "id": "S11",
+      "size": "medium",
+      "set": "deck",
+      "key": 60,
+      "note": "Captain turns his map round and round, compass spinning (gag)"
+    },
+    {
+      "id": "S12",
+      "size": "wide",
+      "set": "Malindi",
+      "key": 40,
+      "note": "Malindi jetty: captain pleads, the pilot stands calm, dhow behind"
+    },
+    {
+      "id": "S13",
+      "size": "high",
+      "set": "night sea",
+      "key": 70,
+      "note": "Night crossing: pilot at the helm reading the stars, captain asleep; day dial runs to 23 (gag)"
+    },
+    {
+      "id": "S14",
+      "size": "close-up",
+      "set": "Malindi",
+      "key": 40,
+      "note": "The pilot folds his arms and shakes his head; captain's hat droops"
+    },
+    {
+      "id": "S15",
+      "size": "medium",
+      "set": "courtyard",
+      "key": 22,
+      "note": "Mo jumps for a cashew apple, it pops away, Mo lands on nothing; parangi tag"
+    },
+    {
+      "id": "S16",
+      "size": "medium",
+      "set": "home",
+      "key": 30,
+      "note": "Pip leaning at the window; the window goes, Pip bonks on a blank wall (gag); ജനാല / janela"
+    },
+    {
+      "id": "S17",
+      "size": "close-up",
+      "set": "door",
+      "key": 26,
+      "note": "Mo at the door, the key vanishes from the hand, Mo tries a finger in the lock (gag); ചാവി / chave"
+    },
+    {
+      "id": "S18",
+      "size": "medium",
+      "set": "home",
+      "key": 38,
+      "note": "The cupboard vanishes and all the clothes land on Pip (gag); അലമാര / armario"
+    },
+    {
+      "id": "S19",
+      "size": "schematic",
+      "set": "word list",
+      "key": 50,
+      "note": "Four word pairs line up: മേശ mesa, ജനാല janela, ചാവി chave, അലമാര armario"
+    },
+    {
+      "id": "S20",
+      "size": "medium",
+      "set": "home",
+      "key": 40,
+      "note": "Pip and Mo stop laughing as the room's light drains"
+    },
+    {
+      "id": "S21",
+      "size": "wide",
+      "set": "sea 1502",
+      "key": 60,
+      "note": "Red dusk, a line of warships, 1502 tag"
+    },
+    {
+      "id": "S22",
+      "size": "wide",
+      "set": "sea 1502",
+      "key": 50,
+      "note": "The big ship alongside a small pilgrim ship with white sails"
+    },
+    {
+      "id": "S23",
+      "size": "insert",
+      "set": "lamp-lit hold",
+      "key": 40,
+      "note": "Silhouettes sitting in a dim hold round one lamp"
+    },
+    {
+      "id": "S24",
+      "size": "wide",
+      "set": "night sea",
+      "key": 45,
+      "note": "Far away on the dark horizon a small fire; no people seen"
+    },
+    {
+      "id": "S25",
+      "size": "wide",
+      "set": "Kerala shore",
+      "key": 20,
+      "note": "The same horizon, calm and empty, one fishing boat"
+    },
+    {
+      "id": "S26",
+      "size": "close-up",
+      "set": "shore",
+      "key": 40,
+      "note": "Pip breathes out, the smile starts"
+    },
+    {
+      "id": "S27",
+      "size": "macro",
+      "set": "pepper vine",
+      "key": 40,
+      "note": "Pepper vine in the dusk, green and red corns; the smile's answer"
+    },
+    {
+      "id": "S28",
+      "size": "wide",
+      "set": "sea",
+      "key": 70,
+      "note": "Ships with new flags rise over the horizon one by one"
+    },
+    {
+      "id": "S29",
+      "size": "over the shoulder",
+      "set": "shore",
+      "key": 50,
+      "note": "Pip and Mo from behind, dark and big, more sails coming"
+    },
+    {
+      "id": "S30",
+      "size": "extreme close-up",
+      "set": "shore",
+      "key": 70,
+      "note": "Pip's eyes, a sail reflected in them"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "കപ്പയും"
+    },
+    {
+      "shot": "S2",
+      "at": "നീ"
+    },
+    {
+      "shot": "S3",
+      "at": "കറിയൊന്ന്"
+    },
+    {
+      "shot": "S4",
+      "at": "മേശയിൽ"
+    },
+    {
+      "shot": "S5",
+      "at": "എല്ലാം"
+    },
+    {
+      "shot": "S6",
+      "at": "ആയിരത്തി"
+    },
+    {
+      "shot": "S7",
+      "at": "വാസ്കോ"
+    },
+    {
+      "shot": "S8",
+      "at": "എത്താതിരിക്കാൻ"
+    },
+    {
+      "shot": "S9",
+      "at": "നൂറ്റെഴുപത്"
+    },
+    {
+      "shot": "S10",
+      "at": "തിരിച്ചെത്തിയത്"
+    },
+    {
+      "shot": "S11",
+      "at": "ആഫ്രിക്കൻ"
+    },
+    {
+      "shot": "S12",
+      "at": "മലിന്ദിയിൽ"
+    },
+    {
+      "shot": "S13",
+      "at": "അയാളാണ്"
+    },
+    {
+      "shot": "S14",
+      "at": "അയാൾ"
+    },
+    {
+      "shot": "S15",
+      "at": "പറങ്കിമാങ്ങ"
+    },
+    {
+      "shot": "S16",
+      "at": "ജനാല"
+    },
+    {
+      "shot": "S17",
+      "at": "ചാവി"
+    },
+    {
+      "shot": "S18",
+      "at": "അലമാര"
+    },
+    {
+      "shot": "S19",
+      "at": "ഈ"
+    },
+    {
+      "shot": "S20",
+      "at": "ഇനി"
+    },
+    {
+      "shot": "S21",
+      "at": "ആയിരത്തി"
+    },
+    {
+      "shot": "S22",
+      "at": "മക്കയിൽ"
+    },
+    {
+      "shot": "S23",
+      "at": "നൂറുകണക്കിന്"
+    },
+    {
+      "shot": "S24",
+      "at": "അയാൾ"
+    },
+    {
+      "shot": "S25",
+      "at": "അതും"
+    },
+    {
+      "shot": "S26",
+      "at": "അപ്പോൾ"
+    },
+    {
+      "shot": "S27",
+      "at": "കുരുമുളക്"
+    },
+    {
+      "shot": "S28",
+      "at": "ഡച്ചുകാരും"
+    },
+    {
+      "shot": "S29",
+      "at": "ഗാമ"
+    },
+    {
+      "shot": "S30",
+      "at": "അവർ"
+    }
+  ],
+  "fx": [
+    {
+      "at": "S4+56",
+      "kind": "shake",
+      "len": 10,
+      "amp": 10
+    },
+    {
+      "at": "S16+24",
+      "kind": "shake",
+      "len": 8,
+      "amp": 8
+    },
+    {
+      "at": "S21+1",
+      "kind": "flash",
+      "color": "#ef4444",
+      "o": 0.5
+    }
+  ],
+  "sound": {
+    "clips": {
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "clink": [
+        "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+        0.7
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "dizzy": [
+        "cartoon dizzy birds tweeting in a circle after a bonk",
+        1.4
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "fall_whoosh": [
+        "a small object falling fast through the air, short soft whoosh",
+        0.6
+      ],
+      "gulp": [
+        "a nervous cartoon gulp, short",
+        0.5
+      ],
+      "land": [
+        "a heavy body landing flat on a wooden floor, cartoon thud",
+        0.6
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        17.0
+      ],
+      "paper_land": [
+        "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+        0.7
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "power_down": [
+        "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+        2.5
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "select_draw": [
+        "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+        0.6
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ]
+    },
+    "events": [
+      [
+        "S1",
+        "room_tone",
+        0.07,
+        "onset",
+        "S6"
+      ],
+      [
+        "S2+40",
+        "sparkle",
+        0.4
+      ],
+      [
+        "S2+41",
+        "pop",
+        0.4
+      ],
+      [
+        "S3+32",
+        "sparkle",
+        0.3
+      ],
+      [
+        "S3+78",
+        "pop",
+        0.4
+      ],
+      [
+        "S4+42",
+        "pop",
+        0.4
+      ],
+      [
+        "S4+44",
+        "fall_whoosh",
+        0.3
+      ],
+      [
+        "S4+54",
+        "clink",
+        0.3
+      ],
+      [
+        "S4+56",
+        "land",
+        0.5
+      ],
+      [
+        "S5+58",
+        "gulp",
+        0.4
+      ],
+      [
+        "S6",
+        "roof_wind",
+        0.07,
+        "onset",
+        "S8"
+      ],
+      [
+        "S7+75",
+        "title_boom",
+        0.42,
+        "peak"
+      ],
+      [
+        "S8+2",
+        "select_draw",
+        0.2
+      ],
+      [
+        "S8+62",
+        "ding",
+        0.4
+      ],
+      [
+        "S9",
+        "roof_wind",
+        0.07,
+        "onset",
+        "S11"
+      ],
+      [
+        "S9+4",
+        "counter_tick",
+        0.22
+      ],
+      [
+        "S10+14",
+        "counter_tick",
+        0.18
+      ],
+      [
+        "S11",
+        "roof_wind",
+        0.07,
+        "onset",
+        "S13"
+      ],
+      [
+        "S11+14",
+        "paper_land",
+        0.16
+      ],
+      [
+        "S12+70",
+        "ding",
+        0.3
+      ],
+      [
+        "S13",
+        "roof_wind",
+        0.06,
+        "onset",
+        "S15"
+      ],
+      [
+        "S13+6",
+        "counter_tick",
+        0.16
+      ],
+      [
+        "S14+58",
+        "buzzer",
+        0.4,
+        "onset",
+        "S15"
+      ],
+      [
+        "S15",
+        "roof_wind",
+        0.07,
+        "onset",
+        "S16"
+      ],
+      [
+        "S15+36",
+        "pop",
+        0.4
+      ],
+      [
+        "S15+52",
+        "land",
+        0.2
+      ],
+      [
+        "S16",
+        "room_tone",
+        0.07,
+        "onset",
+        "S21"
+      ],
+      [
+        "S16+18",
+        "pop",
+        0.4
+      ],
+      [
+        "S16+24",
+        "land",
+        0.35
+      ],
+      [
+        "S16+26",
+        "dizzy",
+        0.2,
+        "onset",
+        "S17"
+      ],
+      [
+        "S17+14",
+        "pop",
+        0.4
+      ],
+      [
+        "S17+28",
+        "clink",
+        0.22
+      ],
+      [
+        "S18+20",
+        "pop",
+        0.4
+      ],
+      [
+        "S18+26",
+        "paper_land",
+        0.3
+      ],
+      [
+        "S18+32",
+        "paper_land",
+        0.26
+      ],
+      [
+        "S19+2",
+        "pop",
+        0.14
+      ],
+      [
+        "S19+9",
+        "pop",
+        0.14
+      ],
+      [
+        "S19+16",
+        "pop",
+        0.14
+      ],
+      [
+        "S19+23",
+        "pop",
+        0.14
+      ],
+      [
+        "S19+62",
+        "ding",
+        0.35
+      ],
+      [
+        "S20+42",
+        "drone_hit",
+        0.32,
+        "onset"
+      ],
+      [
+        "S21",
+        "roof_wind",
+        0.07,
+        "onset",
+        "S23"
+      ],
+      [
+        "S23",
+        "room_tone",
+        0.06,
+        "onset",
+        "S24"
+      ],
+      [
+        "S24",
+        "roof_wind",
+        0.06,
+        "onset",
+        "S26"
+      ],
+      [
+        "S24+46",
+        "drone_hit",
+        0.2,
+        "onset",
+        "S25"
+      ],
+      [
+        "S26",
+        "roof_wind",
+        0.07,
+        "onset",
+        "S28"
+      ],
+      [
+        "S28",
+        "roof_wind",
+        0.07,
+        "onset",
+        "S30"
+      ],
+      [
+        "S28+2",
+        "drone_hit",
+        0.14,
+        "peak"
+      ],
+      [
+        "S30",
+        "roof_wind",
+        0.06
+      ],
+      [
+        "S30+110",
+        "title_boom",
+        0.5,
+        "peak"
+      ]
+    ],
+    "music": {
+      "clip": "music",
+      "until": "S20",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -4.5,
+      "music_lu": -13
+    }
+  }
+}

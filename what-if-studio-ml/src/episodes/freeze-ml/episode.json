@@ -1,0 +1,149 @@
+{
+  "id": "FreezeMl",
+  "slug": "freeze-ml",
+  "topic": "What if you could freeze time? (Malayalam)",
+  "title": [
+    "സമയം നിശ്ചലമാക്കാൻ",
+    "കഴിഞ്ഞാലോ?"
+  ],
+  "accent": "കഴിഞ്ഞാലോ?",
+  "language": "ml",
+  "voice": {
+    "engine": "edge-tts",
+    "id": "ml-IN-SobhanaNeural",
+    "language": "Malayalam (India)",
+    "rate": "+0%"
+  },
+  "power": {
+    "word": "നിശ്ചലം",
+    "rule": "freeze all physical motion and the flow of time",
+    "look": "cyan crystal glow, suspended particles, chromatic freeze shimmer"
+  },
+  "script": [
+    {
+      "beat": "1 cold open, demo 1 (domestic)",
+      "text": "മേശപ്പുറത്തുനിന്ന് ചായക്കപ്പ് വീഴുന്നു. നിശ്ചലം. വായുവിൽ തങ്ങിനിൽക്കുന്ന തുള്ളികൾ."
+    },
+    {
+      "beat": "1 cold open, demo 2 (useful)",
+      "text": "ക്ലാസിൽ കഠിനമായ പരീക്ഷ. നിശ്ചലം. ഒന്നാം റാങ്കുകാരന്റെ ഉത്തരക്കടലാസ് നിന്റെ മുന്നിൽ."
+    },
+    {
+      "beat": "1 cold open, demo 3 (uncanny)",
+      "text": "പുറത്തിറങ്ങുമ്പോൾ ഒരു പക്ഷി ചിറകടിക്കാതെ ആകാശത്ത് ഉറച്ചുനിൽക്കുന്നു."
+    },
+    {
+      "beat": "2 the premise (title card)",
+      "text": "സമയം നിശ്ചലമാക്കാൻ കഴിഞ്ഞാലോ?"
+    },
+    {
+      "beat": "4 the turn: the cost, one real fact",
+      "text": "പക്ഷേ ഒരു പ്രശ്നമുണ്ട്: സമയം പൂർണ്ണമായി നിന്നാൽ, പ്രകാശത്തിന്റെ കണികകളും നിൽക്കും. കണ്ണിലേക്ക് വെളിച്ചം എത്തില്ല, നീ പൂർണ്ണമായും അന്ധനാകും. വായുവിലെ തന്മാത്രകളും അനങ്ങില്ല, കട്ടിയുള്ള കോൺക്രീറ്റ് പോലെ നീ കുടുങ്ങും. ഇത് സത്യമാണ്."
+    },
+    {
+      "beat": "5-7 folded into a threat",
+      "text": "പൂർണ്ണമായ ഇരുട്ടിൽ, ശ്വാസമെടുക്കാൻ പോലും കഴിയാതെ... അടുത്ത നിമിഷം നീ എങ്ങനെ ജീവനോടെ തിരിച്ചെത്തും?"
+    }
+  ],
+  "science": [
+    {
+      "claim": "സമയം പൂർണ്ണമായി നിന്നാൽ, പ്രകാശത്തിന്റെ കണികകളും നിൽക്കും. കണ്ണിലേക്ക് വെളിച്ചം എത്തില്ല, നീ പൂർണ്ണമായും അന്ധനാകും.",
+      "working": "Photons propagate at c = 3e8 m/s. If time halts (dt = 0), photon velocity dx/dt = 0. Static photons cannot traverse the cornea or trigger rhodopsin chemical isomerization in retinal photoreceptors, resulting in complete optical darkness.",
+      "source": "Principles of Neural Science (Kandel); Feynman Lectures on Physics"
+    },
+    {
+      "claim": "വായുവിലെ തന്മാത്രകളും അനങ്ങില്ല, കട്ടിയുള്ള കോൺക്രീറ്റ് പോലെ നീ കുടുങ്ങും.",
+      "working": "Ambient air has ~2.7e19 molecules/cm^3 with thermal velocities ~500 m/s. When time halts, molecular displacement is zero, forming a rigid, non-compliant physical barrier with infinite effective drag, preventing thoracic expansion and movement.",
+      "source": "Kinetic Theory of Gases (Maxwell-Boltzmann distribution); Continuum Mechanics"
+    }
+  ],
+  "gaps": {
+    "word": 0.12,
+    "comma": 0.25,
+    "sentence": 0.4,
+    "question": 0.5
+  },
+  "cast": [
+    "ramu"
+  ],
+  "shots": [
+    { "id": "S1", "size": "wide", "set": "study", "key": 8, "note": "Pip at desk, tea cup knocked off and tilting" },
+    { "id": "S2", "size": "insert", "set": "study (tabletop)", "key": 10, "note": "Cup and tea droplets frozen mid-air with cyan crystal glow" },
+    { "id": "S3", "size": "medium", "set": "study", "key": 12, "note": "Pip holding cup calmly, tea drops suspended like beads" },
+    { "id": "S4", "size": "wide", "set": "classroom", "key": 10, "note": "Classroom during hard exam, teacher pacing" },
+    { "id": "S5", "size": "over-the-shoulder", "set": "classroom", "key": 14, "note": "Pip leaning over frozen student desk, copying answer" },
+    { "id": "S6", "size": "wide low-angle", "set": "rooftop", "key": 10, "note": "Pip walking out onto dusk roof under glowing sky" },
+    { "id": "S7", "size": "insert close-up", "set": "rooftop sky", "key": 12, "note": "Bird frozen mid-flap in air, motion stopped" },
+    { "id": "S8", "size": "wide", "set": "study (title)", "key": 15, "note": "Title card with frozen clock and dramatic twilight lighting" },
+    { "id": "S9", "size": "schematic", "set": "dark grid", "key": 14, "note": "Schematic diagram: light rays (photons) stopped at 0 m/s before eye" },
+    { "id": "S10", "size": "insert close-up", "set": "eye/photons", "key": 10, "note": "Photons freezing outside the pupil, cyan wave stopping" },
+    { "id": "S11", "size": "medium close-up", "set": "dark void", "key": 12, "note": "Pip in sudden pitch darkness, eyes wide in horror" },
+    { "id": "S12", "size": "medium", "set": "rigid air matrix", "key": 12, "note": "Air molecules locked into solid lattice, encasing Pip" },
+    { "id": "S13", "size": "close-up", "set": "dark void", "key": 12, "note": "Pip clutching chest, unable to inhale or move" },
+    { "id": "S14", "size": "wide", "set": "study (cliffhanger)", "key": 16, "note": "Dark room silhouette, silent suspended world, final threat" }
+  ],
+  "edit": [
+    { "shot": "S1", "at": "മേശപ്പുറത്തുനിന്ന്" },
+    { "shot": "S2", "at": "നിശ്ചലം" },
+    { "shot": "S3", "at": "വായുവിൽ" },
+    { "shot": "S4", "at": "ക്ലാസിൽ" },
+    { "shot": "S5", "at": "നിശ്ചലം" },
+    { "shot": "S6", "at": "പുറത്തിറങ്ങുമ്പോൾ" },
+    { "shot": "S7", "at": "ഒരു" },
+    { "shot": "S8", "at": "സമയം" },
+    { "shot": "S9", "at": "പക്ഷേ" },
+    { "shot": "S10", "at": "പ്രകാശത്തിന്റെ" },
+    { "shot": "S11", "at": "കണ്ണിലേക്ക്" },
+    { "shot": "S12", "at": "വായുവിലെ" },
+    { "shot": "S13", "at": "പൂർണ്ണമായ" },
+    { "shot": "S14", "at": "അടുത്ത" }
+  ],
+  "fx": [
+    { "at": "S2+2", "kind": "flash", "color": "#38bdf8" },
+    { "at": "S5+2", "kind": "flash", "color": "#38bdf8" },
+    { "at": "S7+2", "kind": "flash", "color": "#38bdf8" },
+    { "at": "S9+1", "kind": "shake", "len": 12, "amp": 6 },
+    { "at": "S10+1", "kind": "flash", "color": "#38bdf8" },
+    { "at": "S11+1", "kind": "flash", "color": "#ef4444" },
+    { "at": "S12+1", "kind": "shake", "len": 10, "amp": 5 }
+  ],
+  "sound": {
+    "music_lu": -11.0,
+    "sfx_lu": -2.0,
+    "clips": {
+      "room_tone": ["quiet indoor room tone in the evening, faint distant city hum, no voices", 12.5],
+      "clink": ["a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape", 0.7],
+      "sparkle": ["a short bright magical sparkle twinkle, cartoon", 0.8],
+      "pop": ["a cartoon speech bubble pop, short and bright", 0.5],
+      "class_murmur": ["a quiet classroom murmur, kids whispering, chairs shuffling", 2.0],
+      "paper_land": ["a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle", 0.7],
+      "roof_wind": ["a gentle evening breeze on a city rooftop, distant traffic", 7.0],
+      "ding": ["a correct answer ding, bright bell chime", 0.8],
+      "title_boom": ["a cinematic whoosh rising into a deep boom impact", 1.6],
+      "counter_tick": ["a fast mechanical counter ticking up rapidly, digits rolling over, getting faster", 1.6],
+      "glitch": ["a short digital glitch, an electric buzz and crackle flickering like an unstable hologram", 1.5],
+      "drone_hit": ["a dark ominous low drone hit, deep cinematic horror sting", 2.6],
+      "crack": ["glass cracking sharply, the crack spreading across a pane", 1.1],
+      "gasp": ["two young people gasping in surprise at the same moment, cartoon, short", 0.8],
+      "power_down": ["a whole city losing power, a deep electrical power-down whine dropping in pitch into silence", 2.5],
+      "music": ["playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals", 17.0]
+    },
+    "events": [
+      ["S1", "room_tone", 0.08, "onset", "S4"],
+      ["S1+4", "clink", 0.4],
+      ["S2+2", "sparkle", 0.45],
+      ["S3+2", "pop", 0.35],
+      ["S4", "class_murmur", 0.08, "onset", "S6"],
+      ["S5+2", "paper_land", 0.35],
+      ["S6", "roof_wind", 0.08, "onset", "S8"],
+      ["S7+2", "ding", 0.4],
+      ["S8+1", "title_boom", 0.5, "peak"],
+      ["S9+1", "counter_tick", 0.35],
+      ["S10+1", "glitch", 0.3],
+      ["S11+1", "drone_hit", 0.45, "peak"],
+      ["S12+1", "crack", 0.4],
+      ["S13+1", "gasp", 0.35],
+      ["S14+1", "power_down", 0.38]
+    ]
+  }
+}

@@ -1,0 +1,503 @@
+{
+ "id": "FlyShortMl",
+ "slug": "fly-short-ml",
+ "topic": "What if you could fly? (Shorts teaser for fly-ml, 9:16)",
+ "title": [
+  "നിനക്ക് പറക്കാൻ",
+  "പറ്റിയാലോ?"
+ ],
+ "accent": "പറക്കാൻ",
+ "language": "ml",
+ "voice": {
+  "engine": "edge-tts",
+  "id": "ml-IN-SobhanaNeural",
+  "language": "Malayalam (India)",
+  "rate": "+0%"
+ },
+ "format": {
+  "width": 1080,
+  "height": 1920
+ },
+ "teaser_for": "fly-ml",
+ "power": {
+  "word": "ഉയരൂ",
+  "rule": "say it and you rise; look where you want to go",
+  "look": "a cool gust ring under the feet"
+ },
+ "script": [
+  {
+   "beat": "1 hook: 10 km up, the plane",
+   "text": "പത്ത് കിലോമീറ്റർ ഉയരം. ശ്വാസം കിട്ടുന്നില്ല. ഇരുട്ടിൽ നിന്ന് ഒരു വിമാനം, നേരെ നിന്റെ നേർക്ക്."
+  },
+  {
+   "beat": "2 three days ago: lift-off",
+   "text": "മൂന്ന് ദിവസം മുമ്പ്. നീ കണ്ണടയ്ക്കുന്നു. ഉയരൂ. നിന്റെ കാലുകൾ നിലത്ത് നിന്ന് പൊങ്ങുന്നു."
+  },
+  {
+   "beat": "3 joys: bus and coconut",
+   "text": "ബസിനും മുമ്പേ സ്കൂളിൽ. മുപ്പതടി തെങ്ങിൽ നിന്ന്, ഒരു നിമിഷത്തിൽ കരിക്ക്."
+  },
+  {
+   "beat": "4 title card",
+   "text": "നിനക്ക് പറക്കാൻ പറ്റിയാലോ?"
+  },
+  {
+   "beat": "5 the problem: 1/3 oxygen at 8000 m",
+   "text": "പക്ഷേ ഒരു പ്രശ്നമുണ്ട്: എണ്ണായിരം മീറ്ററിൽ, ഓരോ ശ്വാസത്തിലും കിട്ടുന്ന ഓക്സിജൻ മൂന്നിലൊന്ന് മാത്രം. ഇത് സത്യമാണ്."
+  },
+  {
+   "beat": "6 euphoria: keeps climbing",
+   "text": "ആദ്യം പോകുന്നത് ബുദ്ധിയാണ്. നിനക്ക് ഇനിയും മുകളിലേക്ക് പോകാൻ തോന്നുന്നു."
+  },
+  {
+   "beat": "7 radar and the black car",
+   "text": "പിന്നെ, റഡാറിൽ ഒരു ചെറിയ പൊട്ട്. നീ. വീടിന് മുന്നിൽ ഒരു കറുത്ത കാർ. ഒരാൾ പറയുന്നു: ഞങ്ങളുടെ കൂടെ വരൂ."
+  },
+  {
+   "beat": "8 CTA: did you escape? full video",
+   "text": "നീ രക്ഷപ്പെട്ടോ? മുഴുവൻ കഥ ചാനലിലെ ഫുൾ വീഡിയോയിൽ. താഴെയുള്ള ലിങ്കിൽ തൊടൂ."
+  }
+ ],
+ "science": [
+  {
+   "claim": "At 8000 m air pressure is about 1/3 of sea level, so each breath carries about 1/3 the oxygen; climbers call above 8000 m the \"death zone\".",
+   "working": "checked against the source; numbers rounded as in the script",
+   "source": "standard reference"
+  },
+  {
+   "claim": "Hypoxia impairs judgement first and often brings euphoria. Time of useful consciousness at 35,000 ft (~10.7 km) is 30-60 seconds",
+   "working": "checked against the source; numbers rounded as in the script",
+   "source": "FAA AC 61-107B."
+  }
+ ],
+ "gaps": {
+  "word": 0.15,
+  "comma": 0.45,
+  "sentence": 0.85,
+  "question": 1.0
+ },
+ "cast": [
+  "ramu",
+  "suit"
+ ],
+ "tail": 2.2,
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "set": "night sky",
+   "key": 30,
+   "note": "tiny Pip high in a black starry sky, frost, cloud sea far below; tag 10 km"
+  },
+  {
+   "id": "A2",
+   "size": "close-up",
+   "set": "night sky",
+   "key": 20,
+   "note": "Pip shivers, frost breath, shock"
+  },
+  {
+   "id": "A3",
+   "size": "wide",
+   "set": "night sky",
+   "key": 80,
+   "note": "jet landing lights grow straight at camera over Pip"
+  },
+  {
+   "id": "B1",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 20,
+   "note": "3 days earlier: Pip in his bedroom; tag"
+  },
+  {
+   "id": "B1b",
+   "size": "close-up",
+   "set": "bedroom",
+   "key": 20,
+   "note": "Pip shuts his eyes"
+  },
+  {
+   "id": "B2",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 20,
+   "note": "UYAROO: feet lift off the floor, gust ring"
+  },
+  {
+   "id": "B2b",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "low angle: Pip hangs under the ceiling, delighted"
+  },
+  {
+   "id": "B3",
+   "size": "wide",
+   "set": "street",
+   "key": 20,
+   "note": "Pip flies over the school bus"
+  },
+  {
+   "id": "B4",
+   "size": "wide",
+   "set": "yard",
+   "key": 40,
+   "note": "full-height palm: Pip shoots up and grabs a tender coconut"
+  },
+  {
+   "id": "T",
+   "size": "title",
+   "set": "title",
+   "key": 20,
+   "note": "title card, dusk sky"
+  },
+  {
+   "id": "C1",
+   "size": "insert",
+   "set": "schematic",
+   "key": 60,
+   "note": "altitude gauge fills to 8000 m"
+  },
+  {
+   "id": "C2",
+   "size": "insert",
+   "set": "schematic",
+   "key": 80,
+   "note": "lungs: full at sea level, 1/3 at 8000 m"
+  },
+  {
+   "id": "C2b",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": "death zone band on a mountain; that's-real stamp"
+  },
+  {
+   "id": "C3",
+   "size": "medium",
+   "set": "high sky",
+   "key": 20,
+   "note": "hypoxia: Pip grinning and rising, tunnel vision"
+  },
+  {
+   "id": "C4",
+   "size": "close-up",
+   "set": "high sky",
+   "key": 50,
+   "note": "his fingers turning blue, still climbing"
+  },
+  {
+   "id": "D1",
+   "size": "insert",
+   "set": "radar",
+   "key": 20,
+   "note": "radar sweep, one green blip"
+  },
+  {
+   "id": "D1b",
+   "size": "close-up",
+   "set": "radar",
+   "key": 20,
+   "note": "push in on the blip: you"
+  },
+  {
+   "id": "D2",
+   "size": "wide",
+   "set": "house front",
+   "key": 50,
+   "note": "night: black car pulls up outside the house"
+  },
+  {
+   "id": "D3",
+   "size": "medium",
+   "set": "house front",
+   "key": 45,
+   "note": "the suit at the door: come with us"
+  },
+  {
+   "id": "END",
+   "size": "title",
+   "set": "end card",
+   "key": 90,
+   "note": "CTA: did you escape? FULL VIDEO, arrow down to the link"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "f:0"
+  },
+  {
+   "shot": "A2",
+   "at": "ശ്വാസം"
+  },
+  {
+   "shot": "A3",
+   "at": "ഇരുട്ടിൽ"
+  },
+  {
+   "shot": "B1",
+   "at": "മൂന്ന്"
+  },
+  {
+   "shot": "B1b",
+   "at": "നീ"
+  },
+  {
+   "shot": "B2",
+   "at": "ഉയരൂ"
+  },
+  {
+   "shot": "B2b",
+   "at": "നിന്റെ"
+  },
+  {
+   "shot": "B3",
+   "at": "ബസിനും"
+  },
+  {
+   "shot": "B4",
+   "at": "മുപ്പതടി"
+  },
+  {
+   "shot": "T",
+   "at": "s:19.3"
+  },
+  {
+   "shot": "C1",
+   "at": "പക്ഷേ"
+  },
+  {
+   "shot": "C2",
+   "at": "ഓരോ"
+  },
+  {
+   "shot": "C2b",
+   "at": "ഇത്"
+  },
+  {
+   "shot": "C3",
+   "at": "ആദ്യം"
+  },
+  {
+   "shot": "C4",
+   "at": "നിനക്ക്"
+  },
+  {
+   "shot": "D1",
+   "at": "പിന്നെ"
+  },
+  {
+   "shot": "D1b",
+   "at": "നീ"
+  },
+  {
+   "shot": "D2",
+   "at": "വീടിന്"
+  },
+  {
+   "shot": "D3",
+   "at": "ഒരാൾ"
+  },
+  {
+   "shot": "END",
+   "at": "s:45.1"
+  }
+ ],
+ "fx": [
+  {
+   "at": "T",
+   "kind": "flash"
+  },
+  {
+   "at": "A3+70",
+   "kind": "shake",
+   "len": 10,
+   "amp": 10
+  },
+  {
+   "at": "D2+2",
+   "kind": "flash",
+   "o": 0.3
+  }
+ ],
+ "sound": {
+  "levels": {
+   "sfx_lu": -4.5,
+   "music_lu": -13
+  },
+  "music": {
+   "clip": "music",
+   "loop": true
+  },
+  "clips": {
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "A1",
+    "roof_wind",
+    0.08,
+    "onset",
+    "B1"
+   ],
+   [
+    "A3+84",
+    "drone_hit",
+    0.113,
+    "peak"
+   ],
+   [
+    "B1",
+    "room_tone",
+    0.07,
+    "onset",
+    "B3"
+   ],
+   [
+    "B2+18",
+    "sparkle",
+    0.25
+   ],
+   [
+    "B3",
+    "roof_wind",
+    0.07,
+    "onset",
+    "T"
+   ],
+   [
+    "B3+2",
+    "fall_whoosh",
+    0.3
+   ],
+   [
+    "B4+4",
+    "fall_whoosh",
+    0.3
+   ],
+   [
+    "B4+74",
+    "ding",
+    0.3
+   ],
+   [
+    "T",
+    "title_boom",
+    0.4,
+    "peak"
+   ],
+   [
+    "C1",
+    "room_tone",
+    0.07,
+    "onset",
+    "C3"
+   ],
+   [
+    "C1+4",
+    "counter_tick",
+    0.3
+   ],
+   [
+    "C2+62",
+    "ding",
+    0.3
+   ],
+   [
+    "C2b+6",
+    "sparkle",
+    0.25
+   ],
+   [
+    "C3",
+    "roof_wind",
+    0.08,
+    "onset",
+    "D1"
+   ],
+   [
+    "D1",
+    "room_tone",
+    0.07,
+    "onset",
+    "D2"
+   ],
+   [
+    "D1+22",
+    "ding",
+    0.2
+   ],
+   [
+    "D2",
+    "roof_wind",
+    0.07,
+    "onset",
+    "END"
+   ],
+   [
+    "D3+2",
+    "pop",
+    0.35
+   ],
+   [
+    "D3+70",
+    "drone_hit",
+    0.09,
+    "peak",
+    "END"
+   ],
+   [
+    "END",
+    "title_boom",
+    0.5,
+    "peak"
+   ],
+   [
+    "END+58",
+    "pop",
+    0.35
+   ]
+  ]
+ }
+}

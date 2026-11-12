@@ -1,0 +1,293 @@
+{
+ "slug": "freeze-ml",
+ "title": "സമയം നിശ്ചലമാക്കാൻ കഴിഞ്ഞാലോ?",
+ "fps": 30,
+ "total": 1157,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 73,
+   "t0": 0,
+   "t1": 73,
+   "line": "മേശപ്പുറത്തുനിന്ന് ചായക്കപ്പ് വീഴുന്നു."
+  },
+  {
+   "shot": "S2",
+   "a": 73,
+   "b": 101,
+   "t0": 0,
+   "t1": 28,
+   "line": "നിശ്ചലം."
+  },
+  {
+   "shot": "S3",
+   "a": 101,
+   "b": 162,
+   "t0": 0,
+   "t1": 61,
+   "line": "വായുവിൽ തങ്ങിനിൽക്കുന്ന തുള്ളികൾ."
+  },
+  {
+   "shot": "S4",
+   "a": 162,
+   "b": 213,
+   "t0": 0,
+   "t1": 51,
+   "line": "ക്ലാസിൽ കഠിനമായ പരീക്ഷ."
+  },
+  {
+   "shot": "S5",
+   "a": 213,
+   "b": 327,
+   "t0": 0,
+   "t1": 114,
+   "line": "നിശ്ചലം. ഒന്നാം റാങ്കുകാരന്റെ ഉത്തരക്കടലാസ് നിന്റെ മുന്നിൽ."
+  },
+  {
+   "shot": "S6",
+   "a": 327,
+   "b": 355,
+   "t0": 0,
+   "t1": 28,
+   "line": "പുറത്തിറങ്ങുമ്പോൾ"
+  },
+  {
+   "shot": "S7",
+   "a": 355,
+   "b": 448,
+   "t0": 0,
+   "t1": 93,
+   "line": "ഒരു പക്ഷി ചിറകടിക്കാതെ ആകാശത്ത് ഉറച്ചുനിൽക്കുന്നു."
+  },
+  {
+   "shot": "S8",
+   "a": 448,
+   "b": 516,
+   "t0": 0,
+   "t1": 68,
+   "line": "സമയം നിശ്ചലമാക്കാൻ കഴിഞ്ഞാലോ?"
+  },
+  {
+   "shot": "S9",
+   "a": 516,
+   "b": 612,
+   "t0": 0,
+   "t1": 96,
+   "line": "പക്ഷേ ഒരു പ്രശ്നമുണ്ട്: സമയം പൂർണ്ണമായി നിന്നാൽ,"
+  },
+  {
+   "shot": "S10",
+   "a": 612,
+   "b": 671,
+   "t0": 0,
+   "t1": 59,
+   "line": "പ്രകാശത്തിന്റെ കണികകളും നിൽക്കും."
+  },
+  {
+   "shot": "S11",
+   "a": 671,
+   "b": 779,
+   "t0": 0,
+   "t1": 108,
+   "line": "കണ്ണിലേക്ക് വെളിച്ചം എത്തില്ല, നീ പൂർണ്ണമായും അന്ധനാകും."
+  },
+  {
+   "shot": "S12",
+   "a": 779,
+   "b": 947,
+   "t0": 0,
+   "t1": 168,
+   "line": "വായുവിലെ തന്മാത്രകളും അനങ്ങില്ല, കട്ടിയുള്ള കോൺക്രീറ്റ് പോലെ നീ കുടുങ്ങും. ഇത് സത്യമാണ്."
+  },
+  {
+   "shot": "S13",
+   "a": 947,
+   "b": 1051,
+   "t0": 0,
+   "t1": 104,
+   "line": "പൂർണ്ണമായ ഇരുട്ടിൽ, ശ്വാസമെടുക്കാൻ പോലും കഴിയാതെ..."
+  },
+  {
+   "shot": "S14",
+   "a": 1051,
+   "b": 1157,
+   "t0": 0,
+   "t1": 106,
+   "line": "അടുത്ത നിമിഷം നീ എങ്ങനെ ജീവനോടെ തിരിച്ചെത്തും?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 8,
+   "len": 73,
+   "first": 0,
+   "line": "മേശപ്പുറത്തുനിന്ന് ചായക്കപ്പ് വീഴുന്നു.",
+   "note": "Pip at desk, tea cup knocked off and tilting"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 10,
+   "len": 28,
+   "first": 73,
+   "line": "നിശ്ചലം.",
+   "note": "Cup and tea droplets frozen mid-air with cyan crystal glow"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 12,
+   "len": 61,
+   "first": 101,
+   "line": "വായുവിൽ തങ്ങിനിൽക്കുന്ന തുള്ളികൾ.",
+   "note": "Pip holding cup calmly, tea drops suspended like beads"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 10,
+   "len": 51,
+   "first": 162,
+   "line": "ക്ലാസിൽ കഠിനമായ പരീക്ഷ.",
+   "note": "Classroom during hard exam, teacher pacing"
+  },
+  {
+   "id": "S5",
+   "size": "over-the-shoulder",
+   "key": 14,
+   "len": 114,
+   "first": 213,
+   "line": "നിശ്ചലം. ഒന്നാം റാങ്കുകാരന്റെ ഉത്തരക്കടലാസ് നിന്റെ മുന്നിൽ.",
+   "note": "Pip leaning over frozen student desk, copying answer"
+  },
+  {
+   "id": "S6",
+   "size": "wide low-angle",
+   "key": 10,
+   "len": 28,
+   "first": 327,
+   "line": "പുറത്തിറങ്ങുമ്പോൾ",
+   "note": "Pip walking out onto dusk roof under glowing sky"
+  },
+  {
+   "id": "S7",
+   "size": "insert close-up",
+   "key": 12,
+   "len": 93,
+   "first": 355,
+   "line": "ഒരു പക്ഷി ചിറകടിക്കാതെ ആകാശത്ത് ഉറച്ചുനിൽക്കുന്നു.",
+   "note": "Bird frozen mid-flap in air, motion stopped"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 15,
+   "len": 68,
+   "first": 448,
+   "line": "സമയം നിശ്ചലമാക്കാൻ കഴിഞ്ഞാലോ?",
+   "note": "Title card with frozen clock and dramatic twilight lighting"
+  },
+  {
+   "id": "S9",
+   "size": "schematic",
+   "key": 14,
+   "len": 96,
+   "first": 516,
+   "line": "പക്ഷേ ഒരു പ്രശ്നമുണ്ട്: സമയം പൂർണ്ണമായി നിന്നാൽ,",
+   "note": "Schematic diagram: light rays (photons) stopped at 0 m/s before eye"
+  },
+  {
+   "id": "S10",
+   "size": "insert close-up",
+   "key": 10,
+   "len": 59,
+   "first": 612,
+   "line": "പ്രകാശത്തിന്റെ കണികകളും നിൽക്കും.",
+   "note": "Photons freezing outside the pupil, cyan wave stopping"
+  },
+  {
+   "id": "S11",
+   "size": "medium close-up",
+   "key": 12,
+   "len": 108,
+   "first": 671,
+   "line": "കണ്ണിലേക്ക് വെളിച്ചം എത്തില്ല, നീ പൂർണ്ണമായും അന്ധനാകും.",
+   "note": "Pip in sudden pitch darkness, eyes wide in horror"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 12,
+   "len": 168,
+   "first": 779,
+   "line": "വായുവിലെ തന്മാത്രകളും അനങ്ങില്ല, കട്ടിയുള്ള കോൺക്രീറ്റ് പോലെ നീ കുടുങ്ങും. ഇത് സത്യമാണ്.",
+   "note": "Air molecules locked into solid lattice, encasing Pip"
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "key": 12,
+   "len": 104,
+   "first": 947,
+   "line": "പൂർണ്ണമായ ഇരുട്ടിൽ, ശ്വാസമെടുക്കാൻ പോലും കഴിയാതെ...",
+   "note": "Pip clutching chest, unable to inhale or move"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 16,
+   "len": 106,
+   "first": 1051,
+   "line": "അടുത്ത നിമിഷം നീ എങ്ങനെ ജീവനോടെ തിരിച്ചെത്തും?",
+   "note": "Dark room silhouette, silent suspended world, final threat"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#38bdf8",
+   "f": 75
+  },
+  {
+   "kind": "flash",
+   "color": "#38bdf8",
+   "f": 215
+  },
+  {
+   "kind": "flash",
+   "color": "#38bdf8",
+   "f": 357
+  },
+  {
+   "kind": "shake",
+   "len": 12,
+   "amp": 6,
+   "f": 517
+  },
+  {
+   "kind": "flash",
+   "color": "#38bdf8",
+   "f": 613
+  },
+  {
+   "kind": "flash",
+   "color": "#ef4444",
+   "f": 672
+  },
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 5,
+   "f": 780
+  }
+ ],
+ "audio": {
+  "voice": "freeze-ml/voice.wav",
+  "sfx": "freeze-ml/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.593
+ }
+}

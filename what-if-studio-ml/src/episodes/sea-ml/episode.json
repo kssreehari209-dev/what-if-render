@@ -1,0 +1,2360 @@
+{
+  "id": "SeaMl",
+  "slug": "sea-ml",
+  "topic": "What if the sea rose one metre overnight? (long video, 16:9; day 3 of daily-plan.md, idea L3)",
+  "title": [
+    "കടൽ ഒരു മീറ്റർ",
+    "പൊങ്ങിയാൽ?"
+  ],
+  "accent": "കടൽ",
+  "language": "ml",
+  "voice": {
+    "engine": "edge-tts",
+    "id": "ml-IN-SobhanaNeural",
+    "language": "Malayalam (India)",
+    "rate": "+0%"
+  },
+  "gaps": {
+    "word": 0.15,
+    "comma": 0.45,
+    "sentence": 0.85,
+    "question": 1.0,
+    "pairs": {
+      "മുകളിലൂടെ|അമ്മ": 2.8,
+      "എടുക്കണം|ചാക്ക്": 2.4,
+      "അവിടെയുണ്ട്|അടിഭാഗം": 1.3,
+      "നനഞ്ഞിരിക്കുന്നു|നാൽപ്പത്": 1.6,
+      "കുട്ടനാട്|കൊയ്ത്തിന്": 0.9,
+      "ദിവസം|തോട്ടിലെ": 1.8,
+      "തൊട്ടു|തിരയില്ല": 1.2,
+      "ശബ്ദമില്ല|നേരം": 1.4,
+      "പൊങ്ങിയാലോ|ആദ്യത്തെ": 2.2,
+      "ഉത്സവമായിരുന്നു|ചെല്ലാനത്ത്": 7.1,
+      "വിളിച്ചു|അത്രയല്ലേ": 7.3,
+      "ചിരിച്ചു|കേരളത്തിലെ": 3.5,
+      "ചേർന്നാണ്|മൂന്നാം": 4.5,
+      "കുടിച്ചു|ഉപ്പ്": 4.5,
+      "ഉപ്പ്|കുട്ടനാട്ടിലെ": 3.3,
+      "താഴെയാണ്|ഉപ്പുവെള്ളം": 4.5,
+      "വെള്ളം|അഞ്ചാം": 3.7,
+      "നിർത്തി|ഏഴാം": 4.9,
+      "ചെല്ലാനം|കടലിനെ": 4.3,
+      "മതിൽ|മതിൽ": 5.3,
+      "നിന്നാണ്|കൊച്ചിയിൽ": 5.5,
+      "വെള്ളത്തിനടിയിലാകും|നീ": 5.3,
+      "ബീച്ചിലാണ്|പത്താം": 2.4,
+      "നെഞ്ചോളം|വെളുപ്പിന്": 3.5,
+      "ശബ്ദം|രണ്ടായിരത്തി": 4.3,
+      "വന്നു|ഇത്തവണ": 4.9,
+      "വീടില്ല|വിത്ത്": 4.5,
+      "സ്ഥലമില്ല|ക്യാമ്പ്": 3.5,
+      "സ്കൂളിൽ|റേഡിയോയിൽ": 5.1,
+      "വാർത്ത|ഇരുപതാം": 4.3,
+      "വണ്ടി|അയാൾക്ക്": 3.5,
+      "പത്തിലൊന്നിന്|പലരും": 3.7,
+      "ഒപ്പിട്ടു|അപ്പുവിന്റെ": 5.3,
+      "പേടിയല്ല|അമ്മ": 5.7,
+      "കുത്തിയെടുത്തതാണ്|വെള്ളം": 3.5,
+      "അമ്മേ|അമ്മ": 3.7,
+      "വാ|അങ്ങനെയാണ്": 3.5,
+      "എത്തിയത്|മുകളിലെ": 3.9,
+      "ഉണങ്ങിയിരുന്നു|അപ്പുവിന്റെ": 5.3,
+      "മുളയ്ക്കില്ല|പിന്നെ": 3.5,
+      "നെല്ല്|അമ്മ": 4.3,
+      "ചിരിച്ചു|ഈ": 4.1,
+      "എന്നത്|കടൽ": 3.7,
+      "മീറ്ററോളം|പതുക്കെ": 4.3,
+      "പോലെ|നിന്റെ": 3.9
+    }
+  },
+  "cast": [
+    "ramu",
+    "appu",
+    "sis",
+    "mom",
+    "suit"
+  ],
+  "tail": 4.0,
+  "script": [
+    {
+      "beat": "A cold open",
+      "text": "നാൽപ്പതാം ദിവസം. നീ തുഴയുന്നത് സ്വന്തം വയലിന് മുകളിലൂടെ.",
+      "hold": 2.2
+    },
+    {
+      "beat": "A want",
+      "text": "അമ്മ ഒന്നേ പറഞ്ഞുള്ളൂ. തട്ടിൻപുറത്തെ വിത്ത് ചാക്ക് എടുക്കണം.",
+      "hold": 1.8
+    },
+    {
+      "beat": "A",
+      "text": "ചാക്ക് അവിടെയുണ്ട്.",
+      "hold": 0.7
+    },
+    {
+      "beat": "A cliffhanger",
+      "text": "അടിഭാഗം നനഞ്ഞിരിക്കുന്നു.",
+      "hold": 1.0
+    },
+    {
+      "beat": "B premise",
+      "text": "നാൽപ്പത് ദിവസം മുമ്പ്. കുട്ടനാട്.",
+      "hold": 0.3
+    },
+    {
+      "beat": "B",
+      "text": "കൊയ്ത്തിന് ഇനി പതിനാല് ദിവസം.",
+      "hold": 1.2
+    },
+    {
+      "beat": "B",
+      "text": "തോട്ടിലെ വെള്ളം നിന്റെ കാലിൽ വന്നു തൊട്ടു.",
+      "hold": 0.6
+    },
+    {
+      "beat": "B",
+      "text": "തിരയില്ല. ശബ്ദമില്ല.",
+      "hold": 0.8
+    },
+    {
+      "beat": "B",
+      "text": "നേരം വെളുത്തപ്പോൾ ലോകത്തെ എല്ലാ കടലും ഒരു മീറ്റർ മുകളിൽ."
+    },
+    {
+      "beat": "B title",
+      "text": "കടൽ ഒരു മീറ്റർ പൊങ്ങിയാലോ?",
+      "hold": 1.6
+    },
+    {
+      "beat": "C fun: tuition, tea from the window",
+      "text": "ആദ്യത്തെ ദിവസം നാടിന് ഉത്സവമായിരുന്നു.",
+      "hold": 6.5
+    },
+    {
+      "beat": "C gags: the boat in the bus shelter, the charuvam",
+      "text": "ചെല്ലാനത്ത് നിന്ന് അപ്പു വിളിച്ചു.",
+      "hold": 6.7
+    },
+    {
+      "beat": "C",
+      "text": "അത്രയല്ലേ ഉള്ളൂ എന്ന് നാട്ടുകാർ ചിരിച്ചു.",
+      "hold": 2.9
+    },
+    {
+      "beat": "C fact coast",
+      "text": "കേരളത്തിലെ പതിനാലിൽ ഒമ്പത് ജില്ലകളും കടലിനോട് ചേർന്നാണ്.",
+      "hold": 3.9
+    },
+    {
+      "beat": "D the turn: the well",
+      "text": "മൂന്നാം ദിവസം അമ്മ കിണറ്റിലെ വെള്ളം ഒരു കവിൾ കുടിച്ചു.",
+      "hold": 3.9
+    },
+    {
+      "beat": "D",
+      "text": "ഉപ്പ്.",
+      "hold": 2.7
+    },
+    {
+      "beat": "D fact Kuttanad",
+      "text": "കുട്ടനാട്ടിലെ വയലുകൾ കടലിനേക്കാൾ താഴെയാണ്.",
+      "hold": 3.9
+    },
+    {
+      "beat": "D fact bund",
+      "text": "ഉപ്പുവെള്ളം തടയാനാണ് തണ്ണീർമുക്കം ബണ്ട്. ഇപ്പോൾ അതിന് അപ്പുറവും ഇപ്പുറവും ഒരേ വെള്ളം.",
+      "hold": 3.1
+    },
+    {
+      "beat": "D loss",
+      "text": "അഞ്ചാം ദിവസം അമ്മ കലണ്ടറിൽ വെട്ടുന്നത് നിർത്തി.",
+      "hold": 4.3
+    },
+    {
+      "beat": "E Chellanam",
+      "text": "ഏഴാം ദിവസം. ചെല്ലാനം.",
+      "hold": 3.7
+    },
+    {
+      "beat": "E fact seawall",
+      "text": "കടലിനെ തടയാൻ കെട്ടിയ മതിൽ.",
+      "hold": 4.7
+    },
+    {
+      "beat": "E reveal; fish in the kitchen",
+      "text": "മതിൽ ഇപ്പോഴും നിൽപ്പുണ്ട്. വെള്ളം വന്നത് പിന്നിൽ നിന്നാണ്.",
+      "hold": 4.9
+    },
+    {
+      "beat": "E fact Kochi",
+      "text": "കൊച്ചിയിൽ മാത്രം ഇത്രയും സ്ഥലം വെള്ളത്തിനടിയിലാകും.",
+      "hold": 4.7
+    },
+    {
+      "beat": "mid question",
+      "text": "നീ അവസാനമായി കടലിൽ കാല് നനച്ചത് ഏത് ബീച്ചിലാണ്?",
+      "hold": 1.8
+    },
+    {
+      "beat": "F day 10",
+      "text": "പത്താം ദിവസം രാത്രി വെള്ളം നെഞ്ചോളം.",
+      "hold": 2.9
+    },
+    {
+      "beat": "F",
+      "text": "വെളുപ്പിന് ഒരു എഞ്ചിന്റെ ശബ്ദം.",
+      "hold": 3.7
+    },
+    {
+      "beat": "F fact 2018",
+      "text": "രണ്ടായിരത്തി പതിനെട്ടിൽ ചെയ്ത പോലെ മത്സ്യത്തൊഴിലാളികൾ വീണ്ടും വന്നു.",
+      "hold": 4.3
+    },
+    {
+      "beat": "F deed, school bag",
+      "text": "ഇത്തവണ അവർക്ക് തിരിച്ചുപോകാൻ വീടില്ല.",
+      "hold": 3.9
+    },
+    {
+      "beat": "F",
+      "text": "വിത്ത് ചാക്കിന് വള്ളത്തിൽ സ്ഥലമില്ല.",
+      "hold": 2.9
+    },
+    {
+      "beat": "F camp",
+      "text": "ക്യാമ്പ് നിന്റെ പഴയ സ്കൂളിൽ.",
+      "hold": 4.5
+    },
+    {
+      "beat": "F radio",
+      "text": "റേഡിയോയിൽ എല്ലായിടത്തും ഇതേ വാർത്ത.",
+      "hold": 3.7
+    },
+    {
+      "beat": "G suit",
+      "text": "ഇരുപതാം ദിവസം ക്യാമ്പിന് മുന്നിൽ ഒരു വെള്ള വണ്ടി.",
+      "hold": 2.9
+    },
+    {
+      "beat": "G",
+      "text": "അയാൾക്ക് വെള്ളം കയറിയ നിലം വേണം. പഴയ വിലയുടെ പത്തിലൊന്നിന്.",
+      "hold": 3.1
+    },
+    {
+      "beat": "G watch",
+      "text": "പലരും ഒപ്പിട്ടു.",
+      "hold": 4.7
+    },
+    {
+      "beat": "G fact Punargeham",
+      "text": "അപ്പുവിന്റെ വീട്ടുകാർക്ക് ഇത് പുതിയ പേടിയല്ല.",
+      "hold": 5.1
+    },
+    {
+      "beat": "G choice",
+      "text": "അമ്മ കടലാസ് തിരിച്ചുകൊടുത്തു. ഈ നിലം എന്റെ അപ്പൂപ്പൻ കായലിൽ നിന്ന് കുത്തിയെടുത്തതാണ്.",
+      "hold": 2.9
+    },
+    {
+      "beat": "G sister",
+      "text": "വെള്ളം എന്ന് ഇറങ്ങും, അമ്മേ?",
+      "hold": 3.1
+    },
+    {
+      "beat": "G",
+      "text": "അമ്മ ഒന്നും മിണ്ടിയില്ല. പിറ്റേന്ന് പറഞ്ഞു, ആ വിത്ത് ചാക്ക് എടുത്തിട്ട് വാ.",
+      "hold": 2.9
+    },
+    {
+      "beat": "G",
+      "text": "അങ്ങനെയാണ് നീ അവിടെ എത്തിയത്.",
+      "hold": 3.3
+    },
+    {
+      "beat": "H the sack, the hug",
+      "text": "മുകളിലെ പാതി ഉണങ്ങിയിരുന്നു.",
+      "hold": 4.7
+    },
+    {
+      "beat": "H",
+      "text": "അപ്പുവിന്റെ അച്ഛൻ ഒരു പിടി മണത്തു. ഉപ്പുള്ള മണ്ണിൽ ഇത് മുളയ്ക്കില്ല.",
+      "hold": 2.9
+    },
+    {
+      "beat": "H fact Pokkali",
+      "text": "പിന്നെ ഒരു പേര് പറഞ്ഞു. പൊക്കാളി. ഉപ്പുവെള്ളത്തിൽ വളരുന്ന നമ്മുടെ സ്വന്തം നെല്ല്.",
+      "hold": 3.7
+    },
+    {
+      "beat": "H",
+      "text": "അമ്മ ആദ്യമായി ചിരിച്ചു.",
+      "hold": 3.5
+    },
+    {
+      "beat": "I twist",
+      "text": "ഈ കഥയിൽ ഒന്ന് മാത്രമേ ഞാൻ ഉണ്ടാക്കിയുള്ളൂ. ഒറ്റ രാത്രി എന്നത്.",
+      "hold": 3.1
+    },
+    {
+      "beat": "I fact IPCC",
+      "text": "കടൽ ഇതിനകം ഇരുപത് സെന്റിമീറ്റർ പൊങ്ങിക്കഴിഞ്ഞു. ലോകം ഇങ്ങനെ തന്നെ പുക തുപ്പിയാൽ, ഈ നൂറ്റാണ്ട് തീരുമ്പോൾ ഒരു മീറ്ററോളം.",
+      "hold": 3.7
+    },
+    {
+      "beat": "I",
+      "text": "പതുക്കെ. ശബ്ദമില്ലാതെ. ആ തോട്ടിലെ വെള്ളം പോലെ.",
+      "hold": 3.3
+    },
+    {
+      "beat": "I comment question",
+      "text": "നിന്റെ വീട്ടിൽ നിന്ന് കടലിലേക്കോ കായലിലേക്കോ എത്ര ദൂരമുണ്ട്?",
+      "hold": 1.4
+    }
+  ],
+  "science": [
+    {
+      "claim": "Kerala has about 590 km of coast across nine of its fourteen districts.",
+      "working": "Keltron coastal cell and CMFRI both give about 590 km over nine coastal districts (NCCR measured 592.96 km).",
+      "source": "https://coastal.keltron.org/index.php/activities/shore-protection-works"
+    },
+    {
+      "claim": "Kuttanad's fields lie about 1 to 2 m below mean sea level; one of the few places in the world farming below sea level (FAO GIAHS, 2013).",
+      "working": "Sources give 1-2 m below MSL; some give up to 3 m. Script says the safe 1-2 m.",
+      "source": "https://ras.org.in/articles/321/text/article.html ; FAO GIAHS Kuttanad Below Sea Level Farming System"
+    },
+    {
+      "claim": "The Thanneermukkom bund was built to keep sea water out of Kuttanad during the paddy season; functional since 1976.",
+      "working": "Constructed from 1974, working since 1976. Script uses 1976.",
+      "source": "https://en.wikipedia.org/wiki/Thanneermukkom_Bund"
+    },
+    {
+      "claim": "Chellanam's tetrapod seawall (phase 1) is about 7.3 km long and cost about Rs 344 crore.",
+      "working": "KIIFB funding Rs 344.2 crore, length 7.3-7.36 km; built by ULCCS. Script: 'over seven km', 344 crore.",
+      "source": "https://www.inkl.com/news/tetrapod-seawall-brings-relief-to-chellanam-residents"
+    },
+    {
+      "claim": "A 1 m sea level rise would inundate about 169 sq km of the Kochi region, 43 sq km of it urban (NIO study).",
+      "working": "Murali and Dinesh Kumar (NIO): 169.11 km2 at 1 m, 598.83 km2 at 2 m; urban loss 43 km2 at 1 m.",
+      "source": "https://www.thenewsminute.com/kerala/scientists-say-global-warming-could-sink-large-parts-kochi-30288"
+    },
+    {
+      "claim": "In the 2018 floods fishermen with 669 boats rescued about 65,000 people.",
+      "working": "Fisheries Minister J. Mercykutty Amma's figures, reported by PTI.",
+      "source": "https://www.business-standard.com/amp/article/pti-stories/65-000-people-rescued-by-fishermen-during-floods-118082600554_1.html"
+    },
+    {
+      "claim": "Since 2019 Kerala's Punargeham scheme gives Rs 10 lakh to fisher families living within 50 m of the high tide line to move.",
+      "working": "Rs 6 lakh land + Rs 4 lakh house; launched 2019, about 18,685-22,174 families targeted.",
+      "source": "https://www.onmanorama.com/news/kerala/2019/12/28/fisher-families-punargraham-project-sea-erosion.html"
+    },
+    {
+      "claim": "Pokkali is a salt-tolerant rice grown in the tidal, saline wetlands of Ernakulam, Thrissur and Alappuzha.",
+      "working": "GI-tagged (2007/2008); tide water let into fields through sluices.",
+      "source": "https://india.mongabay.com/2021/01/climate-adaptive-and-saline-water-resistant-pokkali-rice-could-be-the-variety-of-the-future/"
+    },
+    {
+      "claim": "Global mean sea level rose 0.20 m from 1901 to 2018; under very high emissions (SSP5-8.5) it is likely to rise 0.63-1.01 m by 2100 relative to 1995-2014.",
+      "working": "IPCC AR6 WGI SPM A.1.7 and B.5.3. 'Up to about a metre more by 2100' matches the likely upper end (1.01 m).",
+      "source": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-9/"
+    },
+    {
+      "claim": "Much of Kuttanad's paddy land is kayal land that farmers reclaimed from Vembanad lake.",
+      "working": "Kayal reclamation, 1880s-1940s, is the standard history of Kuttanad.",
+      "source": "https://ras.org.in/articles/321/text/article.html"
+    }
+  ],
+  "seo": {
+    "keywords": [
+      "sea level rise kerala",
+      "kuttanad below sea level",
+      "what if malayalam",
+      "kadal ponguka",
+      "kochi flooding",
+      "chellanam",
+      "pokkali",
+      "climate change malayalam"
+    ],
+    "hook": "ഒറ്റ രാത്രി കൊണ്ട് കടൽ ഒരു മീറ്റർ പൊങ്ങി. കുട്ടനാട്ടിലെ നിന്റെ വയൽ, കൊച്ചിയിലെ അപ്പുവിന്റെ വീട്, തണ്ണീർമുക്കം ബണ്ട് - ആദ്യം പോകുന്നത് എന്താണ്? നിന്റെ വീട്ടിൽ നിന്ന് കടലിലേക്ക് എത്ര ദൂരമുണ്ട്?"
+  },
+  "shots": [
+    {
+      "id": "A1",
+      "size": "wide",
+      "set": "flood dusk",
+      "key": 31,
+      "note": "HOOK: day 40, dusk. Ramu rows a vallam over a drowned paddy field; only the red-tile roof pokes out; palms half under water"
+    },
+    {
+      "id": "A2",
+      "size": "close",
+      "set": "boat",
+      "key": 40,
+      "note": "Ramu rowing, jaw set, oar dripping, rim light from the low sun"
+    },
+    {
+      "id": "A3",
+      "size": "insert top",
+      "set": "water",
+      "key": 17,
+      "note": "top-down through the water: the oar, a sunken varamba and drowned paddy tips"
+    },
+    {
+      "id": "A4",
+      "size": "low wide",
+      "set": "flood dusk",
+      "key": 17,
+      "note": "low on the water: coconut palms standing half in the flood"
+    },
+    {
+      "id": "A5",
+      "size": "medium",
+      "set": "roof",
+      "key": 15,
+      "note": "the boat bumps the roof tiles; only the roof out of the water"
+    },
+    {
+      "id": "A6",
+      "size": "close",
+      "set": "camp",
+      "key": 26,
+      "note": "Amma in the camp by a lantern: the seed sack"
+    },
+    {
+      "id": "A7",
+      "size": "insert",
+      "set": "loft",
+      "key": 33,
+      "note": "the seed sack in the dark loft, a shaft of light through a gap in the tiles"
+    },
+    {
+      "id": "A8",
+      "size": "medium",
+      "set": "window",
+      "key": 16,
+      "note": "Ramu squeezes through the upper window, water to the sill"
+    },
+    {
+      "id": "A9",
+      "size": "low",
+      "set": "loft",
+      "key": 27,
+      "note": "low angle: Ramu climbs the wooden ladder into the loft"
+    },
+    {
+      "id": "A10",
+      "size": "medium",
+      "set": "loft",
+      "key": 12,
+      "note": "Ramu in the loft, the sack in the light shaft"
+    },
+    {
+      "id": "A11",
+      "size": "insert",
+      "set": "loft",
+      "key": 29,
+      "note": "macro: the hand lands on the sack"
+    },
+    {
+      "id": "A12",
+      "size": "close",
+      "set": "loft",
+      "key": 52,
+      "note": "the bottom of the sack dark and wet; shock (flash)"
+    },
+    {
+      "id": "B1",
+      "size": "wide",
+      "set": "field night",
+      "key": 54,
+      "note": "40 days earlier: Kuttanad at night, gold paddy, canal, lit house, moon"
+    },
+    {
+      "id": "B2",
+      "size": "medium",
+      "set": "home",
+      "key": 28,
+      "note": "Amma crossing a day on the wall calendar by the lamp"
+    },
+    {
+      "id": "B3",
+      "size": "insert",
+      "set": "home",
+      "key": 35,
+      "note": "the calendar: crossed days, harvest day circled"
+    },
+    {
+      "id": "B4",
+      "size": "medium",
+      "set": "field night",
+      "key": 20,
+      "note": "Ramu on the varamba with his phone, feet over the canal"
+    },
+    {
+      "id": "B5",
+      "size": "insert",
+      "set": "field night",
+      "key": 38,
+      "note": "macro: the canal water touches his toe"
+    },
+    {
+      "id": "B6",
+      "size": "wide",
+      "set": "field night",
+      "key": 49,
+      "note": "water rising silently over the varamba, moon on it"
+    },
+    {
+      "id": "B7",
+      "size": "wide",
+      "set": "flood dawn",
+      "key": 72,
+      "note": "dawn: everything a metre higher, the house in water up the steps"
+    },
+    {
+      "id": "B8",
+      "size": "wide",
+      "set": "flood dawn",
+      "key": 67,
+      "note": "TITLE over the flooded dawn"
+    },
+    {
+      "id": "C1",
+      "size": "wide",
+      "set": "street flood",
+      "key": 35,
+      "note": "day 1: kids swimming in the flooded lane, school gate with a holiday board"
+    },
+    {
+      "id": "C2",
+      "size": "medium",
+      "set": "street flood",
+      "key": 34,
+      "note": "Ramu rowing to tuition with his bag past a half-drowned bus stop"
+    },
+    {
+      "id": "C3",
+      "size": "wide",
+      "set": "teashop",
+      "key": 34,
+      "note": "the tea shop flooded; chettan hands chaya down from the upstairs window"
+    },
+    {
+      "id": "C4",
+      "size": "insert",
+      "set": "teashop",
+      "key": 64,
+      "note": "the steel glass of chaya passing from hand to hand"
+    },
+    {
+      "id": "C5",
+      "size": "medium",
+      "set": "phone",
+      "key": 26,
+      "note": "split: Ramu on the phone, Appu on the phone at Chellanam"
+    },
+    {
+      "id": "C6",
+      "size": "wide",
+      "set": "street flood",
+      "key": 40,
+      "note": "GAG: a fishing vallam parked inside the bus shelter, Appu's dad sitting in it"
+    },
+    {
+      "id": "C7",
+      "size": "high",
+      "set": "yard",
+      "key": 93,
+      "note": "GAG: the sister spinning round the yard in an aluminium charuvam"
+    },
+    {
+      "id": "C8",
+      "size": "medium",
+      "set": "street flood",
+      "key": 101,
+      "note": "neighbours waist deep, laughing"
+    },
+    {
+      "id": "C9",
+      "size": "map",
+      "set": "map",
+      "key": 142,
+      "note": "FACT: Kerala's coast, nine districts lighting up"
+    },
+    {
+      "id": "D1",
+      "size": "medium",
+      "set": "well",
+      "key": 50,
+      "note": "day 3: Amma at the well, a sip from the steel tumbler"
+    },
+    {
+      "id": "D2",
+      "size": "close",
+      "set": "well",
+      "key": 85,
+      "note": "Amma spits"
+    },
+    {
+      "id": "D3",
+      "size": "insert",
+      "set": "well",
+      "key": 65,
+      "note": "the tumbler, a white rim of salt"
+    },
+    {
+      "id": "D4",
+      "size": "schematic",
+      "set": "section",
+      "key": 126,
+      "note": "FACT: cross-section, Kuttanad fields below sea level"
+    },
+    {
+      "id": "D5",
+      "size": "wide",
+      "set": "bund",
+      "key": 48,
+      "note": "FACT: the Thanneermukkom bund across Vembanad"
+    },
+    {
+      "id": "D6",
+      "size": "medium",
+      "set": "bund",
+      "key": 112,
+      "note": "the bund's shutters, the same water on both sides"
+    },
+    {
+      "id": "D7",
+      "size": "insert",
+      "set": "field",
+      "key": 17,
+      "note": "day 5: paddy leaves turning yellow"
+    },
+    {
+      "id": "D8",
+      "size": "close",
+      "set": "home",
+      "key": 28,
+      "note": "Amma's hand stops, pen lowered from the calendar"
+    },
+    {
+      "id": "D9",
+      "size": "wide",
+      "set": "field",
+      "key": 87,
+      "note": "Ramu and Amma at the edge of the dead field"
+    },
+    {
+      "id": "E1",
+      "size": "wide",
+      "set": "chellanam",
+      "key": 26,
+      "note": "day 7: Chellanam, Chinese nets, Ramu arrives by boat"
+    },
+    {
+      "id": "E2",
+      "size": "wide",
+      "set": "seawall",
+      "key": 82,
+      "note": "the long tetrapod wall against the sea"
+    },
+    {
+      "id": "E3",
+      "size": "low",
+      "set": "seawall",
+      "key": 47,
+      "note": "FACT: the wall, low angle"
+    },
+    {
+      "id": "E4",
+      "size": "medium",
+      "set": "appu house",
+      "key": 83,
+      "note": "Appu's house just behind the wall; his mother stacking pots on the cot"
+    },
+    {
+      "id": "E5",
+      "size": "wide",
+      "set": "seawall",
+      "key": 56,
+      "note": "reveal: the wall dry in front, water coming in from the backwater behind"
+    },
+    {
+      "id": "E6",
+      "size": "medium",
+      "set": "appu house",
+      "key": 95,
+      "note": "GAG: fish swimming through Appu's kitchen, Appu deadpan"
+    },
+    {
+      "id": "E7",
+      "size": "map",
+      "set": "kochi",
+      "key": 44,
+      "note": "FACT: Kochi map flooding blue, 169 sq km"
+    },
+    {
+      "id": "E8",
+      "size": "wide",
+      "set": "kochi",
+      "key": 98,
+      "note": "Kochi skyline with water at the base of the towers"
+    },
+    {
+      "id": "Q1",
+      "size": "medium",
+      "set": "seawall",
+      "key": 100,
+      "note": "MID QUESTION: Ramu on the tetrapods at sunset, thinking"
+    },
+    {
+      "id": "F1",
+      "size": "wide",
+      "set": "flood night",
+      "key": 98,
+      "note": "day 10 night: water chest-high in your yard"
+    },
+    {
+      "id": "F2",
+      "size": "medium",
+      "set": "roof",
+      "key": 28,
+      "note": "family on the roof, a headlamp beam; engine sound"
+    },
+    {
+      "id": "F3",
+      "size": "wide",
+      "set": "flood night",
+      "key": 80,
+      "note": "Appu's dad's boat arrives, lights on"
+    },
+    {
+      "id": "F4",
+      "size": "wide",
+      "set": "2018",
+      "key": 154,
+      "note": "FACT: 2018, a line of fishing boats in a flooded street"
+    },
+    {
+      "id": "F5",
+      "size": "close",
+      "set": "boat",
+      "key": 36,
+      "note": "Appu's dad, moustache, tired"
+    },
+    {
+      "id": "F6",
+      "size": "insert",
+      "set": "home",
+      "key": 14,
+      "note": "Amma takes the deed from the almirah"
+    },
+    {
+      "id": "F7",
+      "size": "insert",
+      "set": "home",
+      "key": 66,
+      "note": "the sister hugs her school bag"
+    },
+    {
+      "id": "F8",
+      "size": "wide",
+      "set": "flood night",
+      "key": 94,
+      "note": "the full boat pulls away; the house behind"
+    },
+    {
+      "id": "F9",
+      "size": "wide",
+      "set": "camp",
+      "key": 37,
+      "note": "the camp in your old school; you asleep on a bench"
+    },
+    {
+      "id": "F10",
+      "size": "medium",
+      "set": "camp",
+      "key": 81,
+      "note": "a radio on a desk, faces round it"
+    },
+    {
+      "id": "F11",
+      "size": "insert",
+      "set": "camp",
+      "key": 115,
+      "note": "the radio dial; city names"
+    },
+    {
+      "id": "G1",
+      "size": "wide",
+      "set": "gate",
+      "key": 108,
+      "note": "day 20: a big white car at the camp gate, a man in a tie"
+    },
+    {
+      "id": "G2",
+      "size": "close",
+      "set": "gate",
+      "key": 38,
+      "note": "the suit, smug, holding out a paper"
+    },
+    {
+      "id": "G3",
+      "size": "insert",
+      "set": "gate",
+      "key": 91,
+      "note": "the offer paper: price per cent, crossed old price"
+    },
+    {
+      "id": "G4",
+      "size": "medium",
+      "set": "camp",
+      "key": 18,
+      "note": "a queue of neighbours signing"
+    },
+    {
+      "id": "G5",
+      "size": "close",
+      "set": "gate",
+      "key": 92,
+      "note": "the suit leaning on the car, checking his watch, no hurry"
+    },
+    {
+      "id": "G6",
+      "size": "medium",
+      "set": "appu house",
+      "key": 148,
+      "note": "FACT: Appu's family at their house by the wall"
+    },
+    {
+      "id": "G7",
+      "size": "medium",
+      "set": "camp",
+      "key": 44,
+      "note": "Amma folds the paper and hands it back"
+    },
+    {
+      "id": "G8",
+      "size": "insert",
+      "set": "photo",
+      "key": 101,
+      "note": "an old photo: grandfather building a bund in the lake"
+    },
+    {
+      "id": "G9",
+      "size": "close",
+      "set": "camp",
+      "key": 98,
+      "note": "the sister asks"
+    },
+    {
+      "id": "G10",
+      "size": "close",
+      "set": "camp",
+      "key": 24,
+      "note": "Amma silent by the lantern"
+    },
+    {
+      "id": "G11",
+      "size": "medium",
+      "set": "camp",
+      "key": 109,
+      "note": "morning: Amma tells Ramu"
+    },
+    {
+      "id": "G12",
+      "size": "wide",
+      "set": "flood dusk",
+      "key": 104,
+      "note": "Ramu rowing away into the dusk, matching A1"
+    },
+    {
+      "id": "H1",
+      "size": "insert",
+      "set": "loft",
+      "key": 25,
+      "note": "the sack opened: bottom grains dark and wet, top half dry"
+    },
+    {
+      "id": "H2",
+      "size": "medium",
+      "set": "boat",
+      "key": 97,
+      "note": "Ramu in the boat hugging the sack"
+    },
+    {
+      "id": "H3",
+      "size": "medium",
+      "set": "camp",
+      "key": 37,
+      "note": "Appu's dad smells a handful"
+    },
+    {
+      "id": "H4",
+      "size": "close",
+      "set": "camp",
+      "key": 116,
+      "note": "Appu's dad shakes his head"
+    },
+    {
+      "id": "H5",
+      "size": "wide",
+      "set": "pokkali",
+      "key": 133,
+      "note": "FACT: tall pokkali rice in a tidal field with a sluice"
+    },
+    {
+      "id": "H6",
+      "size": "close",
+      "set": "camp",
+      "key": 98,
+      "note": "Amma smiles for the first time"
+    },
+    {
+      "id": "I1",
+      "size": "wide",
+      "set": "field",
+      "key": 50,
+      "note": "TWIST: Kuttanad as it is today, calm, dusk"
+    },
+    {
+      "id": "I2",
+      "size": "close",
+      "set": "field",
+      "key": 86,
+      "note": "Ramu on the varamba, looking at us"
+    },
+    {
+      "id": "I3",
+      "size": "schematic",
+      "set": "graph",
+      "key": 52,
+      "note": "FACT: sea level since 1901, +20 cm"
+    },
+    {
+      "id": "I4",
+      "size": "schematic",
+      "set": "graph",
+      "key": 153,
+      "note": "FACT: the line climbing to about 1 m by 2100"
+    },
+    {
+      "id": "I5",
+      "size": "insert",
+      "set": "field night",
+      "key": 130,
+      "note": "callback: the canal water touching a toe"
+    },
+    {
+      "id": "I6",
+      "size": "wide",
+      "set": "field",
+      "key": 131,
+      "note": "END: Ramu on the varamba at dusk, the comment question"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "A1",
+      "at": "f:0"
+    },
+    {
+      "shot": "A2",
+      "at": "തുഴയുന്നത്"
+    },
+    {
+      "shot": "A3",
+      "at": "മുകളിലൂടെ+20"
+    },
+    {
+      "shot": "A4",
+      "at": "+28"
+    },
+    {
+      "shot": "A5",
+      "at": "+28"
+    },
+    {
+      "shot": "A6",
+      "at": "അമ്മ"
+    },
+    {
+      "shot": "A7",
+      "at": "തട്ടിൻപുറത്തെ"
+    },
+    {
+      "shot": "A8",
+      "at": "എടുക്കണം+14"
+    },
+    {
+      "shot": "A9",
+      "at": "+26"
+    },
+    {
+      "shot": "A10",
+      "at": "ചാക്ക്"
+    },
+    {
+      "shot": "A11",
+      "at": "അവിടെയുണ്ട്+8"
+    },
+    {
+      "shot": "A12",
+      "at": "അടിഭാഗം"
+    },
+    {
+      "shot": "B1",
+      "at": "നാൽപ്പത്"
+    },
+    {
+      "shot": "B2",
+      "at": "കൊയ്ത്തിന്"
+    },
+    {
+      "shot": "B3",
+      "at": "ദിവസം+6"
+    },
+    {
+      "shot": "B4",
+      "at": "തോട്ടിലെ"
+    },
+    {
+      "shot": "B5",
+      "at": "കാലിൽ"
+    },
+    {
+      "shot": "B6",
+      "at": "തിരയില്ല"
+    },
+    {
+      "shot": "B7",
+      "at": "നേരം"
+    },
+    {
+      "shot": "B8",
+      "at": "കടൽ"
+    },
+    {
+      "shot": "C1",
+      "at": "ആദ്യത്തെ"
+    },
+    {
+      "shot": "C2",
+      "at": "ഉത്സവമായിരുന്നു+20"
+    },
+    {
+      "shot": "C3",
+      "at": "+56"
+    },
+    {
+      "shot": "C4",
+      "at": "+56"
+    },
+    {
+      "shot": "C5",
+      "at": "ചെല്ലാനത്ത്"
+    },
+    {
+      "shot": "C6",
+      "at": "വിളിച്ചു+10"
+    },
+    {
+      "shot": "C7",
+      "at": "+66"
+    },
+    {
+      "shot": "C8",
+      "at": "അത്രയല്ലേ"
+    },
+    {
+      "shot": "C9",
+      "at": "കേരളത്തിലെ"
+    },
+    {
+      "shot": "D1",
+      "at": "മൂന്നാം"
+    },
+    {
+      "shot": "D2",
+      "at": "കുടിച്ചു+8"
+    },
+    {
+      "shot": "D3",
+      "at": "ഉപ്പ്"
+    },
+    {
+      "shot": "D4",
+      "at": "കുട്ടനാട്ടിലെ"
+    },
+    {
+      "shot": "D5",
+      "at": "ഉപ്പുവെള്ളം"
+    },
+    {
+      "shot": "D6",
+      "at": "ഇപ്പോൾ"
+    },
+    {
+      "shot": "D7",
+      "at": "അഞ്ചാം"
+    },
+    {
+      "shot": "D8",
+      "at": "കലണ്ടറിൽ"
+    },
+    {
+      "shot": "D9",
+      "at": "നിർത്തി+14"
+    },
+    {
+      "shot": "E1",
+      "at": "ഏഴാം"
+    },
+    {
+      "shot": "E2",
+      "at": "ചെല്ലാനം+10"
+    },
+    {
+      "shot": "E3",
+      "at": "കടലിനെ"
+    },
+    {
+      "shot": "E4",
+      "at": "മതിൽ+40"
+    },
+    {
+      "shot": "E5",
+      "at": "ഇപ്പോഴും"
+    },
+    {
+      "shot": "E6",
+      "at": "നിന്നാണ്+20"
+    },
+    {
+      "shot": "E7",
+      "at": "കൊച്ചിയിൽ"
+    },
+    {
+      "shot": "E8",
+      "at": "വെള്ളത്തിനടിയിലാകും+24"
+    },
+    {
+      "shot": "Q1",
+      "at": "നീ"
+    },
+    {
+      "shot": "F1",
+      "at": "പത്താം"
+    },
+    {
+      "shot": "F2",
+      "at": "വെളുപ്പിന്"
+    },
+    {
+      "shot": "F3",
+      "at": "ശബ്ദം+6"
+    },
+    {
+      "shot": "F4",
+      "at": "രണ്ടായിരത്തി"
+    },
+    {
+      "shot": "F5",
+      "at": "ഇത്തവണ"
+    },
+    {
+      "shot": "F6",
+      "at": "വീടില്ല+14"
+    },
+    {
+      "shot": "F7",
+      "at": "+24"
+    },
+    {
+      "shot": "F8",
+      "at": "വിത്ത്"
+    },
+    {
+      "shot": "F9",
+      "at": "ക്യാമ്പ്"
+    },
+    {
+      "shot": "F10",
+      "at": "സ്കൂളിൽ+30"
+    },
+    {
+      "shot": "F11",
+      "at": "റേഡിയോയിൽ"
+    },
+    {
+      "shot": "G1",
+      "at": "ഇരുപതാം"
+    },
+    {
+      "shot": "G2",
+      "at": "അയാൾക്ക്"
+    },
+    {
+      "shot": "G3",
+      "at": "പഴയ"
+    },
+    {
+      "shot": "G4",
+      "at": "പലരും"
+    },
+    {
+      "shot": "G5",
+      "at": "ഒപ്പിട്ടു+20"
+    },
+    {
+      "shot": "G6",
+      "at": "അപ്പുവിന്റെ"
+    },
+    {
+      "shot": "G7",
+      "at": "അമ്മ"
+    },
+    {
+      "shot": "G8",
+      "at": "അപ്പൂപ്പൻ"
+    },
+    {
+      "shot": "G9",
+      "at": "വെള്ളം"
+    },
+    {
+      "shot": "G10",
+      "at": "അമ്മ"
+    },
+    {
+      "shot": "G11",
+      "at": "പിറ്റേന്ന്"
+    },
+    {
+      "shot": "G12",
+      "at": "അങ്ങനെയാണ്"
+    },
+    {
+      "shot": "H1",
+      "at": "മുകളിലെ"
+    },
+    {
+      "shot": "H2",
+      "at": "ഉണങ്ങിയിരുന്നു+20"
+    },
+    {
+      "shot": "H3",
+      "at": "അപ്പുവിന്റെ"
+    },
+    {
+      "shot": "H4",
+      "at": "ഉപ്പുള്ള"
+    },
+    {
+      "shot": "H5",
+      "at": "പൊക്കാളി"
+    },
+    {
+      "shot": "H6",
+      "at": "അമ്മ"
+    },
+    {
+      "shot": "I1",
+      "at": "ഈ"
+    },
+    {
+      "shot": "I2",
+      "at": "ഒറ്റ"
+    },
+    {
+      "shot": "I3",
+      "at": "കടൽ"
+    },
+    {
+      "shot": "I4",
+      "at": "ലോകം"
+    },
+    {
+      "shot": "I5",
+      "at": "പതുക്കെ"
+    },
+    {
+      "shot": "I6",
+      "at": "നിന്റെ"
+    }
+  ],
+  "fx": [
+    {
+      "at": "A12+46",
+      "kind": "flash",
+      "o": 0.5
+    },
+    {
+      "at": "D2+6",
+      "kind": "shake",
+      "len": 8,
+      "amp": 8
+    },
+    {
+      "at": "E5+30",
+      "kind": "flash",
+      "o": 0.35
+    }
+  ],
+  "sound": {
+    "clips": {
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        17.0
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "paper_land": [
+        "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+        0.7
+      ],
+      "fall_whoosh": [
+        "a small object falling fast through the air, short soft whoosh",
+        0.6
+      ],
+      "clink": [
+        "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+        0.7
+      ],
+      "land": [
+        "a heavy body landing flat on a wooden floor, cartoon thud",
+        0.6
+      ],
+      "dizzy": [
+        "cartoon dizzy birds tweeting in a circle after a bonk",
+        1.4
+      ],
+      "rain": [
+        "synth: steady monsoon rain on leaves and ground, drop ticks, slow gusts, loopable",
+        10.0
+      ],
+      "splash": [
+        "synth: a fish leaping out of water, wet burst and bubbles",
+        0.6
+      ],
+      "frog": [
+        "synth: a two-part frog croak, buzzy",
+        0.5
+      ],
+      "plip": [
+        "synth: a single bright water drop plip",
+        0.35
+      ],
+      "lap": [
+        "synth: calm water lapping at a boat hull, slow swells and soft slaps, loopable",
+        8.0
+      ],
+      "oar": [
+        "synth: one paddle stroke, blade dip, water swish and drips",
+        0.8
+      ],
+      "motor": [
+        "synth: a small outboard boat engine putt-putting at idle, loopable",
+        4.0
+      ]
+    },
+    "events": [
+      [
+        "A1",
+        "lap",
+        0.096,
+        "onset",
+        "A2"
+      ],
+      [
+        "A2",
+        "lap",
+        0.096,
+        "onset",
+        "A3"
+      ],
+      [
+        "A3",
+        "lap",
+        0.096,
+        "onset",
+        "A4"
+      ],
+      [
+        "A4",
+        "lap",
+        0.096,
+        "onset",
+        "A5"
+      ],
+      [
+        "A5",
+        "lap",
+        0.096,
+        "onset",
+        "A6"
+      ],
+      [
+        "A6",
+        "room_tone",
+        0.056,
+        "onset",
+        "A7"
+      ],
+      [
+        "A7",
+        "room_tone",
+        0.056,
+        "onset",
+        "A8"
+      ],
+      [
+        "A8",
+        "lap",
+        0.096,
+        "onset",
+        "A9"
+      ],
+      [
+        "A9",
+        "room_tone",
+        0.056,
+        "onset",
+        "A10"
+      ],
+      [
+        "A10",
+        "room_tone",
+        0.056,
+        "onset",
+        "A11"
+      ],
+      [
+        "A11",
+        "room_tone",
+        0.056,
+        "onset",
+        "A12"
+      ],
+      [
+        "A12",
+        "room_tone",
+        0.056,
+        "onset",
+        "B1"
+      ],
+      [
+        "B1",
+        "roof_wind",
+        0.056,
+        "onset",
+        "B2"
+      ],
+      [
+        "B2",
+        "room_tone",
+        0.056,
+        "onset",
+        "B3"
+      ],
+      [
+        "B3",
+        "room_tone",
+        0.056,
+        "onset",
+        "B4"
+      ],
+      [
+        "B4",
+        "roof_wind",
+        0.056,
+        "onset",
+        "B5"
+      ],
+      [
+        "B5",
+        "lap",
+        0.096,
+        "onset",
+        "B6"
+      ],
+      [
+        "B6",
+        "roof_wind",
+        0.056,
+        "onset",
+        "B7"
+      ],
+      [
+        "B7",
+        "lap",
+        0.096,
+        "onset",
+        "B8"
+      ],
+      [
+        "B8",
+        "lap",
+        0.096,
+        "onset",
+        "C1"
+      ],
+      [
+        "C1",
+        "roof_wind",
+        0.056,
+        "onset",
+        "C2"
+      ],
+      [
+        "C2",
+        "lap",
+        0.096,
+        "onset",
+        "C3"
+      ],
+      [
+        "C3",
+        "lap",
+        0.096,
+        "onset",
+        "C4"
+      ],
+      [
+        "C4",
+        "lap",
+        0.096,
+        "onset",
+        "C5"
+      ],
+      [
+        "C5",
+        "roof_wind",
+        0.056,
+        "onset",
+        "C6"
+      ],
+      [
+        "C6",
+        "roof_wind",
+        0.056,
+        "onset",
+        "C7"
+      ],
+      [
+        "C7",
+        "lap",
+        0.096,
+        "onset",
+        "C8"
+      ],
+      [
+        "C8",
+        "roof_wind",
+        0.056,
+        "onset",
+        "C9"
+      ],
+      [
+        "D1",
+        "roof_wind",
+        0.056,
+        "onset",
+        "D2"
+      ],
+      [
+        "D2",
+        "roof_wind",
+        0.056,
+        "onset",
+        "D3"
+      ],
+      [
+        "D3",
+        "roof_wind",
+        0.056,
+        "onset",
+        "D4"
+      ],
+      [
+        "D5",
+        "lap",
+        0.096,
+        "onset",
+        "D6"
+      ],
+      [
+        "D6",
+        "lap",
+        0.096,
+        "onset",
+        "D7"
+      ],
+      [
+        "D7",
+        "roof_wind",
+        0.056,
+        "onset",
+        "D8"
+      ],
+      [
+        "D8",
+        "room_tone",
+        0.056,
+        "onset",
+        "D9"
+      ],
+      [
+        "D9",
+        "roof_wind",
+        0.056,
+        "onset",
+        "E1"
+      ],
+      [
+        "E1",
+        "lap",
+        0.096,
+        "onset",
+        "E2"
+      ],
+      [
+        "E2",
+        "roof_wind",
+        0.056,
+        "onset",
+        "E3"
+      ],
+      [
+        "E3",
+        "roof_wind",
+        0.056,
+        "onset",
+        "E4"
+      ],
+      [
+        "E4",
+        "roof_wind",
+        0.056,
+        "onset",
+        "E5"
+      ],
+      [
+        "E5",
+        "lap",
+        0.096,
+        "onset",
+        "E6"
+      ],
+      [
+        "E6",
+        "lap",
+        0.096,
+        "onset",
+        "E7"
+      ],
+      [
+        "E8",
+        "roof_wind",
+        0.056,
+        "onset",
+        "Q1"
+      ],
+      [
+        "Q1",
+        "lap",
+        0.096,
+        "onset",
+        "F1"
+      ],
+      [
+        "F1",
+        "rain",
+        0.112,
+        "onset",
+        "F2"
+      ],
+      [
+        "F2",
+        "rain",
+        0.112,
+        "onset",
+        "F3"
+      ],
+      [
+        "F3",
+        "rain",
+        0.112,
+        "onset",
+        "F4"
+      ],
+      [
+        "F5",
+        "rain",
+        0.112,
+        "onset",
+        "F6"
+      ],
+      [
+        "F6",
+        "room_tone",
+        0.056,
+        "onset",
+        "F7"
+      ],
+      [
+        "F7",
+        "room_tone",
+        0.056,
+        "onset",
+        "F8"
+      ],
+      [
+        "F8",
+        "rain",
+        0.112,
+        "onset",
+        "F9"
+      ],
+      [
+        "F9",
+        "room_tone",
+        0.056,
+        "onset",
+        "F10"
+      ],
+      [
+        "F10",
+        "room_tone",
+        0.056,
+        "onset",
+        "F11"
+      ],
+      [
+        "F11",
+        "room_tone",
+        0.056,
+        "onset",
+        "G1"
+      ],
+      [
+        "G1",
+        "roof_wind",
+        0.056,
+        "onset",
+        "G2"
+      ],
+      [
+        "G2",
+        "room_tone",
+        0.056,
+        "onset",
+        "G3"
+      ],
+      [
+        "G3",
+        "roof_wind",
+        0.056,
+        "onset",
+        "G4"
+      ],
+      [
+        "G4",
+        "room_tone",
+        0.056,
+        "onset",
+        "G5"
+      ],
+      [
+        "G5",
+        "roof_wind",
+        0.056,
+        "onset",
+        "G6"
+      ],
+      [
+        "G6",
+        "roof_wind",
+        0.056,
+        "onset",
+        "G7"
+      ],
+      [
+        "G7",
+        "room_tone",
+        0.056,
+        "onset",
+        "G8"
+      ],
+      [
+        "G8",
+        "room_tone",
+        0.056,
+        "onset",
+        "G9"
+      ],
+      [
+        "G9",
+        "room_tone",
+        0.056,
+        "onset",
+        "G10"
+      ],
+      [
+        "G10",
+        "room_tone",
+        0.056,
+        "onset",
+        "G11"
+      ],
+      [
+        "G11",
+        "room_tone",
+        0.056,
+        "onset",
+        "G12"
+      ],
+      [
+        "G12",
+        "lap",
+        0.096,
+        "onset",
+        "H1"
+      ],
+      [
+        "H1",
+        "room_tone",
+        0.056,
+        "onset",
+        "H2"
+      ],
+      [
+        "H2",
+        "lap",
+        0.096,
+        "onset",
+        "H3"
+      ],
+      [
+        "H3",
+        "room_tone",
+        0.056,
+        "onset",
+        "H4"
+      ],
+      [
+        "H4",
+        "room_tone",
+        0.056,
+        "onset",
+        "H5"
+      ],
+      [
+        "H5",
+        "lap",
+        0.096,
+        "onset",
+        "H6"
+      ],
+      [
+        "H6",
+        "room_tone",
+        0.056,
+        "onset",
+        "I1"
+      ],
+      [
+        "I1",
+        "roof_wind",
+        0.056,
+        "onset",
+        "I2"
+      ],
+      [
+        "I2",
+        "roof_wind",
+        0.056,
+        "onset",
+        "I3"
+      ],
+      [
+        "I5",
+        "lap",
+        0.096,
+        "onset",
+        "I6"
+      ],
+      [
+        "I6",
+        "roof_wind",
+        0.056,
+        "onset"
+      ],
+      [
+        "A1+2",
+        "pop",
+        0.3
+      ],
+      [
+        "B1+2",
+        "pop",
+        0.3
+      ],
+      [
+        "C1+2",
+        "pop",
+        0.3
+      ],
+      [
+        "D1+2",
+        "pop",
+        0.3
+      ],
+      [
+        "D7+2",
+        "pop",
+        0.3
+      ],
+      [
+        "E1+2",
+        "pop",
+        0.3
+      ],
+      [
+        "F1+2",
+        "pop",
+        0.3
+      ],
+      [
+        "F4+2",
+        "pop",
+        0.3
+      ],
+      [
+        "G1+2",
+        "pop",
+        0.3
+      ],
+      [
+        "C9+10",
+        "ding",
+        0.26
+      ],
+      [
+        "D4+10",
+        "ding",
+        0.26
+      ],
+      [
+        "D5+10",
+        "ding",
+        0.26
+      ],
+      [
+        "E3+10",
+        "ding",
+        0.26
+      ],
+      [
+        "E7+10",
+        "ding",
+        0.26
+      ],
+      [
+        "E8+10",
+        "ding",
+        0.26
+      ],
+      [
+        "F4+10",
+        "ding",
+        0.26
+      ],
+      [
+        "G6+10",
+        "ding",
+        0.26
+      ],
+      [
+        "H5+10",
+        "ding",
+        0.26
+      ],
+      [
+        "I3+10",
+        "ding",
+        0.26
+      ],
+      [
+        "I4+10",
+        "ding",
+        0.26
+      ],
+      [
+        "A5+16",
+        "land",
+        0.3
+      ],
+      [
+        "A11+12",
+        "paper_land",
+        0.35
+      ],
+      [
+        "നനഞ്ഞിരിക്കുന്നു+22",
+        "drone_hit",
+        0.32
+      ],
+      [
+        "B5+62",
+        "plip",
+        0.45
+      ],
+      [
+        "പൊങ്ങിയാലോ+40",
+        "title_boom",
+        0.6,
+        "peak"
+      ],
+      [
+        "C3+24",
+        "clink",
+        0.35
+      ],
+      [
+        "C4+30",
+        "clink",
+        0.4
+      ],
+      [
+        "C6+30",
+        "pop",
+        0.45
+      ],
+      [
+        "C7+40",
+        "dizzy",
+        0.4
+      ],
+      [
+        "D2+6",
+        "splash",
+        0.35
+      ],
+      [
+        "D3+20",
+        "sparkle",
+        0.4
+      ],
+      [
+        "D8+24",
+        "clink",
+        0.3
+      ],
+      [
+        "നിന്നാണ്+14",
+        "drone_hit",
+        0.32
+      ],
+      [
+        "E6+20",
+        "splash",
+        0.3
+      ],
+      [
+        "E6+80",
+        "splash",
+        0.25
+      ],
+      [
+        "F2+20",
+        "motor",
+        0.22,
+        "onset",
+        "F4"
+      ],
+      [
+        "F8",
+        "motor",
+        0.2,
+        "onset",
+        "F9"
+      ],
+      [
+        "F6+10",
+        "paper_land",
+        0.3
+      ],
+      [
+        "F11+6",
+        "pop",
+        0.35
+      ],
+      [
+        "F11+34",
+        "pop",
+        0.35
+      ],
+      [
+        "F11+62",
+        "pop",
+        0.35
+      ],
+      [
+        "G1+78",
+        "drone_hit",
+        0.32
+      ],
+      [
+        "G3+30",
+        "fall_whoosh",
+        0.35
+      ],
+      [
+        "G3+44",
+        "pop",
+        0.4
+      ],
+      [
+        "G7+70",
+        "paper_land",
+        0.3
+      ],
+      [
+        "H1+10",
+        "sparkle",
+        0.3
+      ],
+      [
+        "H6+50",
+        "sparkle",
+        0.25
+      ],
+      [
+        "എന്നത്+8",
+        "drone_hit",
+        0.32
+      ],
+      [
+        "I5+52",
+        "plip",
+        0.45
+      ],
+      [
+        "ദൂരമുണ്ട്+40",
+        "title_boom",
+        0.3,
+        "peak"
+      ]
+    ],
+    "repeats": [
+      {
+        "at": "A1",
+        "clip": "oar",
+        "n": 2,
+        "every": 34,
+        "gain": [
+          0.16,
+          0.22
+        ],
+        "pitch": [
+          0.95,
+          1.05
+        ]
+      },
+      {
+        "at": "A2",
+        "clip": "oar",
+        "n": 3,
+        "every": 34,
+        "gain": [
+          0.16,
+          0.22
+        ],
+        "pitch": [
+          0.95,
+          1.05
+        ]
+      },
+      {
+        "at": "A4",
+        "clip": "oar",
+        "n": 2,
+        "every": 34,
+        "gain": [
+          0.16,
+          0.22
+        ],
+        "pitch": [
+          0.95,
+          1.05
+        ]
+      },
+      {
+        "at": "B8",
+        "clip": "oar",
+        "n": 3,
+        "every": 34,
+        "gain": [
+          0.16,
+          0.22
+        ],
+        "pitch": [
+          0.95,
+          1.05
+        ]
+      },
+      {
+        "at": "C2",
+        "clip": "oar",
+        "n": 3,
+        "every": 34,
+        "gain": [
+          0.16,
+          0.22
+        ],
+        "pitch": [
+          0.95,
+          1.05
+        ]
+      },
+      {
+        "at": "E1",
+        "clip": "oar",
+        "n": 3,
+        "every": 34,
+        "gain": [
+          0.16,
+          0.22
+        ],
+        "pitch": [
+          0.95,
+          1.05
+        ]
+      },
+      {
+        "at": "G12",
+        "clip": "oar",
+        "n": 3,
+        "every": 34,
+        "gain": [
+          0.16,
+          0.22
+        ],
+        "pitch": [
+          0.95,
+          1.05
+        ]
+      },
+      {
+        "at": "B1+10",
+        "clip": "frog",
+        "n": 6,
+        "every": 22,
+        "gain": [
+          0.08,
+          0.14
+        ],
+        "pitch": [
+          0.9,
+          1.15
+        ]
+      },
+      {
+        "at": "B4",
+        "clip": "frog",
+        "n": 3,
+        "every": 26,
+        "gain": [
+          0.06,
+          0.1
+        ],
+        "pitch": [
+          0.9,
+          1.15
+        ]
+      },
+      {
+        "at": "E7+20",
+        "clip": "counter_tick",
+        "n": 10,
+        "every": 6,
+        "gain": [
+          0.08,
+          0.12
+        ],
+        "pitch": [
+          0.95,
+          1.1
+        ]
+      },
+      {
+        "at": "I3+4",
+        "clip": "counter_tick",
+        "n": 10,
+        "every": 6,
+        "gain": [
+          0.08,
+          0.12
+        ],
+        "pitch": [
+          0.95,
+          1.1
+        ]
+      },
+      {
+        "at": "I4+4",
+        "clip": "counter_tick",
+        "n": 10,
+        "every": 6,
+        "gain": [
+          0.08,
+          0.12
+        ],
+        "pitch": [
+          0.95,
+          1.1
+        ]
+      }
+    ],
+    "music": {
+      "clip": "music",
+      "from": "C1",
+      "until": "D1",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -6.5,
+      "music_lu": -13
+    }
+  }
+}

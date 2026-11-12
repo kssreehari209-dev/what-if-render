@@ -1,0 +1,561 @@
+{
+ "id": "BlinkMl",
+ "slug": "blink-ml",
+ "topic": "What if you could teleport just by blinking? (Malayalam)",
+ "title": [
+  "കണ്ണ് ചിമ്മിയാൽ",
+  "ടെലിപോർട്ട് ചെയ്താലോ?"
+ ],
+ "accent": "ടെലിപോർട്ട്",
+ "power": {
+  "word": "Blink.",
+  "rule": "shut your eyes, picture a place, open them and you're there; you keep whatever speed you had",
+  "look": "Pip shrinks into a cyan ring and a pinch of sparks where he stood, and pops in with a ring where he lands; a BLINK chip"
+ },
+ "script": [
+  {
+   "beat": "1 cold open, demo 1 (small and selfish)",
+   "text": "വിശക്കുന്നു. ബ്ലിങ്ക്. നേരെ ഫ്രിഡ്ജിന് മുന്നിൽ."
+  },
+  {
+   "beat": "1 cold open, demo 2 (useful)",
+   "text": "ക്ലാസിന് ലേറ്റായി. ബ്ലിങ്ക്. ആദ്യം എത്തിയത് നീ."
+  },
+  {
+   "beat": "1 cold open, demo 3 (a little uncanny)",
+   "text": "മോ തിരിഞ്ഞുനോക്കുന്നു. ബ്ലിങ്ക്. നീ തൊട്ടുപിന്നിൽ."
+  },
+  {
+   "beat": "2 the premise (title card)",
+   "text": "കണ്ണ് ചിമ്മിയാൽ ടെലിപോർട്ട് ചെയ്യാൻ പറ്റിയാലോ?"
+  },
+  {
+   "beat": "3 fun",
+   "text": "ഭൂമിയിൽ എവിടേക്കും."
+  },
+  {
+   "beat": "4 the turn: the cost, one real fact",
+   "text": "ഒരു പ്രശ്നം: ഭൂമി കറങ്ങുന്നുണ്ട്. ഭൂമധ്യരേഖ മണിക്കൂറിൽ ആയിരത്തി അറുനൂറ് കിലോമീറ്ററിലധികം വേഗത്തിലാണ് നീങ്ങുന്നത്. ഇത് സത്യമാണ്."
+  },
+  {
+   "beat": "5-7 folded into a threat",
+   "text": "ഉത്തരധ്രുവത്തിലേക്ക് ബ്ലിങ്ക് ചെയ്താൽ... ആ വേഗം നിന്റെ കൂടെ വരും."
+  }
+ ],
+ "science": [
+  {
+   "claim": "The equator moves at over sixteen hundred kilometres an hour.",
+   "working": "Earth's equatorial circumference is 40,075 km and it turns once every sidereal day, 23.934 h. 40,075 / 23.934 = 1,674 km/h (465 m/s). Over 1,600 holds.",
+   "source": "NASA Earth Fact Sheet (equatorial radius 6,378.137 km, sidereal rotation period 23.9345 h)"
+  },
+  {
+   "claim": "Blink to the North Pole and you keep that speed.",
+   "working": "The episode's rule: a blink moves you but keeps your momentum (Newton's first law: nothing acts on you to slow you). At the pole the ground's rotational speed is 0, so you arrive moving about 1,674 km/h relative to the ice. The rule is the story's; the speed is real.",
+   "source": "Newton's first law; NASA Earth Fact Sheet"
+  }
+ ],
+ "cast": [
+  "ramu",
+  "appu"
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "medium",
+   "set": "study, dusk",
+   "key": 16,
+   "note": "Pip at his desk, an empty plate with crumbs, looks off toward the door; hungry"
+  },
+  {
+   "id": "S2",
+   "size": "extreme close-up",
+   "set": "study (soft)",
+   "key": 5,
+   "note": "BLINK: his eyes squeeze shut, then he shrinks into a cyan ring and a pinch of sparks"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 14,
+   "note": "Pip pops in by the fridge with a cyan ring, grinning; the cat jolts awake on the counter"
+  },
+  {
+   "id": "S4",
+   "size": "macro insert, high",
+   "set": "desk top",
+   "key": 18,
+   "note": "the alarm clock flips 08:59 to 09:00, red digits"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "study",
+   "key": 6,
+   "note": "BLINK: Pip in shock, bag strap on, eyes shut, gone in a ring"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "set": "classroom, empty",
+   "key": 16,
+   "note": "empty classroom; Pip pops in at his desk, first one there, smug"
+  },
+  {
+   "id": "S7",
+   "size": "wide, side-on",
+   "set": "stairwell",
+   "key": 20,
+   "note": "Mo halfway down the stairs looks back up over his shoulder: nobody there"
+  },
+  {
+   "id": "S8",
+   "size": "extreme close-up, profile",
+   "set": "stairwell (soft)",
+   "key": 5,
+   "note": "BLINK: Pip's eyes shut at the top of the stairs, glint, gone"
+  },
+  {
+   "id": "S9",
+   "size": "medium two-shot",
+   "set": "stairwell",
+   "key": 24,
+   "note": "Mo turns forward and Pip is right behind him, inches away, grinning; Mo jolts"
+  },
+  {
+   "id": "S10",
+   "size": "title, wide",
+   "set": "rooftop",
+   "key": 40,
+   "note": "the premise over the dusk city; Pip pops onto the roof"
+  },
+  {
+   "id": "S11",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 24,
+   "note": "a globe; cyan pins pop in all over it: anywhere"
+  },
+  {
+   "id": "S12",
+   "size": "medium, low angle",
+   "set": "rooftop",
+   "key": 14,
+   "note": "Pip's grin fades; he looks down"
+  },
+  {
+   "id": "S13",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 20,
+   "note": "the globe turns, a curved arrow round it: EARTH SPINS"
+  },
+  {
+   "id": "S14",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 28,
+   "note": "the equator draws on, a dot rides it with speed streaks"
+  },
+  {
+   "id": "S15",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 50,
+   "note": "1,674 KM/H counts up big, OVER 1,600 under it"
+  },
+  {
+   "id": "S16",
+   "size": "extreme close-up",
+   "set": "rooftop",
+   "key": 20,
+   "note": "Pip, worried; the light turning red"
+  },
+  {
+   "id": "S17",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 30,
+   "note": "Pip's dot hops from the equator to the North Pole; the pole reads 0 KM/H, Pip still 1,674"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "set": "polar ice at dusk",
+   "key": 30,
+   "note": "Pip pops onto the ice and is flung sideways out of frame at speed; snow spray, shake"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "വിശക്കുന്നു"
+  },
+  {
+   "shot": "S2",
+   "at": "ബ്ലിങ്ക്",
+   "look": "blink"
+  },
+  {
+   "shot": "S3",
+   "at": "നേരെ"
+  },
+  {
+   "shot": "S4",
+   "at": "ക്ലാസിന്"
+  },
+  {
+   "shot": "S5",
+   "at": "ബ്ലിങ്ക്",
+   "look": "blink"
+  },
+  {
+   "shot": "S6",
+   "at": "ആദ്യം"
+  },
+  {
+   "shot": "S7",
+   "at": "മോ"
+  },
+  {
+   "shot": "S8",
+   "at": "ബ്ലിങ്ക്",
+   "look": "blink"
+  },
+  {
+   "shot": "S9",
+   "at": "നീ"
+  },
+  {
+   "shot": "S10",
+   "at": "കണ്ണ്"
+  },
+  {
+   "shot": "S11",
+   "at": "ഭൂമിയിൽ"
+  },
+  {
+   "shot": "S12",
+   "at": "ഒരു"
+  },
+  {
+   "shot": "S13",
+   "at": "ഭൂമി"
+  },
+  {
+   "shot": "S14",
+   "at": "ഭൂമധ്യരേഖ"
+  },
+  {
+   "shot": "S15",
+   "at": "ആയിരത്തി"
+  },
+  {
+   "shot": "S16",
+   "at": "ഇത്"
+  },
+  {
+   "shot": "S17",
+   "at": "ഉത്തരധ്രുവത്തിലേക്ക്"
+  },
+  {
+   "shot": "S18",
+   "at": "ആ"
+  }
+ ],
+ "tail": 1.4,
+ "fx": [
+  {
+   "at": "S2+9",
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.5
+  },
+  {
+   "at": "S3+3",
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.35
+  },
+  {
+   "at": "S5+9",
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.5
+  },
+  {
+   "at": "S6+3",
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.35
+  },
+  {
+   "at": "S8+9",
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.45
+  },
+  {
+   "at": "S9+3",
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.35
+  },
+  {
+   "at": "S10",
+   "kind": "flash",
+   "color": "#FFF3DC"
+  },
+  {
+   "at": "S16",
+   "kind": "flash",
+   "color": "#FF3344",
+   "o": 0.4
+  },
+  {
+   "at": "S18+3",
+   "kind": "flash",
+   "color": "#DDF6FF",
+   "o": 0.4
+  },
+  {
+   "at": "S18+45",
+   "kind": "shake",
+   "len": 10,
+   "amp": 12
+  },
+  {
+   "at": "S18+44",
+   "kind": "flash",
+   "color": "#FF6A5A",
+   "o": 0.3
+  }
+ ],
+ "sound": {
+  "note": "library clips only (no ElevenLabs credits): the prompts match the library's cached files",
+  "clips": {
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "cat_chirp": [
+    "a cat making a short curious chirp meow",
+    0.6
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "paste_pop": [
+    "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+    0.7
+   ],
+   "power_hum": [
+    "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+    3.0
+   ],
+   "rewind_start": [
+    "a quick reverse swoosh, like a sound being sucked backwards",
+    0.7
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "tumble": [
+    "a cartoon character tumbling down wooden stairs, a quick series of bumps and thuds",
+    1.3
+   ]
+  },
+  "events": [
+   [
+    "S1",
+    "room_tone",
+    0.08,
+    "onset",
+    "S10"
+   ],
+   [
+    "S2+10",
+    "rewind_start",
+    0.3
+   ],
+   [
+    "S3+2",
+    "paste_pop",
+    0.3
+   ],
+   [
+    "S3+8",
+    "cat_chirp",
+    0.14
+   ],
+   [
+    "S4+28",
+    "buzzer",
+    0.16,
+    "onset",
+    "S5"
+   ],
+   [
+    "S5+10",
+    "rewind_start",
+    0.28
+   ],
+   [
+    "S6+2",
+    "paste_pop",
+    0.28
+   ],
+   [
+    "S6+12",
+    "sparkle",
+    0.12
+   ],
+   [
+    "S7+3",
+    "step",
+    0.14
+   ],
+   [
+    "S7+12",
+    "step",
+    0.14
+   ],
+   [
+    "S8+10",
+    "rewind_start",
+    0.26
+   ],
+   [
+    "S9+2",
+    "paste_pop",
+    0.26
+   ],
+   [
+    "S9+12",
+    "gasp",
+    0.18
+   ],
+   [
+    "S10",
+    "title_boom",
+    0.15,
+    "peak"
+   ],
+   [
+    "S10",
+    "roof_wind",
+    0.1,
+    "onset",
+    "S13"
+   ],
+   [
+    "S11+3",
+    "sparkle",
+    0.1
+   ],
+   [
+    "S13",
+    "power_hum",
+    0.04,
+    "onset",
+    "S16"
+   ],
+   [
+    "S15+2",
+    "counter_tick",
+    0.05,
+    "onset",
+    "S16"
+   ],
+   [
+    "S16",
+    "drone_hit",
+    0.09
+   ],
+   [
+    "S17+8",
+    "fall_whoosh",
+    0.15
+   ],
+   [
+    "S18",
+    "roof_wind",
+    0.08,
+    "onset"
+   ],
+   [
+    "S18+2",
+    "paste_pop",
+    0.24
+   ],
+   [
+    "S18+44",
+    "fall_whoosh",
+    0.3
+   ],
+   [
+    "S18+46",
+    "tumble",
+    0.18
+   ],
+   [
+    "S18+47",
+    "drone_hit",
+    0.1
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "from": "s:0.3",
+   "until": "S12"
+  },
+  "levels": {
+   "sfx_lu": -4,
+   "music_lu": -11
+  }
+ },
+ "lang": "ml",
+ "voice": {
+  "engine": "edge-tts",
+  "id": "ml-IN-MidhunNeural"
+ },
+ "gaps": {
+  "sentence": 0.3,
+  "comma": 0.2,
+  "question": 0.55
+ }
+}

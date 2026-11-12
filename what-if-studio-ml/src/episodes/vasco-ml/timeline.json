@@ -1,0 +1,548 @@
+{
+ "slug": "vasco-ml",
+ "title": "വാസ്കോ ഡ ഗാമ വന്നില്ലായിരുന്നെങ്കിൽ?",
+ "fps": 30,
+ "total": 2470,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 60,
+   "t0": 0,
+   "t1": 60,
+   "line": "കപ്പയും മീൻകറിയും."
+  },
+  {
+   "shot": "S2",
+   "a": 60,
+   "b": 134,
+   "t0": 0,
+   "t1": 74,
+   "line": "നീ കൈ നീട്ടുന്നു. കപ്പയില്ല."
+  },
+  {
+   "shot": "S3",
+   "a": 134,
+   "b": 251,
+   "t0": 0,
+   "t1": 117,
+   "line": "കറിയൊന്ന് നോക്ക്. ചുവപ്പ് പോയി. മുളകില്ല."
+  },
+  {
+   "shot": "S4",
+   "a": 251,
+   "b": 354,
+   "t0": 0,
+   "t1": 103,
+   "line": "മേശയിൽ കൈ വെച്ചു. ആ വാക്കുപോലും ഇല്ല."
+  },
+  {
+   "shot": "S5",
+   "a": 354,
+   "b": 423,
+   "t0": 0,
+   "t1": 69,
+   "line": "എല്ലാം ഒറ്റ കാര്യം കൊണ്ടാണ്."
+  },
+  {
+   "shot": "S6",
+   "a": 423,
+   "b": 531,
+   "t0": 0,
+   "t1": 108,
+   "line": "ആയിരത്തി നാനൂറ്റി തൊണ്ണൂറ്റിയെട്ടിൽ ഒരു കപ്പൽ കോഴിക്കോട് എത്തിയില്ല."
+  },
+  {
+   "shot": "S7",
+   "a": 531,
+   "b": 618,
+   "t0": 0,
+   "t1": 87,
+   "line": "വാസ്കോ ഡ ഗാമ വന്നില്ലായിരുന്നെങ്കിൽ?"
+  },
+  {
+   "shot": "S8",
+   "a": 618,
+   "b": 690,
+   "t0": 0,
+   "t1": 72,
+   "line": "എത്താതിരിക്കാൻ എളുപ്പമായിരുന്നു."
+  },
+  {
+   "shot": "S9",
+   "a": 690,
+   "b": 779,
+   "t0": 0,
+   "t1": 89,
+   "line": "നൂറ്റെഴുപത് പേർ ലിസ്ബണിൽ നിന്ന് കയറി."
+  },
+  {
+   "shot": "S10",
+   "a": 779,
+   "b": 871,
+   "t0": 0,
+   "t1": 92,
+   "line": "തിരിച്ചെത്തിയത് അമ്പത്തഞ്ചോളം പേർ മാത്രം."
+  },
+  {
+   "shot": "S11",
+   "a": 871,
+   "b": 967,
+   "t0": 0,
+   "t1": 96,
+   "line": "ആഫ്രിക്കൻ തീരത്ത് എത്തിയപ്പോൾ ഗാമയ്ക്ക് വഴി അറിയില്ല."
+  },
+  {
+   "shot": "S12",
+   "a": 967,
+   "b": 1045,
+   "t0": 0,
+   "t1": 78,
+   "line": "മലിന്ദിയിൽ നിന്ന് ഒരു നാവികനെ കിട്ടി."
+  },
+  {
+   "shot": "S13",
+   "a": 1045,
+   "b": 1157,
+   "t0": 0,
+   "t1": 112,
+   "line": "അയാളാണ് ഇരുപത്തിമൂന്ന് ദിവസം കൊണ്ട് കടൽ കടത്തിയത്."
+  },
+  {
+   "shot": "S14",
+   "a": 1157,
+   "b": 1235,
+   "t0": 0,
+   "t1": 78,
+   "line": "അയാൾ വേണ്ടെന്ന് പറഞ്ഞെന്ന് വിചാരിക്ക്."
+  },
+  {
+   "shot": "S15",
+   "a": 1235,
+   "b": 1370,
+   "t0": 0,
+   "t1": 135,
+   "line": "പറങ്കിമാങ്ങ ഇല്ല. പേരിലെ പറങ്കി, പോർച്ചുഗീസുകാർ തന്നെയാണ്."
+  },
+  {
+   "shot": "S16",
+   "a": 1370,
+   "b": 1411,
+   "t0": 0,
+   "t1": 41,
+   "line": "ജനാല."
+  },
+  {
+   "shot": "S17",
+   "a": 1411,
+   "b": 1450,
+   "t0": 0,
+   "t1": 39,
+   "line": "ചാവി."
+  },
+  {
+   "shot": "S18",
+   "a": 1450,
+   "b": 1492,
+   "t0": 0,
+   "t1": 42,
+   "line": "അലമാര."
+  },
+  {
+   "shot": "S19",
+   "a": 1492,
+   "b": 1566,
+   "t0": 0,
+   "t1": 74,
+   "line": "ഈ വാക്കുകളും അവരുടേതാണ്."
+  },
+  {
+   "shot": "S20",
+   "a": 1566,
+   "b": 1619,
+   "t0": 0,
+   "t1": 53,
+   "line": "ഇനി മറ്റേ വശം."
+  },
+  {
+   "shot": "S21",
+   "a": 1619,
+   "b": 1718,
+   "t0": 0,
+   "t1": 99,
+   "line": "ആയിരത്തി അഞ്ഞൂറ്റിരണ്ടിൽ ഗാമ വീണ്ടും വന്നു."
+  },
+  {
+   "shot": "S22",
+   "a": 1718,
+   "b": 1806,
+   "t0": 0,
+   "t1": 88,
+   "line": "മക്കയിൽ നിന്ന് മടങ്ങുന്ന ഒരു കപ്പൽ പിടിച്ചു."
+  },
+  {
+   "shot": "S23",
+   "a": 1806,
+   "b": 1883,
+   "t0": 0,
+   "t1": 77,
+   "line": "നൂറുകണക്കിന് മനുഷ്യർ അകത്ത്."
+  },
+  {
+   "shot": "S24",
+   "a": 1883,
+   "b": 1940,
+   "t0": 0,
+   "t1": 57,
+   "line": "അയാൾ അതിന് തീയിട്ടു."
+  },
+  {
+   "shot": "S25",
+   "a": 1940,
+   "b": 1974,
+   "t0": 0,
+   "t1": 34,
+   "line": "അതും നടക്കില്ല."
+  },
+  {
+   "shot": "S26",
+   "a": 1974,
+   "b": 2042,
+   "t0": 0,
+   "t1": 68,
+   "line": "അപ്പോൾ നമ്മൾ രക്ഷപ്പെട്ടോ?"
+  },
+  {
+   "shot": "S27",
+   "a": 2042,
+   "b": 2108,
+   "t0": 0,
+   "t1": 66,
+   "line": "കുരുമുളക് ഇവിടെത്തന്നെയുണ്ട്."
+  },
+  {
+   "shot": "S28",
+   "a": 2108,
+   "b": 2224,
+   "t0": 0,
+   "t1": 116,
+   "line": "ഡച്ചുകാരും ഇംഗ്ലീഷുകാരും പിന്നാലെ വന്നത് അതിനാണ്."
+  },
+  {
+   "shot": "S29",
+   "a": 2224,
+   "b": 2304,
+   "t0": 0,
+   "t1": 80,
+   "line": "ഗാമ ഇല്ലെങ്കിലും ആരെങ്കിലും വരും."
+  },
+  {
+   "shot": "S30",
+   "a": 2304,
+   "b": 2470,
+   "t0": 0,
+   "t1": 166,
+   "line": "അവർ എന്ത് കൊണ്ടുവരും? എന്ത് കൊണ്ടുപോകും?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 30,
+   "len": 60,
+   "first": 0,
+   "line": "കപ്പയും മീൻകറിയും.",
+   "note": "Dusk dining room: Pip at the table with kappa and fish curry, Mo in the doorway with a tea glass"
+  },
+  {
+   "id": "S2",
+   "size": "insert top-down",
+   "key": 56,
+   "len": 74,
+   "first": 60,
+   "line": "നീ കൈ നീട്ടുന്നു. കപ്പയില്ല.",
+   "note": "Steel plate from above: the hand reaches, the kappa pops out, the hand closes on air"
+  },
+  {
+   "id": "S3",
+   "size": "macro",
+   "key": 100,
+   "len": 117,
+   "first": 134,
+   "line": "കറിയൊന്ന് നോക്ക്. ചുവപ്പ് പോയി. മുളകില്ല.",
+   "note": "Red curry goes pale; a tiny chilli in a captain's hat walks out of the bowl with a suitcase (gag)"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 56,
+   "len": 103,
+   "first": 251,
+   "line": "മേശയിൽ കൈ വെച്ചു. ആ വാക്കുപോലും ഇല്ല.",
+   "note": "Pip's hand on the table; the table blinks out, the plate drops, Pip tips forward"
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "key": 30,
+   "len": 69,
+   "first": 354,
+   "line": "എല്ലാം ഒറ്റ കാര്യം കൊണ്ടാണ്.",
+   "note": "Mo mid-sip stares; behind Mo, Pip's feet in the air (gag)"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 60,
+   "len": 108,
+   "first": 423,
+   "line": "ആയിരത്തി നാനൂറ്റി തൊണ്ണൂറ്റിയെട്ടിൽ ഒരു കപ്പൽ കോഴിക്കോട് എത്തിയില്ല.",
+   "note": "Dusk sea, one caravel, 1498 tag; it fades out before it reaches the far coast"
+  },
+  {
+   "id": "S7",
+   "size": "wide title",
+   "key": 40,
+   "len": 87,
+   "first": 531,
+   "line": "വാസ്കോ ഡ ഗാമ വന്നില്ലായിരുന്നെങ്കിൽ?",
+   "note": "Empty Kerala shore at dusk, no ship, title card"
+  },
+  {
+   "id": "S8",
+   "size": "schematic",
+   "key": 60,
+   "len": 72,
+   "first": 618,
+   "line": "എത്താതിരിക്കാൻ എളുപ്പമായിരുന്നു.",
+   "note": "The route draws on: Lisbon, round Africa, Malindi, Kerala"
+  },
+  {
+   "id": "S9",
+   "size": "low wide",
+   "key": 50,
+   "len": 89,
+   "first": 690,
+   "line": "നൂറ്റെഴുപത് പേർ ലിസ്ബണിൽ നിന്ന് കയറി.",
+   "note": "The caravel big in frame, crowded rail, 170 counts up"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 50,
+   "len": 92,
+   "first": 779,
+   "line": "തിരിച്ചെത്തിയത് അമ്പത്തഞ്ചോളം പേർ മാത്രം.",
+   "note": "The same ship heading home, torn sails, a few heads, about 55"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 60,
+   "len": 96,
+   "first": 871,
+   "line": "ആഫ്രിക്കൻ തീരത്ത് എത്തിയപ്പോൾ ഗാമയ്ക്ക് വഴി അറിയില്ല.",
+   "note": "Captain turns his map round and round, compass spinning (gag)"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 40,
+   "len": 78,
+   "first": 967,
+   "line": "മലിന്ദിയിൽ നിന്ന് ഒരു നാവികനെ കിട്ടി.",
+   "note": "Malindi jetty: captain pleads, the pilot stands calm, dhow behind"
+  },
+  {
+   "id": "S13",
+   "size": "high",
+   "key": 70,
+   "len": 112,
+   "first": 1045,
+   "line": "അയാളാണ് ഇരുപത്തിമൂന്ന് ദിവസം കൊണ്ട് കടൽ കടത്തിയത്.",
+   "note": "Night crossing: pilot at the helm reading the stars, captain asleep; day dial runs to 23 (gag)"
+  },
+  {
+   "id": "S14",
+   "size": "close-up",
+   "key": 40,
+   "len": 78,
+   "first": 1157,
+   "line": "അയാൾ വേണ്ടെന്ന് പറഞ്ഞെന്ന് വിചാരിക്ക്.",
+   "note": "The pilot folds his arms and shakes his head; captain's hat droops"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 22,
+   "len": 135,
+   "first": 1235,
+   "line": "പറങ്കിമാങ്ങ ഇല്ല. പേരിലെ പറങ്കി, പോർച്ചുഗീസുകാർ തന്നെയാണ്.",
+   "note": "Mo jumps for a cashew apple, it pops away, Mo lands on nothing; parangi tag"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 30,
+   "len": 41,
+   "first": 1370,
+   "line": "ജനാല.",
+   "note": "Pip leaning at the window; the window goes, Pip bonks on a blank wall (gag); ജനാല / janela"
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "key": 26,
+   "len": 39,
+   "first": 1411,
+   "line": "ചാവി.",
+   "note": "Mo at the door, the key vanishes from the hand, Mo tries a finger in the lock (gag); ചാവി / chave"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 38,
+   "len": 42,
+   "first": 1450,
+   "line": "അലമാര.",
+   "note": "The cupboard vanishes and all the clothes land on Pip (gag); അലമാര / armario"
+  },
+  {
+   "id": "S19",
+   "size": "schematic",
+   "key": 50,
+   "len": 74,
+   "first": 1492,
+   "line": "ഈ വാക്കുകളും അവരുടേതാണ്.",
+   "note": "Four word pairs line up: മേശ mesa, ജനാല janela, ചാവി chave, അലമാര armario"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 40,
+   "len": 53,
+   "first": 1566,
+   "line": "ഇനി മറ്റേ വശം.",
+   "note": "Pip and Mo stop laughing as the room's light drains"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 60,
+   "len": 99,
+   "first": 1619,
+   "line": "ആയിരത്തി അഞ്ഞൂറ്റിരണ്ടിൽ ഗാമ വീണ്ടും വന്നു.",
+   "note": "Red dusk, a line of warships, 1502 tag"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "key": 50,
+   "len": 88,
+   "first": 1718,
+   "line": "മക്കയിൽ നിന്ന് മടങ്ങുന്ന ഒരു കപ്പൽ പിടിച്ചു.",
+   "note": "The big ship alongside a small pilgrim ship with white sails"
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "key": 40,
+   "len": 77,
+   "first": 1806,
+   "line": "നൂറുകണക്കിന് മനുഷ്യർ അകത്ത്.",
+   "note": "Silhouettes sitting in a dim hold round one lamp"
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "key": 45,
+   "len": 57,
+   "first": 1883,
+   "line": "അയാൾ അതിന് തീയിട്ടു.",
+   "note": "Far away on the dark horizon a small fire; no people seen"
+  },
+  {
+   "id": "S25",
+   "size": "wide",
+   "key": 20,
+   "len": 34,
+   "first": 1940,
+   "line": "അതും നടക്കില്ല.",
+   "note": "The same horizon, calm and empty, one fishing boat"
+  },
+  {
+   "id": "S26",
+   "size": "close-up",
+   "key": 40,
+   "len": 68,
+   "first": 1974,
+   "line": "അപ്പോൾ നമ്മൾ രക്ഷപ്പെട്ടോ?",
+   "note": "Pip breathes out, the smile starts"
+  },
+  {
+   "id": "S27",
+   "size": "macro",
+   "key": 40,
+   "len": 66,
+   "first": 2042,
+   "line": "കുരുമുളക് ഇവിടെത്തന്നെയുണ്ട്.",
+   "note": "Pepper vine in the dusk, green and red corns; the smile's answer"
+  },
+  {
+   "id": "S28",
+   "size": "wide",
+   "key": 70,
+   "len": 116,
+   "first": 2108,
+   "line": "ഡച്ചുകാരും ഇംഗ്ലീഷുകാരും പിന്നാലെ വന്നത് അതിനാണ്.",
+   "note": "Ships with new flags rise over the horizon one by one"
+  },
+  {
+   "id": "S29",
+   "size": "over the shoulder",
+   "key": 50,
+   "len": 80,
+   "first": 2224,
+   "line": "ഗാമ ഇല്ലെങ്കിലും ആരെങ്കിലും വരും.",
+   "note": "Pip and Mo from behind, dark and big, more sails coming"
+  },
+  {
+   "id": "S30",
+   "size": "extreme close-up",
+   "key": 70,
+   "len": 166,
+   "first": 2304,
+   "line": "അവർ എന്ത് കൊണ്ടുവരും? എന്ത് കൊണ്ടുപോകും?",
+   "note": "Pip's eyes, a sail reflected in them"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 10,
+   "f": 307
+  },
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 8,
+   "f": 1394
+  },
+  {
+   "kind": "flash",
+   "color": "#ef4444",
+   "o": 0.5,
+   "f": 1620
+  }
+ ],
+ "audio": {
+  "voice": "vasco-ml/voice.wav",
+  "sfx": "vasco-ml/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.6654,
+  "music": "vasco-ml/music.wav",
+  "musicVol": 0.1043
+ }
+}

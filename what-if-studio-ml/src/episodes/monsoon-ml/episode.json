@@ -1,0 +1,2256 @@
+{
+  "id": "MonsoonMl",
+  "slug": "monsoon-ml",
+  "topic": "What if Kerala had no monsoon? (Malayalam, long-form)",
+  "title": [
+    "കാലവർഷം",
+    "വന്നില്ലെങ്കിൽ?"
+  ],
+  "accent": "കാലവർഷം",
+  "language": "ml",
+  "voice": {
+    "engine": "edge-tts",
+    "id": "ml-IN-SobhanaNeural",
+    "language": "Malayalam (India)",
+    "rate": "+0%"
+  },
+  "gaps": {
+    "word": 0.15,
+    "comma": 0.45,
+    "sentence": 0.85,
+    "question": 1.0,
+    "pairs": {
+      "ഉപ്പ്|കടൽവെള്ളത്തിന്റെ": 2.0,
+      "അമ്മയാണ്|ഇത്": 1.4,
+      "പറഞ്ഞു|നീ": 1.8,
+      "പോലുമില്ല|ഈ": 2.0,
+      "വന്നില്ലെങ്കിലോ|ഓരോ": 2.2,
+      "തിരിയുന്നില്ല|ഇതൊന്നും": 1.0,
+      "എത്തും|പതിനാല്": 2.4,
+      "തുള്ളിയില്ല|ആദ്യത്തെ": 2.4,
+      "യൂണിഫോമില്ല|ജൂലൈയിൽ": 2.0,
+      "നട്ടുച്ചയ്ക്ക്|അമ്മ": 2.0,
+      "കണ്ടിട്ടില്ല|കുട്ടികൾക്ക്": 2.0,
+      "കാര്യമില്ല|ജൂലൈ": 2.0,
+      "അറിഞ്ഞു|ഒരു": 1.0,
+      "വെള്ളം|ഒരു": 1.8,
+      "വന്നില്ല|രണ്ടായിരത്തി": 1.2,
+      "ആഗസ്റ്റ്|ആ": 1.0,
+      "പോയി|കടലും": 1.2,
+      "കാലിയായി|ആഗസ്റ്റ്": 2.2,
+      "കൂടി|ആദ്യം": 1.0,
+      "നിന്നു|ഓണം": 2.0,
+      "ഇരുന്നു|പാലക്കാട്ടെ": 2.2,
+      "നാട്ടിലേക്കിറങ്ങി|നിന്റെ": 2.4,
+      "പോയി|ഒക്ടോബറിൽ": 1.8,
+      "കുടിച്ചുതീർത്തു|ഡിസംബർ": 1.0,
+      "നടന്നതാണ്|ആ": 0.9,
+      "തുറന്നത്|തൊട്ടപ്പുറത്ത്": 1.4,
+      "ലിറ്റർ|അന്ന്": 2.4,
+      "ശബ്ദം|വെള്ളം": 1.8,
+      "വെള്ളം|പിറ്റേന്ന്": 1.4,
+      "പറഞ്ഞില്ല|മൂന്നാം": 2.4,
+      "പൈസ|അനിയത്തി": 2.4,
+      "പോകും|കടലാസ്": 1.2,
+      "ചെയ്യും|മൂന്നാം": 2.2,
+      "പോലെയായി|എല്ലാ": 1.0,
+      "പൂട്ട്|കൊച്ചി": 2.4,
+      "വലുതാണ്|പിന്നെ": 2.2,
+      "ഇരുണ്ടു|ഒരു": 1.1,
+      "കരഞ്ഞു|ആളുകൾ": 1.2,
+      "മഴ|നീ": 1.8,
+      "വേരില്ല|രണ്ടായിരത്തി": 1.0,
+      "തുറന്നു|രണ്ട്": 1.2
+    }
+  },
+  "cast": [
+    "ramu",
+    "appu",
+    "sis",
+    "mom",
+    "suit"
+  ],
+  "tail": 4.0,
+  "script": [
+    {
+      "beat": "a1 cold open",
+      "text": "കൊച്ചിയിലെ ഫ്ലാറ്റിൽ രാവിലെ ടാപ്പ് തുറന്ന് നീ ഒരു കവിൾ വെള്ളം കുടിച്ചു."
+    },
+    {
+      "beat": "a2 the salt, gag: spit-take over the cat",
+      "text": "ഉപ്പ്.",
+      "hold": 1.4
+    },
+    {
+      "beat": "a3",
+      "text": "കടൽവെള്ളത്തിന്റെ ഉപ്പ്. താഴെ റോഡിൽ ഒരു ടാങ്കർ ലോറിയുടെ ഹോൺ. അതിന് പിന്നാലെ കുടവുമായി ഓടുന്നത് നിന്റെ അമ്മയാണ്.",
+      "hold": 0.8
+    },
+    {
+      "beat": "a4",
+      "text": "ഇത് ഡിസംബറാണ്. ആറ് മാസം മുമ്പ് വരെ ഈ നാട്ടിൽ വെള്ളം ഒരു വിഷയമേ ആയിരുന്നില്ല."
+    },
+    {
+      "beat": "b1 June 1",
+      "text": "ജൂൺ ഒന്ന്. സ്കൂൾ തുറക്കുന്ന ദിവസം. പുതിയ ബാഗ്, പുതിയ ചെരുപ്പ്, പുതിയ കുട."
+    },
+    {
+      "beat": "b2 gag: umbrella after umbrella",
+      "text": "കുട എടുക്കാതെ പോകരുതെന്ന് അമ്മ മൂന്ന് തവണ പറഞ്ഞു.",
+      "hold": 1.2
+    },
+    {
+      "beat": "b3 gag: a row of kids under umbrellas in blazing sun",
+      "text": "നീ ആകാശത്തേക്ക് നോക്കി. നല്ല നീല. ഒരു മേഘം പോലുമില്ല.",
+      "hold": 1.4
+    },
+    {
+      "beat": "b4 title",
+      "text": "ഈ വർഷം കേരളത്തിൽ കാലവർഷം വന്നില്ലെങ്കിലോ?",
+      "hold": 1.6
+    },
+    {
+      "beat": "c2",
+      "text": "ഓരോ കൊല്ലവും കടലിൽ നിന്ന് ഈർപ്പം നിറഞ്ഞ കാറ്റ് ആദ്യം മുട്ടുന്നത് കേരളത്തിന്റെ വാതിലിലാണ്. പശ്ചിമഘട്ടത്തിൽ തട്ടി ആ കാറ്റ് മുകളിലേക്ക് കയറും. തണുക്കും. പെയ്യും."
+    },
+    {
+      "beat": "c3 the rule",
+      "text": "ഈ കഥയിൽ ഒരൊറ്റ കാര്യമേ നമ്മൾ മാറ്റുന്നുള്ളൂ. ആ കാറ്റ് ഇത്തവണ നമ്മുടെ തീരത്തേക്ക് തിരിയുന്നില്ല.",
+      "hold": 0.4
+    },
+    {
+      "beat": "d1 gag: same headline, the anchor in a raincoat wilts",
+      "text": "ഇതൊന്നും ആദ്യം ആരും അറിയുന്നില്ല. ടിവിയിൽ എല്ലാ ദിവസവും ഒരേ വാർത്ത. കാലവർഷം രണ്ട് ദിവസത്തിനകം എത്തും.",
+      "hold": 1.8
+    },
+    {
+      "beat": "d2 real: how the IMD declares it, gag: Mo tips his glass into the rain gauge",
+      "text": "പതിനാല് നിരീക്ഷണ കേന്ദ്രങ്ങളിൽ അറുപത് ശതമാനത്തിലും തുടർച്ചയായി രണ്ട് ദിവസം മഴ കിട്ടണം. എങ്കിലേ കാലവർഷം വന്നെന്ന് പറയൂ. ഇത്തവണ പതിനാലിലും ഒരു തുള്ളിയില്ല.",
+      "hold": 1.8
+    },
+    {
+      "beat": "e1 gag: Mo jumps into a puddle that is not there",
+      "text": "ആദ്യത്തെ ആഴ്ച എല്ലാവർക്കും സന്തോഷമാണ്. ചെളിയില്ല. നനഞ്ഞ യൂണിഫോമില്ല.",
+      "hold": 1.4
+    },
+    {
+      "beat": "e2 gag: Mo melts at the crease",
+      "text": "ജൂലൈയിൽ സ്കൂൾ ഗ്രൗണ്ടിൽ ക്രിക്കറ്റ്. അതും നട്ടുച്ചയ്ക്ക്.",
+      "hold": 1.4
+    },
+    {
+      "beat": "e3 gag: the shirt dries so stiff it stands up",
+      "text": "അമ്മ വിരിച്ച തുണി ഒരു മണിക്കൂറിൽ ഉണങ്ങി. ഇത്രയും സന്തോഷത്തിൽ അമ്മയെ നീ കണ്ടിട്ടില്ല.",
+      "hold": 1.4
+    },
+    {
+      "beat": "e4 gag: Mo refreshing the collector's page, cobweb on his thumb",
+      "text": "കുട്ടികൾക്ക് ഒരേയൊരു സങ്കടം. മഴ അവധി ഇല്ല. കളക്ടറുടെ പേജ് എത്ര നോക്കിയിട്ടും കാര്യമില്ല.",
+      "hold": 1.4
+    },
+    {
+      "beat": "f1 the first unease",
+      "text": "ജൂലൈ അവസാനം, ഫ്ലാറ്റിന് പിന്നിലെ തോട്ടിൽ വെള്ളം കണങ്കാലോളം താഴ്ന്നു. രാത്രി തവളകളുടെ ഒച്ചയില്ല. ഈ നാട് ഇത്ര നിശ്ശബ്ദമാണെന്ന് നീ ആദ്യമായി അറിഞ്ഞു.",
+      "hold": 0.4
+    },
+    {
+      "beat": "f2 the number, gag: Pip on tiptoe with a snorkel",
+      "text": "ഒരു സാധാരണ കൊല്ലം ഈ നാല് മാസം കേരളത്തിൽ പെയ്യുന്നത് രണ്ട് മീറ്റർ മഴയാണ്. നീ നിവർന്ന് നിന്നാലും നിന്റെ തലയ്ക്ക് മുകളിൽ നിൽക്കുന്ന വെള്ളം.",
+      "hold": 1.2
+    },
+    {
+      "beat": "f3 the account",
+      "text": "ഒരു കൊല്ലം കിട്ടുന്ന മഴയുടെ മൂന്നിൽ രണ്ടും ഈ നാല് മാസത്തിലാണ്. അതാണ് നാടിന്റെ ബാങ്ക് ബാലൻസ്. കിണറും പുഴയും ഡാമും അതിലാണ് ഓടുന്നത്. ഇത്തവണ ആ അക്കൗണ്ടിലേക്ക് ഒന്നും വന്നില്ല.",
+      "hold": 0.6
+    },
+    {
+      "beat": "f4 2016",
+      "text": "രണ്ടായിരത്തി പതിനാറിൽ മഴ മുപ്പത്തിനാല് ശതമാനം കുറഞ്ഞപ്പോൾ തന്നെ പതിനാല് ജില്ലകളും വരൾച്ചബാധിതമായി."
+    },
+    {
+      "beat": "f4b real: August 2023",
+      "text": "രണ്ടായിരത്തി ഇരുപത്തിമൂന്നിലെ ആഗസ്റ്റിൽ പെയ്തത് ആറ് സെന്റിമീറ്റർ മാത്രം. നൂറ്റി ഇരുപത് കൊല്ലത്തിനിടെ ഏറ്റവും വരണ്ട ആഗസ്റ്റ്.",
+      "hold": 0.4
+    },
+    {
+      "beat": "f4c",
+      "text": "ആ രണ്ട് കൊല്ലവും കുറഞ്ഞത് മൂന്നിലൊന്നോളമാണ്. ഇത്തവണ മുഴുവനും പോയി.",
+      "hold": 0.6
+    },
+    {
+      "beat": "f5 the sea, gag: cat and fish seller stare at the empty basket",
+      "text": "കടലും അതറിഞ്ഞു. കാലവർഷക്കാറ്റാണ് മത്തിയുടെ തീറ്റ തീരത്തേക്ക് കൊണ്ടുവരുന്നത്. മത്തി എത്ര വേഗം പോകുമെന്ന് നമ്മൾ കണ്ടതാണ്. രണ്ടായിരത്തി പന്ത്രണ്ടിൽ കേരളത്തിന് കിട്ടിയത് നാല് ലക്ഷം ടൺ. രണ്ടായിരത്തി ഇരുപത്തിയൊന്നിൽ വെറും മൂവായിരത്തഞ്ഞൂറ് ടൺ. ഇത്തവണ ചന്തയിൽ മീൻകാരന്റെ കുട്ട പകുതി കാലിയായി.",
+      "hold": 1.6
+    },
+    {
+      "beat": "f6 Idukki",
+      "text": "ആഗസ്റ്റ്. ഇടുക്കി ഡാമിൽ വെള്ളം താഴേക്ക് പോകുന്നു. കേരളത്തിലെ ഏറ്റവും വലിയ ജലവൈദ്യുത നിലയം ഓടുന്നത് ആ വെള്ളത്തിലാണ്."
+    },
+    {
+      "beat": "f6b real: Idukki 2017 and the power bill",
+      "text": "രണ്ടായിരത്തി പതിനേഴിലെ വേനലിൽ ഇടുക്കിയിൽ ബാക്കിയുണ്ടായിരുന്നത് ഏകദേശം ഇരുപത് ശതമാനം വെള്ളം. പുറത്ത് നിന്ന് വൈദ്യുതി വാങ്ങാനുള്ള ചെലവ് ഒരു കൊല്ലം കൊണ്ട് രണ്ടായിരം കോടിയോളം കൂടി.",
+      "hold": 0.4
+    },
+    {
+      "beat": "f7 gag: Mo fans himself with a steel plate, then fans the dead fan",
+      "text": "ആദ്യം അര മണിക്കൂർ കറണ്ട് പോകും. പിന്നെ രണ്ട് മണിക്കൂർ. പിന്നെ എപ്പോൾ വരുമെന്ന് ആരും പറയുന്നില്ല. ഫാൻ നിന്നു. ഫ്രിഡ്ജ് നിന്നു.",
+      "hold": 1.4
+    },
+    {
+      "beat": "f8 gag: the sadya list shrinks, one pappadam cut four ways",
+      "text": "ഓണം വന്നു. അരിക്ക് വില. പച്ചക്കറിക്ക് വില. വാഴയിലയ്ക്ക് പോലും വില. അച്ഛൻ സദ്യയുടെ ലിസ്റ്റ് നോക്കി ഒന്നും മിണ്ടാതെ ഇരുന്നു.",
+      "hold": 1.6
+    },
+    {
+      "beat": "f9 the farms",
+      "text": "പാലക്കാട്ടെ വയലുകൾ വിണ്ടുകീറി. വയനാട്ടിൽ കുരുമുളക് വള്ളികൾ ഉണങ്ങി. ഇടുക്കിയിൽ ഏലം കരിഞ്ഞു."
+    },
+    {
+      "beat": "f10 gag: an elephant waits in the tanker queue, pot in its trunk",
+      "text": "കാട്ടിലെ കുളങ്ങൾ വറ്റിയപ്പോൾ ആനകൾ വെള്ളം തേടി നാട്ടിലേക്കിറങ്ങി.",
+      "hold": 1.8
+    },
+    {
+      "beat": "f11 Mo leaves",
+      "text": "നിന്റെ കൂട്ടുകാരന്റെ അച്ഛന് നാട്ടിൽ രണ്ടേക്കർ നെല്ലായിരുന്നു. ഒരു ദിവസം രാവിലെ അവർ സാധനങ്ങൾ ലോറിയിൽ കയറ്റി. ഗ്രൗണ്ടിലെ ബാറ്റ് അവൻ നിനക്ക് തന്നിട്ട് പോയി.",
+      "hold": 1.2
+    },
+    {
+      "beat": "f12 thulavarsham",
+      "text": "ഒക്ടോബറിൽ തുലാവർഷം വന്നപ്പോൾ നാട് മുഴുവൻ മുറ്റത്തിറങ്ങി നിന്നു. കുറച്ച് ദിവസം പെയ്തു. ഉണങ്ങിയ മണ്ണ് അത് ഒറ്റയടിക്ക് കുടിച്ചുതീർത്തു.",
+      "hold": 0.4
+    },
+    {
+      "beat": "g1 the salt comes up the river",
+      "text": "ഡിസംബർ. പെരിയാർ മെലിഞ്ഞപ്പോൾ കടൽ പുഴയിലൂടെ മുകളിലേക്ക് കയറാൻ തുടങ്ങി. കൊച്ചി കുടിക്കുന്നത് പെരിയാറിനെയാണ്. ഉപ്പ് കൂടിയാൽ ആലുവയിലെ പമ്പ് നിർത്തണം. രണ്ടായിരത്തി പതിനാറിൽ ഒരിക്കൽ അത് നടന്നതാണ്.",
+      "hold": 0.3
+    },
+    {
+      "beat": "g2 back to the tap",
+      "text": "ആ പമ്പ് നിന്ന ദിവസമാണ് നീ ടാപ്പ് തുറന്നത്.",
+      "hold": 0.8
+    },
+    {
+      "beat": "g3 real: Chennai 2019, gag: a man with a kudam runs after the water train",
+      "text": "തൊട്ടപ്പുറത്ത് ചെന്നൈ ഇതിലൂടെ കടന്നുപോയിട്ടുണ്ട്. രണ്ടായിരത്തി പത്തൊമ്പതിൽ നഗരത്തിന്റെ നാല് പ്രധാന ജലസംഭരണികളും വറ്റാറായി. അവസാനം കുടിവെള്ളം വന്നത് തീവണ്ടിയിലാണ്. ഒരു യാത്രയിൽ ഇരുപത്തഞ്ച് ലക്ഷം ലിറ്റർ.",
+      "hold": 1.8
+    },
+    {
+      "beat": "h1 the well",
+      "text": "അന്ന് വൈകുന്നേരം നിങ്ങൾ അമ്മൂമ്മയുടെ വീട്ടിലേക്ക് പോയി. മുറ്റത്ത് ഒരു പഴയ കിണർ. അമ്മൂമ്മ കയർ താഴേക്ക് ഇട്ടു. ഏറെ നേരം കഴിഞ്ഞ്, ഒരു ചെറിയ ശബ്ദം.",
+      "hold": 1.2
+    },
+    {
+      "beat": "h2",
+      "text": "വെള്ളം.",
+      "hold": 0.8
+    },
+    {
+      "beat": "h3 gag: the elephant is back, last in the queue",
+      "text": "പിറ്റേന്ന് രാവിലെ ആറു മണിക്ക് മുറ്റത്ത് അയൽക്കാരുടെ വരി. അമ്മൂമ്മ ആരോടും വേണ്ടെന്ന് പറഞ്ഞില്ല.",
+      "hold": 1.8
+    },
+    {
+      "beat": "h4 the suit",
+      "text": "മൂന്നാം ദിവസം ഗേറ്റിൽ ഒരു കറുത്ത കാർ നിന്നു. കോട്ടിട്ട ഒരാൾ. അയാൾക്ക് ഒരു ടാങ്കർ കമ്പനിയുണ്ട്. അയാൾ ഒരു കടലാസിൽ ഒരു തുക എഴുതി നീട്ടി."
+    },
+    {
+      "beat": "h5 gag: Dad counts the zeros and slowly tips over",
+      "text": "അച്ഛൻ പത്ത് കൊല്ലം ഗൾഫിൽ നിന്നാലും കിട്ടാത്ത പൈസ.",
+      "hold": 1.8
+    },
+    {
+      "beat": "h6 the choice",
+      "text": "അനിയത്തി വരിയിലേക്ക് നോക്കി ചോദിച്ചു, അപ്പോൾ ഇവർ എവിടെ പോകും?",
+      "hold": 0.6
+    },
+    {
+      "beat": "h7",
+      "text": "കടലാസ് ഇപ്പോൾ നിന്റെ കയ്യിലാണ്. നീയാണെങ്കിൽ എന്ത് ചെയ്യും?",
+      "hold": 1.6
+    },
+    {
+      "beat": "i1 year three",
+      "text": "മൂന്നാം വർഷം. ഇത് നമ്മൾ അറിയുന്ന കേരളമല്ല. ബസിന്റെ ജനലിലൂടെ നോക്ക്. പച്ച പോയി. കുന്നുകൾക്ക് തവിട്ട് നിറം."
+    },
+    {
+      "beat": "i1b real: Chinnar, the Kerala that already lives without the monsoon",
+      "text": "കേരളത്തിൽ ഇപ്പോൾ തന്നെ ഇങ്ങനെയൊരു മൂലയുണ്ട്. ഇടുക്കിയിലെ ചിന്നാർ. മലയുടെ മഴ കിട്ടാത്ത വശം. ഒരു കൊല്ലം പെയ്യുന്നത് ഏകദേശം അഞ്ഞൂറ് മില്ലിമീറ്റർ. ഇന്ന് നാട് മുഴുവൻ ചിന്നാർ പോലെയായി.",
+      "hold": 0.4
+    },
+    {
+      "beat": "i2 gag: a padlock on every tank, a neighbour with a very long straw",
+      "text": "എല്ലാ വീടിന്റെയും മുകളിൽ ഒരു ടാങ്ക്. ടാങ്കിന് ഒരു പൂട്ട്.",
+      "hold": 1.8
+    },
+    {
+      "beat": "i3 gag: the water bill rolls out of the door",
+      "text": "കൊച്ചി കായലിനടുത്ത് കടൽവെള്ളം ശുദ്ധീകരിക്കുന്ന വലിയ പ്ലാന്റുകൾ. ചെന്നൈക്ക് ഇപ്പോൾ തന്നെ ദിവസം മുപ്പത്താറ് കോടി ലിറ്റർ കടൽവെള്ളം ശുദ്ധീകരിക്കാനുള്ള ശേഷിയുണ്ട്. വെള്ളത്തിന്റെ ബില്ല് ഇപ്പോൾ വാടകയെക്കാൾ വലുതാണ്.",
+      "hold": 1.6
+    },
+    {
+      "beat": "j1 the day it comes",
+      "text": "പിന്നെ ഒരു ജൂൺ ഒന്ന്. ഉച്ചയ്ക്ക് ആകാശം പതുക്കെ ഇരുണ്ടു.",
+      "hold": 0.5
+    },
+    {
+      "beat": "j2",
+      "text": "ഒരു തുള്ളി. അയൽപക്കത്തെ മൂന്ന് വയസ്സുകാരന്റെ കയ്യിൽ. ജനിച്ചിട്ട് ഇന്നേവരെ അവൻ ശരിക്കൊരു മഴ കണ്ടിട്ടില്ല. അവൻ പേടിച്ച് കരഞ്ഞു.",
+      "hold": 0.6
+    },
+    {
+      "beat": "j3",
+      "text": "ആളുകൾ റോഡിലിറങ്ങി. അമ്മ കരയുന്നു, ചിരിക്കുന്നു. നിന്റെ പഴയ കുട ഇപ്പോഴും അലമാരയിലുണ്ട്. ആരും അത് എടുക്കാൻ പോയില്ല."
+    },
+    {
+      "beat": "j4 Mo's message",
+      "text": "ഫോണിൽ ഒരു മെസേജ്. പഴയ കൂട്ടുകാരൻ. ഒറ്റ വാക്ക്. മഴ.",
+      "hold": 1.2
+    },
+    {
+      "beat": "j5 the hill",
+      "text": "നീ മാത്രം മലയിലേക്ക് നോക്കി. മൂന്ന് കൊല്ലം ഉണങ്ങിയ മണ്ണ്. അടിയിൽ പാറ. മുകളിൽ അയഞ്ഞ മണ്ണ്. പിടിച്ചുനിർത്താൻ വേരില്ല.",
+      "hold": 0.4
+    },
+    {
+      "beat": "j5b real: 15-17 August 2018",
+      "text": "രണ്ടായിരത്തി പതിനെട്ടിലെ ആഗസ്റ്റ് മറക്കാൻ പറ്റില്ലല്ലോ. പതിനഞ്ച് മുതൽ പതിനേഴ് വരെ, മൂന്നേ മൂന്ന് ദിവസം. നാനൂറ്റി പതിനാല് മില്ലിമീറ്റർ മഴ. മുപ്പത്തഞ്ചോളം ഡാമുകളുടെ ഷട്ടർ തുറന്നു.",
+      "hold": 0.6
+    },
+    {
+      "beat": "j6 cliffhanger",
+      "text": "രണ്ട് മീറ്റർ മഴ ഇത്തവണ ഒരുമിച്ചാണ് വരുന്നതെങ്കിൽ, ആ മല എത്ര നേരം നിൽക്കും?"
+    }
+  ],
+  "science": [
+    {
+      "claim": "Normal June to September rain in Kerala is about two metres",
+      "working": "2,018.7 mm, spoken as two metres",
+      "source": "IMD figures as reported by The Hindu and Onmanorama, 2023"
+    },
+    {
+      "claim": "Two thirds of a year's rain falls in these four months",
+      "working": "Annual 286 cm, 68% in the south-west monsoon season; 2,018.7 / 2,860 = 71%, so about two thirds holds",
+      "source": "CUSAT thesis, South-West Monsoon Rainfall of Kerala and Its Variability, https://dyuthi.cusat.ac.in/xmlui/handle/purl/22"
+    },
+    {
+      "claim": "Normal onset over Kerala is around 1 June",
+      "working": "Mean onset 30 May (south) to 1 June (north), 1901-1980",
+      "source": "https://repository.ias.ac.in/2014"
+    },
+    {
+      "claim": "2016: a 34% monsoon deficit, all 14 districts declared drought-hit",
+      "working": "34% is about one third; declared 31 Oct 2016",
+      "source": "https://www.business-standard.com/article/news-ians/kerala-declares-itself-as-drought-hit-state-116103100384_1.html"
+    },
+    {
+      "claim": "Monsoon winds bring cold deep water up along the coast, and that feeds the sardines",
+      "working": "Upwelling runs May-June to September and overlaps sardine spawning; poor upwelling disrupts the cycle. No source tests a failed monsoon directly, so the line only says the fish seller's basket went half empty, which is story",
+      "source": "CMFRI, https://eprints.cmfri.org.in/9507 ; Onmanorama 1 Oct 2025, https://www.onmanorama.com/news/kerala/2025/10/01/monsoon-impact-sardine-proliferation.amp.html"
+    },
+    {
+      "claim": "Idukki is Kerala's largest hydro project and the monsoon refills it",
+      "working": "780 MW. Draft said largest power station; narrowed to largest hydro station",
+      "source": "https://sandrp.in/2025/05/03/room-for-optimality-in-kerala-summer-electricity-demand-vs-hydro-generation/"
+    },
+    {
+      "claim": "Paddy, pepper and cardamom suffer in drought",
+      "working": "Wayanad pepper vines lost, Idukki cardamom withering in heat. Named places follow these reports; the total loss in the story is fiction",
+      "source": "Onmanorama 24 Feb 2026, https://www.onmanorama.com/news/kerala/2026/02/24/kerala-wayanad-falling-price-thinning-production-pepper-farmers-switch-crops.html ; Manorama News 1 Feb 2026, https://www.manoramanews.com/nattuvartha/central/idukki/2026/02/01/idukki-cardamom-farmers-drought-crisis-crop-loss-compensation-2026.html ; Deccan Chronicle 29 Apr 2016, https://www.deccanchronicle.com/nation/in-other-news/290416/wayanad-farmers-hit-hard-due-to-drought.html"
+    },
+    {
+      "claim": "Elephants come into villages when forest water dries up",
+      "working": "Reported from Palakkad in early 2019",
+      "source": "https://www.onmanorama.com/news/kerala/2019/02/26/wild-animals-stray-human-habitats-water-sources-dry.html"
+    },
+    {
+      "claim": "Salt moves up the Periyar and stops the Aluva pumps; Periyar is greater Kochi's drinking source",
+      "working": "Pumping stopped at 1000 ppm near the intake; the pump house cannot treat water above about 200 ppm",
+      "source": "https://www.deccanchronicle.com/nation/in-other-news/151116/kerala-high-water-salinity-halts-pumping.html"
+    },
+    {
+      "claim": "The hills are loose soil on hard rock, and very heavy rain sets them moving",
+      "working": "Loose soil over bedrock is the published description of much of the Western Ghats. No source found for dry soil making it worse, so the ending stays a question, not a claim",
+      "source": "National Herald, https://www.nationalheraldindia.com/environment/explained-why-heavy-rain-repeatedly-triggers-landslides-in-kerala"
+    },
+    {
+      "claim": "The IMD declares onset only when 60% of 14 stations get 2.5 mm or more on two days running, after 10 May",
+      "working": "Stations lie in Kerala, Lakshadweep and coastal Karnataka, so the line says only 14 stations. Wind and cloud checks also apply and are not spoken",
+      "source": "https://www.civilsdaily.com/?p=716671 ; https://www.outlookindia.com/amp/story/national/monsoon-has-arrived-in-keralam-declares-imd"
+    },
+    {
+      "claim": "August 2023 was the driest August in Kerala since 1901: about 6 cm",
+      "working": "59.7 mm. 2023 season about 36% short (1291 mm against 2011 mm), so \"about a third\" holds for both 2016 and 2023. Spoken as 120 years (1901 to 2023 is 122)",
+      "source": "https://onmanorama.com/news/kerala/2023/09/01/driest-august-ever-in-kerala-with-6cm-rainfall.html ; https://thesouthfirst.com/keralam/it-is-a-climax-not-curtains-as-the-southwest-monsoon-overstays-allaying-fears-of-a-drought/"
+    },
+    {
+      "claim": "Kerala oil sardine catch fell from about 4 lakh tonnes (2012) to about 3,500 tonnes (2021)",
+      "working": "Mongabay says about 3,000 for 2021. The cause is debated and the catch recovered later, so the line blames nothing and does not say collapse",
+      "source": "https://india.mongabay.com/2025/03/small-sardines-signal-a-potential-bumper-catch/ ; https://www.worldfishing.net/fisheries/climate-change-triggered-indias-sardine-surge-say-authorities/1505137.article"
+    },
+    {
+      "claim": "Idukki storage fell to about 20% in summer 2017; power purchase cost rose nearly Rs 2,000 crore in a year",
+      "working": "Rs 8,739.91 crore estimated for 2016-17, up nearly Rs 2,000 crore on 2015-16. An estimate from January 2017",
+      "source": "https://onmanorama.com/news/kerala/2017/04/18/summer-kerala-pwer-water-crisis-dams-dry-up.html ; https://deccanchronicle.com/nation/current-affairs/030117/kerala-rs-2000-crore-spurt-in-power-purchase-cost.html"
+    },
+    {
+      "claim": "Pumping at Aluva stopped for salt in November 2016",
+      "working": "Same report as the Aluva claim above, dated 15 Nov 2016",
+      "source": "https://www.deccanchronicle.com/nation/in-other-news/151116/kerala-high-water-salinity-halts-pumping.html"
+    },
+    {
+      "claim": "Chennai 2019: four main reservoirs nearly dry, water came by train, about 25 lakh litres a trip",
+      "working": "2.5 million litres a trip from Jolarpet, first train 12 July 2019; one later report says 2.7 million",
+      "source": "https://weather.com/news/news/2019-07-30-india-chennai-water-train ; https://business-standard.com/article/pti-stories/train-carrying-water-from-jolarpettai-arrives-in-parched-chennai-119071200500_1.html"
+    },
+    {
+      "claim": "Chinnar gets about 500 mm a year, about one sixth of the rest of Kerala",
+      "working": "Leeward side of the Ghats. Kerala Tourism gives 300-500 mm; 500 / 2,860 is about one sixth",
+      "source": "https://en.wikipedia.org/wiki/Chinnar_Wildlife_Sanctuary ; https://www.keralatourism.org/munnar/topography-chinnar-sanctuary.php ; https://www.keybiodiversityareas.org/site/factsheet/18241"
+    },
+    {
+      "claim": "Chennai has capacity to desalinate 36 crore litres a day",
+      "working": "360 MLD: Minjur 100, Nemmeli 110, Nemmeli 150. This is capacity, not daily output",
+      "source": "https://www.cmwssb.tn.gov.in/sites/default/files/whats_new/Annual%20Performance%20Report_0.pdf"
+    },
+    {
+      "claim": "15-17 August 2018: about 414 mm in three days; gates of about 35 dams opened",
+      "working": "Central Water Commission report. The role of the dams is disputed, so the line only says the gates opened",
+      "source": "https://india.mongabay.com/2018/09/cwc-report-on-kerala-floods-dams-not-to-be-blamed/ ; https://en.wikipedia.org/wiki/2018_Kerala_floods"
+    },
+    {
+      "claim": "Fiction",
+      "working": "The failed monsoon itself, the tanker company, the well, the year-three Kerala and the rain's return are story built on the premise",
+      "source": "none"
+    }
+  ],
+  "shots": [
+    {
+      "id": "A1",
+      "size": "macro",
+      "set": "kitchen",
+      "key": 30,
+      "note": "Tap gushing in the morning sun"
+    },
+    {
+      "id": "A2",
+      "size": "close-up",
+      "set": "kitchen",
+      "key": 16,
+      "note": "Pip takes a mouthful, eyes shut"
+    },
+    {
+      "id": "A3",
+      "size": "medium",
+      "set": "kitchen",
+      "key": 14,
+      "note": "Spit-take: the spray lands on the cat"
+    },
+    {
+      "id": "A4",
+      "size": "insert",
+      "set": "kitchen",
+      "key": 20,
+      "note": "Top-down steel glass: a little fish jumps in it"
+    },
+    {
+      "id": "A5",
+      "size": "high",
+      "set": "street",
+      "key": 44,
+      "note": "From the balcony: tanker and a queue with pots"
+    },
+    {
+      "id": "A6",
+      "size": "medium",
+      "set": "street",
+      "key": 36,
+      "note": "Mum runs after the tanker with a kudam"
+    },
+    {
+      "id": "A7",
+      "size": "insert",
+      "set": "kitchen",
+      "key": 16,
+      "note": "Tear-off calendar, 14 December"
+    },
+    {
+      "id": "A8",
+      "size": "wide",
+      "set": "backwater",
+      "key": 60,
+      "note": "Six months ago: rain, a green Kerala"
+    },
+    {
+      "id": "B1",
+      "size": "wide",
+      "set": "street",
+      "key": 44,
+      "note": "1 June, school kids set off, Pip with a new bag"
+    },
+    {
+      "id": "B2",
+      "size": "insert",
+      "set": "table",
+      "key": 30,
+      "note": "Top-down: new bag, chappals, umbrella"
+    },
+    {
+      "id": "B3",
+      "size": "medium",
+      "set": "kitchen",
+      "key": 84,
+      "note": "Gag: Mum pushes a fourth umbrella on Pip"
+    },
+    {
+      "id": "B4",
+      "size": "low",
+      "set": "flats",
+      "key": 24,
+      "note": "Low angle: Pip looks up, blazing sun"
+    },
+    {
+      "id": "B5",
+      "size": "pov",
+      "set": "sky",
+      "key": 30,
+      "note": "POV: blue sky, one tiny cloud shrinking away"
+    },
+    {
+      "id": "B6",
+      "size": "wide",
+      "set": "road",
+      "key": 40,
+      "note": "Gag: kids under umbrellas in the sun, Mo in a raincoat"
+    },
+    {
+      "id": "T",
+      "size": "title",
+      "set": "dry land",
+      "key": 60,
+      "note": "Title card, dry field at dusk"
+    },
+    {
+      "id": "C3",
+      "size": "schematic",
+      "set": "ghats",
+      "key": 60,
+      "note": "The wind climbs the Ghats"
+    },
+    {
+      "id": "C4",
+      "size": "schematic",
+      "set": "ghats",
+      "key": 30,
+      "note": "It rains, Pip happy under an umbrella"
+    },
+    {
+      "id": "C5",
+      "size": "schematic",
+      "set": "map",
+      "key": 70,
+      "note": "The rule: the wind turns away from Kerala"
+    },
+    {
+      "id": "D1",
+      "size": "wide",
+      "set": "tv room",
+      "key": 50,
+      "note": "Two heads on the sofa watching the news"
+    },
+    {
+      "id": "D2",
+      "size": "insert",
+      "set": "tv",
+      "key": 120,
+      "note": "Gag: same headline for weeks, anchor wilts"
+    },
+    {
+      "id": "D3",
+      "size": "schematic",
+      "set": "map",
+      "key": 307,
+      "note": "14 stations, 60%, two days, all dry"
+    },
+    {
+      "id": "D4",
+      "size": "medium",
+      "set": "field",
+      "key": 32,
+      "note": "Gag: Mo tips his glass into the rain gauge"
+    },
+    {
+      "id": "E1",
+      "size": "wide",
+      "set": "road",
+      "key": 50,
+      "note": "Pip and Mo stroll, no mud"
+    },
+    {
+      "id": "E2",
+      "size": "medium",
+      "set": "road",
+      "key": 56,
+      "note": "Gag: Mo jumps into a puddle that isn't there"
+    },
+    {
+      "id": "E3",
+      "size": "wide",
+      "set": "ground",
+      "key": 30,
+      "note": "Cricket at noon"
+    },
+    {
+      "id": "E4",
+      "size": "medium",
+      "set": "ground",
+      "key": 40,
+      "note": "Gag: Mo flat out, an egg frying on the bat"
+    },
+    {
+      "id": "E5",
+      "size": "medium",
+      "set": "terrace",
+      "key": 40,
+      "note": "Mum hangs washing, delighted"
+    },
+    {
+      "id": "E6",
+      "size": "wide",
+      "set": "terrace",
+      "key": 40,
+      "note": "Gag: the shirt dried so stiff it stands, Mum dances"
+    },
+    {
+      "id": "E7",
+      "size": "wide",
+      "set": "classroom",
+      "key": 40,
+      "note": "Glum class, the rain crossed out on the board"
+    },
+    {
+      "id": "E8",
+      "size": "insert",
+      "set": "phone",
+      "key": 60,
+      "note": "Gag: refreshing the collector's page, cobweb on the thumb"
+    },
+    {
+      "id": "F1",
+      "size": "wide",
+      "set": "canal",
+      "key": 70,
+      "note": "Pip in ankle-deep water, old waterline high above"
+    },
+    {
+      "id": "F2",
+      "size": "medium",
+      "set": "terrace",
+      "key": 80,
+      "note": "Night, Pip listens to nothing"
+    },
+    {
+      "id": "F3",
+      "size": "schematic",
+      "set": "column",
+      "key": 80,
+      "note": "Two metres of rain against Pip"
+    },
+    {
+      "id": "F4",
+      "size": "schematic",
+      "set": "column",
+      "key": 80,
+      "note": "Gag: Pip under water with a snorkel"
+    },
+    {
+      "id": "F5",
+      "size": "schematic",
+      "set": "chart",
+      "key": 60,
+      "note": "Twelve months of rain, four tall bars"
+    },
+    {
+      "id": "F6",
+      "size": "insert",
+      "set": "table",
+      "key": 40,
+      "note": "The rain passbook"
+    },
+    {
+      "id": "F7",
+      "size": "schematic",
+      "set": "icons",
+      "key": 60,
+      "note": "Well, river, dam all draw on it"
+    },
+    {
+      "id": "F8",
+      "size": "insert",
+      "set": "table",
+      "key": 40,
+      "note": "Passbook all zero, cobwebs"
+    },
+    {
+      "id": "F9",
+      "size": "schematic",
+      "set": "map",
+      "key": 110,
+      "note": "2016: 34% short, 14 districts"
+    },
+    {
+      "id": "F9b",
+      "size": "schematic",
+      "set": "chart",
+      "key": 237,
+      "note": "August 2023: 6 cm, Pip in a 6 cm puddle"
+    },
+    {
+      "id": "F9c",
+      "size": "schematic",
+      "set": "chart",
+      "key": 141,
+      "note": "2016, 2023 and this year as bars"
+    },
+    {
+      "id": "F10",
+      "size": "schematic",
+      "set": "sea",
+      "key": 80,
+      "note": "Wind pulls cold water up the coast"
+    },
+    {
+      "id": "F11",
+      "size": "insert",
+      "set": "sea",
+      "key": 70,
+      "note": "Sardines in the plankton"
+    },
+    {
+      "id": "F11b",
+      "size": "schematic",
+      "set": "chart",
+      "key": 255,
+      "note": "Sardine catch 2012 against 2021"
+    },
+    {
+      "id": "F12",
+      "size": "medium",
+      "set": "market",
+      "key": 80,
+      "note": "Gag: cat and fish seller stare into the basket"
+    },
+    {
+      "id": "F13",
+      "size": "wide",
+      "set": "dam",
+      "key": 80,
+      "note": "Idukki's level falling"
+    },
+    {
+      "id": "F14",
+      "size": "low",
+      "set": "dam",
+      "key": 70,
+      "note": "Boat stranded on the cracked bed, idle pylon"
+    },
+    {
+      "id": "F14b",
+      "size": "schematic",
+      "set": "gauge",
+      "key": 294,
+      "note": "Idukki at 20%, power bill up"
+    },
+    {
+      "id": "F15",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 130,
+      "note": "Blackout: candle, Mum and sister"
+    },
+    {
+      "id": "F16",
+      "size": "close-up",
+      "set": "kitchen",
+      "key": 56,
+      "note": "Gag: Mo fans the dead fan with a steel plate"
+    },
+    {
+      "id": "F17",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 18,
+      "note": "Onam: Dad alone at the table, a small pookalam"
+    },
+    {
+      "id": "F18",
+      "size": "insert",
+      "set": "table",
+      "key": 90,
+      "note": "Prices climb on rice, vegetables, banana leaf"
+    },
+    {
+      "id": "F19",
+      "size": "close-up",
+      "set": "kitchen",
+      "key": 80,
+      "note": "Dad strikes through the sadya list"
+    },
+    {
+      "id": "F20",
+      "size": "insert",
+      "set": "leaf",
+      "key": 40,
+      "note": "Gag: one pappadam cut four ways"
+    },
+    {
+      "id": "F21",
+      "size": "wide",
+      "set": "paddy",
+      "key": 40,
+      "note": "Cracked paddy and a scarecrow"
+    },
+    {
+      "id": "F22",
+      "size": "medium",
+      "set": "pepper",
+      "key": 30,
+      "note": "Dry pepper vines"
+    },
+    {
+      "id": "F23",
+      "size": "medium",
+      "set": "cardamom",
+      "key": 30,
+      "note": "Scorched cardamom"
+    },
+    {
+      "id": "F24",
+      "size": "wide",
+      "set": "forest",
+      "key": 50,
+      "note": "Elephants at a dried pond"
+    },
+    {
+      "id": "F25",
+      "size": "wide",
+      "set": "street",
+      "key": 40,
+      "note": "Gag: an elephant waits in the tanker queue"
+    },
+    {
+      "id": "F26",
+      "size": "wide",
+      "set": "road",
+      "key": 110,
+      "note": "Mo's family load a lorry"
+    },
+    {
+      "id": "F27",
+      "size": "medium",
+      "set": "road",
+      "key": 50,
+      "note": "Mo hands Pip the bat"
+    },
+    {
+      "id": "F28",
+      "size": "wide",
+      "set": "road",
+      "key": 40,
+      "note": "The lorry shrinks away, Pip with the bat"
+    },
+    {
+      "id": "F29",
+      "size": "wide",
+      "set": "yard",
+      "key": 70,
+      "note": "Everyone in the yard, a thin rain"
+    },
+    {
+      "id": "F30",
+      "size": "macro",
+      "set": "ground",
+      "key": 50,
+      "note": "The rain vanishes into the cracks"
+    },
+    {
+      "id": "G1",
+      "size": "schematic",
+      "set": "river",
+      "key": 120,
+      "note": "Salt creeps up the Periyar"
+    },
+    {
+      "id": "G2",
+      "size": "wide",
+      "set": "kochi",
+      "key": 60,
+      "note": "The pipe from Aluva to the flats"
+    },
+    {
+      "id": "G3",
+      "size": "schematic",
+      "set": "pump",
+      "key": 152,
+      "note": "Salt 1000 ppm, pump stops"
+    },
+    {
+      "id": "G4",
+      "size": "macro",
+      "set": "kitchen",
+      "key": 40,
+      "note": "Back to the tap, salt in the water"
+    },
+    {
+      "id": "G5",
+      "size": "schematic",
+      "set": "chennai",
+      "key": 192,
+      "note": "Chennai 2019: four reservoirs shrink"
+    },
+    {
+      "id": "G6",
+      "size": "wide",
+      "set": "rail",
+      "key": 151,
+      "note": "Gag: a man with a kudam runs after the water train"
+    },
+    {
+      "id": "H1",
+      "size": "wide",
+      "set": "yard",
+      "key": 70,
+      "note": "The family reach Ammoomma's house"
+    },
+    {
+      "id": "H2",
+      "size": "medium",
+      "set": "yard",
+      "key": 30,
+      "note": "Ammoomma at the old well"
+    },
+    {
+      "id": "H4",
+      "size": "top-down",
+      "set": "well",
+      "key": 70,
+      "note": "The rope drops into the dark"
+    },
+    {
+      "id": "H5",
+      "size": "macro",
+      "set": "well",
+      "key": 20,
+      "note": "A ring of water in the dark"
+    },
+    {
+      "id": "H6",
+      "size": "wide",
+      "set": "yard",
+      "key": 80,
+      "note": "Dawn: a queue of neighbours"
+    },
+    {
+      "id": "H7",
+      "size": "medium",
+      "set": "yard",
+      "key": 36,
+      "note": "Gag: the elephant, last in line with its pot"
+    },
+    {
+      "id": "H8",
+      "size": "low",
+      "set": "gate",
+      "key": 70,
+      "note": "A black car at the gate"
+    },
+    {
+      "id": "H9",
+      "size": "medium",
+      "set": "gate",
+      "key": 40,
+      "note": "The man in the coat"
+    },
+    {
+      "id": "H10",
+      "size": "insert",
+      "set": "gate",
+      "key": 40,
+      "note": "He holds out a slip with a sum on it"
+    },
+    {
+      "id": "H11",
+      "size": "medium",
+      "set": "yard",
+      "key": 90,
+      "note": "Gag: Dad reads it and slowly tips over"
+    },
+    {
+      "id": "H12",
+      "size": "close-up",
+      "set": "yard",
+      "key": 40,
+      "note": "Sister looks along the queue"
+    },
+    {
+      "id": "H13",
+      "size": "over shoulder",
+      "set": "yard",
+      "key": 30,
+      "note": "The queue waiting"
+    },
+    {
+      "id": "H14",
+      "size": "insert",
+      "set": "yard",
+      "key": 60,
+      "note": "The slip in your hand"
+    },
+    {
+      "id": "I1",
+      "size": "wide",
+      "set": "land",
+      "key": 40,
+      "note": "Year three: brown Kerala"
+    },
+    {
+      "id": "I2",
+      "size": "over shoulder",
+      "set": "bus",
+      "key": 40,
+      "note": "Bus window on brown hills"
+    },
+    {
+      "id": "I3b",
+      "size": "schematic",
+      "set": "ghats",
+      "key": 382,
+      "note": "Chinnar on the dry side of the Ghats"
+    },
+    {
+      "id": "I4",
+      "size": "wide",
+      "set": "rooftops",
+      "key": 40,
+      "note": "A locked tank on every roof"
+    },
+    {
+      "id": "I5",
+      "size": "medium",
+      "set": "rooftops",
+      "key": 40,
+      "note": "Gag: a neighbour with a very long straw"
+    },
+    {
+      "id": "I6",
+      "size": "wide",
+      "set": "plant",
+      "key": 220,
+      "note": "Desalination plant by the backwater"
+    },
+    {
+      "id": "I7",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 80,
+      "note": "Gag: Dad's water bill runs across the floor"
+    },
+    {
+      "id": "J1",
+      "size": "wide",
+      "set": "land",
+      "key": 100,
+      "note": "The sky goes dark, Pip stares"
+    },
+    {
+      "id": "J2",
+      "size": "macro",
+      "set": "hand",
+      "key": 50,
+      "note": "One drop on a small hand"
+    },
+    {
+      "id": "J3",
+      "size": "close-up",
+      "set": "land",
+      "key": 70,
+      "note": "The toddler cries at the rain"
+    },
+    {
+      "id": "J4",
+      "size": "wide",
+      "set": "street",
+      "key": 40,
+      "note": "Everyone in the road, arms up in the rain"
+    },
+    {
+      "id": "J5",
+      "size": "close-up",
+      "set": "street",
+      "key": 40,
+      "note": "Mum crying and laughing"
+    },
+    {
+      "id": "J6",
+      "size": "insert",
+      "set": "wardrobe",
+      "key": 70,
+      "note": "The old umbrella in the cupboard, cobwebbed"
+    },
+    {
+      "id": "J7",
+      "size": "insert",
+      "set": "phone",
+      "key": 70,
+      "note": "A message from Mo: one word"
+    },
+    {
+      "id": "J8",
+      "size": "medium",
+      "set": "hill",
+      "key": 70,
+      "note": "Only Pip looks at the hill"
+    },
+    {
+      "id": "J9",
+      "size": "schematic",
+      "set": "hill",
+      "key": 110,
+      "note": "Rock, loose soil, no roots"
+    },
+    {
+      "id": "J9b",
+      "size": "schematic",
+      "set": "chart",
+      "key": 340,
+      "note": "15-17 August 2018: 414 mm, 35 dams"
+    },
+    {
+      "id": "J10",
+      "size": "wide",
+      "set": "hill",
+      "key": 140,
+      "note": "The hill in the storm above the town"
+    },
+    {
+      "id": "END",
+      "size": "end card",
+      "set": "hill",
+      "key": 60,
+      "note": "The two questions"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "A1",
+      "at": "കൊച്ചിയിലെ"
+    },
+    {
+      "shot": "A2",
+      "at": "കവിൾ"
+    },
+    {
+      "shot": "A3",
+      "at": "ഉപ്പ്"
+    },
+    {
+      "shot": "A4",
+      "at": "കടൽവെള്ളത്തിന്റെ"
+    },
+    {
+      "shot": "A5",
+      "at": "താഴെ"
+    },
+    {
+      "shot": "A6",
+      "at": "അതിന്"
+    },
+    {
+      "shot": "A7",
+      "at": "ഇത്"
+    },
+    {
+      "shot": "A8",
+      "at": "ആറ്"
+    },
+    {
+      "shot": "B1",
+      "at": "ജൂൺ"
+    },
+    {
+      "shot": "B2",
+      "at": "പുതിയ"
+    },
+    {
+      "shot": "B3",
+      "at": "കുട"
+    },
+    {
+      "shot": "B4",
+      "at": "നീ"
+    },
+    {
+      "shot": "B5",
+      "at": "ഒരു"
+    },
+    {
+      "shot": "B6",
+      "at": "പോലുമില്ല+22"
+    },
+    {
+      "shot": "T",
+      "at": "ഈ"
+    },
+    {
+      "shot": "C3",
+      "at": "ഓരോ"
+    },
+    {
+      "shot": "C4",
+      "at": "തണുക്കും"
+    },
+    {
+      "shot": "C5",
+      "at": "ഈ"
+    },
+    {
+      "shot": "D1",
+      "at": "ഇതൊന്നും"
+    },
+    {
+      "shot": "D2",
+      "at": "കാലവർഷം"
+    },
+    {
+      "shot": "D3",
+      "at": "പതിനാല്"
+    },
+    {
+      "shot": "D4",
+      "at": "തുള്ളിയില്ല+26"
+    },
+    {
+      "shot": "E1",
+      "at": "ആദ്യത്തെ"
+    },
+    {
+      "shot": "E2",
+      "at": "നനഞ്ഞ"
+    },
+    {
+      "shot": "E3",
+      "at": "ജൂലൈയിൽ"
+    },
+    {
+      "shot": "E4",
+      "at": "നട്ടുച്ചയ്ക്ക്+24"
+    },
+    {
+      "shot": "E5",
+      "at": "അമ്മ"
+    },
+    {
+      "shot": "E6",
+      "at": "ഇത്രയും"
+    },
+    {
+      "shot": "E7",
+      "at": "കുട്ടികൾക്ക്"
+    },
+    {
+      "shot": "E8",
+      "at": "കളക്ടറുടെ"
+    },
+    {
+      "shot": "F1",
+      "at": "ജൂലൈ"
+    },
+    {
+      "shot": "F2",
+      "at": "രാത്രി"
+    },
+    {
+      "shot": "F3",
+      "at": "ഒരു"
+    },
+    {
+      "shot": "F4",
+      "at": "നീ"
+    },
+    {
+      "shot": "F5",
+      "at": "ഒരു"
+    },
+    {
+      "shot": "F6",
+      "at": "അതാണ്"
+    },
+    {
+      "shot": "F7",
+      "at": "കിണറും"
+    },
+    {
+      "shot": "F8",
+      "at": "ഇത്തവണ"
+    },
+    {
+      "shot": "F9",
+      "at": "രണ്ടായിരത്തി"
+    },
+    {
+      "shot": "F9b",
+      "at": "രണ്ടായിരത്തി"
+    },
+    {
+      "shot": "F9c",
+      "at": "ആ"
+    },
+    {
+      "shot": "F10",
+      "at": "കടലും"
+    },
+    {
+      "shot": "F11",
+      "at": "മത്തിയുടെ"
+    },
+    {
+      "shot": "F11b",
+      "at": "എത്ര"
+    },
+    {
+      "shot": "F12",
+      "at": "ഇത്തവണ"
+    },
+    {
+      "shot": "F13",
+      "at": "ആഗസ്റ്റ്"
+    },
+    {
+      "shot": "F14",
+      "at": "കേരളത്തിലെ"
+    },
+    {
+      "shot": "F14b",
+      "at": "രണ്ടായിരത്തി"
+    },
+    {
+      "shot": "F15",
+      "at": "ആദ്യം"
+    },
+    {
+      "shot": "F16",
+      "at": "ഫാൻ"
+    },
+    {
+      "shot": "F17",
+      "at": "ഓണം"
+    },
+    {
+      "shot": "F18",
+      "at": "അരിക്ക്"
+    },
+    {
+      "shot": "F19",
+      "at": "അച്ഛൻ"
+    },
+    {
+      "shot": "F20",
+      "at": "ഇരുന്നു+24"
+    },
+    {
+      "shot": "F21",
+      "at": "പാലക്കാട്ടെ"
+    },
+    {
+      "shot": "F22",
+      "at": "വയനാട്ടിൽ"
+    },
+    {
+      "shot": "F23",
+      "at": "ഇടുക്കിയിൽ"
+    },
+    {
+      "shot": "F24",
+      "at": "കാട്ടിലെ"
+    },
+    {
+      "shot": "F25",
+      "at": "നാട്ടിലേക്കിറങ്ങി+22"
+    },
+    {
+      "shot": "F26",
+      "at": "നിന്റെ"
+    },
+    {
+      "shot": "F27",
+      "at": "ഗ്രൗണ്ടിലെ"
+    },
+    {
+      "shot": "F28",
+      "at": "പോയി+10"
+    },
+    {
+      "shot": "F29",
+      "at": "ഒക്ടോബറിൽ"
+    },
+    {
+      "shot": "F30",
+      "at": "ഉണങ്ങിയ"
+    },
+    {
+      "shot": "G1",
+      "at": "ഡിസംബർ"
+    },
+    {
+      "shot": "G2",
+      "at": "കൊച്ചി"
+    },
+    {
+      "shot": "G3",
+      "at": "ഉപ്പ്"
+    },
+    {
+      "shot": "G4",
+      "at": "ആ"
+    },
+    {
+      "shot": "G5",
+      "at": "തൊട്ടപ്പുറത്ത്"
+    },
+    {
+      "shot": "G6",
+      "at": "അവസാനം"
+    },
+    {
+      "shot": "H1",
+      "at": "അന്ന്"
+    },
+    {
+      "shot": "H2",
+      "at": "മുറ്റത്ത്"
+    },
+    {
+      "shot": "H4",
+      "at": "അമ്മൂമ്മ"
+    },
+    {
+      "shot": "H5",
+      "at": "വെള്ളം"
+    },
+    {
+      "shot": "H6",
+      "at": "പിറ്റേന്ന്"
+    },
+    {
+      "shot": "H7",
+      "at": "പറഞ്ഞില്ല+20"
+    },
+    {
+      "shot": "H8",
+      "at": "മൂന്നാം"
+    },
+    {
+      "shot": "H9",
+      "at": "കോട്ടിട്ട"
+    },
+    {
+      "shot": "H10",
+      "at": "അയാൾ"
+    },
+    {
+      "shot": "H11",
+      "at": "അച്ഛൻ"
+    },
+    {
+      "shot": "H12",
+      "at": "അനിയത്തി"
+    },
+    {
+      "shot": "H13",
+      "at": "അപ്പോൾ"
+    },
+    {
+      "shot": "H14",
+      "at": "കടലാസ്"
+    },
+    {
+      "shot": "I1",
+      "at": "മൂന്നാം"
+    },
+    {
+      "shot": "I2",
+      "at": "ബസിന്റെ"
+    },
+    {
+      "shot": "I3b",
+      "at": "കേരളത്തിൽ"
+    },
+    {
+      "shot": "I4",
+      "at": "എല്ലാ"
+    },
+    {
+      "shot": "I5",
+      "at": "പൂട്ട്+20"
+    },
+    {
+      "shot": "I6",
+      "at": "കൊച്ചി"
+    },
+    {
+      "shot": "I7",
+      "at": "വെള്ളത്തിന്റെ"
+    },
+    {
+      "shot": "J1",
+      "at": "പിന്നെ"
+    },
+    {
+      "shot": "J2",
+      "at": "ഒരു#2"
+    },
+    {
+      "shot": "J3",
+      "at": "ജനിച്ചിട്ട്"
+    },
+    {
+      "shot": "J4",
+      "at": "ആളുകൾ"
+    },
+    {
+      "shot": "J5",
+      "at": "അമ്മ"
+    },
+    {
+      "shot": "J6",
+      "at": "നിന്റെ"
+    },
+    {
+      "shot": "J7",
+      "at": "ഫോണിൽ"
+    },
+    {
+      "shot": "J8",
+      "at": "നീ"
+    },
+    {
+      "shot": "J9",
+      "at": "അടിയിൽ"
+    },
+    {
+      "shot": "J9b",
+      "at": "രണ്ടായിരത്തി"
+    },
+    {
+      "shot": "J10",
+      "at": "രണ്ട്"
+    },
+    {
+      "shot": "END",
+      "at": "നിൽക്കും+24"
+    }
+  ],
+  "fx": [
+    {
+      "at": "A3+6",
+      "kind": "shake",
+      "len": 8,
+      "amp": 6
+    },
+    {
+      "at": "T+2",
+      "kind": "flash"
+    },
+    {
+      "at": "J10+8",
+      "kind": "flash",
+      "o": 0.5
+    }
+  ],
+  "sound": {
+    "levels": {
+      "sfx_lu": -4.5,
+      "music_lu": -13.0
+    },
+    "music": {
+      "clip": "music",
+      "until": "F26",
+      "loop": true
+    },
+    "clips": {
+      "switch_off": [
+        "a heavy electrical breaker switching off with a dull clunk",
+        0.5
+      ],
+      "crack": [
+        "glass cracking sharply, the crack spreading across a pane",
+        1.1
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "land": [
+        "a heavy body landing flat on a wooden floor, cartoon thud",
+        0.6
+      ],
+      "cat_chirp": [
+        "a cat making a short curious chirp meow",
+        0.6
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "gasp": [
+        "two young people gasping in surprise at the same moment, cartoon, short",
+        0.8
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        17.0
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "dizzy": [
+        "cartoon dizzy birds tweeting in a circle after a bonk",
+        1.4
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "big_step": [
+        "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+        0.7
+      ],
+      "step": [
+        "a single sneaker footstep on a wooden stair, close",
+        0.5
+      ],
+      "cat_yowl": [
+        "an angry cat yowl and hiss, short and startled",
+        0.9
+      ],
+      "power_down": [
+        "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+        2.5
+      ],
+      "paper_land": [
+        "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+        0.7
+      ],
+      "gulp": [
+        "a nervous cartoon gulp, short",
+        0.5
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "power_hum": [
+        "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+        3.0
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ]
+    },
+    "events": [
+      [
+        "A1",
+        "room_tone",
+        0.07,
+        "onset",
+        "A5"
+      ],
+      [
+        "A5",
+        "roof_wind",
+        0.08,
+        "onset",
+        "A7"
+      ],
+      [
+        "A7",
+        "room_tone",
+        0.07,
+        "onset",
+        "A8"
+      ],
+      [
+        "A8",
+        "roof_wind",
+        0.08,
+        "onset",
+        "B3"
+      ],
+      [
+        "B3",
+        "room_tone",
+        0.07,
+        "onset",
+        "B4"
+      ],
+      [
+        "B4",
+        "roof_wind",
+        0.08,
+        "onset",
+        "C3"
+      ],
+      [
+        "D1",
+        "room_tone",
+        0.07,
+        "onset",
+        "E1"
+      ],
+      [
+        "E1",
+        "roof_wind",
+        0.08,
+        "onset",
+        "E7"
+      ],
+      [
+        "E7",
+        "room_tone",
+        0.07,
+        "onset",
+        "F1"
+      ],
+      [
+        "F1",
+        "roof_wind",
+        0.08,
+        "onset",
+        "F3"
+      ],
+      [
+        "F6",
+        "room_tone",
+        0.07,
+        "onset",
+        "F7"
+      ],
+      [
+        "F8",
+        "room_tone",
+        0.07,
+        "onset",
+        "F9"
+      ],
+      [
+        "F12",
+        "roof_wind",
+        0.08,
+        "onset",
+        "F15"
+      ],
+      [
+        "F15",
+        "room_tone",
+        0.07,
+        "onset",
+        "F18"
+      ],
+      [
+        "F19",
+        "room_tone",
+        0.07,
+        "onset",
+        "F21"
+      ],
+      [
+        "F21",
+        "roof_wind",
+        0.08,
+        "onset",
+        "G1"
+      ],
+      [
+        "G2",
+        "roof_wind",
+        0.08,
+        "onset",
+        "G3"
+      ],
+      [
+        "G4",
+        "room_tone",
+        0.07,
+        "onset",
+        "G5"
+      ],
+      [
+        "G6",
+        "roof_wind",
+        0.08,
+        "onset",
+        "H1"
+      ],
+      [
+        "H1",
+        "roof_wind",
+        0.08,
+        "onset",
+        "H4"
+      ],
+      [
+        "H4",
+        "room_tone",
+        0.07,
+        "onset",
+        "H6"
+      ],
+      [
+        "H6",
+        "roof_wind",
+        0.08,
+        "onset",
+        "I7"
+      ],
+      [
+        "I7",
+        "room_tone",
+        0.07,
+        "onset",
+        "J1"
+      ],
+      [
+        "J1",
+        "roof_wind",
+        0.08,
+        "onset",
+        "J6"
+      ],
+      [
+        "J6",
+        "room_tone",
+        0.07,
+        "onset",
+        "J7"
+      ],
+      [
+        "J8",
+        "roof_wind",
+        0.08,
+        "onset",
+        "END"
+      ],
+      [
+        "s:5.00",
+        "pop",
+        0.4
+      ],
+      [
+        "s:5.93",
+        "cat_yowl",
+        0.3
+      ],
+      [
+        "s:8.09",
+        "sparkle",
+        0.25
+      ],
+      [
+        "s:10.65",
+        "buzzer",
+        0.12
+      ],
+      [
+        "s:26.77",
+        "pop",
+        0.35
+      ],
+      [
+        "s:29.62",
+        "pop",
+        0.35
+      ],
+      [
+        "s:35.57",
+        "ding",
+        0.3
+      ],
+      [
+        "s:40.40",
+        "title_boom",
+        0.5
+      ],
+      [
+        "s:51.10",
+        "sparkle",
+        0.3
+      ],
+      [
+        "s:52.83",
+        "drone_hit",
+        0.15
+      ],
+      [
+        "s:64.42",
+        "counter_tick",
+        0.13
+      ],
+      [
+        "s:64.77",
+        "counter_tick",
+        0.13
+      ],
+      [
+        "s:65.77",
+        "counter_tick",
+        0.13
+      ],
+      [
+        "s:66.77",
+        "ding",
+        0.3
+      ],
+      [
+        "s:83.53",
+        "land",
+        0.4
+      ],
+      [
+        "s:83.60",
+        "pop",
+        0.35
+      ],
+      [
+        "s:88.20",
+        "dizzy",
+        0.35
+      ],
+      [
+        "s:94.58",
+        "pop",
+        0.35
+      ],
+      [
+        "s:94.58",
+        "ding",
+        0.3
+      ],
+      [
+        "s:102.01",
+        "pop",
+        0.3
+      ],
+      [
+        "s:116.07",
+        "ding",
+        0.3
+      ],
+      [
+        "s:122.18",
+        "gulp",
+        0.3
+      ],
+      [
+        "s:127.27",
+        "sparkle",
+        0.2
+      ],
+      [
+        "s:134.36",
+        "drone_hit",
+        0.175
+      ],
+      [
+        "s:136.10",
+        "counter_tick",
+        0.25
+      ],
+      [
+        "s:172.90",
+        "cat_chirp",
+        0.25
+      ],
+      [
+        "s:175.62",
+        "drone_hit",
+        0.11
+      ],
+      [
+        "s:195.76",
+        "switch_off",
+        0.32
+      ],
+      [
+        "s:200.43",
+        "pop",
+        0.3
+      ],
+      [
+        "s:210.74",
+        "paper_land",
+        0.2
+      ],
+      [
+        "s:211.47",
+        "crack",
+        0.21
+      ],
+      [
+        "s:211.73",
+        "pop",
+        0.3
+      ],
+      [
+        "s:222.67",
+        "big_step",
+        0.5
+      ],
+      [
+        "s:223.33",
+        "pop",
+        0.35
+      ],
+      [
+        "s:225.07",
+        "drone_hit",
+        0.1
+      ],
+      [
+        "s:233.73",
+        "power_down",
+        0.105
+      ],
+      [
+        "s:255.73",
+        "power_down",
+        0.21,
+        "onset",
+        "G4"
+      ],
+      [
+        "s:273.53",
+        "drone_hit",
+        0.15
+      ],
+      [
+        "s:285.42",
+        "sparkle",
+        0.35
+      ],
+      [
+        "s:292.37",
+        "big_step",
+        0.5
+      ],
+      [
+        "s:292.83",
+        "pop",
+        0.35
+      ],
+      [
+        "s:296.71",
+        "drone_hit",
+        0.14
+      ],
+      [
+        "s:302.65",
+        "paper_land",
+        0.25
+      ],
+      [
+        "s:306.09",
+        "gasp",
+        0.3
+      ],
+      [
+        "s:306.37",
+        "land",
+        0.35
+      ],
+      [
+        "s:314.94",
+        "drone_hit",
+        0.1
+      ],
+      [
+        "s:318.67",
+        "drone_hit",
+        0.15
+      ],
+      [
+        "s:342.10",
+        "gulp",
+        0.3
+      ],
+      [
+        "s:342.63",
+        "pop",
+        0.3
+      ],
+      [
+        "s:355.47",
+        "paper_land",
+        0.3
+      ],
+      [
+        "s:355.47",
+        "pop",
+        0.3
+      ],
+      [
+        "s:365.26",
+        "ding",
+        0.22
+      ],
+      [
+        "s:380.07",
+        "ding",
+        0.18
+      ],
+      [
+        "s:407.98",
+        "crack",
+        0.35
+      ],
+      [
+        "s:409.93",
+        "title_boom",
+        0.5
+      ],
+      [
+        "s:67.70",
+        "counter_tick",
+        0.2
+      ],
+      [
+        "s:77.10",
+        "gulp",
+        0.3
+      ],
+      [
+        "s:77.63",
+        "pop",
+        0.35
+      ],
+      [
+        "s:142.77",
+        "ding",
+        0.3
+      ],
+      [
+        "s:152.72",
+        "drone_hit",
+        0.1
+      ],
+      [
+        "s:162.67",
+        "counter_tick",
+        0.25
+      ],
+      [
+        "s:183.57",
+        "drone_hit",
+        0.15
+      ],
+      [
+        "s:262.63",
+        "drone_hit",
+        0.1
+      ],
+      [
+        "s:269.73",
+        "big_step",
+        0.14
+      ],
+      [
+        "s:328.83",
+        "sparkle",
+        0.2
+      ],
+      [
+        "s:391.97",
+        "drone_hit",
+        0.15
+      ],
+      [
+        "J4",
+        "roof_wind",
+        0.12,
+        "onset",
+        "J6"
+      ],
+      [
+        "H10",
+        "power_hum",
+        0.04,
+        "onset",
+        "I1"
+      ],
+      [
+        "J9",
+        "power_hum",
+        0.06,
+        "onset",
+        "END"
+      ]
+    ],
+    "repeats": [
+      {
+        "at": "A6",
+        "clip": "step",
+        "n": 12,
+        "every": 8,
+        "gain": [
+          0.3,
+          0.4
+        ],
+        "pitch": [
+          0.95,
+          1.1
+        ]
+      },
+      {
+        "at": "B1",
+        "clip": "step",
+        "n": 10,
+        "every": 10,
+        "gain": [
+          0.2,
+          0.28
+        ],
+        "pitch": [
+          0.95,
+          1.1
+        ]
+      },
+      {
+        "at": "E1",
+        "clip": "step",
+        "n": 10,
+        "every": 10,
+        "gain": [
+          0.2,
+          0.28
+        ],
+        "pitch": [
+          0.95,
+          1.1
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,530 @@
+{
+ "id": "SkipSleep",
+ "slug": "skip-sleep",
+ "topic": "What if you never needed to sleep?",
+ "title": [
+  "WHAT IF YOU COULD",
+  "SKIP SLEEP FOREVER?"
+ ],
+ "accent": "FOREVER",
+ "power": {
+  "word": "Skip sleep.",
+  "rule": "you never get tired, every night is free time",
+  "look": "the bedroom clock spins forward, a SKIP chip, the bed stays made; Pip's eyes snap wide open with a cool flash"
+ },
+ "script": [
+  {
+   "beat": "1 cold open, demo 1 (small and selfish)",
+   "text": "Midnight. One more level. Skip sleep. You win."
+  },
+  {
+   "beat": "1 cold open, demo 2 (useful)",
+   "text": "Three a.m. Big test tomorrow. Skip sleep. You read the whole book."
+  },
+  {
+   "beat": "1 cold open, demo 3 (a little uncanny)",
+   "text": "Your friend sleeps over. He's out cold. Skip sleep. You just... watch him. All night."
+  },
+  {
+   "beat": "2 the premise (title card)",
+   "text": "What if you could skip sleep forever?"
+  },
+  {
+   "beat": "3 fun",
+   "text": "Eight free hours, every day."
+  },
+  {
+   "beat": "4 the turn: the cost, one real fact",
+   "text": "One catch: when you sleep, the gaps between your brain cells open up by sixty percent, to wash out waste. That's real."
+  },
+  {
+   "beat": "5-7 folded into a question",
+   "text": "So if you never sleep... where's it all going?"
+  }
+ ],
+ "science": [
+  {
+   "claim": "When you sleep, the gaps between your brain cells open up by sixty percent, to wash out waste.",
+   "working": "In sleeping (and anaesthetised) mice the interstitial space volume fraction rose from about 14% awake to about 23% asleep, a 60% increase, and the faster interstitial flow cleared beta-amyloid about twice as fast. The study is in mice; the script says 'your brain' as the genre does, the schematic labels it a sleep study.",
+   "source": "Xie et al., 'Sleep drives metabolite clearance from the adult brain', Science 342 (2013) 373-377"
+  },
+  {
+   "claim": "Eight free hours, every day.",
+   "working": "Adults are recommended 7 or more hours a night; 8 is the round figure for a full night.",
+   "source": "Watson et al., AASM/SRS consensus, Sleep 38 (2015) 843-844"
+  }
+ ],
+ "cast": [
+  "ramu",
+  "appu"
+ ],
+ "gaps": {
+  "sentence": 0.36,
+  "comma": 0.22,
+  "question": 0.6,
+  "pairs": {
+   "win|Three": 0.7,
+   "book|Your": 0.7,
+   "night|What": 0.8,
+   "forever|Eight": 0.8,
+   "day|One": 0.6,
+   "real|So": 0.8,
+   "just|watch": 0.45,
+   "catch|when": 0.4
+  }
+ },
+ "shots": [
+  {
+   "id": "S1",
+   "size": "macro insert",
+   "set": "bedroom (nightstand)",
+   "key": 14,
+   "note": "the bedside clock flips 23:59 to 00:00, lamp glow behind"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "bedroom (bed)",
+   "key": 14,
+   "note": "Pip sits up in bed, laptop on his knees, screen light on his face; heavy, tired lids"
+  },
+  {
+   "id": "S3",
+   "size": "extreme close-up",
+   "set": "bedroom",
+   "key": 10,
+   "note": "SKIP: Pip's tired eyes snap wide open, cyan glint, flash"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 14,
+   "note": "Pip throws both arms up in bed, the laptop glowing; the whole room lit by the lamp"
+  },
+  {
+   "id": "S5",
+   "size": "macro insert, low",
+   "set": "bedroom (nightstand)",
+   "key": 10,
+   "note": "the clock reads 03:00, the calendar soft behind"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "study at night",
+   "key": 12,
+   "note": "Pip at the desk under the lamp, a tower of books, slumping, tired"
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "set": "study at night",
+   "key": 8,
+   "note": "SKIP: eyes snap open, glint; he sits bolt upright"
+  },
+  {
+   "id": "S8",
+   "size": "top-down insert",
+   "set": "study (desk top)",
+   "key": 14,
+   "note": "the open book's pages flip by in a blur, finished books stacking beside it"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 14,
+   "note": "Mo has the bed, sitting up asleep against the pillows; Pip on the beanbag with the laptop"
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "set": "bedroom (bed)",
+   "key": 12,
+   "note": "Mo out cold, head lolling, eyes shut, the lamp warm on him"
+  },
+  {
+   "id": "S11",
+   "size": "extreme close-up",
+   "set": "bedroom",
+   "key": 10,
+   "note": "SKIP: Pip's eyes wide in the dark, glinting, unblinking"
+  },
+  {
+   "id": "S12",
+   "size": "over the shoulder",
+   "set": "bedroom",
+   "key": 30,
+   "note": "Pip's dark head in the foreground, Mo asleep beyond; the clock races 01:00 to 06:00"
+  },
+  {
+   "id": "S13",
+   "size": "title, wide",
+   "set": "rooftop",
+   "key": 40,
+   "note": "the premise over the city at sunrise; Pip on the roof, wide awake"
+  },
+  {
+   "id": "S14",
+   "size": "medium, low angle",
+   "set": "rooftop",
+   "key": 16,
+   "note": "Pip stretches, happy; a +8 HOURS label floats up"
+  },
+  {
+   "id": "S15",
+   "size": "medium close-up",
+   "set": "rooftop",
+   "key": 20,
+   "note": "Pip tries to shut his eyes; the lids drop and snap back open, he can't"
+  },
+  {
+   "id": "S16",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 40,
+   "note": "two brain cells, the gap between them widens: AWAKE 14% to ASLEEP 23%, +60% counting up"
+  },
+  {
+   "id": "S17",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 20,
+   "note": "waste specks wash out through the widened gap"
+  },
+  {
+   "id": "S18",
+   "size": "extreme close-up",
+   "set": "rooftop",
+   "key": 14,
+   "note": "Pip, worried; the light turning red"
+  },
+  {
+   "id": "S19",
+   "size": "wide, push in",
+   "set": "bedroom",
+   "key": 40,
+   "note": "night again: the lamp flickers and dies, the clock reads 04:12, only Pip's glinting eyes in the dark"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "Midnight"
+  },
+  {
+   "shot": "S2",
+   "at": "One"
+  },
+  {
+   "shot": "S3",
+   "at": "Skip",
+   "look": "skip"
+  },
+  {
+   "shot": "S4",
+   "at": "You"
+  },
+  {
+   "shot": "S5",
+   "at": "Three"
+  },
+  {
+   "shot": "S6",
+   "at": "Big"
+  },
+  {
+   "shot": "S7",
+   "at": "Skip",
+   "look": "skip"
+  },
+  {
+   "shot": "S8",
+   "at": "You"
+  },
+  {
+   "shot": "S9",
+   "at": "Your"
+  },
+  {
+   "shot": "S10",
+   "at": "He's"
+  },
+  {
+   "shot": "S11",
+   "at": "Skip",
+   "look": "skip"
+  },
+  {
+   "shot": "S12",
+   "at": "watch"
+  },
+  {
+   "shot": "S13",
+   "at": "What"
+  },
+  {
+   "shot": "S14",
+   "at": "Eight"
+  },
+  {
+   "shot": "S15",
+   "at": "One"
+  },
+  {
+   "shot": "S16",
+   "at": "the"
+  },
+  {
+   "shot": "S17",
+   "at": "to"
+  },
+  {
+   "shot": "S18",
+   "at": "That's"
+  },
+  {
+   "shot": "S19",
+   "at": "So"
+  }
+ ],
+ "tail": 1.2,
+ "fx": [
+  {
+   "at": "S3+19",
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.5
+  },
+  {
+   "at": "S7+19",
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.45
+  },
+  {
+   "at": "S11+20",
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.4
+  },
+  {
+   "at": "S13",
+   "kind": "flash",
+   "color": "#FFF3DC"
+  },
+  {
+   "at": "S18",
+   "kind": "flash",
+   "color": "#FF3344",
+   "o": 0.4
+  },
+  {
+   "at": "S19+72",
+   "kind": "shake",
+   "len": 8,
+   "amp": 6
+  }
+ ],
+ "sound": {
+  "note": "library clips only (no ElevenLabs credits): the prompts match the library's cached files",
+  "clips": {
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "copy_click": [
+    "a crisp satisfying computer copy click with a tiny soft digital chime, short",
+    0.5
+   ],
+   "shades": [
+    "cool sunglasses sliding on with a swoosh and a bright metallic glint",
+    0.9
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "clock_back": [
+    "a clock ticking very fast then spinning backwards, mechanical ratchet whirr",
+    1.6
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "rewind_start": [
+    "a quick reverse swoosh, like a sound being sucked backwards",
+    0.7
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_hum": [
+    "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+    3.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "bulb_pop": [
+    "a small light bulb popping out, a tiny glass tink and fizz",
+    0.5
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ]
+  },
+  "events": [
+   [
+    "S1",
+    "room_tone",
+    0.08,
+    "onset",
+    "S13"
+   ],
+   [
+    "S1+22",
+    "copy_click",
+    0.3
+   ],
+   [
+    "S3+19",
+    "shades",
+    0.35
+   ],
+   [
+    "S4+18",
+    "ding",
+    0.22
+   ],
+   [
+    "S7+19",
+    "shades",
+    0.32
+   ],
+   [
+    "S8+2",
+    "counter_tick",
+    0.05,
+    "onset",
+    "S9"
+   ],
+   [
+    "S11+20",
+    "shades",
+    0.3,
+    "onset",
+    "S11+29"
+   ],
+   [
+    "S12+2",
+    "clock_back",
+    0.08,
+    "onset",
+    "S13"
+   ],
+   [
+    "S13",
+    "title_boom",
+    0.3,
+    "peak"
+   ],
+   [
+    "S13",
+    "roof_wind",
+    0.1,
+    "onset",
+    "S16"
+   ],
+   [
+    "S14+14",
+    "sparkle",
+    0.15
+   ],
+   [
+    "S15+20",
+    "rewind_start",
+    0.12
+   ],
+   [
+    "S16+3",
+    "pop",
+    0.12
+   ],
+   [
+    "S16+52",
+    "counter_tick",
+    0.05,
+    "onset",
+    "S17"
+   ],
+   [
+    "S17",
+    "power_hum",
+    0.04,
+    "onset",
+    "S18"
+   ],
+   [
+    "S18",
+    "drone_hit",
+    0.09
+   ],
+   [
+    "S19",
+    "room_tone",
+    0.06,
+    "onset"
+   ],
+   [
+    "S19+38",
+    "bulb_pop",
+    0.1
+   ],
+   [
+    "S19+72",
+    "switch_off",
+    0.35
+   ],
+   [
+    "S19+73",
+    "power_down",
+    0.14
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "from": "s:1.4",
+   "until": "S15"
+  },
+  "levels": {
+   "sfx_lu": -1.5,
+   "music_lu": -11
+  }
+ }
+}

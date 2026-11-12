@@ -1,0 +1,216 @@
+{
+ "id": "MoonMl",
+ "slug": "moon-ml",
+ "language": "ml",
+ "topic": "What if the Moon vanished overnight? (Malayalam, 6-minute cut, first 30 s)",
+ "title": [
+  "ചന്ദ്രൻ ഒറ്റ രാത്രികൊണ്ട്",
+  "മറഞ്ഞാലോ?"
+ ],
+ "accent": "മറഞ്ഞാലോ",
+ "power": {
+  "word": "Gone.",
+  "rule": "the Moon vanishes",
+  "look": "none"
+ },
+ "voice": {
+  "engine": "clipchamp",
+  "id": "Xiaoyu Multilingual",
+  "language": "Malayalam (India)",
+  "pace": "0.8x"
+ },
+ "gaps": {
+  "sentence": 0.3,
+  "comma": 0.2,
+  "question": 0.55
+ },
+ "script": [
+  {
+   "beat": "1 cold open",
+   "text": "രാത്രി. ടെറസ്സിൽ നീയും മോയും ഇരിക്കുന്നു. ആകാശത്ത് വലിയ, വെളുത്ത ചന്ദ്രൻ. നിലാവ് മുഴുവൻ നഗരത്തിലും. മോ പറയുന്നു: എന്തൊരു ഭംഗി!"
+  },
+  {
+   "beat": "1 demo",
+   "text": "പെട്ടെന്ന്... ചന്ദ്രൻ ഇല്ല! ആകാശം ശൂന്യം. ഒരു തരി വെളിച്ചം പോലും ബാക്കിയില്ല."
+  },
+  {
+   "beat": "2 premise",
+   "text": "ചന്ദ്രൻ ഒറ്റ രാത്രികൊണ്ട് മറഞ്ഞാലോ?"
+  },
+  {
+   "beat": "3 dark",
+   "text": "ആദ്യം, ഇരുട്ട്. നിലാവില്ല, വഴി കാണില്ല, ഒരു നഗരം മുഴുവൻ ഇരുട്ടിൽ. രാത്രി ഇനി ശരിക്കും കറുപ്പാണ്."
+  },
+  {
+   "beat": "3 sea",
+   "text": "പിന്നെ, കടൽ. ചന്ദ്രനാണ് വേലിയേറ്റം ഉണ്ടാക്കുന്നത്. ചന്ദ്രനില്ലെങ്കിൽ വേലിയേറ്റം ഏകദേശം മൂന്നിൽ രണ്ട് ഭാഗം കുറയും. കടൽ ആകെ കലങ്ങിപ്പോകും."
+  },
+  {
+   "beat": "4 turn",
+   "text": "അവസാനം, ഭൂമി തന്നെ ആടിത്തുടങ്ങും. ഭൂമിയുടെ ചരിവ് ഇരുപത്തിമൂന്നര ഡിഗ്രിയാണ്. ചന്ദ്രനാണ് അതിനെ പിടിച്ചുനിർത്തുന്നത്. ഇത് സത്യമാണ്. ചന്ദ്രൻ പോയാൽ, ഋതുക്കൾ പോലും തെറ്റിപ്പോകും."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Earth's axial tilt is about 23.4 degrees and the Moon helps keep it steady.",
+   "working": "Present tilt 23.4 deg. Laskar, Joutel and Robutel 1993 found a Moon-less Earth's tilt could vary chaotically; later work (Lissauer et al. 2012) found a smaller but real change. Stated as 'would start to wobble'.",
+   "source": "Laskar et al., Nature 361 (1993) 615-617"
+  },
+  {
+   "claim": "The Moon raises the tides.",
+   "working": "Lunar tidal force is about 2.2 times the Sun's.",
+   "source": "NOAA, Tides and water levels"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "night rooftop",
+   "key": 10,
+   "note": "Pip and Mo by the parapet under a huge Moon"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "night rooftop",
+   "key": 10,
+   "note": "two-shot, heads tilted up, smiling"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "set": "sky",
+   "key": 10,
+   "note": "the Moon, glowing, slow push in"
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "set": "rooftop",
+   "key": 14,
+   "note": "the Moon shrinks to nothing; shock"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 10,
+   "note": "empty sky, dotted ring where the Moon was"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "set": "rooftop dark",
+   "key": 30,
+   "note": "title card"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "city",
+   "key": 20,
+   "note": "city lights dying"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "set": "sea",
+   "key": 20,
+   "note": "tide lurching up and down"
+  },
+  {
+   "id": "S9",
+   "size": "schematic",
+   "set": "globe",
+   "key": 30,
+   "note": "globe wobbles on its axis"
+  },
+  {
+   "id": "S10",
+   "size": "schematic",
+   "set": "stat",
+   "key": 30,
+   "note": "23.4 degrees counter"
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "set": "rooftop",
+   "key": 10,
+   "note": "worried faces in the dark"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "ടെറസ്സിൽ"
+  },
+  {
+   "shot": "S3",
+   "at": "ആകാശത്ത്"
+  },
+  {
+   "shot": "S2",
+   "at": "മോ"
+  },
+  {
+   "shot": "S4",
+   "at": "പെട്ടെന്ന്"
+  },
+  {
+   "shot": "S5",
+   "at": "ഇല്ല"
+  },
+  {
+   "shot": "S6",
+   "at": "ചന്ദ്രൻ"
+  },
+  {
+   "shot": "S7",
+   "at": "ആദ്യം"
+  },
+  {
+   "shot": "S8",
+   "at": "പിന്നെ"
+  },
+  {
+   "shot": "S11",
+   "at": "ചന്ദ്രനില്ലെങ്കിൽ"
+  },
+  {
+   "shot": "S8",
+   "at": "കടൽ"
+  },
+  {
+   "shot": "S9",
+   "at": "അവസാനം"
+  },
+  {
+   "shot": "S10",
+   "at": "ഇരുപത്തിമൂന്നര"
+  },
+  {
+   "shot": "S11",
+   "at": "ഇത്"
+  }
+ ],
+ "fx": [
+  {
+   "at": "S4+10",
+   "kind": "flash",
+   "color": "#DDE9FF",
+   "o": 0.5
+  },
+  {
+   "at": "S9+10",
+   "kind": "shake",
+   "len": 10,
+   "amp": 10
+  }
+ ]
+}

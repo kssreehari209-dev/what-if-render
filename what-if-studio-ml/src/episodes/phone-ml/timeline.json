@@ -1,0 +1,330 @@
+{
+ "slug": "phone-ml",
+ "title": "ഒരാഴ്ച ഫോൺ ഇല്ലെങ്കിൽ?",
+ "fps": 30,
+ "total": 1102,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 31,
+   "t0": 0,
+   "t1": 31,
+   "line": "പത്ത് രൂപയുടെ"
+  },
+  {
+   "shot": "A2",
+   "a": 31,
+   "b": 66,
+   "t0": 0,
+   "t1": 35,
+   "line": "ചായ."
+  },
+  {
+   "shot": "A3",
+   "a": 66,
+   "b": 115,
+   "t0": 0,
+   "t1": 49,
+   "line": "ഫോണില്ല, കാശുമില്ല."
+  },
+  {
+   "shot": "A4",
+   "a": 115,
+   "b": 197,
+   "t0": 0,
+   "t1": 82,
+   "line": "അതുകൊണ്ട് നീ ഇപ്പോൾ ഗ്ലാസ് കഴുകുന്നു."
+  },
+  {
+   "shot": "T",
+   "a": 197,
+   "b": 300,
+   "t0": 0,
+   "t1": 103,
+   "line": "കേരളം മുഴുവൻ ഒരാഴ്ച ഫോൺ താഴെ വെച്ചാൽ?"
+  },
+  {
+   "shot": "B1",
+   "a": 300,
+   "b": 380,
+   "t0": 0,
+   "t1": 80,
+   "line": "ഒന്നാം ദിവസം, യുപിഐ പോയി."
+  },
+  {
+   "shot": "B4",
+   "a": 380,
+   "b": 464,
+   "t0": 0,
+   "t1": 84,
+   "line": "എടിഎമ്മിലെ വരി അടുത്ത ജംഗ്ഷൻ വരെ."
+  },
+  {
+   "shot": "C1",
+   "a": 464,
+   "b": 541,
+   "t0": 0,
+   "t1": 77,
+   "line": "രണ്ടാം ദിവസം, ഫാമിലി ഗ്രൂപ്പ് മിണ്ടുന്നില്ല."
+  },
+  {
+   "shot": "C3",
+   "a": 541,
+   "b": 585,
+   "t0": 0,
+   "t1": 44,
+   "line": "പക്ഷേ അമ്മാവൻ തോറ്റിട്ടില്ല."
+  },
+  {
+   "shot": "C4",
+   "a": 585,
+   "b": 611,
+   "t0": 0,
+   "t1": 26,
+   "line": ""
+  },
+  {
+   "shot": "C5",
+   "a": 611,
+   "b": 632,
+   "t0": 0,
+   "t1": 21,
+   "line": ""
+  },
+  {
+   "shot": "E1",
+   "a": 632,
+   "b": 691,
+   "t0": 0,
+   "t1": 59,
+   "line": "നാലാം ദിവസം, ബസ് സ്റ്റോപ്പിൽ"
+  },
+  {
+   "shot": "E2",
+   "a": 691,
+   "b": 766,
+   "t0": 0,
+   "t1": 75,
+   "line": "നീ അയൽക്കാരന്റെ പേര് ആദ്യമായി ചോദിക്കുന്നു."
+  },
+  {
+   "shot": "E3",
+   "a": 766,
+   "b": 795,
+   "t0": 0,
+   "t1": 29,
+   "line": ""
+  },
+  {
+   "shot": "G1",
+   "a": 795,
+   "b": 843,
+   "t0": 0,
+   "t1": 48,
+   "line": "ആറാം ദിവസം രാത്രി,"
+  },
+  {
+   "shot": "G2",
+   "a": 843,
+   "b": 912,
+   "t0": 0,
+   "t1": 69,
+   "line": "ഗൾഫിൽ നിന്ന് ചേട്ടൻ വിളിക്കുന്നു."
+  },
+  {
+   "shot": "H2",
+   "a": 912,
+   "b": 963,
+   "t0": 0,
+   "t1": 51,
+   "line": "ഇവിടെ ആരും എടുക്കുന്നില്ല."
+  },
+  {
+   "shot": "END",
+   "a": 963,
+   "b": 1102,
+   "t0": 0,
+   "t1": 139,
+   "line": "ഫോൺ തിരിച്ചു കിട്ടുമ്പോൾ, നീ ആദ്യം ആരെ വിളിക്കും?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "close-up",
+   "key": 20,
+   "len": 31,
+   "first": 0,
+   "line": "പത്ത് രൂപയുടെ",
+   "note": "hook: Pip scrubbing a glass, tower of unwashed glasses behind him, worried"
+  },
+  {
+   "id": "A2",
+   "size": "insert",
+   "key": 24,
+   "len": 35,
+   "first": 31,
+   "line": "ചായ.",
+   "note": "macro: one steaming glass, price tag Rs 10"
+  },
+  {
+   "id": "A3",
+   "size": "medium",
+   "key": 40,
+   "len": 49,
+   "first": 66,
+   "line": "ഫോണില്ല, കാശുമില്ല.",
+   "note": "Pip turns out empty pockets; tea man glares over the counter"
+  },
+  {
+   "id": "A4",
+   "size": "wide",
+   "key": 70,
+   "len": 82,
+   "first": 115,
+   "line": "അതുകൊണ്ട് നീ ഇപ്പോൾ ഗ്ലാസ് കഴുകുന്നു.",
+   "note": "GAG: tiny Pip, huge tower; tea man adds another tray, tower sways"
+  },
+  {
+   "id": "T",
+   "size": "title",
+   "key": 40,
+   "len": 103,
+   "first": 197,
+   "line": "കേരളം മുഴുവൻ ഒരാഴ്ച ഫോൺ താഴെ വെച്ചാൽ?",
+   "note": "title card over palms, a phone screen dying"
+  },
+  {
+   "id": "B1",
+   "size": "insert",
+   "key": 70,
+   "len": 80,
+   "first": 300,
+   "line": "ഒന്നാം ദിവസം, യുപിഐ പോയി.",
+   "note": "DAY 1: UPI stand, a cardboard sign slaps over it: cash only"
+  },
+  {
+   "id": "B4",
+   "size": "wide pan",
+   "key": 50,
+   "len": 84,
+   "first": 380,
+   "line": "എടിഎമ്മിലെ വരി അടുത്ത ജംഗ്ഷൻ വരെ.",
+   "note": "GAG: ATM queue pan: man asleep on a mat, tiffin, chair, tea seller, past the junction board"
+  },
+  {
+   "id": "C1",
+   "size": "insert",
+   "key": 40,
+   "len": 77,
+   "first": 464,
+   "line": "രണ്ടാം ദിവസം, ഫാമിലി ഗ്രൂപ്പ് മിണ്ടുന്നില്ല.",
+   "note": "DAY 2: dead phone under a cobweb, spider lowers on it"
+  },
+  {
+   "id": "C3",
+   "size": "wide",
+   "key": 40,
+   "len": 44,
+   "first": 541,
+   "line": "പക്ഷേ അമ്മാവൻ തോറ്റിട്ടില്ല.",
+   "note": "dawn: uncle rides up on a cycle with a stack of cards, bell ready"
+  },
+  {
+   "id": "C4",
+   "size": "medium",
+   "key": 20,
+   "len": 26,
+   "first": 585,
+   "line": "",
+   "note": "GAG: sleepy Pip at the gate takes a printed Good Morning card from uncle"
+  },
+  {
+   "id": "C5",
+   "size": "insert",
+   "key": 14,
+   "len": 21,
+   "first": 611,
+   "line": "",
+   "note": "GAG: the card fills the frame"
+  },
+  {
+   "id": "E1",
+   "size": "wide",
+   "key": 50,
+   "len": 59,
+   "first": 632,
+   "line": "നാലാം ദിവസം, ബസ് സ്റ്റോപ്പിൽ",
+   "note": "DAY 4: everyone heads up, talking; old man with a photo album"
+  },
+  {
+   "id": "E2",
+   "size": "medium",
+   "key": 30,
+   "len": 75,
+   "first": 691,
+   "line": "നീ അയൽക്കാരന്റെ പേര് ആദ്യമായി ചോദിക്കുന്നു.",
+   "note": "Pip shakes hands with the neighbour of ten years"
+  },
+  {
+   "id": "E3",
+   "size": "wide",
+   "key": 18,
+   "len": 29,
+   "first": 766,
+   "line": "",
+   "note": "GAG: the bus leaves behind them, nobody notices"
+  },
+  {
+   "id": "G1",
+   "size": "medium",
+   "key": 30,
+   "len": 48,
+   "first": 795,
+   "line": "ആറാം ദിവസം രാത്രി,",
+   "note": "DAY 6, night: amma on the thinna by the lit door, phone beside her"
+  },
+  {
+   "id": "G2",
+   "size": "medium",
+   "key": 40,
+   "len": 69,
+   "first": 843,
+   "line": "ഗൾഫിൽ നിന്ന് ചേട്ടൻ വിളിക്കുന്നു.",
+   "note": "brother on a Gulf balcony, phone to his ear; on screen: 22 lakh Malayalis across the sea"
+  },
+  {
+   "id": "H2",
+   "size": "insert",
+   "key": 30,
+   "len": 51,
+   "first": 912,
+   "line": "ഇവിടെ ആരും എടുക്കുന്നില്ല.",
+   "note": "amma's dark phone on the thinna, her hand next to it"
+  },
+  {
+   "id": "END",
+   "size": "close-up",
+   "key": 100,
+   "len": 139,
+   "first": 963,
+   "line": "ഫോൺ തിരിച്ചു കിട്ടുമ്പോൾ, നീ ആദ്യം ആരെ വിളിക്കും?",
+   "note": "DAY 7: the phone wakes; who do you call first?"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "f": 197
+  }
+ ],
+ "audio": {
+  "voice": "phone-ml/voice.wav",
+  "sfx": "phone-ml/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.7381,
+  "music": "phone-ml/music.wav",
+  "musicVol": 0.1092
+ }
+}

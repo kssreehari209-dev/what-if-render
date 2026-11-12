@@ -1,0 +1,40 @@
+{
+  "id": "SnapMl",
+  "slug": "snap-ml",
+  "topic": "What if you could turn invisible with a snap? (Malayalam)",
+  "title": ["ഒരു സ്നാപ്പിൽ", "അദൃശ്യനായാലോ?"],
+  "accent": "അദൃശ്യനായാലോ?",
+  "language": "ml",
+  "voice": {
+    "engine": "clipchamp",
+    "id": "Xiaoyu Multilingual",
+    "language": "Malayalam (India)",
+    "pitch": "Default",
+    "pace": "0.9x"
+  },
+  "power": {
+    "word": "സ്നാപ്പ്",
+    "rule": "snap your fingers and you turn fully invisible, light passes straight through you",
+    "look": "a shimmer ring on the snap, then Pip drawn as a faint dashed outline"
+  },
+  "script": [
+    {"beat": "1 cold open, demo 1 (domestic)", "text": "അമ്മ പണി തരാൻ വിളിക്കുന്നു. സ്നാപ്പ്. നീ അവിടെയില്ല."},
+    {"beat": "1 cold open, demo 2 (sneaky)", "text": "അനിയത്തി നിന്റെ ചോക്ലേറ്റ് ഒളിപ്പിക്കുന്നു. സ്നാപ്പ്. നീ എല്ലാം കണ്ടു."},
+    {"beat": "1 cold open, demo 3 (uncanny)", "text": "മോ നിന്നെ തിരയുന്നു. നീ അവന്റെ തൊട്ടടുത്ത്."},
+    {"beat": "2 the premise (title card)", "text": "ഒരു സ്നാപ്പിൽ അദൃശ്യനാകാൻ പറ്റിയാലോ?"},
+    {"beat": "4 the turn: one real fact", "text": "പക്ഷേ ഒരു പ്രശ്നമുണ്ട്: കാണാൻ, കണ്ണ് വെളിച്ചം പിടിക്കണം. റെറ്റിനയിലെ ഒമ്പത് കോടിയിലധികം കോശങ്ങൾ അത് ചെയ്യുന്നു. ഇത് സത്യമാണ്. അദൃശ്യമായ കണ്ണിലൂടെ വെളിച്ചം കടന്നുപോകും."},
+    {"beat": "5-7 folded into a threat", "text": "അപ്പോൾ ആരും നിന്നെ കാണില്ല... നീയും ആരെയും കാണില്ല."}
+  ],
+  "science": [
+    {
+      "claim": "റെറ്റിനയിലെ ഒമ്പത് കോടിയിലധികം കോശങ്ങൾ വെളിച്ചം പിടിക്കുന്നു. (Over 90 million retinal cells catch light.)",
+      "working": "The human retina holds about 92-120 million rods plus about 4.6-6 million cones, so well over 90 million photoreceptors.",
+      "source": "Curcio et al. 1990, J. Comp. Neurol. 292:497-523 (human photoreceptor topography)"
+    },
+    {
+      "claim": "അദൃശ്യമായ കണ്ണിലൂടെ വെളിച്ചം കടന്നുപോകും. (Light passes straight through an invisible eye.)",
+      "working": "Vision needs photoreceptors to absorb photons; a perfectly transparent eye absorbs none, so no signal reaches the brain and the person is blind.",
+      "source": "Standard optics of vision (absorption by rhodopsin); the classic 'invisible man is blind' argument"
+    }
+  ]
+}

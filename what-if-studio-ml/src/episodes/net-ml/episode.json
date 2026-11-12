@@ -1,0 +1,2243 @@
+{
+  "id": "NetMl",
+  "slug": "net-ml",
+  "topic": "What if the internet went off for a month? (long video, 16:9; day 2 of daily-plan.md, idea L13)",
+  "title": [
+    "ഇന്റർനെറ്റ്",
+    "ഒരു മാസം നിന്നാൽ?"
+  ],
+  "accent": "ഇന്റർനെറ്റ്",
+  "language": "ml",
+  "voice": {
+    "engine": "edge-tts",
+    "id": "ml-IN-SobhanaNeural",
+    "language": "Malayalam (India)",
+    "rate": "+0%"
+  },
+  "gaps": {
+    "word": 0.15,
+    "comma": 0.45,
+    "sentence": 0.85,
+    "question": 1.0,
+    "pairs": {
+      "നിന്നുപോയി|അച്ഛന്റെ": 1.4,
+      "ഏതാണ്|പത്ത്": 1.6,
+      "ഇടിച്ചു|പത്തൊമ്പത്": 1.4,
+      "കറങ്ങുന്നു|വൈഫൈ": 1.6,
+      "കൊടുത്തു|നിന്റെ": 2.2,
+      "നിന്നുപോയാലോ|ആദ്യത്തെ": 2.0,
+      "പൊക്കിപ്പിടിച്ചു|രണ്ടാം": 2.2,
+      "പിടിവലി|ഗൂഗിൾ": 2.2,
+      "നിന്നു|നിന്റെ": 2.4,
+      "പറ്റിയില്ല|അമ്മയ്ക്ക്": 3.6,
+      "ചോറുണ്ണുന്നത്|നല്ല": 1.2,
+      "ഉച്ചവരെ|ചായ": 1.4,
+      "രൂപയില്ല|ഈ": 2.0,
+      "കാലി|അഞ്ചാം": 1.6,
+      "സമ്മതിക്കുന്നില്ല|രണ്ടായിരത്തി": 1.6,
+      "അടിയിലാണ്|രാജ്യങ്ങൾ": 1.4,
+      "കൊണ്ടത്|ഇരുപത്തിരണ്ട്": 1.6,
+      "മാത്രം|അമ്മ": 1.4,
+      "പറഞ്ഞില്ല|പതിനെട്ടാം": 1.8,
+      "വീണു|ആശുപത്രിയിൽ": 1.4,
+      "കെട്ടണം|ഗേറ്റിന്": 2.2,
+      "ചേട്ടാ|പേന": 1.4,
+      "ചോദിക്കണം|അങ്ങനെയാണ്": 1.8,
+      "നോക്കി|അപ്പോൾ": 1.4,
+      "എല്ലാവരും|നമ്പർ": 1.4,
+      "മൂന്ന്|അപ്പുറത്ത്": 2.0,
+      "എന്ന്|അച്ഛൻ": 1.4,
+      "ബസ്സിറങ്ങി|മുപ്പതാം": 2.2,
+      "ഓക്കെയല്ലേ|ഇന്റർനെറ്റ്": 1.6,
+      "എന്നും|ഇനി": 2.0
+    }
+  },
+  "cast": [
+    "ramu",
+    "appu",
+    "sis",
+    "mom",
+    "suit"
+  ],
+  "tail": 4.0,
+  "script": [
+    {
+      "beat": "A cold open: the booth",
+      "text": "പത്തൊമ്പതാം ദിവസം. നട്ടുച്ച. കവലയിലെ പഴയ എസ്ടിഡി ബൂത്തിന് മുന്നിൽ മുന്നൂറ് പേരുടെ വരി."
+    },
+    {
+      "beat": "A",
+      "text": "നാല് മണിക്കൂർ നിന്നിട്ടാണ് നിനക്ക് അകത്ത് കയറാൻ പറ്റിയത്."
+    },
+    {
+      "beat": "A",
+      "text": "ദുബായിലുള്ള അച്ഛനെ ഇന്ന് കിട്ടിയേ പറ്റൂ. അമ്മ ആശുപത്രിയിലാണ്."
+    },
+    {
+      "beat": "A",
+      "text": "റിസീവർ എടുത്തു. വിരൽ നമ്പറിൽ വെച്ചു. അവിടെ നിന്നുപോയി.",
+      "hold": 0.8
+    },
+    {
+      "beat": "A",
+      "text": "അച്ഛന്റെ നമ്പർ ഏതാണ്?",
+      "hold": 1.0
+    },
+    {
+      "beat": "A",
+      "text": "പത്ത് കൊല്ലമായി അച്ഛൻ വിളിക്കുന്നത് വാട്സാപ്പിലാണ്. നാട്ടിലെ പഴയ നമ്പറിൽ. ദുബായിലെ നമ്പർ നീ കണ്ടിട്ടേയില്ല."
+    },
+    {
+      "beat": "A",
+      "text": "പിന്നിൽ നിന്ന് ആരോ ഗ്ലാസിൽ ഇടിച്ചു.",
+      "hold": 0.8
+    },
+    {
+      "beat": "B premise",
+      "text": "പത്തൊമ്പത് ദിവസം മുമ്പ്. ഒരു ചൊവ്വാഴ്ച രാത്രി. നീ കട്ടിലിൽ കിടന്ന് റീൽസ് കാണുകയാണ്."
+    },
+    {
+      "beat": "B",
+      "text": "വീഡിയോ പെട്ടെന്ന് നിന്നു. ഒരു ചെറിയ വട്ടം മാത്രം കറങ്ങുന്നു.",
+      "hold": 1.0
+    },
+    {
+      "beat": "B",
+      "text": "വൈഫൈ ഓഫാക്കി, ഓണാക്കി. ഫോൺ റീസ്റ്റാർട്ട് ചെയ്തു. റൂട്ടറിന് രണ്ട് തട്ട് കൊടുത്തു.",
+      "hold": 1.6
+    },
+    {
+      "beat": "B",
+      "text": "നിന്റെ വീട്ടിൽ മാത്രമല്ല. കേരളത്തിൽ മാത്രമല്ല. ലോകം മുഴുവൻ."
+    },
+    {
+      "beat": "B title",
+      "text": "ഇന്റർനെറ്റ് ഒരു മാസത്തേക്ക് നിന്നുപോയാലോ?",
+      "hold": 1.4
+    },
+    {
+      "beat": "C fun",
+      "text": "ആദ്യത്തെ ദിവസം ആരും പേടിച്ചില്ല. നാട് മുഴുവൻ ടെറസിൽ കയറി ഫോൺ ആകാശത്തേക്ക് പൊക്കിപ്പിടിച്ചു.",
+      "hold": 1.6
+    },
+    {
+      "beat": "C",
+      "text": "രണ്ടാം ദിവസം ഗ്രൗണ്ടിൽ പിള്ളേർ നിറഞ്ഞു. ചായക്കടയിൽ ഒരു പത്രത്തിന് വേണ്ടി പിടിവലി.",
+      "hold": 1.6
+    },
+    {
+      "beat": "C",
+      "text": "ഗൂഗിൾ ഇല്ലാത്തതുകൊണ്ട് സംശയം ചോദിക്കാൻ ആളുകൾ റിട്ടയേർഡ് ഹെഡ്മാസ്റ്ററുടെ വീട്ടിൽ വരി നിന്നു.",
+      "hold": 1.8
+    },
+    {
+      "beat": "C",
+      "text": "നിന്റെ കൂട്ടുകാരന് റീൽസ് ഇല്ലാതെ പിടിച്ചുനിൽക്കാൻ പറ്റിയില്ല.",
+      "hold": 3.0
+    },
+    {
+      "beat": "C",
+      "text": "അമ്മയ്ക്ക് സന്തോഷമായി. എത്ര കാലം കൂടിയാണ് നീ തല പൊക്കി ചോറുണ്ണുന്നത്.",
+      "hold": 0.6
+    },
+    {
+      "beat": "C",
+      "text": "നല്ല രസമായിരുന്നു. മൂന്നാം ദിവസം ഉച്ചവരെ.",
+      "hold": 0.8
+    },
+    {
+      "beat": "D the turn: money",
+      "text": "ചായ കുടിച്ച് നീ ഫോൺ നീട്ടി. സ്കാനർ മിണ്ടിയില്ല. പോക്കറ്റിൽ തപ്പി. ഒരു രൂപയില്ല.",
+      "hold": 1.4
+    },
+    {
+      "beat": "D fact UPI",
+      "text": "ഈ ഒക്ടോബറിൽ മാത്രം ഇന്ത്യ യുപിഐയിൽ നടത്തിയത് രണ്ടായിരത്തി അഞ്ഞൂറ്റി നാൽപ്പത്തേഴ് കോടി ഇടപാടുകളാണ്. ഒരു ദിവസം എൺപത്തിരണ്ട് കോടി."
+    },
+    {
+      "beat": "D",
+      "text": "അതാണ് ഒറ്റ രാത്രി കൊണ്ട് നിന്നത്. എടിഎമ്മിന് മുന്നിൽ വരിയായി. വൈകുന്നേരം ആയപ്പോൾ മെഷീനും കാലി.",
+      "hold": 1.0
+    },
+    {
+      "beat": "D ration",
+      "text": "അഞ്ചാം ദിവസം റേഷൻ കട. അരി ചാക്കിൽ ഉണ്ട്. മെഷീൻ സമ്മതിക്കുന്നില്ല.",
+      "hold": 1.0
+    },
+    {
+      "beat": "D fact ration",
+      "text": "രണ്ടായിരത്തി ഇരുപത്തിരണ്ട് ജനുവരിയിൽ ഇ പോസ് മെഷീൻ ഒന്ന് പണിമുടക്കിയപ്പോൾ തന്നെ കേരളത്തിലെ അറുപത് ശതമാനത്തിലേറെ റേഷൻ കടകൾ അടഞ്ഞുകിടന്നു."
+    },
+    {
+      "beat": "D salary",
+      "text": "ഒന്നാം തീയതി വന്നു. അഞ്ച് ലക്ഷത്തിലേറെ സർക്കാർ ജീവനക്കാരുടെ ശമ്പളം ഓടുന്നത് സ്പാർക്ക് എന്ന ഓൺലൈൻ സംവിധാനത്തിലാണ്. അന്ന് ആർക്കും മെസേജ് വന്നില്ല."
+    },
+    {
+      "beat": "D fact right",
+      "text": "രണ്ടായിരത്തി പതിനേഴിലെ ബജറ്റിൽ കേരളം പറഞ്ഞിരുന്നു, ഇന്റർനെറ്റ് വെള്ളവും ഭക്ഷണവും പോലെ ഒരു അവകാശമാണെന്ന്. അതിന്റെ അർത്ഥം നാടിന് ഇപ്പോൾ മനസ്സിലായി."
+    },
+    {
+      "beat": "E cables",
+      "text": "ഇത്ര വലിയ സാധനം എങ്ങനെ നിൽക്കും? ഇന്റർനെറ്റ് ആകാശത്തല്ല ഉള്ളത്. കടലിന്റെ അടിയിലാണ്.",
+      "hold": 0.8
+    },
+    {
+      "beat": "E fact cables",
+      "text": "രാജ്യങ്ങൾ തമ്മിലുള്ള ഇന്റർനെറ്റിന്റെ തൊണ്ണൂറ്റൊമ്പത് ശതമാനവും ഓടുന്നത് കടലിനടിയിലെ കേബിളിലൂടെയാണ്. ചിലത് കരയ്ക്ക് കയറുന്നത് കൊച്ചിയിലും തിരുവനന്തപുരത്തും."
+    },
+    {
+      "beat": "E fact Tonga",
+      "text": "ഒരു നാട് ഇത് അനുഭവിച്ചിട്ടുണ്ട്. രണ്ടായിരത്തി ഇരുപത്തിരണ്ടിൽ ടോംഗ എന്ന ദ്വീപ് രാജ്യത്ത് കടലിനടിയിൽ അഗ്നിപർവതം പൊട്ടി. ആകെയുണ്ടായിരുന്ന ഒരു കേബിൾ മുറിഞ്ഞു. അഞ്ചാഴ്ച അവർ ലോകത്തിന് പുറത്തായി."
+    },
+    {
+      "beat": "E fact Manipur",
+      "text": "നമ്മുടെ രാജ്യത്ത് തന്നെ, മണിപ്പൂരിൽ രണ്ടായിരത്തി ഇരുപത്തിമൂന്നിൽ ഇന്റർനെറ്റ് നിർത്തി. ബ്രോഡ്ബാൻഡ് തിരിച്ചുവന്നത് എൺപത്തിമൂന്ന് ദിവസം കഴിഞ്ഞ്. പരീക്ഷയുടെ അറിയിപ്പ് കാണാതെ പല കുട്ടികൾക്കും അത് എഴുതാൻ പറ്റിയില്ല."
+    },
+    {
+      "beat": "F the old world",
+      "text": "പത്താം ദിവസം ആയപ്പോൾ നാട് പതുക്കെ പിന്നോട്ട് നടന്നു. തട്ടിൻപുറത്ത് നിന്ന് റേഡിയോ ഇറങ്ങി. പോസ്റ്റ് ഓഫീസിൽ വരി."
+    },
+    {
+      "beat": "F fact ham",
+      "text": "രണ്ടായിരത്തി പതിനെട്ടിലെ പ്രളയത്തിൽ ഫോണുകൾ ചത്തപ്പോൾ ഹാം റേഡിയോക്കാരാണ് സന്ദേശങ്ങൾ എത്തിച്ചത്. ഇപ്പോൾ അവരുടെ ടെറസിലും ആളുകൾ കാത്തുനിന്നു."
+    },
+    {
+      "beat": "F booth",
+      "text": "വിദേശത്തേക്ക് മൊബൈലിൽ വിളി പോകുന്നില്ല. ഇരുപത് കൊല്ലം പൂട്ടിക്കിടന്ന എസ്ടിഡി ബൂത്ത് തുറന്നു. മീറ്ററിൽ ചുവന്ന അക്കങ്ങൾ വീണ്ടും ഓടി."
+    },
+    {
+      "beat": "G the Gulf",
+      "text": "പതിനാലാം ദിവസം ആയപ്പോഴാണ് കേരളത്തിന്റെ നെഞ്ചിൽ കൊണ്ടത്.",
+      "hold": 1.0
+    },
+    {
+      "beat": "G fact remittance",
+      "text": "ഇരുപത്തിരണ്ട് ലക്ഷം മലയാളികൾ വിദേശത്തുണ്ട്. രണ്ടായിരത്തി ഇരുപത്തിമൂന്നിൽ അവർ നാട്ടിലേക്ക് അയച്ചത് രണ്ട് ലക്ഷത്തി പതിനാറായിരം കോടി രൂപ."
+    },
+    {
+      "beat": "G",
+      "text": "ഈ മാസം ഒന്നും വന്നില്ല. അച്ഛന്റെ പൈസയും വന്നില്ല. അച്ഛന്റെ ശബ്ദവും വന്നില്ല."
+    },
+    {
+      "beat": "G",
+      "text": "ദുബായിലെ ഒരു ചെറിയ മുറിയിൽ അച്ഛൻ ഫോണും നോക്കി ഇരിപ്പുണ്ട്. മെസേജിന് ഒരു ടിക്ക് മാത്രം.",
+      "hold": 0.8
+    },
+    {
+      "beat": "G",
+      "text": "അമ്മ എല്ലാ രാത്രിയും കാശ് എണ്ണി നോക്കും. പ്രഷറിന്റെ ഗുളിക ഒന്നിടവിട്ട ദിവസമാക്കി. നിന്നോട് പറഞ്ഞില്ല.",
+      "hold": 1.2
+    },
+    {
+      "beat": "G",
+      "text": "പതിനെട്ടാം ദിവസം അമ്മ അടുക്കളയിൽ വീണു.",
+      "hold": 0.8
+    },
+    {
+      "beat": "H hospital",
+      "text": "ആശുപത്രിയിൽ കമ്പ്യൂട്ടർ ഇല്ല. പഴയ രജിസ്റ്റർ. ഐസിയുവിന് മുൻകൂറായി കാശ് കെട്ടണം.",
+      "hold": 1.6
+    },
+    {
+      "beat": "H suit",
+      "text": "ഗേറ്റിന് പുറത്ത് ഒരു കറുത്ത കാർ. കോട്ടിട്ട ഒരാൾ. ഇപ്പോൾ നാട്ടിൽ കെട്ടുകണക്കിന് നോട്ടുള്ള ഒരേയൊരാൾ."
+    },
+    {
+      "beat": "H",
+      "text": "അയാൾ ഒരു കടലാസ് നീട്ടി. ഒപ്പിട്ടാൽ ഇന്ന് തന്നെ പണം. പകരം വീടിന്റെ ആധാരം."
+    },
+    {
+      "beat": "H choice",
+      "text": "അനിയത്തി നിന്റെ കൈ പിടിച്ചു. അച്ഛൻ കെട്ടിയ വീടല്ലേ, ചേട്ടാ?",
+      "hold": 0.8
+    },
+    {
+      "beat": "H",
+      "text": "പേന കയ്യിലുണ്ട്. ഒപ്പിടും മുമ്പ് അച്ഛനോട് ഒരു വാക്ക് ചോദിക്കണം.",
+      "hold": 1.2
+    },
+    {
+      "beat": "H",
+      "text": "അങ്ങനെയാണ് നീ ഈ ബൂത്തിൽ എത്തിയത്."
+    },
+    {
+      "beat": "I back at the booth",
+      "text": "നമ്പർ ഇല്ലാതെ നീ പുറത്തിറങ്ങി. വരി മുഴുവൻ നിന്നെ നോക്കി.",
+      "hold": 0.8
+    },
+    {
+      "beat": "I",
+      "text": "അപ്പോൾ അനിയത്തി ഓടി വരുന്നു. കയ്യിൽ അമ്മയുടെ അലമാരയിലെ ഒരു പഴയ നീല ഡയറി."
+    },
+    {
+      "beat": "I",
+      "text": "നാട്ടിലെ എല്ലാ നമ്പറും അമ്മ കൈകൊണ്ട് എഴുതി വെച്ചിട്ടുണ്ട്. അവസാനത്തെ പേജിൽ, അച്ഛൻ, ദുബായ്."
+    },
+    {
+      "beat": "I",
+      "text": "വരിയിൽ നിന്ന ആരോ വഴി മാറി തന്നു. പിന്നെ എല്ലാവരും.",
+      "hold": 0.8
+    },
+    {
+      "beat": "I",
+      "text": "നമ്പർ കുത്തി. മീറ്റർ ഓടി. ഒരു ബെല്ല്. രണ്ട്. മൂന്ന്.",
+      "hold": 1.4
+    },
+    {
+      "beat": "I",
+      "text": "അപ്പുറത്ത് ഒരു ശബ്ദം. മോനേ എന്ന്.",
+      "hold": 0.8
+    },
+    {
+      "beat": "I",
+      "text": "അച്ഛൻ ഒന്നേ പറഞ്ഞുള്ളൂ. ഒപ്പിടരുത്. പിന്നെ ഒരു പേരും. കൊച്ചിയിലെ ഒരു പഴയ കൂട്ടുകാരൻ. പിറ്റേന്ന് രാവിലെ അയാൾ കാശുമായി ബസ്സിറങ്ങി.",
+      "hold": 1.6
+    },
+    {
+      "beat": "J it comes back",
+      "text": "മുപ്പതാം ദിവസം രാത്രി നിന്റെ ഫോൺ ഒന്ന് വിറച്ചു. പിന്നെ നിർത്താതെ വിറച്ചു."
+    },
+    {
+      "beat": "J",
+      "text": "ആദ്യം വന്നത് അച്ഛന്റെ മെസേജാണ്. ഒരു മാസം മുമ്പ് അയച്ചത്. എല്ലാവരും ഓക്കെയല്ലേ?",
+      "hold": 1.0
+    },
+    {
+      "beat": "J threat",
+      "text": "ഇന്റർനെറ്റ് എന്തുകൊണ്ട് പോയി എന്ന് ഇന്നും ആരും പറഞ്ഞിട്ടില്ല. ഇനി എന്ന് പോകും എന്നും.",
+      "hold": 1.4
+    },
+    {
+      "beat": "J question",
+      "text": "ഇനി ഫോൺ നോക്കാതെ പറ. നിനക്ക് എത്ര പേരുടെ നമ്പർ ഓർമ്മയുണ്ട്?",
+      "hold": 0.8
+    }
+  ],
+  "science": [
+    {
+      "claim": "India ran 2,547 crore UPI transactions in October 2026, about 82 crore a day.",
+      "working": "25.47 billion transactions, Rs 31.53 lakh crore (NPCI, press-reported). 25.47e9 / 31 = 82.2 crore a day.",
+      "source": "https://www.freepressjournal.in/business/upi-transactions-hit-2547-billion-in-october-value-soars-to-3153-lakh-crore"
+    },
+    {
+      "claim": "In January 2022 an e-PoS failure closed more than 60% of Kerala's ration shops.",
+      "working": "Press report of e-PoS machines malfunctioning, more than 60% of shops shut.",
+      "source": "https://www.onmanorama.com/news/kerala/2022/01/12/ration-shop-supply-affected-server-issue.html"
+    },
+    {
+      "claim": "SPARK, the online payroll system, covers over 5 lakh Kerala government employees.",
+      "working": "Case study gives 5.25 lakh employees. Their pay stopping is the story's fiction, not a reported event.",
+      "source": "https://mail.csi-sigegov.org.in/casestudies/38_spark.pdf"
+    },
+    {
+      "claim": "Kerala's 2017-18 budget called internet access a basic right, like water and food.",
+      "working": "Thomas Isaac's budget speech as reported.",
+      "source": "https://yourstory.com/2017/03/kerala-free-internet-connection/"
+    },
+    {
+      "claim": "About 99% of international internet traffic runs on undersea cables; some land at Kochi and Thiruvananthapuram.",
+      "working": "99% is a global figure, so the line says traffic between countries. Landing cities per report. No share is claimed for Kochi.",
+      "source": "https://www.trai.gov.in/sites/default/files/Recommendation_19062023_0.pdf ; https://vajiramandravi.com/current-affairs/bolstering-indias-undersea-cable-infrastructure/"
+    },
+    {
+      "claim": "Tonga: the January 2022 eruption cut its single international cable; it took five weeks to fix.",
+      "working": "Eruption 15 Jan 2022, service back after five weeks.",
+      "source": "https://www.nbcnews.com/news/world/tongas-internet-restored-5-weeks-volcanic-eruption-tsunami-rcna17288 ; https://restofworld.org/2022/tonga-earthquake-internet-reconnection-update/"
+    },
+    {
+      "claim": "Manipur 2023: broadband came back after 83 days; students missed exams for want of notices.",
+      "working": "Reports differ on total length (83 to over 200 days) as they count different things, so the line names broadband only. Student quote: friends missed CUET and NET because unaware of notifications.",
+      "source": "https://www.boomlive.in/decode/how-manipuris-survived-the-longest-internet-shutdown-in-2023-25143 ; https://internetshutdowns.in/india-shutdowns/1269/manipur-2023/"
+    },
+    {
+      "claim": "In the 2018 Kerala floods ham radio operators relayed messages when phones failed.",
+      "working": "Press reports; head counts differ (40 to 300), so none is spoken.",
+      "source": "https://www.orissapost.com/ham-radio-services-help-trace-stranded-people-in-flood-hit-kerala/amp/ ; https://www.deccanherald.com/india/ham-radios-come-to-the-rescue-in-rain-hit-kerala-1042357.html"
+    },
+    {
+      "claim": "22 lakh Malayalis abroad sent Rs 2,16,893 crore in 2023.",
+      "working": "Kerala Migration Survey 2023: 2.2 million emigrants; remittances Rs 2,16,893 crore. Spoken as two lakh sixteen thousand crore.",
+      "source": "https://iimad.org/wp-content/uploads/2024/06/KMS-2023-Report.pdf"
+    },
+    {
+      "claim": "The month-long global outage, the family, the suit and the booth are fiction.",
+      "working": "Only the facts above are real. Why the internet stops is left unexplained on purpose.",
+      "source": "none"
+    }
+  ],
+  "shots": [
+    {
+      "id": "A1",
+      "size": "wide",
+      "set": "junction",
+      "key": 40,
+      "note": "HOOK: day 19, noon, a queue of 300 snakes to the yellow STD booth"
+    },
+    {
+      "id": "A2",
+      "size": "medium",
+      "set": "junction",
+      "key": 40,
+      "note": "Pip near the front, tired, uncle asleep on his feet"
+    },
+    {
+      "id": "A3",
+      "size": "medium",
+      "set": "booth",
+      "key": 90,
+      "note": "inside the booth at last, Pip worried; amma in hospital"
+    },
+    {
+      "id": "A4",
+      "size": "insert",
+      "set": "booth",
+      "key": 70,
+      "note": "receiver lifts, then the finger stops over the keypad"
+    },
+    {
+      "id": "A5",
+      "size": "close-up",
+      "set": "booth",
+      "key": 30,
+      "note": "Pip realises: he doesn't know the number"
+    },
+    {
+      "id": "A6",
+      "size": "insert",
+      "set": "phone",
+      "key": 170,
+      "note": "chat with dad on the old Kerala number; Dubai number is only question marks"
+    },
+    {
+      "id": "A7",
+      "size": "over shoulder",
+      "set": "booth",
+      "key": 30,
+      "note": "man outside bangs on the glass"
+    },
+    {
+      "id": "B1",
+      "size": "wide",
+      "set": "bedroom",
+      "key": 40,
+      "note": "19 days earlier: Pip in bed at 23:30, reels on his phone"
+    },
+    {
+      "id": "B2",
+      "size": "insert",
+      "set": "phone",
+      "key": 50,
+      "note": "Mo's dance freezes, spinner"
+    },
+    {
+      "id": "B3",
+      "size": "medium",
+      "set": "shelf",
+      "key": 50,
+      "note": "Pip tries everything; router dead"
+    },
+    {
+      "id": "B4",
+      "size": "close-up",
+      "set": "shelf",
+      "key": 46,
+      "note": "GAG: two whacks; the router's antennas droop, dizzy stars"
+    },
+    {
+      "id": "B5",
+      "size": "pull out",
+      "set": "night town",
+      "key": 70,
+      "note": "camera pulls back over houses, a dead-signal mark on each"
+    },
+    {
+      "id": "B6",
+      "size": "wide",
+      "set": "space",
+      "key": 50,
+      "note": "the world's lights go out in a sweep"
+    },
+    {
+      "id": "T",
+      "size": "wide",
+      "set": "terrace",
+      "key": 40,
+      "note": "TITLE: Pip on the night terrace, phone up"
+    },
+    {
+      "id": "C1",
+      "size": "wide",
+      "set": "roofs",
+      "key": 40,
+      "note": "day 1: the whole town on its roofs, phones up"
+    },
+    {
+      "id": "C2",
+      "size": "low angle",
+      "set": "palm",
+      "key": 86,
+      "note": "GAG: Mo up a coconut palm for signal; a coconut lands on him"
+    },
+    {
+      "id": "C3",
+      "size": "wide",
+      "set": "ground",
+      "key": 40,
+      "note": "day 2: the ground full of kids, cricket"
+    },
+    {
+      "id": "C4",
+      "size": "medium",
+      "set": "tea shop",
+      "key": 110,
+      "note": "GAG: two uncles tug the one newspaper; it rips; one reads upside down"
+    },
+    {
+      "id": "C5",
+      "size": "wide",
+      "set": "headmaster's",
+      "key": 130,
+      "note": "GAG: a queue at the retired headmaster's; Mo's board asks the wifi password; he facepalms"
+    },
+    {
+      "id": "C6",
+      "size": "wide",
+      "set": "bus stop",
+      "key": 100,
+      "note": "GAG: Mo dances in a cardboard reel frame; a granny swipes him up and away"
+    },
+    {
+      "id": "C7",
+      "size": "medium",
+      "set": "kitchen",
+      "key": 50,
+      "note": "dinner: Pip lifts his head, amma happy, phone under a cobweb"
+    },
+    {
+      "id": "C8",
+      "size": "medium",
+      "set": "terrace",
+      "key": 60,
+      "note": "Pip and Mo at carrom, sunset; chip: day 3 noon"
+    },
+    {
+      "id": "D1",
+      "size": "medium",
+      "set": "tea shop",
+      "key": 60,
+      "note": "Pip holds out his phone to the QR"
+    },
+    {
+      "id": "D2",
+      "size": "insert",
+      "set": "phone",
+      "key": 20,
+      "note": "spinner, no network"
+    },
+    {
+      "id": "D3",
+      "size": "medium",
+      "set": "tea shop",
+      "key": 40,
+      "note": "GAG: empty pockets, a moth flies out; tea man's open palm"
+    },
+    {
+      "id": "D4",
+      "size": "schematic",
+      "set": "schematic",
+      "key": 150,
+      "note": "2,547 crore UPI transactions in October 2026"
+    },
+    {
+      "id": "D5",
+      "size": "schematic",
+      "set": "schematic",
+      "key": 70,
+      "note": "82 crore a day, dots dying"
+    },
+    {
+      "id": "D6",
+      "size": "wide",
+      "set": "ATM",
+      "key": 60,
+      "note": "ATM queue, a man on a mat with a pillow"
+    },
+    {
+      "id": "D7",
+      "size": "insert",
+      "set": "ATM",
+      "key": 70,
+      "note": "ATM screen: no money; a spider in the slot"
+    },
+    {
+      "id": "D8",
+      "size": "wide",
+      "set": "ration shop",
+      "key": 60,
+      "note": "day 5: amma at the counter, sacks behind, the e-PoS spinning"
+    },
+    {
+      "id": "D9",
+      "size": "insert",
+      "set": "ration shop",
+      "key": 30,
+      "note": "her thumb on the sensor, red light"
+    },
+    {
+      "id": "D10",
+      "size": "wide",
+      "set": "shops",
+      "key": 230,
+      "note": "six of ten ration shops shutter down: more than 60%"
+    },
+    {
+      "id": "D11",
+      "size": "medium",
+      "set": "home",
+      "key": 60,
+      "note": "calendar flips to the 1st; a man waits on his phone"
+    },
+    {
+      "id": "D12",
+      "size": "wide",
+      "set": "office",
+      "key": 190,
+      "note": "rows of staff staring at phones; messages: 0"
+    },
+    {
+      "id": "D13",
+      "size": "schematic",
+      "set": "schematic",
+      "key": 170,
+      "note": "2017 budget: water, food, internet; a right"
+    },
+    {
+      "id": "E1",
+      "size": "medium",
+      "set": "terrace",
+      "key": 80,
+      "note": "Pip and Mo look up: not in the sky"
+    },
+    {
+      "id": "E2",
+      "size": "move",
+      "set": "sea",
+      "key": 90,
+      "note": "the camera dives to the sea floor, the cable, a curious fish"
+    },
+    {
+      "id": "E3",
+      "size": "schematic",
+      "set": "schematic",
+      "key": 100,
+      "note": "99%: a web of cables between places"
+    },
+    {
+      "id": "E4",
+      "size": "wide",
+      "set": "beach",
+      "key": 80,
+      "note": "cable comes ashore by a Chinese net; GAG: Mo puts his ear to it, a crab pinches"
+    },
+    {
+      "id": "E5",
+      "size": "wide",
+      "set": "sea",
+      "key": 150,
+      "note": "Tonga, January 2022: the volcano erupts"
+    },
+    {
+      "id": "E6",
+      "size": "medium",
+      "set": "sea floor",
+      "key": 34,
+      "note": "the one cable snaps"
+    },
+    {
+      "id": "E7",
+      "size": "wide",
+      "set": "island",
+      "key": 30,
+      "note": "dark island, one person with a phone up; 5 weeks"
+    },
+    {
+      "id": "E8",
+      "size": "wide",
+      "set": "hills",
+      "key": 170,
+      "note": "Manipur 2023: 83 days"
+    },
+    {
+      "id": "E9",
+      "size": "wide",
+      "set": "classroom",
+      "key": 60,
+      "note": "empty exam room"
+    },
+    {
+      "id": "F1",
+      "size": "medium",
+      "set": "home",
+      "key": 150,
+      "note": "day 10: the old radio comes down from the loft"
+    },
+    {
+      "id": "F2",
+      "size": "medium",
+      "set": "junction",
+      "key": 40,
+      "note": "GAG: letters spill out of the post box, a queue"
+    },
+    {
+      "id": "F3",
+      "size": "medium",
+      "set": "terrace",
+      "key": 120,
+      "note": "ham radio on a night terrace, people wait; 2018 flood chip"
+    },
+    {
+      "id": "F4",
+      "size": "medium",
+      "set": "junction",
+      "key": 140,
+      "note": "the booth's shutter goes up; GAG: the spider leaves with a suitcase"
+    },
+    {
+      "id": "F5",
+      "size": "insert",
+      "set": "booth",
+      "key": 30,
+      "note": "red digits run"
+    },
+    {
+      "id": "G1",
+      "size": "wide",
+      "set": "home",
+      "key": 40,
+      "note": "day 14: amma at the gate, looking down the road"
+    },
+    {
+      "id": "G2",
+      "size": "wide",
+      "set": "Gulf to Kerala",
+      "key": 130,
+      "note": "notes fly from the towers to a Kerala house; 22 lakh; Rs 2,16,893 crore"
+    },
+    {
+      "id": "G3",
+      "size": "medium",
+      "set": "home",
+      "key": 60,
+      "note": "dad's photo on the wall, his empty chair"
+    },
+    {
+      "id": "G4",
+      "size": "wide",
+      "set": "Dubai room",
+      "key": 60,
+      "note": "dad on a bunk, phone glow"
+    },
+    {
+      "id": "G5",
+      "size": "insert",
+      "set": "phone",
+      "key": 30,
+      "note": "one tick"
+    },
+    {
+      "id": "G6",
+      "size": "medium",
+      "set": "home night",
+      "key": 60,
+      "note": "amma counts notes under the lamp"
+    },
+    {
+      "id": "G7",
+      "size": "insert",
+      "set": "table",
+      "key": 50,
+      "note": "the pill strip"
+    },
+    {
+      "id": "G8",
+      "size": "medium",
+      "set": "kitchen",
+      "key": 50,
+      "note": "a plate spins on the floor, her hand beside it"
+    },
+    {
+      "id": "H1",
+      "size": "wide",
+      "set": "hospital",
+      "key": 140,
+      "note": "reception: paper register, dead monitor under a cobweb; ICU, cash first"
+    },
+    {
+      "id": "H2",
+      "size": "wide",
+      "set": "hospital gate",
+      "key": 110,
+      "note": "the black car rolls in, the suit steps out"
+    },
+    {
+      "id": "H3",
+      "size": "medium",
+      "set": "hospital gate",
+      "key": 30,
+      "note": "his case opens: the only cash in town"
+    },
+    {
+      "id": "H4",
+      "size": "medium",
+      "set": "hospital gate",
+      "key": 60,
+      "note": "he offers the paper"
+    },
+    {
+      "id": "H5",
+      "size": "insert",
+      "set": "table",
+      "key": 30,
+      "note": "the deed, the house"
+    },
+    {
+      "id": "H6",
+      "size": "medium",
+      "set": "hospital gate",
+      "key": 60,
+      "note": "sister takes Pip's hand"
+    },
+    {
+      "id": "H7",
+      "size": "insert",
+      "set": "table",
+      "key": 50,
+      "note": "pen over the signature line"
+    },
+    {
+      "id": "H8",
+      "size": "medium",
+      "set": "booth",
+      "key": 30,
+      "note": "back in the booth, day 19"
+    },
+    {
+      "id": "I1",
+      "size": "wide",
+      "set": "junction",
+      "key": 40,
+      "note": "Pip walks out, the queue stares"
+    },
+    {
+      "id": "I2",
+      "size": "wide",
+      "set": "junction",
+      "key": 60,
+      "note": "sister runs up with the blue diary"
+    },
+    {
+      "id": "I3",
+      "size": "insert",
+      "set": "diary",
+      "key": 60,
+      "note": "amma's handwritten numbers"
+    },
+    {
+      "id": "I4",
+      "size": "insert",
+      "set": "diary",
+      "key": 40,
+      "note": "last page: dad, Dubai"
+    },
+    {
+      "id": "I5",
+      "size": "wide",
+      "set": "junction",
+      "key": 60,
+      "note": "the queue lets them through"
+    },
+    {
+      "id": "I6",
+      "size": "insert",
+      "set": "booth",
+      "key": 50,
+      "note": "he dials; the meter runs"
+    },
+    {
+      "id": "I7",
+      "size": "close-up",
+      "set": "booth",
+      "key": 60,
+      "note": "it rings: one, two, three"
+    },
+    {
+      "id": "I8",
+      "size": "split",
+      "set": "booth / Dubai",
+      "key": 70,
+      "note": "both ends: dad grabs the phone"
+    },
+    {
+      "id": "I9",
+      "size": "medium",
+      "set": "hospital gate",
+      "key": 70,
+      "note": "Pip tears the deed offer, the suit's smile goes"
+    },
+    {
+      "id": "I10",
+      "size": "wide",
+      "set": "junction",
+      "key": 100,
+      "note": "morning: a bus, an old friend with cash"
+    },
+    {
+      "id": "J1",
+      "size": "insert",
+      "set": "table",
+      "key": 100,
+      "note": "day 30: the phone buzzes, then won't stop; 4,312 messages"
+    },
+    {
+      "id": "J2",
+      "size": "insert",
+      "set": "phone",
+      "key": 60,
+      "note": "dad's first message, 30 days old"
+    },
+    {
+      "id": "J3",
+      "size": "medium",
+      "set": "sea floor",
+      "key": 100,
+      "note": "the cable flickers in the dark"
+    },
+    {
+      "id": "J4",
+      "size": "insert",
+      "set": "table",
+      "key": 30,
+      "note": "phone face down; the diary, a pen"
+    },
+    {
+      "id": "J5",
+      "size": "card",
+      "set": "black",
+      "key": 30,
+      "note": "the question"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "A1",
+      "at": "f:0"
+    },
+    {
+      "shot": "A2",
+      "at": "നാല്"
+    },
+    {
+      "shot": "A3",
+      "at": "ദുബായിലുള്ള"
+    },
+    {
+      "shot": "A4",
+      "at": "റിസീവർ"
+    },
+    {
+      "shot": "A5",
+      "at": "അച്ഛന്റെ"
+    },
+    {
+      "shot": "A6",
+      "at": "പത്ത്"
+    },
+    {
+      "shot": "A7",
+      "at": "പിന്നിൽ"
+    },
+    {
+      "shot": "B1",
+      "at": "പത്തൊമ്പത്"
+    },
+    {
+      "shot": "B2",
+      "at": "വീഡിയോ"
+    },
+    {
+      "shot": "B3",
+      "at": "വൈഫൈ"
+    },
+    {
+      "shot": "B4",
+      "at": "റൂട്ടറിന്"
+    },
+    {
+      "shot": "B5",
+      "at": "നിന്റെ"
+    },
+    {
+      "shot": "B6",
+      "at": "ലോകം"
+    },
+    {
+      "shot": "T",
+      "at": "ഇന്റർനെറ്റ്"
+    },
+    {
+      "shot": "C1",
+      "at": "ആദ്യത്തെ"
+    },
+    {
+      "shot": "C2",
+      "at": "ഫോൺ"
+    },
+    {
+      "shot": "C3",
+      "at": "രണ്ടാം"
+    },
+    {
+      "shot": "C4",
+      "at": "ചായക്കടയിൽ"
+    },
+    {
+      "shot": "C5",
+      "at": "ഗൂഗിൾ"
+    },
+    {
+      "shot": "C6",
+      "at": "നിന്റെ"
+    },
+    {
+      "shot": "C7",
+      "at": "അമ്മയ്ക്ക്"
+    },
+    {
+      "shot": "C8",
+      "at": "നല്ല"
+    },
+    {
+      "shot": "D1",
+      "at": "ചായ"
+    },
+    {
+      "shot": "D2",
+      "at": "സ്കാനർ"
+    },
+    {
+      "shot": "D3",
+      "at": "പോക്കറ്റിൽ"
+    },
+    {
+      "shot": "D4",
+      "at": "ഈ"
+    },
+    {
+      "shot": "D5",
+      "at": "ഒരു"
+    },
+    {
+      "shot": "D6",
+      "at": "എടിഎമ്മിന്"
+    },
+    {
+      "shot": "D7",
+      "at": "വൈകുന്നേരം"
+    },
+    {
+      "shot": "D8",
+      "at": "അഞ്ചാം"
+    },
+    {
+      "shot": "D9",
+      "at": "മെഷീൻ"
+    },
+    {
+      "shot": "D10",
+      "at": "രണ്ടായിരത്തി"
+    },
+    {
+      "shot": "D11",
+      "at": "ഒന്നാം"
+    },
+    {
+      "shot": "D12",
+      "at": "അഞ്ച്"
+    },
+    {
+      "shot": "D13",
+      "at": "രണ്ടായിരത്തി"
+    },
+    {
+      "shot": "E1",
+      "at": "ഇത്ര"
+    },
+    {
+      "shot": "E2",
+      "at": "കടലിന്റെ"
+    },
+    {
+      "shot": "E3",
+      "at": "രാജ്യങ്ങൾ"
+    },
+    {
+      "shot": "E4",
+      "at": "ചിലത്"
+    },
+    {
+      "shot": "E5",
+      "at": "ഒരു"
+    },
+    {
+      "shot": "E6",
+      "at": "ആകെയുണ്ടായിരുന്ന"
+    },
+    {
+      "shot": "E7",
+      "at": "അഞ്ചാഴ്ച"
+    },
+    {
+      "shot": "E8",
+      "at": "നമ്മുടെ"
+    },
+    {
+      "shot": "E9",
+      "at": "പരീക്ഷയുടെ"
+    },
+    {
+      "shot": "F1",
+      "at": "പത്താം"
+    },
+    {
+      "shot": "F2",
+      "at": "പോസ്റ്റ്"
+    },
+    {
+      "shot": "F3",
+      "at": "രണ്ടായിരത്തി"
+    },
+    {
+      "shot": "F4",
+      "at": "വിദേശത്തേക്ക്"
+    },
+    {
+      "shot": "F5",
+      "at": "മീറ്ററിൽ"
+    },
+    {
+      "shot": "G1",
+      "at": "പതിനാലാം"
+    },
+    {
+      "shot": "G2",
+      "at": "ഇരുപത്തിരണ്ട്"
+    },
+    {
+      "shot": "G3",
+      "at": "ഈ"
+    },
+    {
+      "shot": "G4",
+      "at": "ദുബായിലെ"
+    },
+    {
+      "shot": "G5",
+      "at": "മെസേജിന്"
+    },
+    {
+      "shot": "G6",
+      "at": "അമ്മ"
+    },
+    {
+      "shot": "G7",
+      "at": "പ്രഷറിന്റെ"
+    },
+    {
+      "shot": "G8",
+      "at": "പതിനെട്ടാം"
+    },
+    {
+      "shot": "H1",
+      "at": "ആശുപത്രിയിൽ"
+    },
+    {
+      "shot": "H2",
+      "at": "ഗേറ്റിന്"
+    },
+    {
+      "shot": "H3",
+      "at": "ഇപ്പോൾ"
+    },
+    {
+      "shot": "H4",
+      "at": "അയാൾ"
+    },
+    {
+      "shot": "H5",
+      "at": "പകരം"
+    },
+    {
+      "shot": "H6",
+      "at": "അനിയത്തി"
+    },
+    {
+      "shot": "H7",
+      "at": "പേന"
+    },
+    {
+      "shot": "H8",
+      "at": "അങ്ങനെയാണ്"
+    },
+    {
+      "shot": "I1",
+      "at": "നമ്പർ"
+    },
+    {
+      "shot": "I2",
+      "at": "അപ്പോൾ"
+    },
+    {
+      "shot": "I3",
+      "at": "നാട്ടിലെ"
+    },
+    {
+      "shot": "I4",
+      "at": "അവസാനത്തെ"
+    },
+    {
+      "shot": "I5",
+      "at": "വരിയിൽ"
+    },
+    {
+      "shot": "I6",
+      "at": "നമ്പർ"
+    },
+    {
+      "shot": "I7",
+      "at": "ഒരു"
+    },
+    {
+      "shot": "I8",
+      "at": "അപ്പുറത്ത്"
+    },
+    {
+      "shot": "I9",
+      "at": "ഒപ്പിടരുത്"
+    },
+    {
+      "shot": "I10",
+      "at": "പിറ്റേന്ന്"
+    },
+    {
+      "shot": "J1",
+      "at": "മുപ്പതാം"
+    },
+    {
+      "shot": "J2",
+      "at": "ആദ്യം"
+    },
+    {
+      "shot": "J3",
+      "at": "ഇന്റർനെറ്റ്"
+    },
+    {
+      "shot": "J4",
+      "at": "ഇനി#2"
+    },
+    {
+      "shot": "J5",
+      "at": "നിനക്ക്"
+    }
+  ],
+  "fx": [
+    {
+      "at": "A7+78",
+      "kind": "flash",
+      "o": 0.5
+    },
+    {
+      "at": "E6+22",
+      "kind": "flash",
+      "o": 0.6
+    },
+    {
+      "at": "G8+72",
+      "kind": "shake",
+      "len": 10,
+      "amp": 12
+    }
+  ],
+  "sound": {
+    "clips": {
+      "power_down": [
+        "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+        2.5
+      ],
+      "crack": [
+        "glass cracking sharply, the crack spreading across a pane",
+        1.1
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "power_hum": [
+        "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+        3.0
+      ],
+      "land": [
+        "a heavy body landing flat on a wooden floor, cartoon thud",
+        0.6
+      ],
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        17.0
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "fall_whoosh": [
+        "a small object falling fast through the air, short soft whoosh",
+        0.6
+      ],
+      "switch_off": [
+        "a heavy electrical breaker switching off with a dull clunk",
+        0.5
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "clink": [
+        "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+        0.7
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "copy_click": [
+        "a crisp satisfying computer copy click with a tiny soft digital chime, short",
+        0.5
+      ],
+      "big_step": [
+        "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+        0.7
+      ],
+      "dizzy": [
+        "cartoon dizzy birds tweeting in a circle after a bonk",
+        1.4
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "step": [
+        "a single sneaker footstep on a wooden stair, close",
+        0.5
+      ],
+      "gasp": [
+        "two young people gasping in surprise at the same moment, cartoon, short",
+        0.8
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "paper_land": [
+        "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+        0.7
+      ]
+    },
+    "events": [
+      [
+        "A1",
+        "roof_wind",
+        0.07,
+        "onset",
+        "A3"
+      ],
+      [
+        "A3",
+        "room_tone",
+        0.07,
+        "onset",
+        "B1"
+      ],
+      [
+        "B1",
+        "room_tone",
+        0.06,
+        "onset",
+        "C1"
+      ],
+      [
+        "C1",
+        "roof_wind",
+        0.06,
+        "onset",
+        "C3"
+      ],
+      [
+        "C3",
+        "roof_wind",
+        0.06,
+        "onset",
+        "C4"
+      ],
+      [
+        "C4",
+        "room_tone",
+        0.06,
+        "onset",
+        "C5"
+      ],
+      [
+        "C5",
+        "roof_wind",
+        0.06,
+        "onset",
+        "C7"
+      ],
+      [
+        "C7",
+        "room_tone",
+        0.06,
+        "onset",
+        "D4"
+      ],
+      [
+        "D6",
+        "roof_wind",
+        0.06,
+        "onset",
+        "D8"
+      ],
+      [
+        "D8",
+        "room_tone",
+        0.06,
+        "onset",
+        "D10"
+      ],
+      [
+        "D11",
+        "room_tone",
+        0.06,
+        "onset",
+        "D13"
+      ],
+      [
+        "E1",
+        "roof_wind",
+        0.07,
+        "onset",
+        "E2"
+      ],
+      [
+        "E4",
+        "roof_wind",
+        0.07,
+        "onset",
+        "E5"
+      ],
+      [
+        "F1",
+        "room_tone",
+        0.06,
+        "onset",
+        "F2"
+      ],
+      [
+        "F2",
+        "roof_wind",
+        0.06,
+        "onset",
+        "F4"
+      ],
+      [
+        "F3",
+        "power_hum",
+        0.04,
+        "onset",
+        "F4"
+      ],
+      [
+        "F4",
+        "roof_wind",
+        0.06,
+        "onset",
+        "G2"
+      ],
+      [
+        "G3",
+        "room_tone",
+        0.07,
+        "onset",
+        "G8"
+      ],
+      [
+        "H1",
+        "room_tone",
+        0.07,
+        "onset",
+        "H2"
+      ],
+      [
+        "H2",
+        "roof_wind",
+        0.07,
+        "onset",
+        "H5"
+      ],
+      [
+        "H6",
+        "roof_wind",
+        0.07,
+        "onset",
+        "H7"
+      ],
+      [
+        "H7",
+        "room_tone",
+        0.07,
+        "onset",
+        "I1"
+      ],
+      [
+        "I1",
+        "roof_wind",
+        0.07,
+        "onset",
+        "I6"
+      ],
+      [
+        "I6",
+        "room_tone",
+        0.07,
+        "onset",
+        "I9"
+      ],
+      [
+        "I9",
+        "roof_wind",
+        0.07,
+        "onset",
+        "J1"
+      ],
+      [
+        "J1",
+        "room_tone",
+        0.07,
+        "onset",
+        "J3"
+      ],
+      [
+        "J3",
+        "power_hum",
+        0.05,
+        "onset",
+        "J4"
+      ],
+      [
+        "J4",
+        "room_tone",
+        0.07,
+        "onset",
+        "f:10672"
+      ],
+      [
+        "A1+3",
+        "pop",
+        0.3
+      ],
+      [
+        "A1+96",
+        "pop",
+        0.3
+      ],
+      [
+        "A3+72",
+        "pop",
+        0.25
+      ],
+      [
+        "A4+6",
+        "copy_click",
+        0.4
+      ],
+      [
+        "A4+78",
+        "copy_click",
+        0.3
+      ],
+      [
+        "A6+120",
+        "pop",
+        0.3
+      ],
+      [
+        "A6+150",
+        "buzzer",
+        0.2
+      ],
+      [
+        "B1+3",
+        "pop",
+        0.3
+      ],
+      [
+        "B3+12",
+        "pop",
+        0.2
+      ],
+      [
+        "B5+8",
+        "pop",
+        0.22
+      ],
+      [
+        "B5+34",
+        "pop",
+        0.22
+      ],
+      [
+        "B5+44",
+        "pop",
+        0.22
+      ],
+      [
+        "B5+52",
+        "pop",
+        0.22
+      ],
+      [
+        "B5+72",
+        "pop",
+        0.22
+      ],
+      [
+        "C1+3",
+        "pop",
+        0.3
+      ],
+      [
+        "C2+82",
+        "land",
+        0.55
+      ],
+      [
+        "C2+85",
+        "dizzy",
+        0.4
+      ],
+      [
+        "C3+3",
+        "pop",
+        0.3
+      ],
+      [
+        "C4+74",
+        "crack",
+        0.4
+      ],
+      [
+        "C4+96",
+        "ding",
+        0.25
+      ],
+      [
+        "C5+112",
+        "ding",
+        0.28
+      ],
+      [
+        "C5+126",
+        "pop",
+        0.3
+      ],
+      [
+        "C6+118",
+        "fall_whoosh",
+        0.45,
+        "peak"
+      ],
+      [
+        "C6+134",
+        "pop",
+        0.35
+      ],
+      [
+        "C6+150",
+        "ding",
+        0.25
+      ],
+      [
+        "C7+34",
+        "sparkle",
+        0.18
+      ],
+      [
+        "C8+47",
+        "pop",
+        0.3
+      ],
+      [
+        "D2+3",
+        "buzzer",
+        0.22
+      ],
+      [
+        "D3+22",
+        "pop",
+        0.32
+      ],
+      [
+        "D3+54",
+        "ding",
+        0.2
+      ],
+      [
+        "D6+3",
+        "pop",
+        0.25
+      ],
+      [
+        "D7+60",
+        "pop",
+        0.3
+      ],
+      [
+        "D8+3",
+        "pop",
+        0.25
+      ],
+      [
+        "D10+3",
+        "pop",
+        0.25
+      ],
+      [
+        "D10+200",
+        "pop",
+        0.3
+      ],
+      [
+        "D11+10",
+        "paper_land",
+        0.35
+      ],
+      [
+        "D12+20",
+        "ding",
+        0.2
+      ],
+      [
+        "D12+180",
+        "pop",
+        0.3
+      ],
+      [
+        "D13+60",
+        "sparkle",
+        0.22
+      ],
+      [
+        "D13+78",
+        "sparkle",
+        0.22
+      ],
+      [
+        "D13+96",
+        "sparkle",
+        0.22
+      ],
+      [
+        "E1+68",
+        "pop",
+        0.3
+      ],
+      [
+        "E2+4",
+        "fall_whoosh",
+        0.4,
+        "peak"
+      ],
+      [
+        "E3+60",
+        "sparkle",
+        0.22
+      ],
+      [
+        "E4+14",
+        "pop",
+        0.25
+      ],
+      [
+        "E4+70",
+        "pop",
+        0.32
+      ],
+      [
+        "E5+3",
+        "pop",
+        0.25
+      ],
+      [
+        "E6+22",
+        "crack",
+        0.5
+      ],
+      [
+        "E8+3",
+        "pop",
+        0.25
+      ],
+      [
+        "E9+16",
+        "pop",
+        0.25
+      ],
+      [
+        "F1+3",
+        "pop",
+        0.25
+      ],
+      [
+        "F1+64",
+        "land",
+        0.3
+      ],
+      [
+        "F1+140",
+        "sparkle",
+        0.22
+      ],
+      [
+        "F2+6",
+        "paper_land",
+        0.3
+      ],
+      [
+        "F2+22",
+        "paper_land",
+        0.3
+      ],
+      [
+        "F3+3",
+        "pop",
+        0.25
+      ],
+      [
+        "F4+98",
+        "switch_off",
+        0.3
+      ],
+      [
+        "G1+3",
+        "pop",
+        0.25
+      ],
+      [
+        "G2+8",
+        "sparkle",
+        0.2
+      ],
+      [
+        "G2+112",
+        "ding",
+        0.25
+      ],
+      [
+        "G3+4",
+        "drone_hit",
+        0.18,
+        "peak"
+      ],
+      [
+        "G5+18",
+        "ding",
+        0.2
+      ],
+      [
+        "G6+30",
+        "paper_land",
+        0.2
+      ],
+      [
+        "H1+130",
+        "pop",
+        0.25
+      ],
+      [
+        "H3+7",
+        "copy_click",
+        0.35
+      ],
+      [
+        "H3+14",
+        "sparkle",
+        0.2
+      ],
+      [
+        "H7+60",
+        "copy_click",
+        0.25
+      ],
+      [
+        "H8+3",
+        "pop",
+        0.25
+      ],
+      [
+        "I3+4",
+        "paper_land",
+        0.3
+      ],
+      [
+        "I4+6",
+        "ding",
+        0.28
+      ],
+      [
+        "I6+36",
+        "pop",
+        0.2
+      ],
+      [
+        "I7+1",
+        "ding",
+        0.22
+      ],
+      [
+        "I7+37",
+        "ding",
+        0.22
+      ],
+      [
+        "I7+73",
+        "ding",
+        0.22
+      ],
+      [
+        "I8+34",
+        "gasp",
+        0.3
+      ],
+      [
+        "I8+60",
+        "sparkle",
+        0.2
+      ],
+      [
+        "I9+44",
+        "crack",
+        0.4
+      ],
+      [
+        "I9+8",
+        "pop",
+        0.25
+      ],
+      [
+        "I10+66",
+        "big_step",
+        0.35
+      ],
+      [
+        "J1+3",
+        "pop",
+        0.25
+      ],
+      [
+        "J1+13",
+        "buzzer",
+        0.2
+      ],
+      [
+        "J2+6",
+        "ding",
+        0.25
+      ],
+      [
+        "A7+66",
+        "big_step",
+        0.45
+      ],
+      [
+        "A7+71",
+        "big_step",
+        0.45
+      ],
+      [
+        "A7+77",
+        "big_step",
+        0.55
+      ],
+      [
+        "B2+27",
+        "switch_off",
+        0.15
+      ],
+      [
+        "T+2",
+        "title_boom",
+        0.28,
+        "peak"
+      ],
+      [
+        "D7+26",
+        "buzzer",
+        0.14
+      ],
+      [
+        "D9+15",
+        "buzzer",
+        0.1
+      ],
+      [
+        "D13+130",
+        "sparkle",
+        0.15
+      ],
+      [
+        "E5+60",
+        "drone_hit",
+        0.2,
+        "peak"
+      ],
+      [
+        "E5+100",
+        "crack",
+        0.12
+      ],
+      [
+        "E5+132",
+        "crack",
+        0.12
+      ],
+      [
+        "E7+8",
+        "drone_hit",
+        0.1,
+        "peak"
+      ],
+      [
+        "G8+72",
+        "clink",
+        0.6
+      ],
+      [
+        "H2+40",
+        "big_step",
+        0.14
+      ],
+      [
+        "J5+82",
+        "title_boom",
+        0.35,
+        "peak"
+      ],
+      [
+        "A5+46",
+        "drone_hit",
+        0.4
+      ],
+      [
+        "B4+54",
+        "land",
+        0.5
+      ],
+      [
+        "B4+70",
+        "land",
+        0.5
+      ],
+      [
+        "B4+80",
+        "dizzy",
+        0.35
+      ],
+      [
+        "G8+76",
+        "drone_hit",
+        0.5
+      ],
+      [
+        "J3+146",
+        "drone_hit",
+        0.3
+      ],
+      [
+        "H5+52",
+        "drone_hit",
+        0.2
+      ]
+    ],
+    "repeats": [
+      {
+        "at": "A2",
+        "clip": "step",
+        "n": 3,
+        "every": 30,
+        "gain": [
+          0.15,
+          0.2
+        ],
+        "pitch": [
+          0.95,
+          1.05
+        ]
+      },
+      {
+        "at": "D4+60",
+        "clip": "counter_tick",
+        "n": 20,
+        "every": 4,
+        "gain": [
+          0.09,
+          0.13
+        ],
+        "pitch": [
+          0.95,
+          1.1
+        ]
+      },
+      {
+        "at": "D10+98",
+        "clip": "land",
+        "n": 6,
+        "every": 26,
+        "gain": [
+          0.12,
+          0.16
+        ],
+        "pitch": [
+          0.9,
+          1.1
+        ]
+      },
+      {
+        "at": "E8+130",
+        "clip": "counter_tick",
+        "n": 12,
+        "every": 4,
+        "gain": [
+          0.14,
+          0.2
+        ],
+        "pitch": [
+          0.95,
+          1.1
+        ]
+      },
+      {
+        "at": "F4+126",
+        "clip": "step",
+        "n": 6,
+        "every": 6,
+        "gain": [
+          0.14,
+          0.2
+        ],
+        "pitch": [
+          1.3,
+          1.5
+        ]
+      },
+      {
+        "at": "F5+4",
+        "clip": "counter_tick",
+        "n": 12,
+        "every": 6,
+        "gain": [
+          0.08,
+          0.12
+        ],
+        "pitch": [
+          0.95,
+          1.05
+        ]
+      },
+      {
+        "at": "I2",
+        "clip": "step",
+        "n": 18,
+        "every": 8,
+        "gain": [
+          0.2,
+          0.28
+        ],
+        "pitch": [
+          1.1,
+          1.2
+        ]
+      },
+      {
+        "at": "I5+20",
+        "clip": "step",
+        "n": 12,
+        "every": 9,
+        "gain": [
+          0.2,
+          0.26
+        ],
+        "pitch": [
+          0.95,
+          1.1
+        ]
+      },
+      {
+        "at": "I6",
+        "clip": "counter_tick",
+        "n": 9,
+        "every": 7,
+        "gain": [
+          0.12,
+          0.16
+        ],
+        "pitch": [
+          0.9,
+          1.1
+        ]
+      },
+      {
+        "at": "J1+58",
+        "clip": "pop",
+        "n": 22,
+        "every": 4,
+        "gain": [
+          0.12,
+          0.2
+        ],
+        "pitch": [
+          0.9,
+          1.3
+        ]
+      }
+    ],
+    "music": {
+      "clip": "music",
+      "from": "C1",
+      "until": "G3",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -4.5,
+      "music_lu": -13
+    }
+  }
+}

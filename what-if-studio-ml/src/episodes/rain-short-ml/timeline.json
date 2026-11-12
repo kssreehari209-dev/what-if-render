@@ -1,0 +1,285 @@
+{
+ "slug": "rain-short-ml",
+ "title": "40 ദിവസം തോരാതെ പെയ്താൽ?",
+ "fps": 30,
+ "total": 1119,
+ "segments": [
+  {
+   "shot": "A1",
+   "a": 0,
+   "b": 64,
+   "t0": 0,
+   "t1": 64,
+   "line": "കേരളത്തിൽ നാൽപ്പത് ദിവസം തോരാതെ"
+  },
+  {
+   "shot": "A2",
+   "a": 64,
+   "b": 106,
+   "t0": 0,
+   "t1": 42,
+   "line": "മഴ പെയ്താലോ?"
+  },
+  {
+   "shot": "B1",
+   "a": 106,
+   "b": 163,
+   "t0": 0,
+   "t1": 57,
+   "line": "ഒന്നാം ദിവസം. കളക്ടർ സ്കൂളിന്"
+  },
+  {
+   "shot": "B2",
+   "a": 163,
+   "b": 243,
+   "t0": 0,
+   "t1": 80,
+   "line": "അവധി പ്രഖ്യാപിക്കുന്നു."
+  },
+  {
+   "shot": "C1",
+   "a": 243,
+   "b": 329,
+   "t0": 0,
+   "t1": 86,
+   "line": "പത്താം ദിവസം. അയയിലെ യൂണിഫോം ഇപ്പോഴും നനഞ്ഞു"
+  },
+  {
+   "shot": "C2",
+   "a": 329,
+   "b": 385,
+   "t0": 0,
+   "t1": 56,
+   "line": "തന്നെ."
+  },
+  {
+   "shot": "D1",
+   "a": 385,
+   "b": 445,
+   "t0": 0,
+   "t1": 60,
+   "line": "വെള്ളം കയറിയാൽ, വീട്ടിൽ നിന്ന്"
+  },
+  {
+   "shot": "D2",
+   "a": 445,
+   "b": 535,
+   "t0": 0,
+   "t1": 90,
+   "line": "നീ ആദ്യം എന്താ എടുക്കുക?"
+  },
+  {
+   "shot": "E1",
+   "a": 535,
+   "b": 610,
+   "t0": 0,
+   "t1": 75,
+   "line": "ഇരുപതാം ദിവസം. കിണർ നിറഞ്ഞ് മുറ്റത്തേക്ക്"
+  },
+  {
+   "shot": "E2",
+   "a": 610,
+   "b": 666,
+   "t0": 0,
+   "t1": 56,
+   "line": "ഒഴുകുന്നു."
+  },
+  {
+   "shot": "F1",
+   "a": 666,
+   "b": 763,
+   "t0": 0,
+   "t1": 97,
+   "line": "നാൽപ്പതാം ദിവസം, വെള്ളം ഉമ്മറപ്പടി കടക്കുന്നു."
+  },
+  {
+   "shot": "G1",
+   "a": 763,
+   "b": 845,
+   "t0": 0,
+   "t1": 82,
+   "line": "പക്ഷേ, നാൽപ്പത് ദിവസമൊന്നും വേണ്ട."
+  },
+  {
+   "shot": "G2",
+   "a": 845,
+   "b": 949,
+   "t0": 0,
+   "t1": 104,
+   "line": "രണ്ടായിരത്തി പതിനെട്ടിലെ ഏറ്റവും വലിയ വെള്ളം വന്നത്, വെറും"
+  },
+  {
+   "shot": "G3",
+   "a": 949,
+   "b": 1019,
+   "t0": 0,
+   "t1": 70,
+   "line": "മൂന്ന് ദിവസത്തെ മഴയിലാണ്."
+  },
+  {
+   "shot": "H1",
+   "a": 1019,
+   "b": 1119,
+   "t0": 0,
+   "t1": 100,
+   "line": "ആ ആഗസ്റ്റിൽ നീ എവിടെയായിരുന്നു?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "key": 30,
+   "len": 64,
+   "first": 0,
+   "line": "കേരളത്തിൽ നാൽപ്പത് ദിവസം തോരാതെ",
+   "note": "HOOK + title: Ramu on the veranda step under an umbrella, rain hammering, flood water at the step, chappal floating"
+  },
+  {
+   "id": "A2",
+   "size": "insert",
+   "key": 20,
+   "len": 42,
+   "first": 64,
+   "line": "മഴ പെയ്താലോ?",
+   "note": "high insert: water lapping the laterite step, a blue chappal and a paper boat float past, rain rings"
+  },
+  {
+   "id": "B1",
+   "size": "wide",
+   "key": 40,
+   "len": 57,
+   "first": 106,
+   "line": "ഒന്നാം ദിവസം. കളക്ടർ സ്കൂളിന്",
+   "note": "day 1: GAG Ramu and Appu dance in the rain, paper boats in the puddles, amma at the lit door"
+  },
+  {
+   "id": "B2",
+   "size": "medium",
+   "key": 70,
+   "len": 80,
+   "first": 163,
+   "line": "അവധി പ്രഖ്യാപിക്കുന്നു.",
+   "note": "low angle GAG: Ramu leaps, his schoolbag flies up into the rain"
+  },
+  {
+   "id": "C1",
+   "size": "medium",
+   "key": 40,
+   "len": 86,
+   "first": 243,
+   "line": "പത്താം ദിവസം. അയയിലെ യൂണിഫോം ഇപ്പോഴും നനഞ്ഞു",
+   "note": "day 10: uniform dripping on the line, Ramu sniffs the shirt, Appu leans away"
+  },
+  {
+   "id": "C2",
+   "size": "close-up",
+   "key": 40,
+   "len": 56,
+   "first": 329,
+   "line": "തന്നെ.",
+   "note": "GAG: a frog pops out of the shirt pocket, Ramu's shock"
+  },
+  {
+   "id": "D1",
+   "size": "close-up",
+   "key": 40,
+   "len": 60,
+   "first": 385,
+   "line": "വെള്ളം കയറിയാൽ, വീട്ടിൽ നിന്ന്",
+   "note": "mid question: Ramu thinking in the lit doorway, rain behind"
+  },
+  {
+   "id": "D2",
+   "size": "high",
+   "key": 40,
+   "len": 90,
+   "first": 445,
+   "line": "നീ ആദ്യം എന്താ എടുക്കുക?",
+   "note": "top-down on the room: the cat, ammooma's photo, the certificate file, the phone, the TV; the question stays on screen"
+  },
+  {
+   "id": "E1",
+   "size": "wide",
+   "key": 50,
+   "len": 75,
+   "first": 535,
+   "line": "ഇരുപതാം ദിവസം. കിണർ നിറഞ്ഞ് മുറ്റത്തേക്ക്",
+   "note": "day 20: the well overflows into the yard, Appu fishing from the well wall"
+  },
+  {
+   "id": "E2",
+   "size": "medium",
+   "key": 50,
+   "len": 56,
+   "first": 610,
+   "line": "ഒഴുകുന്നു.",
+   "note": "GAG: a fish leaps on Appu's line, he beams"
+  },
+  {
+   "id": "F1",
+   "size": "wide",
+   "key": 40,
+   "len": 97,
+   "first": 666,
+   "line": "നാൽപ്പതാം ദിവസം, വെള്ളം ഉമ്മറപ്പടി കടക്കുന്നു.",
+   "note": "day 40: water over the threshold into the room, amma lifts the rice sack onto the cot, Ramu on the cot with his bag"
+  },
+  {
+   "id": "G1",
+   "size": "close-up",
+   "key": 20,
+   "len": 82,
+   "first": 763,
+   "line": "പക്ഷേ, നാൽപ്പത് ദിവസമൊന്നും വേണ്ട.",
+   "note": "the twist: Ramu's face in red rim light, rain behind"
+  },
+  {
+   "id": "G2",
+   "size": "wide",
+   "key": 40,
+   "len": 104,
+   "first": 845,
+   "line": "രണ്ടായിരത്തി പതിനെട്ടിലെ ഏറ്റവും വലിയ വെള്ളം വന്നത്, വെറും",
+   "note": "2018: roofs and palms in muddy water, a country boat; fact card 414 mm / 3 days"
+  },
+  {
+   "id": "G3",
+   "size": "insert",
+   "key": 30,
+   "len": 70,
+   "first": 949,
+   "line": "മൂന്ന് ദിവസത്തെ മഴയിലാണ്.",
+   "note": "calendar August 2018, 15-17 circled, a mud line on the wall; fact card stays"
+  },
+  {
+   "id": "H1",
+   "size": "medium",
+   "key": 50,
+   "len": 100,
+   "first": 1019,
+   "line": "ആ ആഗസ്റ്റിൽ നീ എവിടെയായിരുന്നു?",
+   "note": "comment question: Ramu and Appu on the terrace under one umbrella, flood below, Ramu looks at camera"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "o": 0.45,
+   "f": 778
+  },
+  {
+   "kind": "flash",
+   "o": 0.35,
+   "f": 0
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.5599,
+  "musicVol": 0.1079,
+  "voice": "rain-short-ml/voice.wav",
+  "sfx": "rain-short-ml/sfx.wav",
+  "music": "rain-short-ml/music.wav"
+ }
+}

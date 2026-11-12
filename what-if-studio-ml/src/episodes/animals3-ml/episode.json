@@ -1,0 +1,1202 @@
+{
+ "id": "Animals3Ml",
+ "slug": "animals3-ml",
+ "topic": "What if you could talk to animals? Part 3: The City of Rats (Malayalam, long-form)",
+ "title": [
+  "മൃഗങ്ങളോട് സംസാരിക്കാൻ പറ്റിയാലോ?",
+  "ഭാഗം 3: എലികളുടെ നഗരം"
+ ],
+ "accent": "എലികളുടെ നഗരം",
+ "language": "ml",
+ "voice": {
+  "engine": "edge-tts",
+  "id": "ml-IN-SobhanaNeural",
+  "language": "Malayalam (India)",
+  "rate": "+0%"
+ },
+ "gaps": {
+  "word": 0.15,
+  "comma": 0.45,
+  "sentence": 0.85,
+  "question": 1.0
+ },
+ "continues": "animals2-ml",
+ "power": {
+  "word": "കേൾക്കാം",
+  "rule": "you understand every animal and they understand you",
+  "look": "speech bubbles pop from animals with a soft chime"
+ },
+ "script": [
+  {
+   "beat": "1 cold open: bedroom at night",
+   "text": "രാത്രി രണ്ട് മണി. നിന്റെ മുറിയിൽ ഇരുട്ട്. ചുമരിനുള്ളിൽ നിന്ന് ആ ശബ്ദം വീണ്ടും കേൾക്കുന്നു. നൂറുകണക്കിന് ചെറിയ കാലടികൾ."
+  },
+  {
+   "beat": "2 glowing eyes in the skirting hole",
+   "text": "ജനലിനടുത്തുള്ള ദ്വാരത്തിലൂടെ രണ്ട് തിളങ്ങുന്ന കണ്ണുകൾ നോക്കുന്നു. ഒരു ചെറിയ മീശ വിറയ്ക്കുന്നു."
+  },
+  {
+   "beat": "3 ultrasound translation",
+   "text": "ചുമരിനുള്ളിൽ നിന്ന് അൾട്രാസോണിക് ശബ്ദം ഇപ്പോൾ നിനക്ക് മനസ്സിലാകും: അവൻ ഉണർന്നു. അവൻ നമ്മളെ കേൾക്കുന്നുണ്ട്."
+  },
+  {
+   "beat": "4 the warning",
+   "text": "മറ്റൊരു എലി ചോദിക്കുന്നു: ഉറപ്പാണോ? ആദ്യത്തെ എലി പറയുന്നു: എങ്കിൽ വേഗം പറയ്... നാളെ ഈ നഗരം താഴേക്ക് ഇടിയും!"
+  },
+  {
+   "beat": "5 title card",
+   "text": "മൃഗങ്ങളോട് സംസാരിക്കാൻ പറ്റിയാലോ? ഭാഗം മൂന്ന്. എലികളുടെ നഗരം."
+  },
+  {
+   "beat": "6 the rat steps into lamplight",
+   "text": "നീ കട്ടിലിൽ നിന്ന് താഴെ ഇറങ്ങുന്നു. മേശവിളക്കിന്റെ വെളിച്ചത്തിൽ ഒരു ചെറിയ ചാരനിറമുള്ള എലി വരുന്നു."
+  },
+  {
+   "beat": "7 Pip asks what collapse",
+   "text": "നീ കുനിഞ്ഞ് ചോദിക്കുന്നു: എന്ത് ഇടിയും? എലി പേടിയോടെ മീശ ചലിപ്പിക്കുന്നു."
+  },
+  {
+   "beat": "8 the broken water main",
+   "text": "എലി പറയുന്നു: റോഡിനടിയിലെ വലിയ ശുദ്ധജല പൈപ്പ് പൊട്ടി. വെള്ളം മണ്ണ് മുഴുവൻ ഒഴുക്കിക്കളഞ്ഞു."
+  },
+  {
+   "beat": "9 hollow road cave-in threat",
+   "text": "റോഡിന്റെ ടാറിന് താഴെ വെറും ഒരു പൊള്ളയായ ഗുഹ മാത്രം. നാളെ വലിയ വണ്ടികൾ വരുമ്പോൾ റോഡ് തകരും!"
+  },
+  {
+   "beat": "10 fact: rat seismic sensitivity",
+   "text": "ഇത് അത്ഭുതമാണ്. എലികൾക്ക് ഭൂകമ്പവും വിള്ളലുകളും മനുഷ്യരേക്കാൾ എത്രയോ മുമ്പ് അറിയാൻ കഴിയും."
+  },
+  {
+   "beat": "11 fact: vibrissae whiskers",
+   "text": "ഇത് ശാസ്ത്ര സത്യമാണ്. എലികളുടെ മീശയിലെ ഓരോ രോമത്തിനും വായുവിലെ നേർത്ത മർദ്ദവ്യത്യാസവും വിറയലും അറിയാം."
+  },
+  {
+   "beat": "12 fact: rat population underground",
+   "text": "ഒരു നഗരത്തിൽ മനുഷ്യരുടെ അത്രയും തന്നെ എലികൾ ഭൂമിക്കടിയിൽ ജീവിക്കുന്നുണ്ട്."
+  },
+  {
+   "beat": "13 fact: 1:1 ratio in cities",
+   "text": "ന്യൂയോർക്കിലും ലണ്ടനിലും ഓരോ മനുഷ്യനും ഒരു എലി വീതമുണ്ട്. അവ ഭൂമിക്കടിയിലെ എല്ലാ തുരങ്കങ്ങളും കാണുന്നു."
+  },
+  {
+   "beat": "14 why tell Pip?",
+   "text": "നീ ചോദിക്കുന്നു: ഇത്രയും വലിയ കാര്യം നീ എന്തിനാണ് എന്നോട് പറയുന്നത്?"
+  },
+  {
+   "beat": "15 colony under the pipe",
+   "text": "എലി പറയുന്നു: ആ പൈപ്പിന് താഴെയാണ് ഞങ്ങളുടെ വീട്. നൂറുകണക്കിന് കുഞ്ഞുങ്ങളുണ്ട്. റോഡ് ഇടിഞ്ഞാൽ അവരും ചാവും, നിങ്ങളും ചാവും."
+  },
+  {
+   "beat": "16 fact: 2011 Chicago rat experiment",
+   "text": "രണ്ടായിരത്തിപ്പതിനൊന്നിൽ ചിക്കാഗോ സർവകലാശാല ഒരു പരീക്ഷണം നടത്തി."
+  },
+  {
+   "beat": "17 fact: rat empathy and chocolate sharing",
+   "text": "കുടുങ്ങിയ കൂട്ടുകാരനെ രക്ഷിക്കാൻ, എലികൾ തങ്ങൾക്ക് ഏറ്റവും ഇഷ്ടപ്പെട്ട ചോക്ലേറ്റ് പോലും വിട്ടുകൊടുത്തു. എലികൾക്ക് പരസ്പരം ശക്തമായ സ്നേഹമുണ്ട്."
+  },
+  {
+   "beat": "18 sunrise and urgency",
+   "text": "നേരം വെളുക്കുന്നു. സൂര്യൻ ഉദിക്കുന്നു. സമയം അതിവേഗം പോകുന്നു."
+  },
+  {
+   "beat": "19 out to the street with Mo",
+   "text": "നീ തെരുവിലേക്ക് ഓടുന്നു. മോ സൈക്കിളുമായി വരുന്നു. മോ ചോദിക്കുന്നു: എന്താടാ രാവിലെ തന്നെ ഓട്ടം?"
+  },
+  {
+   "beat": "20 don't step on the road",
+   "text": "നീ പറയുന്നു: മോ, ആ റോഡിൽ ചവിട്ടരുത്! താഴെ മണ്ണില്ല! റോഡ് താഴേക്ക് ഇടിയും!"
+  },
+  {
+   "beat": "21 Mo scoffs",
+   "text": "മോ ചിരിക്കുന്നു: നിനക്ക് വട്ടായോ? ഇന്നലെ കാക്ക പറഞ്ഞു, ഇന്ന് എലി പറഞ്ഞു! അടുത്തത് എന്താ?"
+  },
+  {
+   "beat": "22 cat confirms roaring water",
+   "text": "പക്ഷേ മതിലിന് മുകളിൽ ഇരിക്കുന്ന പൂച്ച ചാടിയിറങ്ങുന്നു: അവൻ പറയുന്നത് സത്യമാണ്. രാത്രി താഴെ വെള്ളം ഇരമ്പുന്നത് ഞാൻ കേട്ടു."
+  },
+  {
+   "beat": "23 dog smells gas and burnt earth",
+   "text": "മോയുടെ പട്ടി റോഡിലേക്ക് നോക്കി കുരയ്ക്കുന്നു: റോഡിനടിയിൽ നിന്ന് കരിഞ്ഞ മണ്ണും ഗ്യാസും മണക്കുന്നു!"
+  },
+  {
+   "beat": "24 urban animal network",
+   "text": "നഗരത്തിലെ മൃഗങ്ങൾ പരസ്പരം വാർത്തകൾ പങ്കുവെക്കുന്ന വലിയൊരു ശൃംഖലയുണ്ട്."
+  },
+  {
+   "beat": "25 pigeon magnetoreception",
+   "text": "പ്രാവുകൾ ഭൂമിയുടെ കാന്തികക്ഷേത്രം തിരിച്ചറിഞ്ഞ് ആകാശത്ത് നിന്ന് വഴി കണ്ടെത്തുന്നു."
+  },
+  {
+   "beat": "26 ant pheromone superbrain",
+   "text": "ഉറുമ്പുകൾ പോലും ഫെറമോൺ വഴി ഒരു സൂപ്പർ തലച്ചോറ് പോലെ വിവരങ്ങൾ കൈമാറുന്നു."
+  },
+  {
+   "beat": "27 animal intelligence network",
+   "text": "എലികൾ താഴെ, പ്രാവുകൾ മുകളിൽ, പട്ടിയും പൂച്ചയും തെരുവിൽ. ഇതൊരു വലിയ രഹസ്യ വാർത്താ സംഘമാണ്."
+  },
+  {
+   "beat": "28 school bus horn in distance",
+   "text": "പെട്ടെന്ന് ദൂരെ നിന്ന് ഹോൺ മുഴങ്ങുന്നു. സ്കൂൾ ബസ് വരുന്നു!"
+  },
+  {
+   "beat": "29 little sister on board",
+   "text": "ആ ബസിലാണ് നിന്റെ അനിയത്തിയും കൂട്ടുകാരും ഉള്ളത്! ബസ് വേഗത്തിൽ ആ റോഡിലേക്ക് വരികയാണ്."
+  },
+  {
+   "beat": "30 driver cannot see hollow ground",
+   "text": "ഡ്രൈവർക്ക് അപകടം കാണാൻ കഴിയില്ല. റോഡ് പുറമെ ശാന്തമാണ്."
+  },
+  {
+   "beat": "31 waving to stop",
+   "text": "നീ കൈ വീശുന്നു: വണ്ടി നിർത്തൂ! പക്ഷേ ഡ്രൈവർ ചിരിച്ച് കൈ വീശുന്നു. അവൻ വിചാരിക്കുന്നു നീ യാത്ര പറയുകയാണെന്ന്."
+  },
+  {
+   "beat": "32 ten seconds to impact",
+   "text": "ബസ് അപകടമേഖലയിലേക്ക് അടുക്കുന്നു. ഇനി പത്ത് സെക്കൻഡ് മാത്രം. എന്ത് ചെയ്യണമെന്ന് അറിയില്ല."
+  },
+  {
+   "beat": "33 the high whistle call",
+   "text": "നീ വിരലുകൾ വായിൽ വെച്ച് ഉറക്കെ വിസിലടിക്കുന്നു. എലികളോട് വിളിച്ചു പറയുന്നു: എനിക്ക് നിങ്ങളുടെ സഹായം വേണം!"
+  },
+  {
+   "beat": "34 hundreds of rats pour out",
+   "text": "അടുത്ത നിമിഷം, ഓടകളിൽ നിന്നും മതിലുകളിൽ നിന്നും നൂറുകണക്കിന് എലികൾ പുറത്തേക്ക് പാഞ്ഞു വരുന്നു!"
+  },
+  {
+   "beat": "35 birds swoop and block road",
+   "text": "അവ റോഡിൽ കൂട്ടമായി നിരക്കുന്നു. ആകാശത്ത് നിന്ന് കാക്കകളും പ്രാവുകളും ചിറകടിച്ചു താഴേക്ക് പറക്കുന്നു."
+  },
+  {
+   "beat": "36 driver slams the emergency brake",
+   "text": "റോഡ് നിറയെ ജീവികൾ! ഡ്രൈവർ ഞെട്ടിപ്പോയി! അവൻ സർവ്വശക്തിയുമെടുത്ത് ബ്രേക്ക് ചവിട്ടുന്നു!"
+  },
+  {
+   "beat": "37 screeching tires and road collapse",
+   "text": "ടയറുകൾ നിലവിളിച്ചുകൊണ്ട് ബസ് നിന്നു. ടയറിന്റെ മൂന്ന് മീറ്റർ മുന്നിൽ, വലിയ ഇടിമുഴക്കത്തോടെ റോഡ് താഴേക്ക് തകർന്നു വീണു!"
+  },
+  {
+   "beat": "38 giant sinkhole and geyser",
+   "text": "ഒരു വലിയ സിങ്ക് ഹോൾ! പൈപ്പ് പൊട്ടി ജലധാര ഉയരുന്നു. വലിയ കോൺക്രീറ്റ് കഷ്ണങ്ങൾ താഴേക്ക് പതിക്കുന്നു."
+  },
+  {
+   "beat": "39 kids safe by one second",
+   "text": "ബസിലെ കുട്ടികൾ ഭയത്തോടെ നോക്കുന്നു. ഒരൊറ്റ സെക്കൻഡ് വൈകിയിരുന്നെങ്കിൽ ബസ് മുഴുവൻ താഴേക്ക് വീഴുമായിരുന്നു!"
+  },
+  {
+   "beat": "40 crowd gathers in awe",
+   "text": "നാട്ടുകാർ ഓടിക്കൂടുന്നു. അവർ പറയുന്നു: ഈ മൃഗങ്ങൾ കാരണമാണ് കുട്ടികൾ രക്ഷപ്പെട്ടത്!"
+  },
+  {
+   "beat": "41 sister hugs and Mo admits truth",
+   "text": "അനിയത്തി ഓടിവന്ന് നിന്നെ കെട്ടിപ്പിടിക്കുന്നു. മോ തോളിൽ തട്ടി പറയുന്നു: അളിയാ, നീ പറഞ്ഞത് സത്യമായിരുന്നു."
+  },
+  {
+   "beat": "42 rat whispers the twist",
+   "text": "ആരും കാണാതെ, ആ ചെറിയ എലി വരുന്നു. അത് പറയുന്നു: റോഡ് രക്ഷപ്പെട്ടു. പക്ഷേ ഒരു വലിയ പ്രശ്നമുണ്ട്."
+  },
+  {
+   "beat": "43 secret ancient chamber flooded",
+   "text": "ആ വെള്ളം മുഴുവൻ പോയത് ഒരു പഴയ രഹസ്യ അറയിലേക്കാണ്. അവിടെ, നൂറു വർഷമായി ഉറങ്ങിക്കിടന്ന എന്തോ ഒന്ന് ഉണർന്നിട്ടുണ്ട്!"
+  },
+  {
+   "beat": "44 roar from the deep underground",
+   "text": "ഭൂമിയുടെ അടിത്തട്ടിൽ നിന്ന് ഒരു വലിയ ഗർജ്ജനം കേൾക്കുന്നു. അടുത്ത ഭാഗം: ഭൂമിക്കടിയിലെ രഹസ്യം."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Rats can detect micro-vibrations and barometric/structural shifts through their vibrissae (whiskers).",
+   "working": "Rat facial vibrissae are linked to dense mechanoreceptor follicles that transduce microscopic seismic air/ground waves.",
+   "source": "Knutsen et al., Neuron 2006; Diamond et al., Nature Rev. Neurosci. 2008"
+  },
+  {
+   "claim": "Urban rat populations in major global cities frequently match or exceed human population counts.",
+   "working": "Studies in dense urban centers estimate subterranean rat densities at 0.5 to 1.2 rats per human resident inhabiting utility passages and sewers.",
+   "source": "Parsons et al., Frontiers in Ecology and Evolution 2017"
+  },
+  {
+   "claim": "In laboratory studies, rats demonstrated active empathy, rescuing trapped cagemates and sharing food.",
+   "working": "Free rats intentionally opened restrainers to liberate distressed companions and voluntarily shared high-value chocolate treats with them.",
+   "source": "Ben-Ami Bartal, Decety & Mason, Science 2011 (Empathy and Pro-Social Behavior in Rats)"
+  },
+  {
+   "claim": "Pigeons navigate using magnetoreception based on Earth's geomagnetic field.",
+   "working": "Avian cryptochromes and neural pathways in the vestibular system allow pigeons to decode magnetic dip and intensity vectors.",
+   "source": "Mora et al., Nature 2004; Mouritsen, Nature 2018"
+  }
+ ],
+ "shots": [
+  {
+   "id": "A1",
+   "size": "wide",
+   "set": "bedroom (night)",
+   "key": 14,
+   "note": "Pip in bed at 2am, wall noise"
+  },
+  {
+   "id": "A2",
+   "size": "close-up",
+   "set": "bedroom (night)",
+   "key": 14,
+   "note": "skirting hole with glowing eyes"
+  },
+  {
+   "id": "A3",
+   "size": "medium",
+   "set": "bedroom (night)",
+   "key": 14,
+   "note": "Pip sits up, ultrasound sounds become words"
+  },
+  {
+   "id": "A4",
+   "size": "close-up",
+   "set": "wall",
+   "key": 14,
+   "note": "rat whisper: tomorrow city will collapse"
+  },
+  {
+   "id": "T",
+   "size": "title",
+   "set": "title card",
+   "key": 40,
+   "note": "Part 3 title card"
+  },
+  {
+   "id": "B1",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 14,
+   "note": "Pip turns on desk lamp, rat steps forward"
+  },
+  {
+   "id": "B2",
+   "size": "close-up",
+   "set": "bedroom",
+   "key": 14,
+   "note": "Pip bends down to ask what collapse"
+  },
+  {
+   "id": "B3",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 14,
+   "note": "rat explains burst clean water pipe"
+  },
+  {
+   "id": "B4",
+   "size": "insert",
+   "set": "underground",
+   "key": 14,
+   "note": "hollow void under asphalt street"
+  },
+  {
+   "id": "D1",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "rat seismic whiskers vibrissae"
+  },
+  {
+   "id": "D2",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "follicle mechanoreceptor nerve sensitivity"
+  },
+  {
+   "id": "D3",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "1:1 ratio rat to human population in cities"
+  },
+  {
+   "id": "D4",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "NYC and London underground tunnel maze"
+  },
+  {
+   "id": "B5",
+   "size": "close-up",
+   "set": "bedroom",
+   "key": 14,
+   "note": "Pip: why tell me this?"
+  },
+  {
+   "id": "B6",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 14,
+   "note": "rat: our nest of babies is right under the pipe"
+  },
+  {
+   "id": "D5",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "2011 Chicago rat cage empathy experiment"
+  },
+  {
+   "id": "D6",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "rat frees partner and shares chocolate"
+  },
+  {
+   "id": "C1",
+   "size": "wide",
+   "set": "street (sunrise)",
+   "key": 14,
+   "note": "sunrise over street, urgent race"
+  },
+  {
+   "id": "C2",
+   "size": "medium",
+   "set": "street",
+   "key": 14,
+   "note": "Pip runs outside to warn Mo"
+  },
+  {
+   "id": "C3",
+   "size": "two-shot",
+   "set": "street",
+   "key": 14,
+   "note": "Mo arrives on bicycle, Pip warns him"
+  },
+  {
+   "id": "C4",
+   "size": "medium",
+   "set": "street",
+   "key": 14,
+   "note": "Mo laughs: first crows now rats?"
+  },
+  {
+   "id": "C5",
+   "size": "close-up",
+   "set": "wall",
+   "key": 14,
+   "note": "cat on brick wall: it is true, water roared"
+  },
+  {
+   "id": "C6",
+   "size": "close-up",
+   "set": "street",
+   "key": 14,
+   "note": "dog barks: smells gas and burnt earth"
+  },
+  {
+   "id": "D7",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "urban animal relay network"
+  },
+  {
+   "id": "D8",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "pigeons navigation via geomagnetic lines"
+  },
+  {
+   "id": "D9",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "ants pheromone collective superbrain"
+  },
+  {
+   "id": "D10",
+   "size": "diagram",
+   "set": "schematic",
+   "key": 14,
+   "note": "rats below birds above pets on street"
+  },
+  {
+   "id": "E1",
+   "size": "wide",
+   "set": "street",
+   "key": 14,
+   "note": "school bus approaches in the distance"
+  },
+  {
+   "id": "E2",
+   "size": "medium",
+   "set": "school bus",
+   "key": 14,
+   "note": "little sister and 40 kids inside bus"
+  },
+  {
+   "id": "E3",
+   "size": "insert",
+   "set": "road",
+   "key": 14,
+   "note": "asphalt road hairline fracture invisible to driver"
+  },
+  {
+   "id": "E4",
+   "size": "medium",
+   "set": "street",
+   "key": 14,
+   "note": "Pip waves frantically: STOP!"
+  },
+  {
+   "id": "E5",
+   "size": "close-up",
+   "set": "bus driver",
+   "key": 14,
+   "note": "driver waves back cheerfully"
+  },
+  {
+   "id": "E6",
+   "size": "insert",
+   "set": "countdown",
+   "key": 14,
+   "note": "Pip whistles call: I need your help!"
+  },
+  {
+   "id": "F1",
+   "size": "wide",
+   "set": "street",
+   "key": 14,
+   "note": "hundreds of rats flood from sewer grates"
+  },
+  {
+   "id": "F2",
+   "size": "medium",
+   "set": "street",
+   "key": 14,
+   "note": "rat swarm creates a living carpet on road"
+  },
+  {
+   "id": "F3",
+   "size": "wide",
+   "set": "street",
+   "key": 14,
+   "note": "crows and pigeons swoop low over road"
+  },
+  {
+   "id": "F4",
+   "size": "close-up",
+   "set": "bus driver",
+   "key": 14,
+   "note": "driver eyes wide in shock, slams foot brake"
+  },
+  {
+   "id": "F5",
+   "size": "wide",
+   "set": "street",
+   "key": 14,
+   "note": "bus tires screech with white smoke"
+  },
+  {
+   "id": "F6",
+   "size": "medium",
+   "set": "street",
+   "key": 14,
+   "note": "bus stops 3 meters before collapse zone"
+  },
+  {
+   "id": "G1",
+   "size": "wide",
+   "set": "street",
+   "key": 14,
+   "note": "giant sinkhole collapses, water geyser erupts"
+  },
+  {
+   "id": "G2",
+   "size": "medium",
+   "set": "school bus",
+   "key": 14,
+   "note": "kids safe, 1 second from disaster"
+  },
+  {
+   "id": "G3",
+   "size": "wide",
+   "set": "street",
+   "key": 14,
+   "note": "crowd gathers in awe: animals saved the children"
+  },
+  {
+   "id": "G4",
+   "size": "two-shot",
+   "set": "street",
+   "key": 14,
+   "note": "sister hugs Pip, Mo pats Pip: you were right"
+  },
+  {
+   "id": "G5",
+   "size": "close-up",
+   "set": "street",
+   "key": 14,
+   "note": "little rat whispers: water entered ancient chamber"
+  },
+  {
+   "id": "G6",
+   "size": "insert",
+   "set": "deep cave",
+   "key": 14,
+   "note": "dark subterranean cavern awakening"
+  },
+  {
+   "id": "END",
+   "size": "title",
+   "set": "end card",
+   "key": 30,
+   "note": "next: Secret of the Deep Underground"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "A1",
+   "at": "രാത്രി"
+  },
+  {
+   "shot": "A2",
+   "at": "ജനലിനടുത്തുള്ള"
+  },
+  {
+   "shot": "A3",
+   "at": "ചുമരിനുള്ളിൽ"
+  },
+  {
+   "shot": "A4",
+   "at": "മറ്റൊരു"
+  },
+  {
+   "shot": "T",
+   "at": "മൃഗങ്ങളോട്"
+  },
+  {
+   "shot": "B1",
+   "at": "കട്ടിലിൽ"
+  },
+  {
+   "shot": "B2",
+   "at": "കുനിഞ്ഞ്"
+  },
+  {
+   "shot": "B3",
+   "at": "റോഡിനടിയിലെ"
+  },
+  {
+   "shot": "B4",
+   "at": "റോഡിന്റെ"
+  },
+  {
+   "shot": "D1",
+   "at": "അത്ഭുതമാണ്"
+  },
+  {
+   "shot": "D2",
+   "at": "ശാസ്ത്ര"
+  },
+  {
+   "shot": "D3",
+   "at": "നഗരത്തിൽ"
+  },
+  {
+   "shot": "D4",
+   "at": "ന്യൂയോർക്കിലും"
+  },
+  {
+   "shot": "B5",
+   "at": "ചോദിക്കുന്നു"
+  },
+  {
+   "shot": "B6",
+   "at": "പൈപ്പിന്"
+  },
+  {
+   "shot": "D5",
+   "at": "രണ്ടായിരത്തിപ്പതിനൊന്നിൽ"
+  },
+  {
+   "shot": "D6",
+   "at": "കുടുങ്ങിയ"
+  },
+  {
+   "shot": "C1",
+   "at": "നേരം"
+  },
+  {
+   "shot": "C2",
+   "at": "തെരുവിലേക്ക്"
+  },
+  {
+   "shot": "C3",
+   "at": "ചവിട്ടരുത്"
+  },
+  {
+   "shot": "C4",
+   "at": "ചിരിക്കുന്നു"
+  },
+  {
+   "shot": "C5",
+   "at": "മതിലിന്"
+  },
+  {
+   "shot": "C6",
+   "at": "പട്ടി"
+  },
+  {
+   "shot": "D7",
+   "at": "നഗരത്തിലെ"
+  },
+  {
+   "shot": "D8",
+   "at": "പ്രാവുകൾ"
+  },
+  {
+   "shot": "D9",
+   "at": "ഉറുമ്പുകൾ"
+  },
+  {
+   "shot": "D10",
+   "at": "എലികൾ"
+  },
+  {
+   "shot": "E1",
+   "at": "പെട്ടെന്ന്"
+  },
+  {
+   "shot": "E2",
+   "at": "ബസിലാണ്"
+  },
+  {
+   "shot": "E3",
+   "at": "ഡ്രൈവർക്ക്"
+  },
+  {
+   "shot": "E4",
+   "at": "വീശുന്നു"
+  },
+  {
+   "shot": "E5",
+   "at": "അപകടമേഖലയിലേക്ക്"
+  },
+  {
+   "shot": "E6",
+   "at": "വിരലുകൾ"
+  },
+  {
+   "shot": "F1",
+   "at": "അടുത്ത"
+  },
+  {
+   "shot": "F2",
+   "at": "റോഡിൽ"
+  },
+  {
+   "shot": "F3",
+   "at": "റോഡ്"
+  },
+  {
+   "shot": "F4",
+   "at": "ഞെട്ടിപ്പോയി"
+  },
+  {
+   "shot": "F5",
+   "at": "ടയറുകൾ"
+  },
+  {
+   "shot": "F6",
+   "at": "ടയറിന്റെ"
+  },
+  {
+   "shot": "G1",
+   "at": "സിങ്ക്"
+  },
+  {
+   "shot": "G2",
+   "at": "ബസിലെ"
+  },
+  {
+   "shot": "G3",
+   "at": "നാട്ടുകാർ"
+  },
+  {
+   "shot": "G4",
+   "at": "അനിയത്തി"
+  },
+  {
+   "shot": "G5",
+   "at": "ആരും"
+  },
+  {
+   "shot": "G6",
+   "at": "വെള്ളം"
+  },
+  {
+   "shot": "END",
+   "at": "ഭൂമിയുടെ"
+  }
+ ],
+ "fx": [
+  {
+   "at": "T+2",
+   "kind": "flash"
+  },
+  {
+   "at": "F4+1",
+   "kind": "shake"
+  },
+  {
+   "at": "G1+2",
+   "kind": "flash"
+  },
+  {
+   "at": "G1+4",
+   "kind": "shake"
+  },
+  {
+   "at": "END+2",
+   "kind": "shake"
+  }
+ ],
+ "cast": [
+  "ramu",
+  "appu",
+  "sis"
+ ],
+ "sound": {
+  "levels": {
+   "sfx_lu": -4.5,
+   "music_lu": -13.0
+  },
+  "music": {
+   "clip": "music",
+   "until": "END",
+   "loop": true
+  },
+  "clips": {
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "cat_chirp": [
+    "a cat making a short curious chirp meow",
+    0.6
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "bulb_pop": [
+    "a small light bulb popping out, a tiny glass tink and fizz",
+    0.5
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "crack": [
+    "glass cracking sharply, the crack spreading across a pane",
+    1.1
+   ],
+   "shatter": [
+    "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
+    1.3
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "big_step": [
+    "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+    0.7
+   ]
+  },
+  "events": [
+   [
+    "A1",
+    "room_tone",
+    0.08,
+    "onset",
+    "T"
+   ],
+   [
+    "A2+6",
+    "sparkle",
+    0.15
+   ],
+   [
+    "A3+110",
+    "gasp",
+    0.25
+   ],
+   [
+    "A4+2",
+    "pop",
+    0.35
+   ],
+   [
+    "A4+140",
+    "drone_hit",
+    0.12,
+    "peak"
+   ],
+   [
+    "T",
+    "title_boom",
+    0.5,
+    "peak"
+   ],
+   [
+    "B1",
+    "room_tone",
+    0.07,
+    "onset",
+    "B4"
+   ],
+   [
+    "B1+6",
+    "step",
+    0.25
+   ],
+   [
+    "B1+14",
+    "step",
+    0.25
+   ],
+   [
+    "B1+22",
+    "step",
+    0.25
+   ],
+   [
+    "B2+2",
+    "pop",
+    0.35
+   ],
+   [
+    "B3+2",
+    "pop",
+    0.35
+   ],
+   [
+    "B4+2",
+    "fall_whoosh",
+    0.35
+   ],
+   [
+    "B4+14",
+    "drone_hit",
+    0.09
+   ],
+   [
+    "D1+2",
+    "sparkle",
+    0.18
+   ],
+   [
+    "D2+6",
+    "ding",
+    0.3
+   ],
+   [
+    "D3+4",
+    "counter_tick",
+    0.3
+   ],
+   [
+    "D3+60",
+    "ding",
+    0.3
+   ],
+   [
+    "D4+2",
+    "sparkle",
+    0.18
+   ],
+   [
+    "B5",
+    "room_tone",
+    0.07,
+    "onset",
+    "D5"
+   ],
+   [
+    "B5+2",
+    "pop",
+    0.35
+   ],
+   [
+    "B6+2",
+    "pop",
+    0.35
+   ],
+   [
+    "B6+40",
+    "drone_hit",
+    0.09
+   ],
+   [
+    "D5+2",
+    "sparkle",
+    0.18
+   ],
+   [
+    "D6+6",
+    "ding",
+    0.35
+   ],
+   [
+    "D6+40",
+    "sparkle",
+    0.18
+   ],
+   [
+    "C1",
+    "roof_wind",
+    0.08,
+    "onset",
+    "D7"
+   ],
+   [
+    "C2+4",
+    "step",
+    0.25
+   ],
+   [
+    "C2+12",
+    "step",
+    0.25
+   ],
+   [
+    "C2+20",
+    "step",
+    0.25
+   ],
+   [
+    "C2+28",
+    "step",
+    0.25
+   ],
+   [
+    "C3+2",
+    "pop",
+    0.35
+   ],
+   [
+    "C4+2",
+    "pop",
+    0.35
+   ],
+   [
+    "C4+12",
+    "laugh",
+    0.05
+   ],
+   [
+    "C5+2",
+    "pop",
+    0.35
+   ],
+   [
+    "C5+8",
+    "cat_chirp",
+    0.21
+   ],
+   [
+    "C6+2",
+    "pop",
+    0.35
+   ],
+   [
+    "D7+2",
+    "sparkle",
+    0.18
+   ],
+   [
+    "D8+6",
+    "ding",
+    0.3
+   ],
+   [
+    "D9+4",
+    "counter_tick",
+    0.3
+   ],
+   [
+    "D10+2",
+    "sparkle",
+    0.18
+   ],
+   [
+    "D10+112",
+    "ding",
+    0.3
+   ],
+   [
+    "E1",
+    "roof_wind",
+    0.08,
+    "onset",
+    "END"
+   ],
+   [
+    "E2+10",
+    "laugh",
+    0.072
+   ],
+   [
+    "E3+6",
+    "crack",
+    0.35
+   ],
+   [
+    "E4+2",
+    "pop",
+    0.35
+   ],
+   [
+    "E5+4",
+    "drone_hit",
+    0.09
+   ],
+   [
+    "E6+2",
+    "pop",
+    0.35
+   ],
+   [
+    "F1+4",
+    "big_step",
+    0.12
+   ],
+   [
+    "F1+16",
+    "big_step",
+    0.12
+   ],
+   [
+    "F1+28",
+    "big_step",
+    0.12
+   ],
+   [
+    "F2+6",
+    "big_step",
+    0.12
+   ],
+   [
+    "F2+20",
+    "big_step",
+    0.12
+   ],
+   [
+    "F3+4",
+    "fall_whoosh",
+    0.35
+   ],
+   [
+    "F4+2",
+    "gasp",
+    0.3
+   ],
+   [
+    "F5+2",
+    "drone_hit",
+    0.2
+   ],
+   [
+    "F6+12",
+    "land",
+    0.2
+   ],
+   [
+    "F6+150",
+    "shatter",
+    0.45,
+    "peak"
+   ],
+   [
+    "G1+38",
+    "crack",
+    0.3
+   ],
+   [
+    "G2+4",
+    "gasp",
+    0.25
+   ],
+   [
+    "G3+8",
+    "laugh",
+    0.1
+   ],
+   [
+    "G4+2",
+    "pop",
+    0.35
+   ],
+   [
+    "G4+14",
+    "sparkle",
+    0.24
+   ],
+   [
+    "G5+2",
+    "pop",
+    0.35
+   ],
+   [
+    "G6+105",
+    "drone_hit",
+    0.12,
+    "peak"
+   ],
+   [
+    "END+190",
+    "title_boom",
+    0.45,
+    "peak"
+   ]
+  ]
+ }
+}

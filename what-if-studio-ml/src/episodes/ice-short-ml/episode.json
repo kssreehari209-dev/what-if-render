@@ -1,0 +1,539 @@
+{
+  "id": "IceShortMl",
+  "slug": "ice-short-ml",
+  "topic": "What if all the ice in the world melted? (Short, 9:16; teases the sea-rise long video)",
+  "title": [
+    "മഞ്ഞെല്ലാം",
+    "ഉരുകിയാൽ?"
+  ],
+  "accent": "മഞ്ഞെല്ലാം",
+  "language": "ml",
+  "voice": {
+    "engine": "edge-tts",
+    "id": "ml-IN-SobhanaNeural",
+    "language": "Malayalam (India)",
+    "rate": "+0%"
+  },
+  "format": {
+    "width": 1080,
+    "height": 1920
+  },
+  "power": {
+    "word": "മീറ്റർ",
+    "rule": "every glacier and ice cap melts; the sea climbs about 70 m",
+    "look": "a sea level chip on screen"
+  },
+  "script": [
+    {
+      "beat": "1 premise, first line, title over the flooded yard",
+      "text": "ലോകത്തെ മഞ്ഞെല്ലാം ഉരുകിയാൽ?"
+    },
+    {
+      "beat": "2 fun: the houseboat, rope gag in the pause",
+      "text": "നിന്റെ മുറ്റത്ത് ഒരു ഹൗസ്ബോട്ട് വന്ന് നിൽക്കും."
+    },
+    {
+      "beat": "3 the first metre: Kuttanad (hook to the long video)",
+      "text": "ഒരു മീറ്റർ കയറുമ്പോൾ തന്നെ കുട്ടനാട് പേടിക്കണം. അത് ഇപ്പോഴേ കടലിനേക്കാൾ താഴെയല്ലേ."
+    },
+    {
+      "beat": "3 the coast goes, one gag per town",
+      "text": "പിന്നെ ആലപ്പുഴ. കൊച്ചി. കോഴിക്കോട്."
+    },
+    {
+      "beat": "4 the turn: the real number",
+      "text": "വെള്ളം അപ്പോഴും നിർത്തില്ല. എഴുപത് മീറ്റർ വരെ. ഇരുപത്തിമൂന്ന് നില ഫ്ലാറ്റ് മുഴുവൻ മുങ്ങും."
+    },
+    {
+      "beat": "5 who is left; suitcase gag",
+      "text": "കേരളത്തിന്റെ പകുതിയോളം പോയി. ബാക്കി മലനാട് മാത്രം. നാട് മുഴുവൻ പെട്ടിയുമെടുത്ത് മൂന്നാറിലേക്ക്."
+    },
+    {
+      "beat": "7 question for the comments",
+      "text": "നിന്റെ വീട് എവിടെയാ? വെള്ളത്തിന് മുകളിലോ, താഴെയോ?"
+    }
+  ],
+  "science": [
+    {
+      "claim": "The sea would rise about 70 m if all glaciers and ice caps melted.",
+      "working": "USGS FAQ figure. An older USGS sheet says about 80 m, so 70 is the cautious one.",
+      "source": "https://www.usgs.gov/faqs/how-would-sea-level-change-if-glaciers-melted"
+    },
+    {
+      "claim": "A 23-storey block goes under.",
+      "working": "70 m / 3 m a floor = 23.3 floors.",
+      "source": "worked here"
+    },
+    {
+      "claim": "Kuttanad already lies below sea level, so it has most to fear from the first metre.",
+      "working": "FAO lists it as India's only rice farming below sea level, behind bunds. Depth estimates run from 1-2 m to 2.5-3 m, so none is spoken. No study found that models Kuttanad at exactly +1 m, so the line says 'should fear', not 'goes under'.",
+      "source": "https://www.fao.org/giahs/around-the-world/detail/india-kuttanad/en"
+    },
+    {
+      "claim": "About half of Kerala goes under at 70 m; the highlands stay dry.",
+      "working": "Lowland (under 7.5 m) is about 10% of the state and midland (7.5 to 75 m) about 42%, so about 52% lies under 75 m. Highland starts at 75 m. The zone line is 75 m, not 70, so the script says 'about half'.",
+      "source": "https://www.eflorakerala.com/physiography.php ; https://nap.nationalacademies.org/read/10144/chapter/10"
+    },
+    {
+      "claim": "No timescale is given.",
+      "working": "No source found for how long a full melt takes, so the script says nothing about when.",
+      "source": "none"
+    }
+  ],
+  "gaps": {
+    "word": 0.15,
+    "comma": 0.45,
+    "sentence": 0.85,
+    "question": 1.0
+  },
+  "cast": [
+    "ramu",
+    "appu",
+    "mom"
+  ],
+  "tail": 1.8,
+  "shots": [
+    {
+      "id": "A1",
+      "size": "wide",
+      "set": "flooded yard",
+      "key": 30,
+      "note": "HOOK + title: Pip sips tea on a chair, water at his chest; a penguin drifts past on an ice chunk"
+    },
+    {
+      "id": "A2",
+      "size": "wide",
+      "set": "flooded yard",
+      "key": 44,
+      "note": "a kettuvallam glides into the yard, Mo in shades waves from the bow"
+    },
+    {
+      "id": "A3",
+      "size": "medium",
+      "set": "flooded yard",
+      "key": 30,
+      "note": "GAG: Mo's mooring rope lands round Pip's neck; he is the bollard now"
+    },
+    {
+      "id": "B1",
+      "size": "wide section",
+      "set": "Kuttanad",
+      "key": 60,
+      "note": "section: the sea high behind the bund, the farmer planting below it; sea level dashed over his head; +1 m chip"
+    },
+    {
+      "id": "B2",
+      "size": "low angle",
+      "set": "Kuttanad",
+      "key": 40,
+      "note": "from the paddy: a vallam passes above the farmer's head, the penguin peers over the bund"
+    },
+    {
+      "id": "B3",
+      "size": "close-up",
+      "set": "Kuttanad",
+      "key": 16,
+      "note": "GAG: water at his chin, a duck on his hat, he plants on"
+    },
+    {
+      "id": "C1",
+      "size": "wide",
+      "set": "Alappuzha",
+      "key": 30,
+      "note": "station board going under, a chundan races past it"
+    },
+    {
+      "id": "C2",
+      "size": "low angle",
+      "set": "Kochi",
+      "key": 24,
+      "note": "GAG: a Chinese net lifts a KSRTC bus out of the sea"
+    },
+    {
+      "id": "C3",
+      "size": "close-up",
+      "set": "Kozhikode",
+      "key": 24,
+      "note": "GAG: neck deep, a man holds the biriyani handi above the water"
+    },
+    {
+      "id": "D0",
+      "size": "medium",
+      "set": "Pip's roof",
+      "key": 30,
+      "note": "Pip and the penguin on the ridge, water climbing the tiles"
+    },
+    {
+      "id": "D1",
+      "size": "full height",
+      "set": "flat tower",
+      "key": 30,
+      "note": "the sea climbs a 23-floor block to the Sea View banner; 70 m on screen"
+    },
+    {
+      "id": "D2",
+      "size": "medium",
+      "set": "top balcony",
+      "key": 84,
+      "note": "GAG: top floor, the uncle fishes from his balcony, the penguin waits for the fish"
+    },
+    {
+      "id": "E1",
+      "size": "high wide",
+      "set": "Kerala from above",
+      "key": 44,
+      "note": "the sea to the horizon, only tips showing: palms, a cross, a mobile tower"
+    },
+    {
+      "id": "E2",
+      "size": "wide",
+      "set": "tea hills",
+      "key": 40,
+      "note": "the tea hills as an island in the dusk"
+    },
+    {
+      "id": "E3",
+      "size": "wide",
+      "set": "hill road",
+      "key": 30,
+      "note": "GAG: everyone climbs with their things: amma's grinder, Mo's TV, the penguin's tiny suitcase"
+    },
+    {
+      "id": "E4",
+      "size": "insert",
+      "set": "Munnar lodge",
+      "key": 40,
+      "note": "GAG: NO ROOMS slaps onto the lodge board over the penguin"
+    },
+    {
+      "id": "F1",
+      "size": "wide",
+      "set": "underwater",
+      "key": 40,
+      "note": "GAG: the house under water, Mo in goggles reading the paper, fish through the door"
+    },
+    {
+      "id": "F2",
+      "size": "split",
+      "set": "waterline",
+      "key": 70,
+      "note": "the question: Pip and the penguin on an ice chunk above, the house below"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "A1",
+      "at": "f:0"
+    },
+    {
+      "shot": "A2",
+      "at": "നിന്റെ"
+    },
+    {
+      "shot": "A3",
+      "at": "നിൽക്കും"
+    },
+    {
+      "shot": "B1",
+      "at": "ഒരു"
+    },
+    {
+      "shot": "B2",
+      "at": "അത്"
+    },
+    {
+      "shot": "B3",
+      "at": "താഴെയല്ലേ+18"
+    },
+    {
+      "shot": "C1",
+      "at": "പിന്നെ"
+    },
+    {
+      "shot": "C2",
+      "at": "കൊച്ചി"
+    },
+    {
+      "shot": "C3",
+      "at": "കോഴിക്കോട്"
+    },
+    {
+      "shot": "D0",
+      "at": "വെള്ളം"
+    },
+    {
+      "shot": "D1",
+      "at": "എഴുപത്"
+    },
+    {
+      "shot": "D2",
+      "at": "ഇരുപത്തിമൂന്ന്"
+    },
+    {
+      "shot": "E1",
+      "at": "കേരളത്തിന്റെ"
+    },
+    {
+      "shot": "E2",
+      "at": "ബാക്കി"
+    },
+    {
+      "shot": "E3",
+      "at": "നാട്"
+    },
+    {
+      "shot": "E4",
+      "at": "മൂന്നാറിലേക്ക്"
+    },
+    {
+      "shot": "F1",
+      "at": "നിന്റെ"
+    },
+    {
+      "shot": "F2",
+      "at": "വെള്ളത്തിന്"
+    }
+  ],
+  "fx": [
+    {
+      "at": "D1",
+      "kind": "flash"
+    }
+  ],
+  "sound": {
+    "levels": {
+      "sfx_lu": -4.5,
+      "music_lu": -13
+    },
+    "music": {
+      "clip": "music",
+      "until": "D0",
+      "loop": true
+    },
+    "clips": {
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        17.0
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "step": [
+        "a single sneaker footstep on a wooden stair, close",
+        0.5
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "fall_whoosh": [
+        "a small object falling fast through the air, short soft whoosh",
+        0.6
+      ],
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "paper_land": [
+        "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+        0.7
+      ],
+      "power_down": [
+        "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+        2.5
+      ],
+      "gulp": [
+        "a nervous cartoon gulp, short",
+        0.5
+      ]
+    },
+    "events": [
+      [
+        "A1",
+        "roof_wind",
+        0.07,
+        "onset",
+        "F1"
+      ],
+      [
+        "A1+60",
+        "title_boom",
+        0.35,
+        "peak"
+      ],
+      [
+        "A2+2",
+        "pop",
+        0.3
+      ],
+      [
+        "A3+20",
+        "pop",
+        0.4
+      ],
+      [
+        "A3+24",
+        "ding",
+        0.25
+      ],
+      [
+        "B1+10",
+        "pop",
+        0.2
+      ],
+      [
+        "B3+8",
+        "pop",
+        0.4
+      ],
+      [
+        "B3+12",
+        "ding",
+        0.25
+      ],
+      [
+        "C1+30",
+        "pop",
+        0.35
+      ],
+      [
+        "C2+16",
+        "ding",
+        0.3
+      ],
+      [
+        "C3+22",
+        "pop",
+        0.35
+      ],
+      [
+        "C3+38",
+        "drone_hit",
+        0.28,
+        "onset",
+        "D0+16"
+      ],
+      [
+        "D0+48",
+        "fall_whoosh",
+        0.25,
+        "peak"
+      ],
+      [
+        "D2+2",
+        "pop",
+        0.2
+      ],
+      [
+        "D2+68",
+        "pop",
+        0.4
+      ],
+      [
+        "D2+80",
+        "ding",
+        0.3
+      ],
+      [
+        "E1+52",
+        "power_down",
+        0.2,
+        "onset",
+        "E2"
+      ],
+      [
+        "E2+44",
+        "sparkle",
+        0.25
+      ],
+      [
+        "E3+0",
+        "step",
+        0.14
+      ],
+      [
+        "E3+8",
+        "step",
+        0.14
+      ],
+      [
+        "E3+16",
+        "step",
+        0.14
+      ],
+      [
+        "E3+24",
+        "step",
+        0.14
+      ],
+      [
+        "E3+32",
+        "step",
+        0.14
+      ],
+      [
+        "E3+40",
+        "step",
+        0.14
+      ],
+      [
+        "E4+26",
+        "paper_land",
+        0.45
+      ],
+      [
+        "E4+28",
+        "buzzer",
+        0.3
+      ],
+      [
+        "F1",
+        "room_tone",
+        0.07,
+        "onset"
+      ],
+      [
+        "F1+40",
+        "gulp",
+        0.3
+      ],
+      [
+        "F2+35",
+        "pop",
+        0.25
+      ],
+      [
+        "F2+58",
+        "pop",
+        0.3
+      ],
+      [
+        "F2+70",
+        "title_boom",
+        0.3,
+        "peak"
+      ]
+    ]
+  }
+}
