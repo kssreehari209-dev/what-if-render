@@ -28,7 +28,8 @@ if '--skip-render' not in args:
     if conc:
         cmd += ['--concurrency', conc]
     if preview:
-        cmd += ['--scale', str(240 / 1080), '--image-format', 'jpeg', '--crf', '30']
+        cmd += ['--scale', '0.25',  # a quarter: whole even pixels for 1080x1920 and 1920x1080 (240/1080 gave 426.4 px)
+                '--image-format', 'jpeg', '--crf', '30']
     print(' '.join(cmd))
     subprocess.run(cmd, cwd=STUDIO, check=True)
     print(f'rendered in {time.time() - t0:.0f} s')
